@@ -507,7 +507,11 @@
     const overviewParagraphs = new Set(
       [...article.facts, ...article.background, ...article.watchPoints].map(paragraphKey)
     );
-    const paragraphs = article.body.filter((paragraph) => !overviewParagraphs.has(paragraphKey(paragraph)));
+    const overviewText = [...article.facts, ...article.background, ...article.watchPoints];
+    const paragraphs = article.body
+      .filter((paragraph) => !overviewParagraphs.has(paragraphKey(paragraph)))
+      .map((paragraph) => distinctParagraphContent(paragraph, overviewText))
+      .filter(Boolean);
     if (paragraphs.length) {
       dom.articleBody.append(element("h2", "", "詳しく"));
       paragraphs.forEach((paragraph) => dom.articleBody.append(element("p", "", paragraph)));
@@ -548,18 +552,14 @@
       header.append(metadata);
       li.append(header);
 
-      const points = source.keyPoints.length
-        ? source.keyPoints
-        : sources.length === 1
-          ? article.facts.slice(0, 2)
-          : [];
+      const points = uniqueParagraphs(source.keyPoints).filter(
+        (point) => !isProceduralKeyPoint(point)
+      );
       if (points.length) {
         const pointLabel = element("p", "source-card__label", "この記事に反映した要点");
         const pointList = element("ul", "source-card__points");
         points.forEach((point) => pointList.append(element("li", "", point)));
         li.append(pointLabel, pointList);
-      } else {
-        li.append(element("p", "source-card__empty", "この情報源単独の要点は取得できていません。"));
       }
       dom.articleSourcesList.append(li);
     }
@@ -590,19 +590,9 @@
   }
 
   function buildUpdateTimeline(article) {
-    const updates = [...article.updates];
-    const hasAt = (value) => updates.some((update) => value && update.at && dateValue(update.at) === dateValue(value));
-
-    if (article.publishedAt && !hasAt(article.publishedAt)) {
-      updates.push({ at: article.publishedAt, text: "元情報の公開時刻", source: "" });
-    }
-    if (article.updatedAt && !hasAt(article.updatedAt)) {
-      updates.push({ at: article.updatedAt, text: "この要約の最終更新", source: "NEWSROOM 18" });
-    }
-
     const seen = new Set();
-    return updates
-      .filter((update) => update.text)
+    return article.updates
+      .filter(isMaterialUpdate)
       .filter((update) => {
         const key = `${update.at}|${update.text}|${update.source}`;
         if (seen.has(key)) return false;
@@ -780,12 +770,21 @@
   function normalizeUpdates(value) {
     const list = Array.isArray(value) ? value : value ? [value] : [];
     return list.map((update) => {
-      if (typeof update === "string") return { at: "", text: update, source: "" };
+      if (typeof update === "string") {
+        return { at: "", text: update, source: "", kind: "", material: null };
+      }
       if (!update || typeof update !== "object") return null;
+      const material = typeof update.material === "boolean"
+        ? update.material
+        : typeof update.isMaterial === "boolean"
+          ? update.isMaterial
+          : null;
       return {
         at: validDate(update.at || update.updatedAt || update.time || update.date) || "",
         text: String(update.text || update.note || update.summary || update.change || ""),
-        source: String(update.source || update.by || "")
+        source: String(update.source || update.by || ""),
+        kind: String(update.kind || update.type || ""),
+        material
       };
     }).filter((update) => update?.text);
   }
@@ -815,6 +814,90 @@
 
   function paragraphKey(value) {
     return String(value).normalize("NFKC").replace(/\s+/g, "").toLocaleLowerCase("ja");
+  }
+
+  function distinctParagraphContent(paragraph, references) {
+    const value = String(paragraph).trim();
+    if (!value || hasHighTextOverlap(value, references)) return "";
+
+    const sentences = splitSentences(value);
+    if (sentences.length <= 1) return value;
+    const distinct = sentences.filter((sentence) => !hasHighTextOverlap(sentence, references));
+    if (!distinct.length) return "";
+    return distinct.length === sentences.length ? value : distinct.join("");
+  }
+
+  function hasHighTextOverlap(value, references) {
+    const candidate = comparisonText(value);
+    const comparableReferences = references.map(comparisonText).filter(Boolean);
+    if (!candidate || !comparableReferences.length) return false;
+    if (comparableReferences.some((reference) => reference === candidate)) return true;
+    if (candidate.length < 12) {
+      return comparableReferences.some((reference) => reference.includes(candidate));
+    }
+
+    const candidateGrams = characterNgrams(candidate, 3);
+    const referenceGrams = new Set(
+      comparableReferences.flatMap((reference) => [...characterNgrams(reference, 3)])
+    );
+    if (!candidateGrams.size || !referenceGrams.size) return false;
+    let shared = 0;
+    candidateGrams.forEach((gram) => {
+      if (referenceGrams.has(gram)) shared += 1;
+    });
+    return shared / candidateGrams.size >= 0.68;
+  }
+
+  function comparisonText(value) {
+    return String(value)
+      .normalize("NFKC")
+      .toLocaleLowerCase("ja")
+      .replace(/[^0-9a-z\u3040-\u30ff\u3400-\u9fff]+/g, "");
+  }
+
+  function characterNgrams(value, width) {
+    const grams = new Set();
+    if (value.length < width) {
+      if (value) grams.add(value);
+      return grams;
+    }
+    for (let index = 0; index <= value.length - width; index += 1) {
+      grams.add(value.slice(index, index + width));
+    }
+    return grams;
+  }
+
+  function splitSentences(value) {
+    return String(value).match(/[^。！？!?]+[。！？!?]?/g)?.map((part) => part.trim()).filter(Boolean) || [];
+  }
+
+  function isProceduralKeyPoint(value) {
+    const text = paragraphKey(value);
+    return [
+      /rss(?:の)?(?:見出し|フィード)/i,
+      /(?:見出し|配信概要|公開時刻).*(?:使用|参照|取得)/,
+      /(?:情報源|出典).*(?:使用|参照|表示)/,
+      /(?:記事|要約).*(?:作成|生成).*(?:使用|参照)?/
+    ].some((pattern) => pattern.test(text));
+  }
+
+  function isMaterialUpdate(update) {
+    if (!update?.text || update.material === false) return false;
+    if (update.material === true) return true;
+
+    const kind = String(update.kind || "").trim().toLocaleLowerCase("ja");
+    if (["automatic", "auto", "system", "scheduled", "metadata"].includes(kind)) return false;
+    if (["material", "correction", "訂正", "追記"].includes(kind)) return true;
+
+    const text = paragraphKey(update.text);
+    return ![
+      /^元情報の公開時刻$/,
+      /^この要約の最終更新$/,
+      /^(?:要約・出典情報|要約と出典情報|出典情報|要約)を更新$/,
+      /^(?:この記事|記事データ|記事|要約)を(?:自動)?(?:作成|生成|公開)$/,
+      /^(?:定期|自動)更新$/,
+      /の公開情報を確認$/
+    ].some((pattern) => pattern.test(text));
   }
 
   function normalizeArchive(raw) {
