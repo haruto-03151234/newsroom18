@@ -1,0 +1,144 @@
+{
+  "feeds": [
+    {
+      "id": "nhk-top",
+      "name": "NHK ONE 主要ニュース",
+      "url": "https://news.web.nhk/n-data/conf/na/rss/cat0.xml",
+      "allowedHosts": ["news.web.nhk"],
+      "category": "国内",
+      "priority": 5,
+      "primarySource": false
+    },
+    {
+      "id": "mainichi-flash",
+      "name": "毎日新聞 ニュース速報",
+      "url": "https://mainichi.jp/rss/etc/mainichi-flash.rss",
+      "allowedHosts": ["mainichi.jp"],
+      "category": "国内",
+      "priority": 4,
+      "metadataOnly": true
+    },
+    {
+      "id": "asahi-headlines",
+      "name": "朝日新聞 最新ニュース",
+      "url": "https://www.asahi.com/rss/asahi/newsheadlines.rdf",
+      "allowedHosts": ["www.asahi.com", "asahi.com"],
+      "category": "国内",
+      "priority": 4,
+      "metadataOnly": true,
+      "forceHttps": true
+    },
+    {
+      "id": "nhk-world",
+      "name": "NHK ONE 国際",
+      "url": "https://news.web.nhk/n-data/conf/na/rss/cat6.xml",
+      "allowedHosts": ["news.web.nhk"],
+      "category": "海外",
+      "priority": 5
+    },
+    {
+      "id": "bbc-world",
+      "name": "BBC News World",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "allowedHosts": ["feeds.bbci.co.uk", "bbc.co.uk"],
+      "category": "海外",
+      "priority": 4,
+      "metadataOnly": true,
+      "aiRequired": true
+    },
+    {
+      "id": "un-news",
+      "name": "UN News",
+      "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+      "allowedHosts": ["news.un.org", "un.org"],
+      "category": "海外",
+      "priority": 4,
+      "primarySource": true,
+      "aiRequired": true
+    },
+    {
+      "id": "nhk-science-culture",
+      "name": "NHK ONE 科学・文化",
+      "url": "https://news.web.nhk/n-data/conf/na/rss/cat3.xml",
+      "allowedHosts": ["news.web.nhk"],
+      "category": "テクノロジー",
+      "priority": 4
+    },
+    {
+      "id": "itmedia-news",
+      "name": "ITmedia NEWS",
+      "url": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
+      "allowedHosts": ["rss.itmedia.co.jp", "itmedia.co.jp"],
+      "category": "テクノロジー",
+      "priority": 4,
+      "metadataOnly": true
+    },
+    {
+      "id": "techcrunch",
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "allowedHosts": ["techcrunch.com"],
+      "category": "テクノロジー",
+      "priority": 3,
+      "metadataOnly": true,
+      "aiRequired": true
+    },
+    {
+      "id": "bbc-technology",
+      "name": "BBC News Technology",
+      "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "allowedHosts": ["feeds.bbci.co.uk", "bbc.co.uk"],
+      "category": "テクノロジー",
+      "priority": 3,
+      "metadataOnly": true,
+      "aiRequired": true
+    },
+    {
+      "id": "cisa-advisories",
+      "name": "CISA Cybersecurity Advisories",
+      "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+      "allowedHosts": ["www.cisa.gov", "cisa.gov"],
+      "category": "テクノロジー",
+      "priority": 4,
+      "primarySource": true,
+      "aiRequired": true
+    },
+    {
+      "id": "mainichi-entertainment",
+      "name": "毎日新聞 エンタメ",
+      "url": "https://mainichi.jp/rss/etc/mainichi-enta.rss",
+      "allowedHosts": ["mainichi.jp"],
+      "category": "エンタメ",
+      "priority": 4,
+      "metadataOnly": true
+    },
+    {
+      "id": "bbc-entertainment",
+      "name": "BBC Entertainment & Arts",
+      "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+      "allowedHosts": ["feeds.bbci.co.uk", "bbc.co.uk"],
+      "category": "エンタメ",
+      "priority": 3,
+      "metadataOnly": true,
+      "aiRequired": true
+    },
+    {
+      "id": "nhk-sports",
+      "name": "NHK ONE スポーツ",
+      "url": "https://news.web.nhk/n-data/conf/na/rss/cat7.xml",
+      "allowedHosts": ["news.web.nhk"],
+      "category": "スポーツ",
+      "priority": 5
+    },
+    {
+      "id": "bbc-sport",
+      "name": "BBC Sport",
+      "url": "https://feeds.bbci.co.uk/sport/rss.xml",
+      "allowedHosts": ["feeds.bbci.co.uk", "bbc.co.uk"],
+      "category": "スポーツ",
+      "priority": 3,
+      "metadataOnly": true,
+      "aiRequired": true
+    }
+  ]
+}
