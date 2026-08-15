@@ -23,8 +23,14 @@ from news_pipeline.dedupe import (  # noqa: E402
 )
 from news_pipeline.editor import create_drafts  # noqa: E402
 from news_pipeline.feeds import collect_candidates, load_feed_config  # noqa: E402
+from news_pipeline.models import Candidate  # noqa: E402
 from news_pipeline.publisher import build_edition, publish_edition  # noqa: E402
-from news_pipeline.time_windows import JST, coverage_window, missing_windows  # noqa: E402
+from news_pipeline.time_windows import (  # noqa: E402
+    CoverageWindow,
+    JST,
+    coverage_window,
+    missing_windows,
+)
 
 
 LOGGER = logging.getLogger("news_pipeline")
@@ -91,7 +97,7 @@ def main() -> int:
             for candidate in candidates
             if earliest <= candidate.published_at.timestamp() < window.end.timestamp()
         ]
-        fresh = filter_seen(in_window, state)
+        fresh = _select_fresh_candidates(in_window, state, window.id, force=args.force)
         drafts, mode = create_drafts(fresh)
         edition = build_edition(
             window=window,
@@ -104,8 +110,7 @@ def main() -> int:
         )
         publish_edition(root, edition, root / "templates" / "article.md.tmpl")
         remember_articles(state, edition["articles"], window.id)
-        state["lastCompletedEnd"] = window.end.isoformat()
-        state["lastCompletedEdition"] = window.id
+        _record_completion(state, window)
         published_count += len(edition["articles"])
         generation_modes.append(mode)
         LOGGER.info(
@@ -122,6 +127,42 @@ def main() -> int:
         ", ".join(sorted(set(generation_modes))),
     )
     return 0
+
+
+def _select_fresh_candidates(
+    candidates: list[Candidate],
+    state: dict[str, object],
+    edition_id: str,
+    force: bool,
+) -> list[Candidate]:
+    if force:
+        stories = state.get("stories", [])
+        if not isinstance(stories, list):
+            stories = []
+        # A forced edition replaces its own remembered stories. Duplicates
+        # from other editions still protect against republishing old news.
+        state["stories"] = [
+            story
+            for story in stories
+            if not isinstance(story, dict) or story.get("editionId") != edition_id
+        ]
+    return filter_seen(candidates, state)
+
+
+def _record_completion(state: dict[str, object], window: CoverageWindow) -> None:
+    current: datetime | None = None
+    raw_current = state.get("lastCompletedEnd")
+    if raw_current:
+        try:
+            parsed = datetime.fromisoformat(str(raw_current))
+            if parsed.tzinfo is not None:
+                current = parsed.astimezone(JST)
+        except ValueError:
+            current = None
+    if current is not None and current > window.end:
+        return
+    state["lastCompletedEnd"] = window.end.isoformat()
+    state["lastCompletedEdition"] = window.id
 
 
 def _write_json_atomic(path: Path, value: object) -> None:
@@ -163,4 +204,3 @@ def _write_summary(
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

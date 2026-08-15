@@ -159,4 +159,5 @@ def _entry_to_candidate(entry: Any, config: dict[str, Any]) -> Candidate | None:
         priority=max(1, min(5, int(config.get("priority", 3)))),
         ai_required=bool(config.get("aiRequired", False)),
         primary_source=bool(config.get("primarySource", False)),
+        publisher_id=clean_text(str(config.get("publisher", config.get("id", config["name"]))), 60),
     )

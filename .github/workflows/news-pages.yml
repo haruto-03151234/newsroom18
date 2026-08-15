@@ -33,15 +33,19 @@ concurrency:
   group: news-pages
   cancel-in-progress: false
 
+env:
+  LOCAL_MODEL_CACHE_DIR: ${{ github.workspace }}/.cache/newsroom18-model
+  LOCAL_MODEL_FILE: ${{ github.workspace }}/.cache/newsroom18-model/Qwen3-4B-Q4_K_M.gguf
+  LOCAL_MODEL_SHA256: 7485fe6f11af29433bc51cab58009521f205840f5b4ae3a32fa7f92e8534fdf5
+  LLAMA_CPP_VERSION: b10437
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     permissions:
       contents: write
       pages: write
-    env:
-      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5.6' }}
     steps:
       - name: Check out repository
         uses: actions/checkout@v6
@@ -57,6 +61,63 @@ jobs:
 
       - name: Run tests
         run: python -m unittest discover -s tests -v
+
+      - name: Restore Qwen model cache
+        if: github.event_name != 'push'
+        uses: actions/cache@v5
+        with:
+          path: ${{ env.LOCAL_MODEL_CACHE_DIR }}
+          key: qwen3-4b-q4-k-m-${{ env.LOCAL_MODEL_SHA256 }}
+
+      - name: Verify or download Qwen model
+        if: github.event_name != 'push'
+        continue-on-error: true
+        env:
+          MODEL_URL: https://huggingface.co/Qwen/Qwen3-4B-GGUF/resolve/main/Qwen3-4B-Q4_K_M.gguf?download=true
+        run: |
+          set -euo pipefail
+          mkdir -p "$LOCAL_MODEL_CACHE_DIR"
+          temporary_model="${LOCAL_MODEL_FILE}.download"
+          trap 'rm -f "$temporary_model"' EXIT
+
+          if ! printf '%s  %s\n' "$LOCAL_MODEL_SHA256" "$LOCAL_MODEL_FILE" | sha256sum --check --strict; then
+            curl --fail --location --retry 5 --retry-delay 5 \
+              --output "$temporary_model" "$MODEL_URL"
+            printf '%s  %s\n' "$LOCAL_MODEL_SHA256" "$temporary_model" | sha256sum --check --strict
+            mv "$temporary_model" "$LOCAL_MODEL_FILE"
+          fi
+
+          printf '%s  %s\n' "$LOCAL_MODEL_SHA256" "$LOCAL_MODEL_FILE" | sha256sum --check --strict
+          echo "LOCAL_MODEL_PATH=$LOCAL_MODEL_FILE" >> "$GITHUB_ENV"
+
+      - name: Install pinned llama.cpp runtime
+        if: github.event_name != 'push'
+        continue-on-error: true
+        run: |
+          set -euo pipefail
+          archive="$RUNNER_TEMP/llama-${LLAMA_CPP_VERSION}-bin-ubuntu-x64.tar.gz"
+          install_dir="$RUNNER_TEMP/llama.cpp-${LLAMA_CPP_VERSION}"
+          release_url="https://github.com/ggml-org/llama.cpp/releases/download/${LLAMA_CPP_VERSION}/llama-${LLAMA_CPP_VERSION}-bin-ubuntu-x64.tar.gz"
+
+          mkdir -p "$install_dir"
+          curl --fail --location --retry 5 --retry-delay 5 \
+            --output "$archive" "$release_url"
+          tar -xzf "$archive" -C "$install_dir"
+
+          llama_cli="$(find "$install_dir" -type f -name llama-cli -print -quit)"
+          if [ -z "$llama_cli" ]; then
+            echo "llama-cli was not found in the pinned release archive." >&2
+            exit 1
+          fi
+
+          chmod +x "$llama_cli"
+          library_dir="$(dirname "$llama_cli")"
+          runtime_library_path="${library_dir}${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}"
+          export LD_LIBRARY_PATH="$runtime_library_path"
+          "$llama_cli" --version
+
+          echo "LLAMA_CLI_PATH=$llama_cli" >> "$GITHUB_ENV"
+          echo "LD_LIBRARY_PATH=$runtime_library_path" >> "$GITHUB_ENV"
 
       - name: Select logical edition
         if: github.event_name != 'push'
@@ -79,7 +140,15 @@ jobs:
 
       - name: Collect and edit news
         if: github.event_name != 'push'
-        run: python scripts/collect_news.py --edition "${{ steps.edition.outputs.edition }}"
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          EDITION: ${{ steps.edition.outputs.edition }}
+        run: |
+          arguments=(--edition "$EDITION")
+          if [ "$EVENT_NAME" = "workflow_dispatch" ]; then
+            arguments+=(--force)
+          fi
+          python scripts/collect_news.py "${arguments[@]}"
 
       - name: Save generated edition
         if: github.event_name != 'push'
@@ -117,4 +186,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-

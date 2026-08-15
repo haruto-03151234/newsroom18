@@ -9,15 +9,16 @@
     <meta property="og:type" content="website">
     <meta property="og:locale" content="ja_JP">
     <meta property="og:title" content="NEWSROOM 18 | 1日3回のニュースダイジェスト">
-    <meta property="og:description" content="朝6時・昼12時・夕方18時に更新。昨日と今日の重要ニュースを短く、確かに。">
+    <meta property="og:description" content="朝6時・昼12時・夕方18時に更新。重要ニュースを要点から背景まで読みやすく整理。">
     <meta property="og:image" content="https://haruto-03151234.github.io/newsroom18/assets/og.png">
     <meta property="og:image:width" content="1731">
     <meta property="og:image:height" content="909">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="NEWSROOM 18 | 1日3回のニュースダイジェスト">
-    <meta name="twitter:description" content="朝6時・昼12時・夕方18時に更新。昨日と今日の重要ニュースを短く、確かに。">
+    <meta name="twitter:description" content="朝6時・昼12時・夕方18時に更新。重要ニュースを要点から背景まで読みやすく整理。">
     <meta name="twitter:image" content="https://haruto-03151234.github.io/newsroom18/assets/og.png">
     <title>NEWSROOM 18 | 1日3回のニュースダイジェスト</title>
+    <link rel="icon" href="assets/og.png" type="image/png">
     <link rel="stylesheet" href="assets/styles.css">
     <script src="assets/app.js" defer></script>
   </head>
@@ -36,7 +37,7 @@
         <a class="brand" href="./" aria-label="NEWSROOM 18 トップページ">
           <span class="brand__kicker">THE THREE-A-DAY BRIEF</span>
           <span class="brand__name">NEWSROOM <b>18</b></span>
-          <span class="brand__tagline">昨日と今日を、短く、確かに。</span>
+          <span class="brand__tagline">要点から背景まで、読みやすく。</span>
         </a>
         <div class="edition-stamp" aria-label="現在の号">
           <span id="edition-date">読み込み中</span>
@@ -163,11 +164,38 @@
           </header>
           <div class="article-layout">
             <div>
+              <section id="article-fact-sheet" class="fact-sheet" aria-labelledby="article-fact-sheet-heading">
+                <header class="fact-sheet__header">
+                  <div>
+                    <p class="eyebrow">AT A GLANCE</p>
+                    <h2 id="article-fact-sheet-heading">この記事の要点</h2>
+                  </div>
+                  <p id="article-verification" class="verification-status"></p>
+                </header>
+                <div class="fact-sheet__grid">
+                  <section id="article-facts-group" class="fact-group">
+                    <h3>確認できた事実</h3>
+                    <ul id="article-facts-list"></ul>
+                  </section>
+                  <section id="article-background-group" class="fact-group">
+                    <h3>背景</h3>
+                    <div id="article-background"></div>
+                  </section>
+                  <section id="article-watch-group" class="fact-group fact-group--watch">
+                    <h3>次に注目</h3>
+                    <ul id="article-watch-list"></ul>
+                  </section>
+                </div>
+              </section>
               <div id="article-body" class="article-body"></div>
               <section class="article-sources" aria-labelledby="article-sources-heading">
-                <h2 id="article-sources-heading">情報源</h2>
-                <p>記事作成時に参照した一次情報・報道機関です。詳細は各リンク先で確認できます。</p>
+                <h2 id="article-sources-heading">情報源と各社の要点</h2>
+                <p>記事作成時に参照した一次情報・報道機関です。各社の要点は取得できた範囲で表示します。</p>
                 <ul id="article-sources-list"></ul>
+              </section>
+              <section id="article-updates" class="article-updates" aria-labelledby="article-updates-heading">
+                <h2 id="article-updates-heading">更新履歴</h2>
+                <ol id="article-updates-list"></ol>
               </section>
             </div>
             <aside class="article-tools" aria-label="記事ツール">
@@ -196,7 +224,7 @@
           <strong>NEWSROOM 18</strong>
           <p>06:00・12:00・18:00、世界の動きを読みやすく。</p>
         </div>
-        <p>記事の著作権は各配信元に帰属します。要約には生成AIを利用する場合があります。</p>
+        <p>記事の著作権は各配信元に帰属します。要約にはGitHub Actions上で動くローカルAIを利用する場合があります。</p>
       </div>
     </footer>
 

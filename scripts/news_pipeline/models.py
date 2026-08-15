@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from dataclasses import asdict, dataclass
+from dataclasses import asdict, dataclass, field
 from datetime import datetime
 from typing import Any
 
@@ -20,6 +20,7 @@ class Candidate:
     priority: int = 3
     ai_required: bool = False
     primary_source: bool = False
+    publisher_id: str = ""
 
     def prompt_record(self) -> dict[str, Any]:
         return {
@@ -27,6 +28,7 @@ class Candidate:
             "title": self.title,
             "description": self.description,
             "source": self.source_name,
+            "publisher": self.publisher_id or self.source_name,
             "category": self.category,
             "publishedAt": self.published_at.isoformat(),
             "priority": self.priority,
@@ -44,6 +46,10 @@ class StoryDraft:
     category: str
     importance: int
     tags: list[str]
+    facts: list[str] = field(default_factory=list)
+    background: str = ""
+    watch_points: list[str] = field(default_factory=list)
+    source_notes: dict[str, str] = field(default_factory=dict)
 
 
 def dataclass_dict(value: Any) -> dict[str, Any]:

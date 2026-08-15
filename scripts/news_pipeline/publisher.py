@@ -26,33 +26,36 @@ def build_edition(
 ) -> dict[str, Any]:
     by_id = {candidate.id: candidate for candidate in candidates}
     articles: list[dict[str, Any]] = []
+    edition_source_urls: set[str] = set()
+    edition_publishers: set[str] = set()
+    publisher_article_counts: Counter[str] = Counter()
     for draft in drafts:
         evidence = [by_id[value] for value in draft.candidate_ids if value in by_id]
         if not evidence:
             continue
-        sources: list[dict[str, str]] = []
-        source_urls: set[str] = set()
-        for item in sorted(evidence, key=lambda value: value.published_at):
-            if item.url in source_urls:
-                continue
-            source_urls.add(item.url)
-            sources.append(
-                {
-                    "name": item.source_name,
-                    "url": item.url,
-                    "publishedAt": item.published_at.astimezone(JST).isoformat(),
-                }
-            )
+        sources, source_urls, publisher_ids = _build_sources(draft, evidence)
+        edition_source_urls.update(source_urls)
+        edition_publishers.update(publisher_ids)
+        publisher_article_counts.update(publisher_ids)
         identity = stable_hash("|".join(sorted(source_urls)), 16)
         slug = f"{window.id}-{identity[:8]}"
         published_at = min(item.published_at for item in evidence).astimezone(JST)
         importance = max(1, min(5, int(draft.importance)))
-        if importance >= 4 and len({item.source_name for item in evidence}) < 2 and not any(
+        if importance >= 4 and len(publisher_ids) < 2 and not any(
             item.primary_source for item in evidence
         ):
             importance = 3
         summary = clean_text(draft.summary, 300)
         why_it_matters = clean_text(draft.why_it_matters, 140)
+        facts = _clean_values(draft.facts, 240, limit=5)
+        if not facts and summary:
+            facts = [summary]
+        background = clean_text(draft.background, 500)
+        watch_points = _clean_values(draft.watch_points, 180, limit=4)
+        if not watch_points and why_it_matters:
+            watch_points = [why_it_matters]
+        sections = _article_sections(facts, background, watch_points)
+        updates = _article_updates(sources, generated_at)
         articles.append(
             {
                 "id": identity,
@@ -63,27 +66,36 @@ def build_edition(
                 "dek": clean_text(draft.dek, 120),
                 "summary": summary,
                 "whyItMatters": why_it_matters,
-                "body": [value for value in (summary, why_it_matters) if value],
-                "sections": [
-                    {"heading": "要点", "paragraphs": [summary]},
-                    {"heading": "なぜ重要か", "paragraphs": [why_it_matters]},
-                ],
+                "facts": facts,
+                "background": background,
+                "watchPoints": watch_points,
+                "body": [value for value in (summary, background, *watch_points) if value],
+                "sections": sections,
+                "updates": updates,
                 "category": draft.category,
                 "importance": importance,
                 "sources": sources,
+                "sourceCount": len(source_urls),
+                "publisherCount": len(publisher_ids),
                 "tags": [clean_text(tag, 30) for tag in draft.tags[:3]],
             }
         )
     articles.sort(key=lambda item: (item["importance"], item["publishedAt"]), reverse=True)
     if articles and not any(item["importance"] >= 4 for item in articles):
-        # Keep one clearly identified lead story even in conservative fallback mode.
-        articles[0]["importance"] = 4
+        # A lead can be promoted only when at least two independent publishers
+        # support it. Multiple feeds from one publisher do not meet that bar.
+        lead = next((item for item in articles if item["publisherCount"] >= 2), None)
+        if lead is not None:
+            lead["importance"] = 4
+            articles.sort(
+                key=lambda item: (item["importance"], item["publishedAt"]), reverse=True
+            )
     categories = Counter(item["category"] for item in articles)
     return {
-        "schemaVersion": 1,
+        "schemaVersion": 2,
         "site": {
             "name": str(site_config.get("name", "NEWSROOM 18")),
-            "tagline": str(site_config.get("tagline", "昨日と今日を、短く、確かに。")),
+            "tagline": str(site_config.get("tagline", "要点から背景まで、読みやすく。")),
             "baseUrl": str(site_config.get("baseUrl", "")),
         },
         "generatedAt": generated_at.astimezone(JST).isoformat(),
@@ -107,11 +119,140 @@ def build_edition(
         "stats": {
             "articleCount": len(articles),
             "categoryCounts": dict(categories),
+            "sourceCount": len(edition_source_urls),
+            "publisherCount": len(edition_publishers),
+            "publisherCounts": dict(sorted(publisher_article_counts.items())),
             "feedFailureCount": len(feed_failures),
         },
         "feedFailures": feed_failures,
         "articles": articles,
     }
+
+
+def _publisher_key(candidate: Candidate) -> str:
+    return clean_text(candidate.publisher_id or candidate.source_name, 60)
+
+
+def _build_sources(
+    draft: StoryDraft,
+    evidence: list[Candidate],
+) -> tuple[list[dict[str, Any]], set[str], set[str]]:
+    grouped: dict[str, list[Candidate]] = defaultdict(list)
+    source_urls = {item.url for item in evidence}
+    for item in sorted(evidence, key=lambda value: value.published_at):
+        grouped[_publisher_key(item)].append(item)
+
+    sources: list[dict[str, Any]] = []
+    for publisher_id, items in sorted(
+        grouped.items(),
+        key=lambda pair: min(item.published_at for item in pair[1]),
+    ):
+        representative = max(
+            items,
+            key=lambda item: (
+                item.primary_source,
+                item.priority,
+                bool(item.description),
+                item.published_at,
+            ),
+        )
+        is_primary = any(item.primary_source for item in items)
+        key_points: list[str] = []
+        for item in items:
+            key_points.extend(_source_note_values(draft.source_notes, item))
+        if not key_points:
+            # A feed headline is safe to attribute without inventing detail.
+            # Richer deterministic and AI editors can provide source_notes.
+            key_points = [clean_text(item.title, 180) for item in items]
+        key_points = _deduplicate_values(key_points, limit=4)
+        sources.append(
+            {
+                "name": representative.source_name,
+                "publisherId": publisher_id,
+                "url": representative.url,
+                "publishedAt": representative.published_at.astimezone(JST).isoformat(),
+                "keyPoints": key_points,
+                "type": "一次情報" if is_primary else "報道",
+                "isPrimary": is_primary,
+            }
+        )
+    return sources, source_urls, set(grouped)
+
+
+def _source_note_values(notes: dict[str, str], candidate: Candidate) -> list[str]:
+    values: list[str] = []
+    for key in (
+        candidate.id,
+        candidate.url,
+        _publisher_key(candidate),
+        candidate.source_name,
+    ):
+        if key not in notes:
+            continue
+        raw: Any = notes[key]
+        if isinstance(raw, list):
+            values.extend(clean_text(str(item), 240) for item in raw)
+        else:
+            values.append(clean_text(str(raw), 240))
+    return [value for value in values if value]
+
+
+def _clean_values(values: Any, width: int, limit: int) -> list[str]:
+    raw_values = [values] if isinstance(values, str) else list(values or [])
+    cleaned = [clean_text(str(value), width) for value in raw_values]
+    return _deduplicate_values(cleaned, limit=limit)
+
+
+def _deduplicate_values(values: list[str], limit: int) -> list[str]:
+    result: list[str] = []
+    seen: set[str] = set()
+    for value in values:
+        cleaned = clean_text(value, 500)
+        key = cleaned.casefold()
+        if not cleaned or key in seen:
+            continue
+        seen.add(key)
+        result.append(cleaned)
+        if len(result) >= limit:
+            break
+    return result
+
+
+def _article_sections(
+    facts: list[str],
+    background: str,
+    watch_points: list[str],
+) -> list[dict[str, Any]]:
+    sections: list[dict[str, Any]] = []
+    if facts:
+        sections.append({"heading": "確認できた事実", "paragraphs": facts})
+    if background:
+        sections.append({"heading": "背景", "paragraphs": [background]})
+    if watch_points:
+        sections.append({"heading": "次に注目", "paragraphs": watch_points})
+    return sections
+
+
+def _article_updates(
+    sources: list[dict[str, Any]],
+    generated_at: datetime,
+) -> list[dict[str, str]]:
+    updates = [
+        {
+            "at": str(source["publishedAt"]),
+            "text": f"{source['name']}の公開情報を確認",
+            "source": str(source["name"]),
+        }
+        for source in sources
+    ]
+    updates.append(
+        {
+            "at": generated_at.astimezone(JST).isoformat(),
+            "text": "要約・出典情報を更新",
+            "source": "NEWSROOM 18",
+        }
+    )
+    return updates
 
 
 def publish_edition(

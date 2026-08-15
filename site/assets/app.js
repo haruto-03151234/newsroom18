@@ -62,19 +62,42 @@
         id: "sample-top",
         slug: "sample-top",
         title: "表示サンプル：最も重要なニュースが、この大見出しに掲載されます",
-        dek: "複数の信頼できる情報源を照合し、出来事・影響・今後の注目点を短く整理します。",
+        dek: "複数の信頼できる情報源を照合し、出来事・影響・背景・今後の注目点まで整理します。",
         summary: "これはレイアウト確認用の記事です。実際のニュースではありません。",
         category: "domestic",
         importance: 5,
         publishedAt: "2026-08-15T05:20:00+09:00",
         updatedAt: "2026-08-15T05:50:00+09:00",
+        facts: [
+          "これは表示確認用のサンプルで、実際のニュースではありません。",
+          "実運用では対象時間帯ごとに収集した記事へ自動で置き換わります。"
+        ],
+        background: [
+          "画面構成とデータ契約を、外部APIなしでも確認できるように用意しています。"
+        ],
+        watchPoints: [
+          "自動更新後は複数ソースの照合状況と続報を確認します。"
+        ],
+        updates: [
+          { at: "2026-08-15T05:50:00+09:00", text: "表示サンプルの構成を更新", source: "NEWSROOM 18" }
+        ],
         body: [
           "これはデータを読み込めない環境でも画面を確認できるように用意したサンプル記事です。実際のニュース内容を示すものではありません。",
           "自動更新が始まると、対象時間帯のニュースを複数ソースで確認し、重複をまとめた記事がここに表示されます。"
         ],
         sources: [
-          { name: "NHK NEWS WEB（出典表示例）", url: "https://www3.nhk.or.jp/news/" },
-          { name: "Reuters（出典表示例）", url: "https://www.reuters.com/" }
+          {
+            name: "NHK NEWS WEB（出典表示例）",
+            url: "https://www3.nhk.or.jp/news/",
+            type: "報道",
+            keyPoints: ["情報源ごとに取得した要点を、この位置に表示します。"]
+          },
+          {
+            name: "Reuters（出典表示例）",
+            url: "https://www.reuters.com/",
+            type: "報道",
+            keyPoints: ["別の情報源の要点を分けて表示し、差異を確認しやすくします。"]
+          }
         ]
       },
       {
@@ -182,7 +205,10 @@
       "last-updated", "brief-summary", "lead-article", "bulletin-list", "category-filters",
       "important-grid", "news-sections", "result-count", "empty-state", "archive-list",
       "article-breadcrumb", "article-category", "article-importance", "article-title",
-      "article-dek", "article-updated", "article-body", "article-sources-list",
+      "article-dek", "article-updated", "article-fact-sheet", "article-verification",
+      "article-facts-group", "article-facts-list", "article-background-group", "article-background",
+      "article-watch-group", "article-watch-list", "article-body", "article-sources-list",
+      "article-updates", "article-updates-list",
       "copy-link-button", "copy-status", "related-grid"
     ];
     for (const id of ids) {
@@ -265,8 +291,8 @@
     const simpleMode = data.generationMode === "fallback" && !data.edition.isSample;
     dom.sampleNotice.hidden = !(state.usedFallback || data.edition.isSample || simpleMode);
     if (simpleMode) {
-      dom.modeNoticeTitle.textContent = "簡易編集モード";
-      dom.modeNoticeMessage.textContent = "現在は出典と見出しを中心に掲載しています。詳しい内容は各出典で確認してください。";
+      dom.modeNoticeTitle.textContent = "APIを使わない自動編集";
+      dom.modeNoticeMessage.textContent = "取得した概要・見出し・公開時刻だけを根拠に整理しています。確認できない内容は補っていません。";
     } else {
       dom.modeNoticeTitle.textContent = "表示確認用サンプル";
       dom.modeNoticeMessage.textContent = "自動更新が始まると、この内容は実際のニュースに置き換わります。";
@@ -425,50 +451,165 @@
     }));
     dom.copyStatus.textContent = "";
 
+    renderFactSheet(article);
     renderArticleBody(article);
-    renderSources(article.sources);
+    renderSources(article);
+    renderUpdates(article);
     renderRelated(article);
     updateDocumentMeta(article);
-    window.scrollTo({ top: 0, behavior: "instant" });
+    window.scrollTo({ top: 0, behavior: "auto" });
+  }
+
+  function renderFactSheet(article) {
+    clear(dom.articleFactsList);
+    clear(dom.articleBackground);
+    clear(dom.articleWatchList);
+
+    article.facts.forEach((fact) => dom.articleFactsList.append(element("li", "", fact)));
+    article.background.forEach((paragraph) => dom.articleBackground.append(element("p", "", paragraph)));
+    article.watchPoints.forEach((point) => dom.articleWatchList.append(element("li", "", point)));
+
+    dom.articleFactsGroup.hidden = !article.facts.length;
+    dom.articleBackgroundGroup.hidden = !article.background.length;
+    dom.articleWatchGroup.hidden = !article.watchPoints.length;
+    dom.articleBackgroundGroup.classList.toggle(
+      "fact-group--wide",
+      Boolean(article.background.length && !article.watchPoints.length)
+    );
+    dom.articleWatchGroup.classList.toggle(
+      "fact-group--wide",
+      Boolean(article.watchPoints.length && !article.background.length)
+    );
+
+    const status = [];
+    if (article.sources.length === 0) status.push("出典を確認中");
+    else if (article.sources.length === 1) status.push("単独ソース");
+    else status.push(`${article.sources.length}ソースを掲載`);
+    if (!article.background.length) status.push("背景情報は確認中");
+    dom.articleVerification.textContent = `確認状況：${status.join(" / ")}`;
+
+    dom.articleFactSheet.hidden = !(article.facts.length || article.background.length || article.watchPoints.length);
   }
 
   function renderArticleBody(article) {
     clear(dom.articleBody);
-    if (article.sections.length) {
-      article.sections.forEach((section) => {
+    dom.articleBody.hidden = false;
+
+    const detailedSections = article.sections.filter((section) => !isOverviewSection(section.heading));
+    if (detailedSections.length) {
+      detailedSections.forEach((section) => {
         if (section.heading) dom.articleBody.append(element("h2", "", section.heading));
         section.paragraphs.forEach((paragraph) => dom.articleBody.append(element("p", "", paragraph)));
       });
       return;
     }
-    const paragraphs = article.body.length
-      ? article.body
-      : [article.summary || article.dek || "記事本文を準備しています。"];
-    paragraphs.forEach((paragraph) => dom.articleBody.append(element("p", "", paragraph)));
+
+    const overviewParagraphs = new Set(
+      [...article.facts, ...article.background, ...article.watchPoints].map(paragraphKey)
+    );
+    const paragraphs = article.body.filter((paragraph) => !overviewParagraphs.has(paragraphKey(paragraph)));
+    if (paragraphs.length) {
+      dom.articleBody.append(element("h2", "", "詳しく"));
+      paragraphs.forEach((paragraph) => dom.articleBody.append(element("p", "", paragraph)));
+      return;
+    }
+
+    dom.articleBody.hidden = true;
   }
 
-  function renderSources(sources) {
+  function renderSources(article) {
+    const sources = article.sources;
     clear(dom.articleSourcesList);
     if (!sources.length) {
       dom.articleSourcesList.append(element("li", "", "情報源を確認中です。"));
       return;
     }
     for (const source of sources) {
-      const li = document.createElement("li");
+      const li = element("li", "source-card");
+      const header = element("div", "source-card__header");
+      const heading = document.createElement("h3");
       const link = document.createElement("a");
       link.href = safeExternalUrl(source.url);
       link.target = "_blank";
       link.rel = "noopener noreferrer nofollow";
       link.textContent = source.name;
-      li.append(link);
+      heading.append(link);
+      header.append(heading);
+
+      const metadata = element("div", "source-card__meta");
+      if (source.isPrimary) metadata.append(element("span", "source-badge", "一次情報"));
+      else if (source.type) metadata.append(element("span", "source-badge", source.type));
       if (source.publishedAt) {
         const time = document.createElement("time");
         time.dateTime = source.publishedAt;
-        time.textContent = `（${formatDate(source.publishedAt, { month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit" })}）`;
-        li.append(time);
+        time.textContent = formatDate(source.publishedAt, { month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit" });
+        metadata.append(time);
+      }
+      header.append(metadata);
+      li.append(header);
+
+      const points = source.keyPoints.length
+        ? source.keyPoints
+        : sources.length === 1
+          ? article.facts.slice(0, 2)
+          : [];
+      if (points.length) {
+        const pointLabel = element("p", "source-card__label", "この記事に反映した要点");
+        const pointList = element("ul", "source-card__points");
+        points.forEach((point) => pointList.append(element("li", "", point)));
+        li.append(pointLabel, pointList);
+      } else {
+        li.append(element("p", "source-card__empty", "この情報源単独の要点は取得できていません。"));
       }
       dom.articleSourcesList.append(li);
     }
+  }
+
+  function renderUpdates(article) {
+    clear(dom.articleUpdatesList);
+    const updates = buildUpdateTimeline(article);
+    dom.articleUpdates.hidden = !updates.length;
+
+    for (const update of updates) {
+      const item = document.createElement("li");
+      const marker = element("span", "article-updates__marker");
+      const content = element("div", "article-updates__content");
+      if (update.at) {
+        const time = document.createElement("time");
+        time.dateTime = update.at;
+        time.textContent = formatDate(update.at, {
+          year: "numeric", month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit"
+        });
+        content.append(time);
+      }
+      content.append(element("p", "", update.text));
+      if (update.source) content.append(element("span", "", update.source));
+      item.append(marker, content);
+      dom.articleUpdatesList.append(item);
+    }
+  }
+
+  function buildUpdateTimeline(article) {
+    const updates = [...article.updates];
+    const hasAt = (value) => updates.some((update) => value && update.at && dateValue(update.at) === dateValue(value));
+
+    if (article.publishedAt && !hasAt(article.publishedAt)) {
+      updates.push({ at: article.publishedAt, text: "元情報の公開時刻", source: "" });
+    }
+    if (article.updatedAt && !hasAt(article.updatedAt)) {
+      updates.push({ at: article.updatedAt, text: "この要約の最終更新", source: "NEWSROOM 18" });
+    }
+
+    const seen = new Set();
+    return updates
+      .filter((update) => update.text)
+      .filter((update) => {
+        const key = `${update.at}|${update.text}|${update.source}`;
+        if (seen.has(key)) return false;
+        seen.add(key);
+        return true;
+      })
+      .sort((a, b) => dateValue(b.at) - dateValue(a.at));
   }
 
   function renderRelated(article) {
@@ -552,6 +693,22 @@
     const sources = normalizeSources(item.sources || item.sourceLinks || item.references || []);
     const body = normalizeParagraphs(item.body || item.content || []);
     const sections = normalizeSections(item.sections || []);
+    let facts = normalizeParagraphs(item.facts || item.confirmedFacts || item.keyFacts || []);
+    if (!facts.length) facts = paragraphsFromSections(sections, /要点|確認できた事実|何が起きた|概要/);
+    if (!facts.length && (item.summary || item.description)) facts = [String(item.summary || item.description)];
+
+    let background = normalizeParagraphs(item.background || item.context || []);
+    if (!background.length) background = paragraphsFromSections(sections, /背景|経緯|これまで/);
+
+    let watchPoints = normalizeParagraphs(item.watchPoints || item.whatToWatch || item.outlook || []);
+    watchPoints = uniqueParagraphs([
+      ...watchPoints,
+      ...normalizeParagraphs(item.whyItMatters || []),
+      ...paragraphsFromSections(sections, /注目|なぜ重要|今後/)
+    ]);
+    facts = uniqueParagraphs(facts);
+    background = uniqueParagraphs(background);
+    const updates = normalizeUpdates(item.updates || item.updateHistory || item.revisions || []);
 
     return {
       id,
@@ -566,6 +723,10 @@
       sources,
       body,
       sections,
+      facts,
+      background,
+      watchPoints,
+      updates,
       tags: Array.isArray(item.tags) ? item.tags.map(String) : []
     };
   }
@@ -575,13 +736,25 @@
     return list
       .map((source, index) => {
         if (typeof source === "string") {
-          return { name: `情報源 ${index + 1}`, url: source, publishedAt: "" };
+          return {
+            name: `情報源 ${index + 1}`,
+            url: source,
+            publishedAt: "",
+            type: "",
+            isPrimary: false,
+            keyPoints: []
+          };
         }
         if (!source || typeof source !== "object") return null;
         return {
           name: String(source.name || source.publisher || source.title || `情報源 ${index + 1}`),
           url: String(source.url || source.link || "#"),
-          publishedAt: validDate(source.publishedAt || source.published_at || source.date) || ""
+          publishedAt: validDate(source.publishedAt || source.published_at || source.date) || "",
+          type: String(source.type || source.kind || ""),
+          isPrimary: Boolean(source.isPrimary || source.primary),
+          keyPoints: uniqueParagraphs(normalizeParagraphs(
+            source.keyPoints || source.points || source.summary || source.note || []
+          ))
         };
       })
       .filter(Boolean);
@@ -602,6 +775,46 @@
         paragraphs: normalizeParagraphs(section?.paragraphs || section?.body || section?.content || [])
       };
     }).filter((section) => section.heading || section.paragraphs.length);
+  }
+
+  function normalizeUpdates(value) {
+    const list = Array.isArray(value) ? value : value ? [value] : [];
+    return list.map((update) => {
+      if (typeof update === "string") return { at: "", text: update, source: "" };
+      if (!update || typeof update !== "object") return null;
+      return {
+        at: validDate(update.at || update.updatedAt || update.time || update.date) || "",
+        text: String(update.text || update.note || update.summary || update.change || ""),
+        source: String(update.source || update.by || "")
+      };
+    }).filter((update) => update?.text);
+  }
+
+  function paragraphsFromSections(sections, headingPattern) {
+    return uniqueParagraphs(
+      sections
+        .filter((section) => headingPattern.test(section.heading))
+        .flatMap((section) => section.paragraphs)
+    );
+  }
+
+  function isOverviewSection(heading) {
+    return /要点|確認できた事実|何が起きた|概要|背景|経緯|これまで|注目|なぜ重要|今後/.test(heading);
+  }
+
+  function uniqueParagraphs(value) {
+    const seen = new Set();
+    return value.map(String).map((paragraph) => paragraph.trim()).filter((paragraph) => {
+      if (!paragraph) return false;
+      const key = paragraphKey(paragraph);
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+  }
+
+  function paragraphKey(value) {
+    return String(value).normalize("NFKC").replace(/\s+/g, "").toLocaleLowerCase("ja");
   }
 
   function normalizeArchive(raw) {

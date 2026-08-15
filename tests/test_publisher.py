@@ -53,9 +53,85 @@ class PublisherTests(unittest.TestCase):
             latest = json.loads((root / "site" / "data" / "latest.json").read_text())
             self.assertEqual(latest["articles"][0]["title"], "重要ニュース")
             self.assertEqual(latest["articles"][0]["importance"], 5)
+            self.assertTrue(latest["articles"][0]["sources"][0]["isPrimary"])
+            self.assertEqual(latest["articles"][0]["sources"][0]["type"], "一次情報")
             self.assertTrue((root / "content" / "2026-08-15-12.md").exists())
             ET.parse(root / "site" / "feed.xml")
             ET.parse(root / "site" / "sitemap.xml")
+
+    def test_structured_fields_use_independent_publishers(self):
+        published = datetime(2026, 8, 15, 1, tzinfo=UTC)
+        candidates = [
+            Candidate(
+                id="nhk-top",
+                title="地震活動について発表",
+                description="",
+                url="https://example.com/nhk/top",
+                source_name="NHK ONE 主要ニュース",
+                category="国内",
+                published_at=published,
+                priority=5,
+                publisher_id="nhk",
+            ),
+            Candidate(
+                id="nhk-world",
+                title="地震活動の続報",
+                description="",
+                url="https://example.com/nhk/world",
+                source_name="NHK ONE 国際",
+                category="国内",
+                published_at=published,
+                priority=4,
+                publisher_id="nhk",
+            ),
+        ]
+        draft = StoryDraft(
+            candidate_ids=["nhk-top", "nhk-world"],
+            title="地震活動が続く",
+            dek="公表内容を整理しました。",
+            summary="関係機関が地震活動について情報を更新しました。",
+            why_it_matters="今後の公式発表が注目されます。",
+            category="国内",
+            importance=5,
+            tags=["地震"],
+            facts=["関係機関が新しい情報を公表しました。"],
+            background="これまでの発表内容を踏まえた続報です。",
+            watch_points=["次回の公式発表時刻"],
+            source_notes={
+                "nhk-top": "主要ニュースでは発表の概要を伝えています。",
+                "nhk-world": "国際フィードでも同じ発表を扱っています。",
+            },
+        )
+        window = coverage_window(datetime(2026, 8, 15, 12, 10, tzinfo=JST), "12")
+        edition = build_edition(
+            window,
+            [draft],
+            candidates,
+            datetime(2026, 8, 15, 12, 10, tzinfo=JST),
+            "fallback",
+            [],
+            {"name": "テスト"},
+        )
+
+        article = edition["articles"][0]
+        self.assertEqual(article["importance"], 3)
+        self.assertEqual(article["facts"], ["関係機関が新しい情報を公表しました。"])
+        self.assertEqual(article["background"], "これまでの発表内容を踏まえた続報です。")
+        self.assertEqual(article["watchPoints"], ["次回の公式発表時刻"])
+        self.assertEqual(article["sourceCount"], 2)
+        self.assertEqual(article["publisherCount"], 1)
+        self.assertEqual(len(article["sources"]), 1)
+        self.assertEqual(article["sources"][0]["publisherId"], "nhk")
+        self.assertEqual(len(article["sources"][0]["keyPoints"]), 2)
+        self.assertFalse(article["sources"][0]["isPrimary"])
+        self.assertEqual(
+            [section["heading"] for section in article["sections"]],
+            ["確認できた事実", "背景", "次に注目"],
+        )
+        self.assertEqual(len(article["updates"]), 2)
+        self.assertEqual(edition["stats"]["sourceCount"], 2)
+        self.assertEqual(edition["stats"]["publisherCount"], 1)
+        self.assertEqual(edition["stats"]["publisherCounts"], {"nhk": 1})
 
 
 if __name__ == "__main__":
