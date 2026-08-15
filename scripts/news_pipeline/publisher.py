@@ -47,7 +47,7 @@ def build_edition(
             importance = 3
         summary = clean_text(draft.summary, 300)
         why_it_matters = clean_text(draft.why_it_matters, 140)
-        facts = _clean_values(draft.facts, 240, limit=5)
+        facts = _clean_values(draft.facts, 240, limit=6)
         if not facts and summary:
             facts = [summary]
         background = clean_text(draft.background, 500)
@@ -328,9 +328,19 @@ def _edition_summary(articles: list[dict[str, Any]]) -> str:
     if not articles:
         return "この時間帯には、公開条件を満たす新着記事がありませんでした。"
     important = sum(1 for item in articles if item["importance"] >= 4)
+    publishers = {
+        str(source.get("publisherId") or source.get("name") or "")
+        for item in articles
+        for source in item.get("sources", [])
+        if source.get("publisherId") or source.get("name")
+    }
+    source_phrase = f"{len(publishers)}配信元の" if publishers else ""
     if important:
-        return f"対象時間帯のニュースを{len(articles)}本に整理しました。うち重要ニュースは{important}本です。"
-    return f"対象時間帯の主なニュースを{len(articles)}本に整理しました。"
+        return (
+            f"対象時間帯の{source_phrase}ニュースを{len(articles)}本に整理しました。"
+            f"うち重要ニュースは{important}本です。"
+        )
+    return f"対象時間帯の{source_phrase}主なニュースを{len(articles)}本に整理しました。"
 
 
 def _markdown_sections(edition: dict[str, Any]) -> str:

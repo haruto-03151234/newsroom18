@@ -25,6 +25,11 @@ on:
       - main
     paths:
       - "site/**"
+      - "config/**"
+      - "scripts/**"
+      - "tests/**"
+      - "README.md"
+      - "EDITORIAL_POLICY.md"
       - ".github/workflows/news-pages.yml"
 
 permissions: {}

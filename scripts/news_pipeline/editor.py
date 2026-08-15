@@ -20,6 +20,7 @@ MAX_CANDIDATES = 24
 MAX_INPUT_PER_PUBLISHER = 6
 MAX_ARTICLES_PER_PUBLISHER = 3
 MIN_DISTINCT_PUBLISHERS = 3
+MIN_SUBSTANTIVE_DESCRIPTION_CHARS = 45
 
 _PROMPT_INJECTION_PATTERNS = (
     re.compile(
@@ -477,6 +478,17 @@ def _fallback_edit(candidates: list[Candidate]) -> list[StoryDraft]:
         else:
             target.append(candidate)
 
+    # A lone headline is useful for discovery but does not justify a separate
+    # article page. Publish it only when a substantive Japanese description is
+    # available, or when at least two independent publishers corroborate the
+    # event. This keeps the public edition from being padded with empty notes.
+    clusters = [
+        cluster
+        for cluster in clusters
+        if any(_has_substantive_description(item) for item in cluster)
+        or len({_publisher_key(item) for item in cluster}) >= 2
+    ]
+
     clusters.sort(
         key=lambda cluster: (
             _importance(cluster),
@@ -498,14 +510,18 @@ def _fallback_edit(candidates: list[Candidate]) -> list[StoryDraft]:
         )
         title = title or f"{lead.category}の更新"
         publisher_count = len({_publisher_key(item) for item in cluster})
-        source_count = len({item.source_name for item in cluster})
         description = _fallback_description(lead)
+        summary_description = _multi_sentence_excerpt(description, 280)
+        description_facts = _description_facts(description, maximum=6)
         if looks_japanese(source_title):
             opening = f"{lead.source_name}は「{source_title}」と報じました。"
         else:
             opening = f"{lead.source_name}は英語見出し「{source_title}」を配信しました。"
-        if description:
-            summary = f"{opening}{lead.source_name}の配信概要では、{description}"
+        if summary_description:
+            summary = (
+                f"{opening}{lead.source_name}の配信概要では、"
+                f"{summary_description}"
+            )
         else:
             summary = (
                 f"{opening}取得できたのは見出し、公開時刻、出典情報までで、"
@@ -515,19 +531,16 @@ def _fallback_edit(candidates: list[Candidate]) -> list[StoryDraft]:
         if corroborators:
             summary = _safe_untrusted_text(f"{summary}{corroborators}", 420)
 
-        facts = [
-            opening,
-            f"{lead.source_name}の配信時刻は{lead.published_at.isoformat()}です。",
-        ]
-        if description:
-            facts.append(f"配信概要で確認できる内容は「{description}」です。")
+        # Attribution already appears in the summary and source card. Reserve
+        # the fact sheet for actual content from the source.
+        facts = list(description_facts) if description_facts else [opening]
         for item in cluster:
             if item is lead or _publisher_key(item) == _publisher_key(lead):
                 continue
             supporting_title = _safe_untrusted_text(item.title, 100)
             if supporting_title:
                 facts.append(f"{item.source_name}も「{supporting_title}」と報じています。")
-            if len(facts) >= 4:
+            if len(facts) >= 6:
                 break
 
         if publisher_count >= 2:
@@ -549,17 +562,17 @@ def _fallback_edit(candidates: list[Candidate]) -> list[StoryDraft]:
                 "続報との照合が必要です。"
             )
 
-        background = _fallback_background(description, source_count)
+        # A short feed description rarely contains enough evidence to label a
+        # separate paragraph as background. Repeating the same description
+        # under another heading only makes an article look longer, so leave the
+        # field empty unless a future source supplies distinct context.
+        background = ""
         watch_points = ["各配信元による続報や訂正"]
         if publisher_count < 2:
             watch_points.append("別の独立した配信元による確認")
         watch_points.append("関係機関や当事者による公式発表")
         source_notes = {
-            item.id: (
-                f"{item.source_name}のRSS見出し"
-                + ("と配信概要" if _fallback_description(item) else "・公開時刻")
-                + "を使用"
-            )
+            item.id: _fallback_source_note(item)
             for item in cluster
         }
         drafts.append(
@@ -572,13 +585,26 @@ def _fallback_edit(candidates: list[Candidate]) -> list[StoryDraft]:
                 category=lead.category,
                 importance=_importance(cluster),
                 tags=[lead.category],
-                facts=facts[:4],
+                facts=facts[:6],
                 background=background,
                 watch_points=watch_points[:3],
                 source_notes=source_notes,
             )
         )
     return drafts
+
+
+def _fallback_source_note(candidate: Candidate) -> str:
+    if candidate.primary_source:
+        return (
+            f"{candidate.source_name}の公開情報をもとに"
+            "NEWSROOM 18が要約・加工"
+        )
+    return (
+        f"{candidate.source_name}のRSS見出し"
+        + ("と配信概要" if _fallback_description(candidate) else "・公開時刻")
+        + "を使用"
+    )
 
 
 def _select_diverse_clusters(
@@ -650,7 +676,46 @@ def _fallback_description(candidate: Candidate) -> str:
     description = _safe_untrusted_text(candidate.description, 700)
     if not description or not looks_japanese(description):
         return ""
-    return _multi_sentence_excerpt(description, 300)
+    if re.search(r"(?:…|\.\.\.)[。.]?$", description):
+        complete = max(
+            description.rfind("。", 0, max(0, len(description) - 2)),
+            description.rfind("！", 0, max(0, len(description) - 2)),
+            description.rfind("？", 0, max(0, len(description) - 2)),
+        )
+        if complete + 1 >= MIN_SUBSTANTIVE_DESCRIPTION_CHARS:
+            description = description[: complete + 1]
+    return description
+
+
+def _has_substantive_description(candidate: Candidate) -> bool:
+    description = _fallback_description(candidate)
+    compact = re.sub(r"\s+", "", description)
+    return len(compact) >= MIN_SUBSTANTIVE_DESCRIPTION_CHARS
+
+
+def _description_facts(description: str, maximum: int) -> list[str]:
+    """Split one attributed feed description into readable factual points."""
+    if not description:
+        return []
+    # Official JMA Atom summaries lead with a product label. The same label is
+    # already used for the article title, so remove it from the first fact.
+    value = re.sub(r"^【[^】]{1,180}】\s*", "", description).strip()
+    sentences = [
+        _safe_untrusted_text(item.strip(), 240)
+        for item in re.findall(r"[^。！？!?]+[。！？!?]?", value)
+        if item.strip()
+    ]
+    facts: list[str] = []
+    for sentence in sentences:
+        if not sentence:
+            continue
+        if not sentence.endswith(("。", "！", "？", "!", "?")):
+            sentence += "。"
+        if sentence not in facts:
+            facts.append(sentence)
+        if len(facts) >= maximum:
+            break
+    return facts
 
 
 def _corroborator_sentence(cluster: list[Candidate], lead: Candidate) -> str:
@@ -665,18 +730,6 @@ def _corroborator_sentence(cluster: list[Candidate], lead: Candidate) -> str:
     if not names:
         return ""
     return f"同じ出来事は{'、'.join(names[:3])}も扱っています。"
-
-
-def _fallback_background(description: str, source_count: int) -> str:
-    if description:
-        return (
-            f"RSSで確認できた配信概要は「{description}」です。"
-            f"照合に使用した配信は{source_count}件で、本文にない背景事情は補っていません。"
-        )
-    return (
-        f"照合に使用した配信は{source_count}件です。取得元の利用条件に従い、"
-        "見出しと公開時刻を超える背景情報は掲載していません。"
-    )
 
 
 def _importance(cluster: list[Candidate]) -> int:

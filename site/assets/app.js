@@ -292,7 +292,7 @@
     dom.sampleNotice.hidden = !(state.usedFallback || data.edition.isSample || simpleMode);
     if (simpleMode) {
       dom.modeNoticeTitle.textContent = "APIを使わない自動編集";
-      dom.modeNoticeMessage.textContent = "取得した概要・見出し・公開時刻だけを根拠に整理しています。確認できない内容は補っていません。";
+      dom.modeNoticeMessage.textContent = "RSSの概要・見出し・公開時刻と、許可された一次情報の公式詳細データだけを根拠に整理しています。確認できない内容は補っていません。";
     } else {
       dom.modeNoticeTitle.textContent = "表示確認用サンプル";
       dom.modeNoticeMessage.textContent = "自動更新が始まると、この内容は実際のニュースに置き換わります。";

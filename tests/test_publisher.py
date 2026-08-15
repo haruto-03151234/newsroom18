@@ -132,6 +132,7 @@ class PublisherTests(unittest.TestCase):
         self.assertEqual(edition["stats"]["sourceCount"], 2)
         self.assertEqual(edition["stats"]["publisherCount"], 1)
         self.assertEqual(edition["stats"]["publisherCounts"], {"nhk": 1})
+        self.assertIn("1配信元", edition["summary"])
 
 
 if __name__ == "__main__":

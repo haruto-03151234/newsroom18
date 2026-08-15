@@ -11,6 +11,96 @@
       "primarySource": false
     },
     {
+      "id": "jma-extra",
+      "publisher": "jma",
+      "name": "気象庁 防災情報（気象）",
+      "url": "https://www.data.jma.go.jp/developer/xml/feed/extra_l.xml",
+      "allowedHosts": ["data.jma.go.jp"],
+      "category": "国内",
+      "priority": 5,
+      "primarySource": true,
+      "maxFeedBytes": 8000000,
+      "extractAtomContent": true,
+      "titleFromDescriptionBrackets": true,
+      "fetchLinkedXml": true,
+      "linkedXmlParser": "jma",
+      "linkedXmlRequired": true,
+      "linkedXmlMaxBytes": 2000000,
+      "linkedXmlTimeoutSeconds": 8,
+      "includeProductTitlePatterns": [
+        "^土砂災害警戒情報$",
+        "^気象特別警報・警報・注意報$",
+        "^(?:全般|地方|府県)気象情報$",
+        "^(?:全般|地方|府県)台風情報$",
+        "^記録的短時間大雨情報$",
+        "^竜巻注意情報$"
+      ],
+      "includeTitlePatterns": [
+        "土砂災害(?:警戒|危険)",
+        "特別警報",
+        "顕著な大雨",
+        "記録的短時間大雨",
+        "台風",
+        "竜巻",
+        "突風",
+        "暴風雪",
+        "大雪に関する"
+      ],
+      "linkedXmlIncludePatterns": [
+        "土砂災害(?:警戒|危険)",
+        "特別警報",
+        "顕著な大雨",
+        "記録的短時間大雨",
+        "台風",
+        "竜巻",
+        "突風",
+        "暴風雪",
+        "大雪に関する"
+      ]
+    },
+    {
+      "id": "jma-eqvol",
+      "publisher": "jma",
+      "name": "気象庁 防災情報（地震・津波・火山）",
+      "url": "https://www.data.jma.go.jp/developer/xml/feed/eqvol_l.xml",
+      "allowedHosts": ["data.jma.go.jp"],
+      "category": "国内",
+      "priority": 5,
+      "primarySource": true,
+      "maxFeedBytes": 8000000,
+      "extractAtomContent": true,
+      "titleFromDescriptionBrackets": true,
+      "fetchLinkedXml": true,
+      "linkedXmlParser": "jma",
+      "linkedXmlRequired": true,
+      "linkedXmlMaxBytes": 2000000,
+      "linkedXmlTimeoutSeconds": 8,
+      "minimumMaxIntensity": 3,
+      "minimumMaxIntensityExemptPatterns": [
+        "津波",
+        "噴火",
+        "火山",
+        "緊急"
+      ],
+      "includeProductTitlePatterns": [
+        "^震源・震度に関する情報$",
+        "^震度速報$",
+        "^緊急地震速報（警報）$",
+        "^長周期地震動に関する観測情報$",
+        "^津波.*$",
+        "^噴火警報・予報$",
+        "^噴火速報$",
+        "^降灰予報（詳細）$",
+        "^火山の状況に関する解説情報$",
+        "^南海トラフ地震.*$",
+        "^北海道・三陸沖後発地震注意情報$"
+      ],
+      "excludeProductTitlePatterns": [
+        "^降灰予報（定時）$",
+        "^噴火に関する火山観測報$"
+      ]
+    },
+    {
       "id": "mainichi-flash",
       "publisher": "mainichi",
       "name": "毎日新聞 ニュース速報",
@@ -39,6 +129,16 @@
       "allowedHosts": ["news.web.nhk"],
       "category": "海外",
       "priority": 5
+    },
+    {
+      "id": "mofa-safety",
+      "publisher": "mofa",
+      "name": "外務省 海外安全情報",
+      "url": "https://www.anzen.mofa.go.jp/rss/news.xml",
+      "allowedHosts": ["anzen.mofa.go.jp"],
+      "category": "海外",
+      "priority": 5,
+      "primarySource": true
     },
     {
       "id": "bbc-world",
