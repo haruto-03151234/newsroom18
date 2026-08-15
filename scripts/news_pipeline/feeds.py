@@ -630,6 +630,14 @@ def _extract_jma_detail(payload: bytes, fallback_product_title: str = "") -> _Jm
         details.append(f"マグニチュード: {magnitude_display}")
     if max_intensity_display:
         details.append(f"最大震度: {max_intensity_display}")
+    if is_earthquake:
+        # Put tsunami guidance before regional detail so the most important
+        # safety conclusion remains visible even when the UI limits fact rows.
+        details.extend(
+            value
+            for value in all_official_texts
+            if re.search(r"津波|海面変動", value)
+        )
     details.extend(headline_texts)
     details.extend(area_details)
     details.extend(tsunami_details)

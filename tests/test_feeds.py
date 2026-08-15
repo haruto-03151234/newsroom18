@@ -345,6 +345,10 @@ class FeedTests(unittest.TestCase):
         self.assertIn("Ｍ４．２", detail.description)
         self.assertIn("最大震度: 4", detail.description)
         self.assertIn("津波の心配はありません", detail.description)
+        self.assertLess(
+            detail.description.index("津波の心配はありません"),
+            detail.description.index("震度4: 石川県"),
+        )
 
     def test_jma_weather_and_volcano_text_preserve_areas_numbers_and_wording(self):
         weather = _extract_jma_detail(WEATHER_XML, "府県気象情報")
