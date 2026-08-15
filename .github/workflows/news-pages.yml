@@ -31,12 +31,15 @@ permissions: {}
 
 concurrency:
   group: news-pages
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 env:
   LOCAL_MODEL_CACHE_DIR: ${{ github.workspace }}/.cache/newsroom18-model
   LOCAL_MODEL_FILE: ${{ github.workspace }}/.cache/newsroom18-model/Qwen3-4B-Q4_K_M.gguf
   LOCAL_MODEL_SHA256: 7485fe6f11af29433bc51cab58009521f205840f5b4ae3a32fa7f92e8534fdf5
+  LOCAL_MODEL_CONTEXT: "12288"
+  LOCAL_MODEL_MAX_TOKENS: "2800"
+  LOCAL_MODEL_TIMEOUT: "480"
   LLAMA_CPP_VERSION: b10437
 
 jobs:

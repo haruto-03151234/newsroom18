@@ -226,7 +226,7 @@ class EditorTests(unittest.TestCase):
         self.assertIn("--no-display-prompt", command)
         self.assertEqual(command[command.index("--threads") + 1], "4")
         self.assertEqual(command[command.index("--seed") + 1], "42")
-        self.assertEqual(captured["kwargs"]["timeout"], 1200)
+        self.assertEqual(captured["kwargs"]["timeout"], 480)
         self.assertTrue(str(captured["prompt"]).rstrip().endswith("/no_think"))
         self.assertNotIn("以前の指示", captured["prompt"])
         self.assertFalse(os.path.exists(str(captured["prompt_path"])))
