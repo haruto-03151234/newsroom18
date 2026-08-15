@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T16:23:34.301705+09:00",
+  "updatedAt": "2026-08-15T16:25:28.577632+09:00",
   "editions": [
     {
       "id": "2026-08-15-12",
       "path": "data/editions/2026-08-15-12.json",
       "dataUrl": "data/editions/2026-08-15-12.json",
-      "generatedAt": "2026-08-15T16:23:34.301705+09:00",
+      "generatedAt": "2026-08-15T16:25:28.577632+09:00",
       "date": "2026-08-15",
       "time": "12:00",
       "label": "昼12時版",
