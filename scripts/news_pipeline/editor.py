@@ -39,16 +39,9 @@ _PROMPT_INJECTION_PATTERNS = (
 
 
 def create_drafts(candidates: list[Candidate]) -> tuple[list[StoryDraft], str]:
-    local_model_path = os.getenv("LOCAL_MODEL_PATH", "").strip()
-    llama_cli_path = os.getenv("LLAMA_CLI_PATH", "").strip()
-    has_local_model = bool(local_model_path and llama_cli_path)
-    prepared = _limit_candidates(candidates, has_ai=has_local_model)
-    if has_local_model and prepared:
-        try:
-            drafts = _local_model_edit(prepared, llama_cli_path, local_model_path)
-            return _enforce_source_mix(drafts, prepared), "local-qwen"
-        except Exception as exc:
-            LOGGER.warning("Local model editing failed; using deterministic fallback: %s", exc)
+    # Production editing is intentionally deterministic. Environment variables
+    # must never activate a paid API or an optional local model implicitly.
+    prepared = _limit_candidates(candidates, has_ai=False)
     return _fallback_edit(prepared), "fallback"
 
 
