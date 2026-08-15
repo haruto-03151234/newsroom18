@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-15T12:00:00+09:00",
-  "lastCompletedEdition": "2026-08-15-12",
+  "lastCompletedEnd": "2026-08-15T18:00:00+09:00",
+  "lastCompletedEdition": "2026-08-15-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -50,7 +50,55 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20260815de44224"
       ]
+    },
+    {
+      "editionId": "2026-08-15-18",
+      "title": "青森県レベル4土砂災害危険警報",
+      "publishedAt": "2026-08-15T17:33:11+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260815083313_0_VXWW50_020000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-15-18",
+      "title": "火山名阿蘇山火山の状況に関する解説情報",
+      "publishedAt": "2026-08-15T16:00:08+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260815070009_0_VFVO51_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-15-18",
+      "title": "北陸地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-15T15:57:46+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260815065747_0_VPCJ50_150000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-15-18",
+      "title": "小泉防衛相ら4閣僚が靖国神社参拝高市首相は見送りへ",
+      "publishedAt": "2026-08-15T17:40:30+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260815de44238"
+      ]
+    },
+    {
+      "editionId": "2026-08-15-18",
+      "title": "ドジャース山本由伸6回1失点で12勝目大谷翔平は無安打",
+      "publishedAt": "2026-08-15T17:36:50+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260815de44269"
+      ]
+    },
+    {
+      "editionId": "2026-08-15-18",
+      "title": "終戦81年太平洋戦争の激戦地フィリピンで戦没者を追悼",
+      "publishedAt": "2026-08-15T15:20:16+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260815de44268"
+      ]
     }
   ],
-  "updatedAt": "2026-08-15T16:25:28.577632+09:00"
+  "updatedAt": "2026-08-15T18:22:07.440197+09:00"
 }

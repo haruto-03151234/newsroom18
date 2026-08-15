@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T16:25:28.577632+09:00",
+  "updatedAt": "2026-08-15T18:22:07.440197+09:00",
   "editions": [
+    {
+      "id": "2026-08-15-18",
+      "path": "data/editions/2026-08-15-18.json",
+      "dataUrl": "data/editions/2026-08-15-18.json",
+      "generatedAt": "2026-08-15T18:22:07.440197+09:00",
+      "date": "2026-08-15",
+      "time": "18:00",
+      "label": "夕方6時版",
+      "coverageLabel": "08月15日 12:00〜08月15日 18:00",
+      "headline": "青森県レベル４土砂災害危険警報",
+      "articleCount": 6,
+      "categories": {
+        "国内": 4,
+        "スポーツ": 1,
+        "海外": 1
+      }
+    },
     {
       "id": "2026-08-15-12",
       "path": "data/editions/2026-08-15-12.json",
