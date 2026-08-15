@@ -822,7 +822,11 @@
 
     const sentences = splitSentences(value);
     if (sentences.length <= 1) return value;
-    const distinct = sentences.filter((sentence) => !hasHighTextOverlap(sentence, references));
+    const distinct = sentences.filter((sentence) => {
+      if (isProceduralDetailSentence(sentence)) return false;
+      const comparable = sentence.replace(/^.{1,100}?の配信概要では、/, "").trim();
+      return !hasHighTextOverlap(comparable, references);
+    });
     if (!distinct.length) return "";
     return distinct.length === sentences.length ? value : distinct.join("");
   }
@@ -869,6 +873,11 @@
 
   function splitSentences(value) {
     return String(value).match(/[^。！？!?]+[。！？!?]?/g)?.map((part) => part.trim()).filter(Boolean) || [];
+  }
+
+  function isProceduralDetailSentence(value) {
+    const text = paragraphKey(value);
+    return /は「.+」と報じました[。.]?$/.test(text);
   }
 
   function isProceduralKeyPoint(value) {
