@@ -30,7 +30,7 @@ on:
 permissions: {}
 
 concurrency:
-  group: news-pages
+  group: news-pages-v2
   cancel-in-progress: true
 
 env:
