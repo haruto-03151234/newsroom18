@@ -5,10 +5,26 @@
   "stories": [
     {
       "editionId": "2026-08-15-12",
-      "title": "インドネシア付近でm77最大で94センチの津波観測3人死傷",
-      "publishedAt": "2026-08-15T11:54:30+09:00",
+      "title": "火山名桜島降灰予報詳細",
+      "publishedAt": "2026-08-15T11:20:00+09:00",
       "urls": [
-        "https://www.asahi.com/articles/ASV8H0PHCV8HUHBI00RM.html"
+        "https://www.data.jma.go.jp/developer/xml/data/20260815022042_0_VFVO55_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-15-12",
+      "title": "富山県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-15T10:35:46+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260815013547_0_VPFJ50_160000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-15-12",
+      "title": "福島県沖で地震m45最大震度3",
+      "publishedAt": "2026-08-15T10:14:43+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260815011443_0_VXSE53_010000.xml"
       ]
     },
     {
@@ -34,31 +50,7 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20260815de44224"
       ]
-    },
-    {
-      "editionId": "2026-08-15-12",
-      "title": "bbcentertainmentartsが報じたエンタメニュース",
-      "publishedAt": "2026-08-15T09:10:47+09:00",
-      "urls": [
-        "https://www.bbc.co.uk/news/articles/c87nwq9qe24o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "editionId": "2026-08-15-12",
-      "title": "bbcnewsworldが報じた海外ニュース",
-      "publishedAt": "2026-08-15T09:01:53+09:00",
-      "urls": [
-        "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "editionId": "2026-08-15-12",
-      "title": "techcrunchが報じたテクノロジーニュース",
-      "publishedAt": "2026-08-15T07:43:24+09:00",
-      "urls": [
-        "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up"
-      ]
     }
   ],
-  "updatedAt": "2026-08-15T15:33:52.969009+09:00"
+  "updatedAt": "2026-08-15T16:23:34.301705+09:00"
 }
