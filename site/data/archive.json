@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T18:22:07.440197+09:00",
+  "updatedAt": "2026-08-16T06:09:24.479619+09:00",
   "editions": [
+    {
+      "id": "2026-08-16-06",
+      "path": "data/editions/2026-08-16-06.json",
+      "dataUrl": "data/editions/2026-08-16-06.json",
+      "generatedAt": "2026-08-16T06:09:24.479619+09:00",
+      "date": "2026-08-16",
+      "time": "06:00",
+      "label": "朝6時版",
+      "coverageLabel": "08月15日 18:00〜08月16日 06:00",
+      "headline": "インドネシア東部地震の死者47人に 救助活動続く",
+      "articleCount": 3,
+      "categories": {
+        "国内": 2,
+        "海外": 1
+      }
+    },
     {
       "id": "2026-08-15-18",
       "path": "data/editions/2026-08-15-18.json",

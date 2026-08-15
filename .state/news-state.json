@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-15T18:00:00+09:00",
-  "lastCompletedEdition": "2026-08-15-18",
+  "lastCompletedEnd": "2026-08-16T06:00:00+09:00",
+  "lastCompletedEdition": "2026-08-16-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -98,7 +98,31 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20260815de44268"
       ]
+    },
+    {
+      "editionId": "2026-08-16-06",
+      "title": "インドネシア東部地震の死者47人に救助活動続く",
+      "publishedAt": "2026-08-16T05:52:55+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260816de44335"
+      ]
+    },
+    {
+      "editionId": "2026-08-16-06",
+      "title": "熊本地震活発な活動続く最大震度5弱程度以上の地震に注意",
+      "publishedAt": "2026-08-16T05:38:09+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260815de44323"
+      ]
+    },
+    {
+      "editionId": "2026-08-16-06",
+      "title": "靖国神社参拝めぐり中国強く抗議韓国嘆き禁じ得ない",
+      "publishedAt": "2026-08-16T05:18:24+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260815de44311"
+      ]
     }
   ],
-  "updatedAt": "2026-08-15T18:22:07.440197+09:00"
+  "updatedAt": "2026-08-16T06:09:24.479619+09:00"
 }
