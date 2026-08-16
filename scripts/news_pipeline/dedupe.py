@@ -44,6 +44,14 @@ def filter_seen(candidates: list[Candidate], state: dict[str, Any]) -> list[Cand
     for candidate in candidates:
         if candidate.url in seen_urls:
             continue
+        # Official bulletins often reuse a generic title for a changed warning,
+        # cancellation or later observation while issuing a new URL. Do not
+        # discard that update solely because its title resembles a prior item.
+        # Exact URL repeats remain suppressed above; ordinary reporting keeps
+        # the existing 36-hour title-similarity protection below.
+        if candidate.primary_source:
+            accepted.append(candidate)
+            continue
         duplicate = False
         for story in reversed(stories[-350:]):
             try:
