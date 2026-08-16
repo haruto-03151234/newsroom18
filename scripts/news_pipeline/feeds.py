@@ -13,6 +13,7 @@ import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass, replace
 from datetime import UTC, datetime
+from html.parser import HTMLParser
 from pathlib import Path
 from typing import Any
 from urllib.parse import urlsplit
@@ -26,12 +27,19 @@ from .text_utils import canonical_url, clean_text, normalize_title, stable_hash
 
 LOGGER = logging.getLogger(__name__)
 USER_AGENT = "NewsBriefJP/1.0 (+https://github.com/; feed reader)"
+HTML_USER_AGENT = "Mozilla/5.0 (compatible; NewsBriefJP/1.0; +https://github.com/)"
 DEFAULT_MAX_FEED_BYTES = 2_000_000
 MAX_FEED_BYTES = 8_000_000
 DEFAULT_LINKED_XML_MAX_BYTES = 750_000
 MAX_LINKED_XML_BYTES = 2_000_000
 DEFAULT_LINKED_XML_TIMEOUT_SECONDS = 8
 MAX_LINKED_XML_TIMEOUT_SECONDS = 20
+DEFAULT_LINKED_HTML_MAX_BYTES = 750_000
+MAX_LINKED_HTML_BYTES = 2_000_000
+DEFAULT_LINKED_HTML_TIMEOUT_SECONDS = 8
+MAX_LINKED_HTML_TIMEOUT_SECONDS = 20
+DEFAULT_LINKED_HTML_MINIMUM_CHARS = 160
+MAX_LINKED_HTML_TEXT_CHARS = 900
 _PATTERN_FIELDS = (
     "includeTitlePatterns",
     "excludeTitlePatterns",
@@ -40,6 +48,49 @@ _PATTERN_FIELDS = (
     "linkedXmlIncludePatterns",
     "linkedXmlExcludePatterns",
     "minimumMaxIntensityExemptPatterns",
+)
+_ENTRY_CATEGORY_FIELDS = ("includeEntryCategories", "excludeEntryCategories")
+_LINKED_HTML_IGNORED_TAGS = {
+    "aside",
+    "audio",
+    "button",
+    "canvas",
+    "footer",
+    "form",
+    "header",
+    "iframe",
+    "nav",
+    "noscript",
+    "script",
+    "style",
+    "svg",
+    "template",
+    "video",
+}
+_LINKED_HTML_BLOCK_TAGS = {"p", "li", "td", "dd", "dt"}
+_HTML_VOID_TAGS = {
+    "area",
+    "base",
+    "br",
+    "col",
+    "embed",
+    "hr",
+    "img",
+    "input",
+    "link",
+    "meta",
+    "param",
+    "source",
+    "track",
+    "wbr",
+}
+_LINKED_HTML_BOILERPLATE = re.compile(
+    r"^(?:お?問い合わせ先|お?問合せ先|連絡先|電話\s*[:：]|TEL\s*[:：]|"
+    r"FAX\s*[:：]|〒\d{3}|PDF形式のファイル|このページの先頭へ|"
+    r"ページトップへ|シェアする|番組放送後|配信期間は|放送日\s|"
+    r"再生時間\s|配信終了予定日\s|音声が再生されない場合|"
+    r"動画が表示されない場合)",
+    re.IGNORECASE,
 )
 
 
@@ -62,10 +113,19 @@ class _LinkedCandidate:
 
 
 class _ValidatedRedirect(urllib.request.HTTPRedirectHandler):
-    def __init__(self, allowed_hosts: set[str], *, require_https: bool = False) -> None:
+    def __init__(
+        self,
+        allowed_hosts: set[str],
+        *,
+        require_https: bool = False,
+        allowed_path_prefixes: tuple[str, ...] = (),
+        allow_subdomains: bool = True,
+    ) -> None:
         super().__init__()
         self.allowed_hosts = allowed_hosts
         self.require_https = require_https
+        self.allowed_path_prefixes = allowed_path_prefixes
+        self.allow_subdomains = allow_subdomains
 
     def redirect_request(self, req: Any, fp: Any, code: int, msg: str, headers: Any, newurl: str) -> Any:
         canonical_url(newurl)
@@ -73,9 +133,98 @@ class _ValidatedRedirect(urllib.request.HTTPRedirectHandler):
         if self.require_https and parsed.scheme.lower() != "https":
             raise urllib.error.HTTPError(newurl, code, "HTTPS redirect required", headers, fp)
         host = (parsed.hostname or "").lower()
-        if not any(host == allowed or host.endswith(f".{allowed}") for allowed in self.allowed_hosts):
+        if not _host_is_allowed(
+            host, self.allowed_hosts, allow_subdomains=self.allow_subdomains
+        ):
             raise urllib.error.HTTPError(newurl, code, "redirect host is not allowlisted", headers, fp)
+        if self.allowed_path_prefixes and not any(
+            parsed.path.startswith(prefix) for prefix in self.allowed_path_prefixes
+        ):
+            raise urllib.error.HTTPError(newurl, code, "redirect path is not allowlisted", headers, fp)
         return super().redirect_request(req, fp, code, msg, headers, newurl.strip())
+
+
+class _OfficialHtmlExtractor(HTMLParser):
+    """Extract paragraph-shaped text from an explicitly configured official page."""
+
+    def __init__(self, root_ids: set[str]) -> None:
+        super().__init__(convert_charrefs=True)
+        self.root_ids = root_ids
+        self.root_depth = 0
+        self.article_depth = 0
+        self.main_depth = 0
+        self.ignored_depth = 0
+        self.stack: list[tuple[str, bool, bool, bool, bool]] = []
+        self.block_depth = 0
+        self.block_scope = ""
+        self.block_parts: list[str] = []
+        self.values: dict[str, list[str]] = {"root": [], "article": [], "main": []}
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        tag = tag.lower()
+        if tag in _HTML_VOID_TAGS:
+            return
+        attributes = {key.lower(): value or "" for key, value in attrs}
+        enters_root = bool(self.root_ids and attributes.get("id") in self.root_ids)
+        enters_article = tag == "article"
+        enters_main = tag == "main"
+        enters_ignored = tag in _LINKED_HTML_IGNORED_TAGS
+        self.stack.append(
+            (tag, enters_root, enters_article, enters_main, enters_ignored)
+        )
+        self.root_depth += int(enters_root)
+        self.article_depth += int(enters_article)
+        self.main_depth += int(enters_main)
+        self.ignored_depth += int(enters_ignored)
+        if (
+            tag in _LINKED_HTML_BLOCK_TAGS
+            and self.ignored_depth == 0
+            and (self.root_depth or self.article_depth or self.main_depth)
+        ):
+            if self.block_depth == 0:
+                self.block_scope = (
+                    "root"
+                    if self.root_depth
+                    else "article"
+                    if self.article_depth
+                    else "main"
+                )
+                self.block_parts = []
+            self.block_depth += 1
+
+    def handle_startendtag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        return
+
+    def handle_data(self, data: str) -> None:
+        if self.block_depth and self.ignored_depth == 0:
+            self.block_parts.append(data)
+
+    def handle_endtag(self, tag: str) -> None:
+        tag = tag.lower()
+        if tag in _LINKED_HTML_BLOCK_TAGS and self.block_depth:
+            self.block_depth -= 1
+            if self.block_depth == 0:
+                value = clean_text(" ".join(self.block_parts), 1_500)
+                if value:
+                    self.values[self.block_scope].append(value)
+                self.block_scope = ""
+                self.block_parts = []
+        matching_index = next(
+            (
+                index
+                for index in range(len(self.stack) - 1, -1, -1)
+                if self.stack[index][0] == tag
+            ),
+            None,
+        )
+        if matching_index is None:
+            return
+        while len(self.stack) > matching_index:
+            _, enters_root, enters_article, enters_main, enters_ignored = self.stack.pop()
+            self.root_depth -= int(enters_root)
+            self.article_depth -= int(enters_article)
+            self.main_depth -= int(enters_main)
+            self.ignored_depth -= int(enters_ignored)
 
 
 def load_feed_config(path: Path) -> list[dict[str, Any]]:
@@ -86,10 +235,20 @@ def load_feed_config(path: Path) -> list[dict[str, Any]]:
     for item in feeds:
         if item.get("category") not in CATEGORIES:
             raise ValueError(f"unsupported category: {item.get('category')}")
+        if "inferCategory" in item and not isinstance(item["inferCategory"], bool):
+            raise ValueError("inferCategory must be a boolean")
+        if "linkedHtmlRequireExactHost" in item and not isinstance(
+            item["linkedHtmlRequireExactHost"], bool
+        ):
+            raise ValueError("linkedHtmlRequireExactHost must be a boolean")
         canonical_url(str(item["url"]))
         _feed_byte_limit(item)
         for field in _PATTERN_FIELDS:
             _validate_patterns(item.get(field), field)
+        for field in _ENTRY_CATEGORY_FIELDS:
+            _validate_string_array(item.get(field), field, maximum=32, item_limit=120)
+        if item.get("fetchLinkedXml") and item.get("fetchLinkedHtml"):
+            raise ValueError("a feed cannot enable both linked XML and linked HTML")
         if item.get("fetchLinkedXml"):
             if item.get("linkedXmlParser") != "jma":
                 raise ValueError("fetchLinkedXml requires linkedXmlParser='jma'")
@@ -102,6 +261,35 @@ def load_feed_config(path: Path) -> list[dict[str, Any]]:
                 str(minimum_intensity)
             ) is None:
                 raise ValueError("minimumMaxIntensity is not a JMA intensity")
+        if item.get("fetchLinkedHtml"):
+            if item.get("linkedHtmlParser") != "official":
+                raise ValueError(
+                    "fetchLinkedHtml requires linkedHtmlParser='official'"
+                )
+            _linked_html_byte_limit(item)
+            _linked_html_timeout(item)
+            _linked_html_minimum_chars(item)
+            if not item.get("allowedHosts"):
+                raise ValueError("fetchLinkedHtml requires allowedHosts")
+            root_ids = _validate_string_array(
+                item.get("linkedHtmlRootIds"),
+                "linkedHtmlRootIds",
+                maximum=8,
+                item_limit=100,
+            )
+            path_prefixes = _validate_string_array(
+                item.get("linkedHtmlPathPrefixes"),
+                "linkedHtmlPathPrefixes",
+                maximum=8,
+                item_limit=200,
+            )
+            if not path_prefixes or any(
+                not prefix.startswith("/") or "?" in prefix or "#" in prefix
+                for prefix in path_prefixes
+            ):
+                raise ValueError(
+                    "fetchLinkedHtml requires absolute linkedHtmlPathPrefixes"
+                )
     return feeds
 
 
@@ -135,6 +323,23 @@ def _validate_patterns(value: Any, field: str) -> list[str]:
     return patterns
 
 
+def _validate_string_array(
+    value: Any, field: str, *, maximum: int, item_limit: int
+) -> list[str]:
+    if value is None:
+        return []
+    if not isinstance(value, list) or len(value) > maximum:
+        raise ValueError(f"{field} must be an array with at most {maximum} values")
+    values: list[str] = []
+    for raw in value:
+        if not isinstance(raw, str) or not raw.strip() or len(raw) > item_limit:
+            raise ValueError(f"{field} contains an invalid value")
+        normalized = raw.strip()
+        if normalized not in values:
+            values.append(normalized)
+    return values
+
+
 def _linked_xml_byte_limit(config: dict[str, Any]) -> int:
     return _bounded_config_int(
         config,
@@ -150,6 +355,33 @@ def _linked_xml_timeout(config: dict[str, Any]) -> int:
         "linkedXmlTimeoutSeconds",
         DEFAULT_LINKED_XML_TIMEOUT_SECONDS,
         MAX_LINKED_XML_TIMEOUT_SECONDS,
+    )
+
+
+def _linked_html_byte_limit(config: dict[str, Any]) -> int:
+    return _bounded_config_int(
+        config,
+        "linkedHtmlMaxBytes",
+        DEFAULT_LINKED_HTML_MAX_BYTES,
+        MAX_LINKED_HTML_BYTES,
+    )
+
+
+def _linked_html_timeout(config: dict[str, Any]) -> int:
+    return _bounded_config_int(
+        config,
+        "linkedHtmlTimeoutSeconds",
+        DEFAULT_LINKED_HTML_TIMEOUT_SECONDS,
+        MAX_LINKED_HTML_TIMEOUT_SECONDS,
+    )
+
+
+def _linked_html_minimum_chars(config: dict[str, Any]) -> int:
+    return _bounded_config_int(
+        config,
+        "linkedHtmlMinimumChars",
+        DEFAULT_LINKED_HTML_MINIMUM_CHARS,
+        MAX_LINKED_HTML_TEXT_CHARS,
     )
 
 
@@ -194,7 +426,7 @@ def collect_candidates(
                 if not candidate:
                     continue
                 if earliest <= candidate.published_at.timestamp() < end.timestamp():
-                    if item.get("fetchLinkedXml"):
+                    if item.get("fetchLinkedXml") or item.get("fetchLinkedHtml"):
                         linked_candidates.append((candidate, entry, item))
                     else:
                         candidates.append(candidate)
@@ -215,13 +447,11 @@ def collect_candidates(
                 try:
                     enriched = future.result()
                 except Exception as exc:
-                    LOGGER.warning(
-                        "Linked XML failed: %s: %s", item.get("name"), exc
-                    )
+                    LOGGER.warning("Linked detail failed: %s: %s", item.get("name"), exc)
                     label = str(item.get("name", item.get("url")))
                     if label not in failures:
                         failures.append(label)
-                    if not item.get("linkedXmlRequired", False):
+                    if not _linked_detail_required(item):
                         candidates.append(candidate)
                     continue
                 if enriched is not None:
@@ -279,6 +509,8 @@ def _fetch_one(config: dict[str, Any]) -> list[Any]:
 
 
 def _entry_to_candidate(entry: Any, config: dict[str, Any]) -> Candidate | None:
+    if not _entry_categories_are_allowed(entry, config):
+        return None
     original_title = clean_text(entry.get("title"), 260)
     title = original_title
     raw_description = ""
@@ -300,6 +532,11 @@ def _entry_to_candidate(entry: Any, config: dict[str, Any]) -> Candidate | None:
         url = canonical_url(raw_url)
     except ValueError:
         return None
+    if config.get("fetchLinkedHtml"):
+        try:
+            _validated_linked_html_url(url, config)
+        except RuntimeError:
+            return None
     parsed_time = entry.get("published_parsed") or entry.get("updated_parsed")
     if not parsed_time:
         return None
@@ -312,13 +549,165 @@ def _entry_to_candidate(entry: Any, config: dict[str, Any]) -> Candidate | None:
         description=description,
         url=url,
         source_name=clean_text(str(config["name"]), 80),
-        category=str(config["category"]),
+        category=_infer_entry_category(entry, title, raw_description, config),
         published_at=published,
         priority=max(1, min(5, int(config.get("priority", 3)))),
         ai_required=bool(config.get("aiRequired", False)),
         primary_source=bool(config.get("primarySource", False)),
         publisher_id=clean_text(str(config.get("publisher", config.get("id", config["name"]))), 60),
     )
+
+
+_INFERRED_CATEGORY_PATTERNS: tuple[tuple[str, re.Pattern[str]], ...] = (
+    (
+        "スポーツ",
+        re.compile(
+            r"野球|甲子園|大リーグ|プロ野球|投手|球団|サッカー|Jリーグ|"
+            r"ワールドカップ|五輪|オリンピック|パラリンピック|陸上|"
+            r"テニス|ゴルフ|相撲|競泳|バスケット|バレー|ラグビー|"
+            r"(?:^|[^a-z])F1(?:[^a-z]|$)",
+            re.IGNORECASE,
+        ),
+    ),
+    (
+        "エンタメ",
+        re.compile(
+            r"映画|ドラマ|俳優|女優|芸能|音楽|マンガ|漫画|アニメ|ゲーム|"
+            r"ホラー|怪談|妖怪|舞台|小説|文学|美術|展覧会|アイドル|歌手",
+            re.IGNORECASE,
+        ),
+    ),
+    (
+        "海外",
+        re.compile(
+            r"ウクライナ|ロシア|インドネシア|北朝鮮|韓国(?!籍)|"
+            r"中国(?!地方|籍)|台湾|香港|米国|アメリカ|英国(?!籍)|イギリス|"
+            r"フランス|ドイツ|欧州|(?:^|[^a-z])EU(?:[^a-z]|$)|国連|"
+            r"ガザ|イスラエル|パレスチナ|イラン|シリア|アフリカ|"
+            r"アフガニスタン|アフガン|タリバン|リヒテンシュタイン|"
+            r"エジプト|フィリピン|ブラジル|インド|海外",
+            re.IGNORECASE,
+        ),
+    ),
+    (
+        "テクノロジー",
+        re.compile(
+            r"(?:^|[^a-z])AI(?:[^a-z]|$)|人工知能|生成AI|Claude|ChatGPT|"
+            r"サイバー|ソフトウェア|アプリ|スマホ|iPhone|クラウド|半導体|"
+            r"ロボット|デジタル|(?:^|[^a-z])IT(?:[^a-z]|$)",
+            re.IGNORECASE,
+        ),
+    ),
+    (
+        "経済",
+        re.compile(
+            r"物価|価格|高騰|値上げ|値下げ|株価|株式|為替|円相場|金利|景気|"
+            r"経済|企業|決算|市場|賃金|給与|雇用|失業|輸出|輸入|関税|"
+            r"金融|銀行|投資|買収|売却|倒産|(?:^|[^a-z])GDP(?:[^a-z]|$)|"
+            r"プロテイン",
+            re.IGNORECASE,
+        ),
+    ),
+    (
+        "科学",
+        re.compile(
+            r"宇宙|科学|研究|医療|感染症|ワクチン|新型コロナ|治療|患者|"
+            r"気候変動|生物|化石|天文|探査機|衛星",
+            re.IGNORECASE,
+        ),
+    ),
+    (
+        "社会",
+        re.compile(
+            r"事故|火災|逮捕|事件|容疑|裁判|判決|軽傷|重傷|けが|死亡|"
+            r"災害|地震|大雨|警報|避難|教育|学校|給食|自治体",
+            re.IGNORECASE,
+        ),
+    ),
+)
+
+_INFERRED_TAG_CATEGORIES = {
+    "社会": "社会",
+    "スポーツ": "スポーツ",
+    "ビジネス": "経済",
+    "経済": "経済",
+    "政治": "国内",
+    "国際": "海外",
+    "海外": "海外",
+    "サイエンス": "科学",
+    "科学": "科学",
+    "文化芸能": "エンタメ",
+    "エンタメ": "エンタメ",
+    "テクノロジー": "テクノロジー",
+    "デジタル化": "テクノロジー",
+    "サイバーセキュリティ": "テクノロジー",
+    "it・デジタル": "テクノロジー",
+    "it・デジタルのトラブル": "テクノロジー",
+    "労働": "経済",
+    "経営": "経済",
+    "税": "経済",
+    "観光": "経済",
+    "エネルギー": "経済",
+    "経済・労働・税": "経済",
+    "防犯": "社会",
+    "交通安全": "社会",
+    "防災・災害対策": "社会",
+    "安心・安全（その他）": "社会",
+    "教育・学び": "社会",
+    "健康": "科学",
+    "医療": "科学",
+    "病気予防": "科学",
+    "環境・エコ": "科学",
+}
+
+
+def _infer_entry_category(
+    entry: Any,
+    title: str,
+    description: str,
+    config: dict[str, Any],
+) -> str:
+    """Conservatively refine broad mixed-feed categories from supplied metadata."""
+    default = str(config["category"])
+    if not config.get("inferCategory"):
+        return default
+
+    tag_values = _entry_tag_values(entry)
+    for tag in tag_values:
+        mapped = _INFERRED_TAG_CATEGORIES.get(
+            unicodedata.normalize("NFKC", tag).casefold()
+        )
+        if mapped:
+            return mapped
+
+    values = [title, description, *tag_values]
+    haystack = unicodedata.normalize("NFKC", " ".join(values))
+    for category, pattern in _INFERRED_CATEGORY_PATTERNS:
+        if pattern.search(haystack):
+            return category
+    return default
+
+
+def _entry_tag_values(entry: Any) -> list[str]:
+    values: list[str] = []
+    raw_tags = entry.get("tags") or []
+    if isinstance(raw_tags, dict):
+        raw_tags = [raw_tags]
+    if isinstance(raw_tags, list):
+        for item in raw_tags:
+            if isinstance(item, dict):
+                raw = item.get("term") or item.get("label")
+            else:
+                raw = item
+            value = clean_text(str(raw) if raw is not None else "", 120)
+            # RSS 1.0 publishers sometimes serialize several subjects in one
+            # dc:subject value.  Treat those supplied subjects as individual
+            # tags so category inference and opt-in noise filters can use them.
+            for part in re.split(r"[,、]", value):
+                normalized = clean_text(part, 120)
+                if normalized and normalized not in values:
+                    values.append(normalized)
+    return values
 
 
 def _entry_description(entry: Any, config: dict[str, Any]) -> str:
@@ -368,6 +757,40 @@ def _title_is_allowed(
     return True
 
 
+def _entry_categories_are_allowed(entry: Any, config: dict[str, Any]) -> bool:
+    include = {
+        unicodedata.normalize("NFKC", value).casefold()
+        for value in _validate_string_array(
+            config.get("includeEntryCategories"),
+            "includeEntryCategories",
+            maximum=32,
+            item_limit=120,
+        )
+    }
+    exclude = {
+        unicodedata.normalize("NFKC", value).casefold()
+        for value in _validate_string_array(
+            config.get("excludeEntryCategories"),
+            "excludeEntryCategories",
+            maximum=32,
+            item_limit=120,
+        )
+    }
+    actual = {
+        unicodedata.normalize("NFKC", value).casefold()
+        for value in _entry_tag_values(entry)
+    }
+    if actual & exclude:
+        return False
+    return not include or bool(actual & include)
+
+
+def _linked_detail_required(config: dict[str, Any]) -> bool:
+    if config.get("fetchLinkedHtml"):
+        return bool(config.get("linkedHtmlRequired", False))
+    return bool(config.get("linkedXmlRequired", False))
+
+
 def _enrich_linked_candidate(
     candidate: Candidate, entry: Any, config: dict[str, Any]
 ) -> Candidate | None:
@@ -378,6 +801,20 @@ def _enrich_linked_candidate(
 def _enrich_linked_candidate_record(
     candidate: Candidate, entry: Any, config: dict[str, Any]
 ) -> _LinkedCandidate | None:
+    if config.get("fetchLinkedHtml"):
+        if config.get("linkedHtmlParser") != "official":
+            raise RuntimeError("unsupported linked HTML parser")
+        payload = _fetch_linked_html(candidate.url, config)
+        detail = _extract_official_html_detail(payload, config, candidate.title)
+        if len(detail) < _linked_html_minimum_chars(config):
+            raise RuntimeError("linked official HTML contained too little factual text")
+        enriched = replace(candidate, description=detail)
+        return _LinkedCandidate(
+            candidate=enriched,
+            event_id="",
+            serial="",
+            richness=len(detail),
+        )
     if config.get("linkedXmlParser") != "jma":
         raise RuntimeError("unsupported linked XML parser")
     payload = _fetch_linked_xml(candidate.url, config)
@@ -531,6 +968,148 @@ def _fetch_linked_xml(url: str, config: dict[str, Any]) -> bytes:
     return payload
 
 
+def _fetch_linked_html(url: str, config: dict[str, Any]) -> bytes:
+    linked_url, allowed_hosts, path_prefixes = _validated_linked_html_url(url, config)
+    byte_limit = _linked_html_byte_limit(config)
+    timeout = _linked_html_timeout(config)
+    request = urllib.request.Request(
+        linked_url,
+        headers={
+            "User-Agent": HTML_USER_AGENT,
+            "Accept": "text/html, application/xhtml+xml",
+            "Accept-Encoding": "identity",
+        },
+    )
+    try:
+        opener = urllib.request.build_opener(
+            _ValidatedRedirect(
+                allowed_hosts,
+                require_https=True,
+                allowed_path_prefixes=path_prefixes,
+                allow_subdomains=not bool(
+                    config.get("linkedHtmlRequireExactHost", False)
+                ),
+            )
+        )
+        with opener.open(request, timeout=timeout) as response:
+            content_type = str(response.headers.get("Content-Type", ""))
+            media_type = content_type.split(";", 1)[0].strip().lower()
+            if media_type not in {"text/html", "application/xhtml+xml"}:
+                raise RuntimeError("linked HTML response is not HTML")
+            length = response.headers.get("Content-Length")
+            try:
+                if length and int(length) > byte_limit:
+                    raise RuntimeError("linked HTML exceeds size limit")
+            except ValueError as exc:
+                raise RuntimeError("linked HTML has an invalid content length") from exc
+            final_url = response.geturl()
+            if isinstance(final_url, str):
+                _validated_linked_html_url(final_url, config)
+            payload = response.read(byte_limit + 1)
+            content_encoding = response.headers.get("Content-Encoding", "").lower()
+    except (urllib.error.URLError, TimeoutError, socket.timeout) as exc:
+        raise RuntimeError(f"unable to retrieve linked HTML: {exc}") from exc
+    if len(payload) > byte_limit:
+        raise RuntimeError("linked HTML exceeds size limit")
+    if "gzip" in content_encoding or payload.startswith(b"\x1f\x8b"):
+        try:
+            with gzip.GzipFile(fileobj=io.BytesIO(payload)) as compressed:
+                payload = compressed.read(byte_limit + 1)
+        except OSError as exc:
+            raise RuntimeError("linked HTML gzip payload is invalid") from exc
+        if len(payload) > byte_limit:
+            raise RuntimeError("decompressed linked HTML exceeds size limit")
+    return payload
+
+
+def _validated_linked_html_url(
+    url: str, config: dict[str, Any]
+) -> tuple[str, set[str], tuple[str, ...]]:
+    try:
+        linked_url = canonical_url(url)
+    except ValueError as exc:
+        raise RuntimeError("linked HTML URL is invalid") from exc
+    parsed = urlsplit(linked_url)
+    if parsed.scheme != "https":
+        raise RuntimeError("linked HTML must use HTTPS")
+    allowed_hosts = _configured_allowed_hosts(config)
+    host = (parsed.hostname or "").lower().rstrip(".")
+    exact_host = bool(config.get("linkedHtmlRequireExactHost", False))
+    if not _host_is_allowed(host, allowed_hosts, allow_subdomains=not exact_host):
+        raise RuntimeError("linked HTML host is not allowlisted")
+    path_prefixes = tuple(
+        _validate_string_array(
+            config.get("linkedHtmlPathPrefixes"),
+            "linkedHtmlPathPrefixes",
+            maximum=8,
+            item_limit=200,
+        )
+    )
+    if not path_prefixes or not any(
+        parsed.path.startswith(prefix) for prefix in path_prefixes
+    ):
+        raise RuntimeError("linked HTML path is not allowlisted")
+    suffix = Path(parsed.path).suffix.lower()
+    if suffix and suffix not in {".html", ".htm"}:
+        raise RuntimeError("linked HTML URL does not identify an HTML page")
+    return linked_url, allowed_hosts, path_prefixes
+
+
+def _extract_official_html_detail(
+    payload: bytes, config: dict[str, Any], title: str = ""
+) -> str:
+    if not payload:
+        return ""
+    text = payload.decode("utf-8", errors="replace")
+    root_ids = set(
+        _validate_string_array(
+            config.get("linkedHtmlRootIds"),
+            "linkedHtmlRootIds",
+            maximum=8,
+            item_limit=100,
+        )
+    )
+    parser = _OfficialHtmlExtractor(root_ids)
+    try:
+        parser.feed(text)
+        parser.close()
+    except Exception as exc:
+        raise RuntimeError("linked official HTML is invalid") from exc
+    values = parser.values["root"] or parser.values["article"] or parser.values["main"]
+    normalized_title = normalize_title(title)
+    selected: list[str] = []
+    seen: set[str] = set()
+    for raw in values:
+        value = clean_text(raw, 1_500)
+        value = re.sub(
+            r"^(?:プレスリリース\s*)?(?:(?:X\s*ポスト|Tweet|印刷)\s*)+",
+            "",
+            value,
+            flags=re.IGNORECASE,
+        ).strip()
+        if not value or _LINKED_HTML_BOILERPLATE.search(value):
+            continue
+        normalized = unicodedata.normalize("NFKC", value).casefold()
+        compact = re.sub(r"\s+", "", normalized)
+        if not compact or compact in seen:
+            continue
+        if normalized_title and normalize_title(value) == normalized_title:
+            continue
+        if re.fullmatch(r"(?:別紙|関連資料|参考資料|添付資料|概要)", value):
+            continue
+        seen.add(compact)
+        selected.append(value)
+
+    detail = " ".join(selected)
+    if len(detail) <= MAX_LINKED_HTML_TEXT_CHARS:
+        return detail
+    clipped = detail[:MAX_LINKED_HTML_TEXT_CHARS]
+    sentence_end = max(clipped.rfind("。"), clipped.rfind("！"), clipped.rfind("？"))
+    if sentence_end >= DEFAULT_LINKED_HTML_MINIMUM_CHARS:
+        return clipped[: sentence_end + 1].rstrip()
+    return clipped.rstrip()
+
+
 def _configured_allowed_hosts(config: dict[str, Any]) -> set[str]:
     hosts = {
         str(value).lower().rstrip(".")
@@ -543,7 +1122,11 @@ def _configured_allowed_hosts(config: dict[str, Any]) -> set[str]:
     return hosts
 
 
-def _host_is_allowed(host: str, allowed_hosts: set[str]) -> bool:
+def _host_is_allowed(
+    host: str, allowed_hosts: set[str], *, allow_subdomains: bool = True
+) -> bool:
+    if not allow_subdomains:
+        return host in allowed_hosts
     return any(
         host == allowed or host.endswith(f".{allowed}") for allowed in allowed_hosts
     )

@@ -10,8 +10,8 @@ from pathlib import Path
 from typing import Any
 from urllib.parse import quote
 
-from .models import ARTICLE_TYPES, Candidate, StoryDraft
-from .text_utils import clean_text, stable_hash
+from .models import ARTICLE_TYPES, CATEGORIES, Candidate, StoryDraft
+from .text_utils import clip_balanced_title, clean_text, complete_text, stable_hash
 from .time_windows import CoverageWindow, JST
 
 
@@ -45,11 +45,11 @@ def build_edition(
             item.primary_source for item in evidence
         ):
             importance = 3
-        summary = clean_text(draft.summary, 300)
-        why_it_matters = clean_text(draft.why_it_matters, 140)
+        summary = complete_text(draft.summary, 420)
+        why_it_matters = complete_text(draft.why_it_matters, 220)
         facts = _clean_values(draft.facts, 240, limit=10)
         impact = _clean_values(draft.impact, 240, limit=8)
-        background = clean_text(draft.background, 500)
+        background = complete_text(draft.background, 520)
         watch_points = _clean_values(draft.watch_points, 180, limit=6)
         facts, impact, background, watch_points = _deduplicate_article_fields(
             facts, impact, background, watch_points
@@ -65,26 +65,41 @@ def build_edition(
                 "slug": slug,
                 "publishedAt": published_at.isoformat(),
                 "updatedAt": generated_at.astimezone(JST).isoformat(),
-                "title": clean_text(draft.title, 70),
-                "dek": clean_text(draft.dek, 120),
+                "title": clip_balanced_title(draft.title, 120),
+                "dek": complete_text(draft.dek, 180),
                 "summary": summary,
                 "whyItMatters": why_it_matters,
                 "articleType": article_type,
+                "deskLens": clean_text(draft.desk_lens, 40),
+                "eventKeys": [
+                    clean_text(value, 180) for value in draft.event_keys if value
+                ],
                 "facts": facts,
                 "impactPoints": impact,
                 "background": background,
                 "watchPoints": watch_points,
-                "body": [
-                    value
-                    for value in (summary, *impact, background, *watch_points)
-                    if value
-                ],
+                "body": _article_body(
+                    summary, impact, background, watch_points
+                ),
                 "sections": sections,
                 "updates": updates,
                 "category": draft.category,
                 "importance": importance,
                 "sources": sources,
                 "sourceCount": len(source_urls),
+                "freshSourceCount": sum(
+                    not item.context_only for item in evidence
+                ),
+                "continuationSourceCount": sum(
+                    item.context_only for item in evidence
+                ),
+                "continuationOrigins": sorted(
+                    {
+                        item.origin_edition_id
+                        for item in evidence
+                        if item.context_only and item.origin_edition_id
+                    }
+                ),
                 "publisherCount": len(publisher_ids),
                 "tags": [clean_text(tag, 30) for tag in draft.tags[:3]],
             }
@@ -113,7 +128,6 @@ def build_edition(
         "edition": {
             "id": window.id,
             "date": f"{window.end:%Y-%m-%d}",
-            "time": f"{window.end:%H:%M}",
             "slot": f"{window.end:%H:%M}",
             "label": _edition_label(window.edition),
         },
@@ -143,6 +157,52 @@ def build_edition(
 
 def _publisher_key(candidate: Candidate) -> str:
     return clean_text(candidate.publisher_id or candidate.source_name, 60)
+
+
+def _publisher_group_name(items: list[Candidate], publisher_id: str) -> str:
+    """Return one media label for feeds grouped under the same publisher.
+
+    Feed labels often append a desk name (for example, ``NHK ONE 国際`` and
+    ``NHK ONE スポーツ``).  Once those feeds are grouped, exposing one feed's
+    full label as the group name makes that desk look like the source of every
+    link.  Prefer the shared word prefix, then a shared character prefix for
+    Japanese labels without whitespace.
+    """
+    names = list(
+        dict.fromkeys(
+            clean_text(item.source_name, 80) for item in items if item.source_name
+        )
+    )
+    if not names:
+        return clean_text(publisher_id, 60)
+    if len(names) == 1:
+        return names[0]
+
+    token_rows = [name.split() for name in names]
+    common_tokens: list[str] = []
+    for values in zip(*token_rows):
+        if len({value.casefold() for value in values}) != 1:
+            break
+        common_tokens.append(values[0])
+    if common_tokens:
+        return clean_text(" ".join(common_tokens), 80)
+
+    common_prefix = os.path.commonprefix(names).rstrip(
+        " \t\u3000:：/／|｜・-–—（(［[【「『"
+    )
+    if len(common_prefix) >= 2:
+        return clean_text(common_prefix, 80)
+
+    # A human-readable publisher_id is preferable to arbitrarily naming the
+    # group after one feed. Slug-like ids are internal, so keep the shortest
+    # feed label as the least surprising fallback for them.
+    clean_publisher_id = clean_text(publisher_id, 60)
+    if clean_publisher_id and not all(
+        value.isascii() and (value.islower() or value.isdigit() or value == "-")
+        for value in clean_publisher_id
+    ):
+        return clean_publisher_id
+    return min(names, key=lambda value: (len(value), value))
 
 
 def _build_sources(
@@ -175,13 +235,22 @@ def _build_sources(
         if not key_points:
             # A feed headline is safe to attribute without inventing detail.
             # Richer deterministic and AI editors can provide source_notes.
-            key_points = [clean_text(item.title, 180) for item in items]
+            key_points = [clip_balanced_title(item.title, 180) for item in items]
         key_points = _deduplicate_values(key_points, limit=4)
         sources.append(
             {
-                "name": representative.source_name,
+                "name": _publisher_group_name(items, publisher_id),
                 "publisherId": publisher_id,
-                "url": representative.url,
+                "links": [
+                    {
+                        "title": clip_balanced_title(item.title, 180),
+                        "url": item.url,
+                        "publishedAt": item.published_at.astimezone(JST).isoformat(),
+                        "isContinuation": item.context_only,
+                        "originEditionId": item.origin_edition_id,
+                    }
+                    for item in dict.fromkeys(items)
+                ],
                 "publishedAt": representative.published_at.astimezone(JST).isoformat(),
                 "keyPoints": key_points,
                 "type": "一次情報" if is_primary else "報道",
@@ -203,16 +272,34 @@ def _source_note_values(notes: dict[str, str], candidate: Candidate) -> list[str
             continue
         raw: Any = notes[key]
         if isinstance(raw, list):
-            values.extend(clean_text(str(item), 240) for item in raw)
+            values.extend(complete_text(str(item), 240) for item in raw)
         else:
-            values.append(clean_text(str(raw), 240))
+            values.append(complete_text(str(raw), 240))
     return [value for value in values if value]
 
 
 def _clean_values(values: Any, width: int, limit: int) -> list[str]:
     raw_values = [values] if isinstance(values, str) else list(values or [])
-    cleaned = [clean_text(str(value), width) for value in raw_values]
+    cleaned = [complete_text(str(value), width) for value in raw_values]
     return _deduplicate_values(cleaned, limit=limit)
+
+
+def _article_body(
+    summary: str,
+    impact: list[str],
+    background: str,
+    watch_points: list[str],
+) -> list[str]:
+    """Keep the reading body free of sentences already present in its lead."""
+    body: list[str] = []
+    for value in (summary, *impact, background, *watch_points):
+        cleaned = clean_text(value, 520)
+        if not cleaned:
+            continue
+        if any(cleaned in existing or existing in cleaned for existing in body):
+            continue
+        body.append(cleaned)
+    return body
 
 
 def _deduplicate_article_fields(
@@ -344,7 +431,7 @@ def publish_edition(
             "dataUrl": f"data/editions/{edition_id}.json",
             "generatedAt": edition["generatedAt"],
             "date": edition["edition"]["date"],
-            "time": edition["edition"]["time"],
+            "time": edition["edition"]["slot"],
             "label": edition["edition"]["label"],
             "coverageLabel": edition["coverage"]["label"],
             "headline": headline,
@@ -403,7 +490,8 @@ def _markdown_sections(edition: dict[str, Any]) -> str:
     for article in edition["articles"]:
         grouped[article["category"]].append(article)
     sections: list[str] = []
-    for category in ("国内", "海外", "テクノロジー", "エンタメ", "スポーツ", "その他"):
+    category_order = (*CATEGORIES, *sorted(set(grouped) - set(CATEGORIES)))
+    for category in category_order:
         if not grouped[category]:
             continue
         sections.append(f"## {category}")
@@ -416,9 +504,26 @@ def _markdown_sections(edition: dict[str, Any]) -> str:
                 sections.append(f"**注目点:** {_escape_markdown(article['whyItMatters'])}")
             source_lines = []
             for source in article["sources"]:
-                source_lines.append(
-                    f"- [{_escape_markdown(source['name'])}]({source['url']}) — {source['publishedAt']}"
-                )
+                links = [
+                    link
+                    for link in source.get("links", [])
+                    if isinstance(link, dict) and link.get("url")
+                ]
+                for link in links:
+                    label = str(source["name"])
+                    if len(links) > 1 and link.get("title"):
+                        label = f"{label}：{link['title']}"
+                    source_lines.append(
+                        f"- [{_escape_markdown(label)}]({link['url']}) — "
+                        f"{link.get('publishedAt', source['publishedAt'])}"
+                    )
+                # Read old edition objects without carrying the legacy group
+                # URL into newly built source groups.
+                if not links and source.get("url"):
+                    source_lines.append(
+                        f"- [{_escape_markdown(source['name'])}]({source['url']}) — "
+                        f"{source['publishedAt']}"
+                    )
             sections.append("**出典**\n\n" + "\n".join(source_lines))
     return "\n\n".join(sections) if sections else "掲載記事はありません。"
 

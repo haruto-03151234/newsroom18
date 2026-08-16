@@ -8,14 +8,28 @@ import subprocess
 import tempfile
 import unicodedata
 from collections import Counter
+from datetime import date, datetime
 from typing import Any
 
-from .models import ARTICLE_TYPES, CATEGORIES, Candidate, StoryDraft
-from .text_utils import canonical_url, clean_text, looks_japanese, title_similarity
+from .models import (
+    ARTICLE_TYPES,
+    CATEGORIES,
+    Candidate,
+    StoryDraft,
+)
+from .text_utils import (
+    canonical_url,
+    clean_text,
+    clip_balanced_title,
+    complete_text,
+    looks_japanese,
+    title_similarity,
+)
+from .time_windows import JST
 
 
 LOGGER = logging.getLogger(__name__)
-MAX_ARTICLES = 7
+MAX_ARTICLES = 18
 MAX_MODEL_ARTICLES = 3
 MAX_CANDIDATES = 24
 MAX_INPUT_PER_PUBLISHER = 6
@@ -27,6 +41,10 @@ MAX_IMPACT_POINTS = 8
 MAX_WATCH_POINTS = 6
 FEATURE_MIN_DETAIL_POINTS = 3
 FEATURE_MIN_MATERIAL_CHARS = 180
+MAX_EVENT_FEATURES = 3
+EVENT_FEATURE_MIN_GROUNDED_CHARS = 180
+EVENT_FEATURE_MIN_RICH_SOURCE_CHARS = 80
+EVENT_FEATURE_MAX_AGE_HOURS = 48
 
 _BACKGROUND_POINT_PATTERN = re.compile(
     r"(?:これまで|背景(?:には|として|は)?|過去(?:に|の)|従来|前回|当初|以前から|以来)"
@@ -51,6 +69,23 @@ _JMA_MAJOR_DETAIL_PATTERNS = (
     re.compile(r"最大震度\s*[:：]"),
     re.compile(r"(?:津波|海面変動).*(?:心配|警報|注意報|予報|対象地域)"),
 )
+_SPORTS_TITLE_PATTERN = re.compile(
+    r"(?:高校野球|甲子園|プロ野球|野球|投手|打者|本塁打|ホームラン|"
+    r"サッカー|ゴール|リーグ|選手|監督|チーム|準決勝|決勝|優勝|敗戦|勝利)"
+)
+_ENTERTAINMENT_TITLE_PATTERN = re.compile(
+    r"(?:映画|音楽|芸能|俳優|女優|歌手|アニメ|ドラマ|漫画|舞台|テレビ番組)"
+)
+_TECHNOLOGY_TITLE_PATTERN = re.compile(
+    r"(?:生成AI|人工知能|\bAI\b|Claude|ChatGPT|半導体|ソフトウェア|"
+    r"アプリ|スマートフォン|サイバー|ゲーム|デジタル|ロボット)" ,
+    re.IGNORECASE,
+)
+_OVERSEAS_TITLE_PATTERN = re.compile(
+    r"(?:ウクライナ|ロシア|インドネシア|アメリカ|米国|中国|韓国|北朝鮮|"
+    r"フランス|ドイツ|イギリス|英国|EU|欧州|国連|中東|イスラエル|"
+    r"パレスチナ|台湾|インド|ブラジル|コロンビア|海外|首脳会議)"
+)
 
 _PROMPT_INJECTION_PATTERNS = (
     re.compile(
@@ -69,11 +104,28 @@ _PROMPT_INJECTION_PATTERNS = (
 )
 
 
-def create_drafts(candidates: list[Candidate]) -> tuple[list[StoryDraft], str]:
+def create_drafts(
+    candidates: list[Candidate],
+    context_candidates: list[Candidate] | None = None,
+) -> tuple[list[StoryDraft], str]:
     # Production editing is intentionally deterministic. Environment variables
     # must never activate a paid API or an optional local model implicitly.
     prepared = _limit_candidates(candidates, has_ai=False)
-    return _fallback_edit(prepared), "structured"
+    prepared_context = _limit_candidates(context_candidates or [], has_ai=False)
+    fresh_urls = {item.url for item in prepared}
+    desk_pool = prepared + [
+        item for item in prepared_context if item.url not in fresh_urls
+    ][: max(0, MAX_CANDIDATES - len(prepared))]
+    event_features = _build_event_features(desk_pool)
+    individual = _fallback_edit(prepared)
+    if not event_features:
+        return individual, "structured"
+
+    # A qualified feature replaces its duplicate individual card. Other fresh
+    # events remain independent briefs; they are never filler for it.
+    return _combine_feature_and_individual_drafts(
+        event_features, individual, desk_pool
+    ), "structured"
 
 
 def _limit_candidates(candidates: list[Candidate], has_ai: bool) -> list[Candidate]:
@@ -257,6 +309,8 @@ def _candidate_prompt_record(candidate: Candidate) -> dict[str, Any]:
         "publishedAt": candidate.published_at.isoformat(),
         "priority": candidate.priority,
         "primarySource": candidate.primary_source,
+        "contextOnly": candidate.context_only,
+        "originEditionId": candidate.origin_edition_id,
     }
 
 
@@ -427,7 +481,8 @@ def _safe_string_list(value: Any, maximum: int, item_limit: int) -> list[str]:
         return []
     result: list[str] = []
     for item in value:
-        cleaned = _safe_untrusted_text(str(item), item_limit)
+        safe = _safe_untrusted_text(str(item), max(item_limit * 3, 720))
+        cleaned = complete_text(safe, item_limit)
         if cleaned and cleaned not in result:
             result.append(cleaned)
         if len(result) >= maximum:
@@ -536,7 +591,8 @@ def _draft_publishers(
     }
 
 
-def _fallback_edit(candidates: list[Candidate]) -> list[StoryDraft]:
+def _event_clusters(candidates: list[Candidate]) -> list[list[Candidate]]:
+    """Group matching coverage while retaining every independently linked source."""
     clusters: list[list[Candidate]] = []
     for candidate in candidates:
         target = next(
@@ -555,27 +611,549 @@ def _fallback_edit(candidates: list[Candidate]) -> list[StoryDraft]:
             clusters.append([candidate])
         else:
             target.append(candidate)
-
-    # Every prepared candidate has a safe Japanese title, URL and aware
-    # timestamp. A cluster without body text remains a headline-only brief;
-    # the UI intentionally renders those as direct source links.
-
     clusters.sort(
         key=lambda cluster: (
+            1 if any(not item.context_only for item in cluster) else 0,
             _importance(cluster),
+            _cluster_grounded_chars(cluster),
             max(item.priority for item in cluster),
             max(item.published_at for item in cluster),
         ),
         reverse=True,
     )
+    return clusters
+
+
+def _desk_category(cluster: list[Candidate]) -> str:
+    categories = Counter(_editorial_category(item) for item in cluster)
+    lead = _lead_candidate(cluster)
+    return max(
+        categories,
+        key=lambda category: (
+            categories[category],
+            1 if category == _editorial_category(lead) else 0,
+        ),
+    )
+
+
+def _editorial_category(candidate: Candidate) -> str:
+    """Correct obvious RSS section-label errors for desk assignment only."""
+    title = unicodedata.normalize("NFKC", _safe_untrusted_text(candidate.title, 180))
+    if _SPORTS_TITLE_PATTERN.search(title):
+        return "スポーツ"
+    if _ENTERTAINMENT_TITLE_PATTERN.search(title):
+        return "エンタメ"
+    if _TECHNOLOGY_TITLE_PATTERN.search(title):
+        return "テクノロジー"
+    if _OVERSEAS_TITLE_PATTERN.search(title):
+        return "海外"
+    return candidate.category if candidate.category in CATEGORIES else "その他"
+
+
+def _build_event_features(candidates: list[Candidate]) -> list[StoryDraft]:
+    """Build only source-rich features about one coherent news event.
+
+    Broad desk roundups used to make four unrelated briefs look like one long
+    article.  A feature now has exactly one event key.  Context is usable only
+    when it is another update of that same event, never as filler.
+    """
+    drafts: list[StoryDraft] = []
+    for cluster in _feature_event_clusters(candidates):
+        if not any(not item.context_only for item in cluster):
+            continue
+        draft = _build_event_feature(cluster)
+        if _event_feature_is_qualified(draft, cluster):
+            drafts.append(draft)
+    drafts.sort(
+        key=lambda draft: (
+            draft.importance,
+            _feature_detail_chars(
+                [item for item in candidates if item.id in draft.candidate_ids]
+            ),
+            len(draft.candidate_ids),
+        ),
+        reverse=True,
+    )
+    return drafts[:MAX_EVENT_FEATURES]
+
+
+def _feature_event_clusters(candidates: list[Candidate]) -> list[list[Candidate]]:
+    """Conservatively join reporting that describes the same event."""
+    clusters: list[list[Candidate]] = []
+    for candidate in candidates:
+        target = next(
+            (
+                cluster
+                for cluster in clusters
+                if _same_feature_event(candidate, _lead_candidate(cluster))
+            ),
+            None,
+        )
+        if target is None:
+            clusters.append([candidate])
+        else:
+            target.append(candidate)
+    clusters.sort(
+        key=lambda cluster: (
+            any(not item.context_only for item in cluster),
+            _feature_detail_chars(cluster),
+            _importance(cluster),
+            max(item.published_at for item in cluster),
+        ),
+        reverse=True,
+    )
+    return clusters
+
+
+def _same_feature_event(left: Candidate, right: Candidate) -> bool:
+    if left.url == right.url:
+        return True
+    age_hours = abs((left.published_at - right.published_at).total_seconds()) / 3600
+    if age_hours > EVENT_FEATURE_MAX_AGE_HOURS:
+        return False
+    left_signature = _derived_event_signature(left)
+    right_signature = _derived_event_signature(right)
+    if left_signature and left_signature == right_signature:
+        return True
+    if left_signature and right_signature:
+        return False
+    # Archive material needs a stronger identity than headline resemblance.
+    # This prevents an expired regional warning from being used to inflate a
+    # later, merely similar weather brief.  Explicit signatures can still join
+    # a continuing event such as an overseas earthquake update.
+    if left.context_only or right.context_only:
+        return False
+    left_category = _editorial_category(left)
+    right_category = _editorial_category(right)
+    if _feature_category_family(left_category) != _feature_category_family(
+        right_category
+    ):
+        return False
+    similarity = title_similarity(left.title, right.title)
+    return similarity >= 0.72
+
+
+def _derived_event_signature(candidate: Candidate) -> str:
+    """Recognize a few high-confidence identities that headlines paraphrase."""
+    text = unicodedata.normalize(
+        "NFKC",
+        f"{candidate.title} {_fallback_description(candidate)}",
+    ).casefold()
+    if (
+        re.search(r"(?:地震|震源|マグニチュード)", text)
+        and re.search(r"(?:インドネシア|フローレス)", text)
+    ):
+        event_date = _event_date_anchor(candidate, text)
+        magnitude = _earthquake_magnitude_anchor(text)
+        return (
+            f"earthquake:indonesia-flores:{event_date}:m{magnitude}"
+            if event_date and magnitude
+            else ""
+        )
+    jma_origin = re.search(
+        r"発生時刻\s*[:：]\s*(20\d{2}-\d{2}-\d{2}t\d{2}:\d{2}:\d{2}[+\-]\d{2}:\d{2})",
+        text,
+    )
+    jma_place = re.search(r"震央・震源地域\s*[:：]\s*([^。]{2,80})", text)
+    if jma_origin and jma_place:
+        place = _point_key(jma_place.group(1))
+        if place:
+            return f"earthquake:{place}:{jma_origin.group(1)}"
+    if "靖国" in text and re.search(r"(?:参拝|玉串|終戦の日)", text):
+        return "yasukuni:end-of-war-day"
+    if "claude" in text and re.search(r"(?:透かし|watermark)", text):
+        return "technology:claude-watermark"
+    return ""
+
+
+def _earthquake_magnitude_anchor(text: str) -> str:
+    match = re.search(
+        r"(?:マグニチュード|m)\s*[:：]?\s*(\d+(?:\.\d+)?)",
+        text,
+    )
+    return match.group(1) if match else ""
+
+
+def _event_date_anchor(candidate: Candidate, text: str) -> str:
+    """Derive a calendar date only when the source states one explicitly."""
+    local = candidate.published_at.astimezone(JST)
+    iso = re.search(
+        r"(?P<year>20\d{2})[-/](?P<month>\d{1,2})[-/](?P<day>\d{1,2})",
+        text,
+    )
+    if iso:
+        try:
+            return date(
+                int(iso.group("year")),
+                int(iso.group("month")),
+                int(iso.group("day")),
+            ).isoformat()
+        except ValueError:
+            return ""
+    full = re.search(
+        r"(?:(?P<year>20\d{2})年)?(?P<month>\d{1,2})月(?P<day>\d{1,2})日",
+        text,
+    )
+    if full:
+        year = int(full.group("year") or local.year)
+        month = int(full.group("month"))
+        day = int(full.group("day"))
+        try:
+            return date(year, month, day).isoformat()
+        except ValueError:
+            return ""
+    day_only = re.search(
+        r"(?P<day>\d{1,2})日(?:に|、)?(?:起き|発生|観測)", text
+    )
+    if not day_only:
+        return ""
+    day = int(day_only.group("day"))
+    try:
+        return date(local.year, local.month, day).isoformat()
+    except ValueError:
+        return ""
+
+
+def _feature_category_family(category: str) -> str:
+    if category in {"国内", "社会", "経済", "海外", "国際", "その他"}:
+        return "public"
+    if category in {"テクノロジー", "科学", "文化", "エンタメ"}:
+        return "technology_culture"
+    return category
+
+
+def _feature_detail_sentences(cluster: list[Candidate]) -> list[str]:
+    sentences: list[str] = []
+    seen: set[str] = set()
+    for candidate in sorted(cluster, key=_detail_candidate_rank, reverse=True):
+        for sentence in _description_sentences(_fallback_description(candidate)):
+            sentence = _naturalize_feature_sentence(sentence)
+            key = _point_key(sentence)
+            if not key or key in seen:
+                continue
+            seen.add(key)
+            sentences.append(sentence)
+    return sentences
+
+
+def _feature_detail_chars(cluster: list[Candidate]) -> int:
+    return sum(len(_point_key(sentence)) for sentence in _feature_detail_sentences(cluster))
+
+
+def _build_event_feature(cluster: list[Candidate]) -> StoryDraft:
+    candidates = sorted(cluster, key=_detail_candidate_rank, reverse=True)
+    lead = candidates[0]
+    sentences = _feature_detail_sentences(cluster)
+    facts: list[str] = []
+    impact: list[str] = []
+    background_points: list[str] = []
+    watch_points: list[str] = []
+    for candidate in candidates:
+        candidate_points = _structured_description_points(
+            _fallback_description(candidate)
+        )
+        facts.extend(
+            value
+            for point in candidate_points["facts"]
+            if (value := _grounded_point(point, 240))
+        )
+        impact.extend(
+            value
+            for point in candidate_points["impact"]
+            if (value := _grounded_point(point, 240))
+        )
+        background_points.extend(
+            value
+            for point in candidate_points["background"]
+            if (value := _grounded_point(point, 240))
+        )
+        watch_points.extend(
+            value
+            for point in candidate_points["watch"]
+            if (value := _grounded_point(point, 180))
+        )
+    background = complete_text(" ".join(background_points), 520)
+    facts, impact, background, watch_points = _deduplicate_sections(
+        facts, impact, background, watch_points
+    )
+    local_times = [item.published_at.astimezone(JST) for item in candidates]
+    start = min(local_times)
+    end = max(local_times)
+    time_scope = (
+        f"{start.month}月{start.day}日 {start:%H:%M}〜"
+        f"{end.month}月{end.day}日 {end:%H:%M}更新。"
+        if start != end
+        else f"{end.month}月{end.day}日 {end:%H:%M}更新。"
+    )
+    # The lead reads as prose. Attribution remains attached to the fact sheet
+    # and direct source cards rather than interrupting this opening sentence.
+    dek_point = next(iter(sentences), "")
+    jma_dek = _structured_jma_dek(candidates)
+    dek = jma_dek or complete_text(
+        f"{time_scope}{dek_point}", 220
+    )
+    summary = (
+        _structured_jma_summary(jma_dek, impact)
+        if jma_dek
+        else _event_summary(sentences, 420)
+    )
+    category = _desk_category(cluster)
+    return StoryDraft(
+        candidate_ids=[item.id for item in candidates],
+        title=clip_balanced_title(_safe_untrusted_text(lead.title, 360), 120),
+        dek=dek,
+        summary=summary,
+        why_it_matters="",
+        category=category,
+        importance=_importance(cluster),
+        tags=[category],
+        facts=facts[:MAX_FACTS],
+        impact=impact[:MAX_IMPACT_POINTS],
+        background=background,
+        watch_points=watch_points[:MAX_WATCH_POINTS],
+        source_notes={item.id: _fallback_source_note(item) for item in candidates},
+        article_type="feature",
+        desk_lens="event",
+        event_keys=[_feature_event_key(cluster)],
+    )
+
+
+def _feature_event_key(cluster: list[Candidate]) -> str:
+    signatures = {
+        signature
+        for candidate in cluster
+        if (signature := _derived_event_signature(candidate))
+    }
+    return next(iter(signatures)) if len(signatures) == 1 else _event_key(cluster)
+
+
+def _event_summary(sentences: list[str], limit: int) -> str:
+    """Use enough short source sentences to make a meaningful event lead."""
+    selected: list[str] = []
+    length = 0
+    for sentence in sentences:
+        if len(selected) >= 8 or length + len(sentence) > limit:
+            break
+        selected.append(sentence)
+        length += len(sentence)
+        if len(_point_key(" ".join(selected))) >= 100:
+            break
+    return "".join(selected).strip()
+
+
+def _event_feature_is_qualified(
+    draft: StoryDraft, cluster: list[Candidate]
+) -> bool:
+    detailed_publishers = {
+        _publisher_key(candidate)
+        for candidate in cluster
+        if sum(
+            len(_point_key(sentence))
+            for sentence in _description_sentences(_fallback_description(candidate))
+        )
+        >= EVENT_FEATURE_MIN_RICH_SOURCE_CHARS
+    }
+    has_detailed_primary = any(
+        candidate.primary_source
+        and _description_sentences(_fallback_description(candidate))
+        for candidate in cluster
+    )
+    has_fresh_structured_jma = any(
+        not candidate.context_only
+        and candidate.primary_source
+        and _publisher_key(candidate).casefold() == "jma"
+        and _jma_major_detail_count(_fallback_description(candidate)) >= 3
+        for candidate in cluster
+    )
+    grounded_text = " ".join(
+        (*draft.facts, *draft.impact, draft.background, *draft.watch_points)
+    )
+    grounded_points = (
+        len(draft.facts)
+        + len(draft.impact)
+        + len(_description_sentences(draft.background))
+        + len(draft.watch_points)
+    )
+    return (
+        len(draft.event_keys) == 1
+        and any(not item.context_only for item in cluster)
+        and (has_detailed_primary or len(detailed_publishers) >= 2)
+        and (
+            _feature_detail_chars(cluster) >= EVENT_FEATURE_MIN_GROUNDED_CHARS
+            or has_fresh_structured_jma
+        )
+        and grounded_points >= 3
+        and (
+            len(_point_key(grounded_text)) >= EVENT_FEATURE_MIN_GROUNDED_CHARS
+            or has_fresh_structured_jma
+        )
+        and len(_point_key(draft.summary)) >= 80
+        and _feature_copy_is_natural(draft)
+    )
+
+
+def _feature_copy_is_natural(draft: StoryDraft) -> bool:
+    values = [
+        draft.title,
+        draft.dek,
+        draft.summary,
+        *draft.facts,
+        *draft.impact,
+        draft.background,
+        *draft.watch_points,
+    ]
+    text = " ".join(value for value in values if value)
+    return not re.search(
+        r"(?:と配信|を軸に|主要\d+項目|面の焦点|横断整理|配信元の|"
+        r"NEWSROOM 18が要約|公開情報を確認)",
+        text,
+    )
+
+
+def _grounded_point(point: str, limit: int) -> str:
+    safe_point = _safe_untrusted_text(point, max(720, limit * 3))
+    return complete_text(_naturalize_feature_sentence(safe_point), limit)
+
+
+def _naturalize_feature_sentence(sentence: str) -> str:
+    """Render structured official fields as ordinary Japanese prose."""
+    value = unicodedata.normalize("NFKC", sentence).strip()
+    if re.search(r"^[*＊]印は気象庁以外の震度観測点", value):
+        return ""
+    origin = re.fullmatch(
+        r"発生時刻\s*[:：]\s*(20\d{2}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}[+\-]\d{2}:\d{2})。?",
+        value,
+    )
+    if origin:
+        try:
+            at = datetime.fromisoformat(origin.group(1)).astimezone(JST)
+            return f"発生時刻は{at.month}月{at.day}日{at.hour}時{at.minute:02d}分です。"
+        except ValueError:
+            return ""
+    patterns = (
+        (r"震央・震源地域\s*[:：]\s*([^。]+)。?", r"震源は\1です。"),
+        (r"マグニチュード\s*[:：]\s*M?([^。]+)。?", r"地震の規模はマグニチュード\1です。"),
+        (r"最大震度\s*[:：]\s*([^。]+)。?", r"最大震度は\1です。"),
+        (r"震度([0-7](?:弱|強)?)\s*[:：]\s*([^。]+)。?", r"\2で震度\1を観測しました。"),
+    )
+    for pattern, replacement in patterns:
+        if re.fullmatch(pattern, value):
+            return re.sub(pattern, replacement, value)
+    return value
+
+
+def _structured_jma_dek(candidates: list[Candidate]) -> str:
+    candidate = next(
+        (
+            item
+            for item in candidates
+            if not item.context_only
+            and item.primary_source
+            and _publisher_key(item).casefold() == "jma"
+            and _jma_major_detail_count(_fallback_description(item)) >= 3
+        ),
+        None,
+    )
+    if candidate is None:
+        return ""
+    text = unicodedata.normalize("NFKC", _fallback_description(candidate))
+    origin = re.search(
+        r"発生時刻\s*[:：]\s*(20\d{2}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}[+\-]\d{2}:\d{2})",
+        text,
+    )
+    place = re.search(r"震央・震源地域\s*[:：]\s*([^。]+)", text)
+    magnitude = re.search(r"マグニチュード\s*[:：]\s*M?([^。]+)", text)
+    maximum = re.search(r"最大震度\s*[:：]\s*([^。]+)", text)
+    if not (origin and place and magnitude and maximum):
+        return ""
+    try:
+        at = datetime.fromisoformat(origin.group(1)).astimezone(JST)
+    except ValueError:
+        return ""
+    dek = (
+        f"{at.month}月{at.day}日{at.hour}時{at.minute:02d}分、"
+        f"{place.group(1)}を震源とするマグニチュード{magnitude.group(1)}の"
+        f"地震があり、最大震度{maximum.group(1)}を観測しました。"
+    )
+    if "津波の心配はありません" in text or "津波の影響はありません" in text:
+        dek += "津波の心配はありません。"
+    return complete_text(dek, 220)
+
+
+def _structured_jma_summary(dek: str, impact: list[str]) -> str:
+    selected = [dek]
+    for point in impact:
+        if "津波" in point and "津波" in dek:
+            continue
+        if point in dek:
+            continue
+        selected.append(point)
+        if len(_point_key("".join(selected))) >= 100:
+            break
+    return complete_text("".join(selected), 420)
+
+
+def _combine_feature_and_individual_drafts(
+    features: list[StoryDraft],
+    individual: list[StoryDraft],
+    candidates: list[Candidate],
+) -> list[StoryDraft]:
+    """Keep event features first without charging citations to story caps."""
+    by_id = {item.id: item for item in candidates}
+    selected = list(features)
+    featured_ids = {
+        identifier for feature in features for identifier in feature.candidate_ids
+    }
+    publisher_counts: Counter[str] = Counter()
+    for draft in individual:
+        if len(selected) >= MAX_ARTICLES:
+            break
+        if any(identifier in featured_ids for identifier in draft.candidate_ids):
+            continue
+        publishers = _draft_publishers(draft, by_id)
+        if not publishers or any(
+            publisher_counts[publisher] >= MAX_ARTICLES_PER_PUBLISHER
+            for publisher in publishers
+        ):
+            continue
+        selected.append(draft)
+        publisher_counts.update(publishers)
+    return selected
+
+
+def _event_key(cluster: list[Candidate]) -> str:
+    lead = _lead_candidate(cluster)
+    return _point_key(lead.title)
+
+
+def _cluster_grounded_chars(cluster: list[Candidate]) -> int:
+    unique: dict[str, str] = {}
+    for candidate in cluster:
+        for value in (candidate.title, _fallback_description(candidate)):
+            cleaned = _safe_untrusted_text(value, 900)
+            key = _point_key(cleaned)
+            if key:
+                unique.setdefault(key, cleaned)
+    return sum(len(re.sub(r"\s+", "", value)) for value in unique.values())
+
+
+def _fallback_edit(candidates: list[Candidate]) -> list[StoryDraft]:
+    clusters = _event_clusters(candidates)
+
+    # Every prepared candidate has a safe Japanese title, URL and aware
+    # timestamp. A cluster without body text remains a headline-only brief;
+    # the UI intentionally renders those as direct source links.
+
     chosen = _select_diverse_clusters(clusters)
 
     drafts: list[StoryDraft] = []
     for cluster in chosen:
         lead = _lead_candidate(cluster)
-        source_title = _safe_untrusted_text(lead.title, 100)
+        source_title = clip_balanced_title(
+            _safe_untrusted_text(lead.title, 360), 120
+        )
         title = (
-            source_title[:70]
+            source_title
             if looks_japanese(source_title)
             else f"{lead.source_name}が報じた{lead.category}ニュース"
         )
@@ -603,7 +1181,7 @@ def _fallback_edit(candidates: list[Candidate]) -> list[StoryDraft]:
         # Only source sentences explicitly describing chronology or prior
         # context can become background. Missing context stays empty rather
         # than being padded with generic prose.
-        background = _safe_untrusted_text(" ".join(background_points), 520)
+        background = complete_text(" ".join(background_points), 520)
         facts, impact, background, watch_points = _deduplicate_sections(
             facts, impact, background, watch_points
         )
@@ -626,7 +1204,10 @@ def _fallback_edit(candidates: list[Candidate]) -> list[StoryDraft]:
                 background=background,
                 watch_points=watch_points[:MAX_WATCH_POINTS],
                 source_notes=source_notes,
-                article_type=_infer_article_type(cluster),
+                # `_build_event_features` is the only promotion path.  This
+                # prevents a long but incoherent cluster from bypassing the
+                # single-event, freshness and grounded-copy checks above.
+                article_type="brief",
             )
         )
     return drafts
@@ -702,6 +1283,7 @@ def _lead_candidate(cluster: list[Candidate]) -> Candidate:
 def _detail_candidate_rank(candidate: Candidate) -> tuple[Any, ...]:
     description = _fallback_description(candidate)
     return (
+        1 if not candidate.context_only else 0,
         1 if candidate.primary_source and description else 0,
         1 if description else 0,
         1 if candidate.primary_source else 0,
@@ -728,7 +1310,8 @@ def _cluster_detail_sentences(cluster: list[Candidate]) -> list[str]:
 def _fallback_description(candidate: Candidate) -> str:
     # Linked official bulletins are capped at 900 characters by the collector;
     # retain that full grounded payload for section classification.
-    description = _safe_untrusted_text(candidate.description, 900)
+    safe_description = _safe_untrusted_text(candidate.description, 2700)
+    description = complete_text(safe_description, 900)
     if not description or not looks_japanese(description):
         return ""
     if re.search(r"(?:…|\.\.\.)[。.]?$", description):
@@ -762,7 +1345,8 @@ def _description_sentences(description: str) -> list[str]:
     result: list[str] = []
     seen: set[str] = set()
     for raw in re.findall(r"[^。！？!?]+[。！？!?]?", value):
-        sentence = _safe_untrusted_text(raw.strip(), 240)
+        safe = _safe_untrusted_text(raw.strip(), 720)
+        sentence = complete_text(safe, 240)
         if not sentence:
             continue
         if not sentence.endswith(("。", "！", "？", "!", "?")):
@@ -822,8 +1406,13 @@ def _deduplicate_sections(
     def unique(values: list[str], limit: int, width: int) -> list[str]:
         result: list[str] = []
         for value in values:
-            cleaned = _safe_untrusted_text(value, width)
-            key = _point_key(cleaned)
+            safe = _safe_untrusted_text(value, max(width * 3, 720))
+            cleaned = complete_text(safe, width)
+            # Event features prefix points with the publisher. Compare the
+            # underlying sentence so corroboration does not print the same
+            # fact twice under two newsroom names.
+            content = re.sub(r"^[^：]{1,80}：", "", cleaned)
+            key = _point_key(content)
             if not key or key in seen:
                 continue
             seen.add(key)
@@ -840,7 +1429,7 @@ def _deduplicate_sections(
     return (
         unique_facts,
         unique_impact,
-        _safe_untrusted_text(" ".join(unique_background), 520),
+        complete_text(" ".join(unique_background), 520),
         unique_watch,
     )
 
@@ -966,8 +1555,6 @@ def _multi_sentence_excerpt(value: str, limit: int) -> str:
         if remaining <= 0:
             break
         if len(sentence) > remaining:
-            if not selected:
-                selected.append(sentence[:remaining].rstrip("、, ") + "。")
             break
         selected.append(sentence)
         length += len(sentence)
@@ -976,7 +1563,7 @@ def _multi_sentence_excerpt(value: str, limit: int) -> str:
     result = "".join(selected).strip()
     if result and not result.endswith(("。", "！", "？", "!", "?")):
         result += "。"
-    return result[: limit + 1]
+    return result
 
 
 def _sentence_excerpt(value: str, limit: int) -> str:

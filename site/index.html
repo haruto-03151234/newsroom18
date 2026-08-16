@@ -4,40 +4,40 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#f4f0e8">
-    <meta name="description" content="1日3回、信頼できる複数の情報源から重要ニュースを日本語で整理するニュースダイジェスト。">
+    <meta name="description" content="国内・国際・経済・テクノロジー・文化・スポーツを、複数の情報源とともに詳しく伝える日本語ニュースサイト。">
     <meta name="color-scheme" content="light">
     <meta property="og:type" content="website">
     <meta property="og:locale" content="ja_JP">
-    <meta property="og:title" content="NEWSROOM 18 | 1日3回のニュースダイジェスト">
-    <meta property="og:description" content="朝6時・昼12時・夕方18時に更新。重要ニュースの事実・影響・背景・今後の注目点を整理。">
+    <meta property="og:title" content="NEWSROOM 18 | 今日を深く読むニュースサイト">
+    <meta property="og:description" content="朝6時・昼12時・夕方18時に更新。重要ニュースの事実・影響・背景・今後の注目点を、出典とともに詳しく伝えます。">
     <meta property="og:image" content="https://haruto-03151234.github.io/newsroom18/assets/og.png">
     <meta property="og:image:width" content="1731">
     <meta property="og:image:height" content="909">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="NEWSROOM 18 | 1日3回のニュースダイジェスト">
-    <meta name="twitter:description" content="朝6時・昼12時・夕方18時に更新。重要ニュースの事実・影響・背景・今後の注目点を整理。">
+    <meta name="twitter:title" content="NEWSROOM 18 | 今日を深く読むニュースサイト">
+    <meta name="twitter:description" content="朝6時・昼12時・夕方18時に更新。重要ニュースの事実・影響・背景・今後の注目点を、出典とともに詳しく伝えます。">
     <meta name="twitter:image" content="https://haruto-03151234.github.io/newsroom18/assets/og.png">
-    <title>NEWSROOM 18 | 1日3回のニュースダイジェスト</title>
+    <title>NEWSROOM 18 | 今日を深く読むニュースサイト</title>
     <link rel="icon" href="assets/og.png" type="image/png">
-    <link rel="stylesheet" href="assets/styles.css?v=20260816-1">
-    <script src="assets/app.js?v=20260816-4" defer></script>
+    <link rel="stylesheet" href="assets/styles.css?v=20260816-10">
+    <script src="assets/app.js?v=20260816-10" defer></script>
   </head>
   <body>
     <a class="skip-link" href="#main-content">本文へ移動</a>
 
     <div class="utility-bar" aria-label="サイト情報">
       <div class="shell utility-bar__inner">
-        <p><span class="status-dot" aria-hidden="true"></span>1日3回更新</p>
-        <p>Asia/Tokyo <span aria-hidden="true">・</span> 06:00 / 12:00 / 18:00</p>
+        <p><span class="status-dot" aria-hidden="true"></span>公開情報を収集・編集</p>
+        <p>日本時間 <span aria-hidden="true">・</span> 06:00 / 12:00 / 18:00 更新</p>
       </div>
     </div>
 
     <header class="masthead">
       <div class="shell masthead__inner">
         <a class="brand" href="./" aria-label="NEWSROOM 18 トップページ">
-          <span class="brand__kicker">THE THREE-A-DAY BRIEF</span>
+          <span class="brand__kicker">INDEPENDENT JAPANESE NEWSROOM</span>
           <span class="brand__name">NEWSROOM <b>18</b></span>
-          <span class="brand__tagline">事実・影響・背景を、ひとつの記事で。</span>
+          <span class="brand__tagline">事実をつなぎ、背景まで伝える。</span>
         </a>
         <div class="edition-stamp" aria-label="現在の号">
           <span id="edition-date">読み込み中</span>
@@ -47,6 +47,21 @@
       </div>
       <div class="edition-rule" aria-hidden="true"><span></span></div>
     </header>
+
+    <nav class="global-nav" aria-label="主要セクション">
+      <div class="shell global-nav__inner">
+        <a href="./" aria-current="page">トップ</a>
+        <a href="?category=domestic">国内</a>
+        <a href="?category=world">国際</a>
+        <a href="?category=economy">経済</a>
+        <a href="?category=technology">テクノロジー</a>
+        <a href="?category=entertainment">文化・エンタメ</a>
+        <a href="?category=sports">スポーツ</a>
+        <a href="?category=society">社会</a>
+        <a href="?category=science">科学</a>
+        <a href="#archive-heading">過去の号</a>
+      </div>
+    </nav>
 
     <main id="main-content" tabindex="-1">
       <div class="shell">
@@ -62,9 +77,9 @@
         </section>
 
         <div id="dashboard-view" hidden>
-          <section class="brief-meta" aria-labelledby="brief-heading">
+          <section class="brief-meta edition-overview" aria-labelledby="brief-heading">
             <div>
-              <p class="eyebrow" id="brief-heading">LATEST EDITION</p>
+              <p class="eyebrow" id="brief-heading">LATEST EDITION / 最新号</p>
               <p class="brief-meta__update">
                 最終更新 <time id="last-updated" datetime="">—</time>
               </p>
@@ -72,38 +87,55 @@
             <p id="brief-summary" class="brief-meta__summary">最新号を読み込みました。</p>
           </section>
 
-          <div class="lead-layout">
+          <section class="front-page" aria-label="主要ニュース">
             <section class="lead-story" aria-labelledby="lead-heading">
               <div class="section-heading section-heading--inverse">
-                <p id="lead-kicker" class="eyebrow">TOP STORY</p>
-                <h1 id="lead-heading">重要ニュース</h1>
+                <p id="lead-kicker" class="eyebrow">TOP STORY / 総合</p>
+                <h1 id="lead-heading">今日の一面</h1>
               </div>
               <article id="lead-article" class="lead-article"></article>
             </section>
 
+            <section class="lead-stack" aria-labelledby="lead-stack-heading">
+              <div class="section-heading section-heading--compact">
+                <p class="eyebrow">EDITOR'S PICKS</p>
+                <h2 id="lead-stack-heading">注目の記事</h2>
+              </div>
+              <div id="lead-secondary-grid" class="lead-secondary-grid"></div>
+            </section>
+
             <section class="bulletin" aria-labelledby="bulletin-heading">
               <div class="section-heading section-heading--compact">
-                <p class="eyebrow">NEWSLINE</p>
-                <h2 id="bulletin-heading">最新ライン</h2>
+                <p class="eyebrow">NEWSLINE / 時系列</p>
+                <h2 id="bulletin-heading">最新ニュース</h2>
               </div>
               <ol id="bulletin-list" class="bulletin-list"></ol>
             </section>
-          </div>
+          </section>
 
-          <nav class="category-nav" aria-label="ニュースカテゴリ">
-            <div class="category-nav__label">読むテーマ</div>
-            <div id="category-filters" class="filter-list"></div>
-          </nav>
+          <section class="news-controls" aria-label="記事を探す">
+            <div class="news-search">
+              <label for="search-input">記事を検索</label>
+              <div class="news-search__field">
+                <input id="search-input" type="search" inputmode="search" autocomplete="off" placeholder="見出し・本文・配信元から検索">
+                <button id="search-clear" type="button" hidden>消去</button>
+              </div>
+            </div>
+            <nav class="category-nav" aria-label="ニュースカテゴリ">
+              <div class="category-nav__label">ニュース面</div>
+              <div id="category-filters" class="filter-list"></div>
+            </nav>
+          </section>
 
           <div class="content-layout">
-            <div>
-              <section aria-labelledby="important-heading">
+            <div class="news-column">
+              <section class="must-read" aria-labelledby="important-heading">
                 <div class="section-heading section-heading--ruled">
                   <div>
-                    <p class="eyebrow">MUST READ</p>
-                    <h2 id="important-heading">重要ニュース</h2>
+                    <p class="eyebrow">MUST READ / 重要</p>
+                    <h2 id="important-heading">本日の主要ニュース</h2>
                   </div>
-                  <p>複数分野から、影響の大きい動きを厳選</p>
+                  <p>影響の大きさと公共性を基準に選んだ記事</p>
                 </div>
                 <div id="important-grid" class="important-grid"></div>
               </section>
@@ -111,28 +143,43 @@
               <section class="all-news" aria-labelledby="all-news-heading">
                 <div class="section-heading section-heading--ruled">
                   <div>
-                    <p class="eyebrow">FULL STORIES</p>
-                    <h2 id="all-news-heading">カテゴリ別の詳報</h2>
+                    <p class="eyebrow">NEWS DESKS / 各面</p>
+                    <h2 id="all-news-heading">ニュースを分野から読む</h2>
                   </div>
                   <p id="result-count" aria-live="polite"></p>
                 </div>
-                <div id="news-sections"></div>
-                <p id="empty-state" class="empty-state" hidden>このカテゴリの記事はまだありません。</p>
+                <div id="news-sections" class="desk-sections"></div>
+                <p id="empty-state" class="empty-state" hidden>条件に合う記事が見つかりませんでした。</p>
               </section>
 
               <section id="shorts-section" class="shorts-section" aria-labelledby="shorts-heading" hidden>
                 <div class="section-heading section-heading--ruled">
                   <div>
-                    <p class="eyebrow">NEWS BRIEFS</p>
-                    <h2 id="shorts-heading">短報</h2>
+                    <p class="eyebrow">LIVE DESK / 速報</p>
+                    <h2 id="shorts-heading">速報・最新</h2>
                   </div>
-                  <p>速報性の高い動きを、要点と原典で簡潔に</p>
+                  <p>動きの早いニュースを、原典へのリンクとともに掲載</p>
                 </div>
                 <ol id="shorts-list" class="shorts-list"></ol>
               </section>
             </div>
 
-            <aside class="sidebar" aria-label="ニュースアーカイブと編集方針">
+            <aside class="sidebar" aria-label="ニュースデータ、アーカイブと編集方針">
+              <section class="edition-dashboard" aria-labelledby="edition-dashboard-heading">
+                <p class="eyebrow">EDITION DATA</p>
+                <h2 id="edition-dashboard-heading">この号の全体像</h2>
+                <dl id="edition-stats" class="edition-stats"></dl>
+              </section>
+
+              <section class="source-panel" aria-labelledby="source-heading">
+                <div class="section-heading section-heading--compact">
+                  <p class="eyebrow">SOURCE NETWORK</p>
+                  <h2 id="source-heading">配信元・一次情報</h2>
+                </div>
+                <p id="source-summary" class="source-summary"></p>
+                <ol id="source-network" class="source-network"></ol>
+              </section>
+
               <section class="archive-panel" aria-labelledby="archive-heading">
                 <div class="section-heading section-heading--compact">
                   <p class="eyebrow">ARCHIVE</p>
@@ -142,8 +189,8 @@
               </section>
 
               <section class="standards-panel" aria-labelledby="standards-heading">
-                <p class="eyebrow">OUR STANDARD</p>
-                <h2 id="standards-heading">このサイトの編集方針</h2>
+                <p class="eyebrow">OUR STANDARD / 編集基準</p>
+                <h2 id="standards-heading">事実を分け、出典を開く</h2>
                 <p>複数の配信元が同じ出来事を扱う場合は照合し、一次情報は原典を優先して、事実と見通しを分けて掲載します。</p>
                 <ul>
                   <li>各記事に出典リンクを表示</li>
@@ -160,7 +207,7 @@
             <a href="./">トップ</a><span aria-hidden="true">/</span><span id="article-breadcrumb">記事</span>
           </nav>
           <header class="article-header">
-            <p><span id="article-category" class="category-badge"></span><span id="article-importance" class="importance-label"></span></p>
+            <p><span id="article-category" class="category-badge"></span><span id="article-status" class="article-status-badge"></span><span id="article-importance" class="importance-label"></span></p>
             <h1 id="article-title"></h1>
             <p id="article-dek" class="article-dek"></p>
             <div class="article-byline">
@@ -232,7 +279,7 @@
       <div class="shell site-footer__inner">
         <div>
           <strong>NEWSROOM 18</strong>
-          <p>06:00・12:00・18:00、事実・影響・背景を整理して届けます。</p>
+          <p>06:00・12:00・18:00、国内外の重要ニュースを詳しく届けます。</p>
         </div>
         <p>原典へのリンクと更新時刻を明記し、確認できた事実、影響、背景、今後の注目点を分けて掲載します。各配信元の記事の著作権は、それぞれの権利者に帰属します。</p>
       </div>

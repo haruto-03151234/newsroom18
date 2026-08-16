@@ -1,3 +1,5 @@
+import json
+import tempfile
 import time
 import unittest
 from datetime import UTC, datetime
@@ -8,9 +10,12 @@ from scripts.news_pipeline.feeds import (
     DEFAULT_MAX_FEED_BYTES,
     MAX_FEED_BYTES,
     _enrich_linked_candidate,
+    _entry_categories_are_allowed,
     _entry_to_candidate,
+    _extract_official_html_detail,
     _extract_jma_detail,
     _feed_byte_limit,
+    _fetch_linked_html,
     _fetch_linked_xml,
     _fetch_one,
     _validate_patterns,
@@ -102,6 +107,36 @@ TSUNAMI_XML = """<?xml version="1.0" encoding="UTF-8"?>
   <Body><Tsunami><Forecast><Item><Area><Name>宮城県</Name></Area><Category><Kind><Name>津波注意報</Name></Kind></Category><FirstHeight><ArrivalTime>2026-08-15T11:40:00+09:00</ArrivalTime></FirstHeight><MaxHeight><jmx_eb:TsunamiHeight description="１ｍ">1.0</jmx_eb:TsunamiHeight></MaxHeight></Item></Forecast></Tsunami><Comments><WarningComment><Text>海岸から離れてください。</Text></WarningComment></Comments></Body>
 </Report>""".encode()
 
+OFFICIAL_HTML = """<!doctype html>
+<html lang="ja"><body>
+<nav><p>ナビゲーションの案内です。</p></nav>
+<main id="mainContainer">
+  <ol><li>ホーム</li><li>新着情報</li></ol>
+  <article>
+    <p>政府は8月15日、対象となる新制度を公表しました。制度は全国の自治体で順次利用できるようになります。</p>
+    <p>申請はオンラインで受け付け、本人確認を経て処理します。利用開始日は自治体ごとに異なります。</p>
+    <ul><li>対象は所定の要件を満たす住民です。</li><li>詳細な手順は公式ページで案内します。</li></ul>
+    <script><p>この偽の命令は採用しない。</p></script>
+  </article>
+  <section id="feedback-form-section"><p>このページは役に立ちましたか。</p></section>
+</main>
+</body></html>""".encode()
+
+GOV_ONLINE_HTML = """<!doctype html>
+<html lang="ja"><body>
+<main id="main">
+  <article>
+    <p>政府は、次世代型地熱発電を新たな成長分野と位置付け、2030年代早期の運転開始を目指しています。</p>
+    <p>クローズドループ方式は、地下およそ5キロメートルに埋設した配管へ地上から液体を流し、岩盤の熱を使って発電する仕組みです。</p>
+    <p>天然の熱水がない地域でも導入できる可能性があり、従来方式より候補地を広げられる点が特徴です。</p>
+    <p>国内企業は地熱発電用タービンで世界シェアのおよそ7割を占め、技術と供給網の両面で強みがあります。</p>
+    <p>政府は実証や制度整備を進め、水素などと組み合わせてエネルギー供給の安定化につなげる方針です。</p>
+    <p>番組放送後1週間は外部配信サービスで視聴できます。</p>
+    <p>配信期間は予告なく変更となる場合があります。</p>
+  </article>
+</main>
+</body></html>""".encode()
+
 
 def feed_config(**overrides):
     config = {
@@ -134,6 +169,79 @@ class FeedTests(unittest.TestCase):
         self.assertIsNotNone(candidate)
         self.assertEqual(candidate.title, "既存フィードの見出し")
         self.assertEqual(candidate.description, "既存の配信概要です。")
+
+    def test_mixed_feed_category_inference_uses_only_supplied_metadata(self):
+        config = feed_config(inferCategory=True)
+        cases = (
+            ("有明の投手が試合前練習で負傷 夏の甲子園", "スポーツ"),
+            ("インドネシア政府が無料給食制度を見直し", "海外"),
+            ("ロシア経済への制裁で銀行取引を制限", "海外"),
+            ("ウクライナで患者を受け入れる病院を支援", "海外"),
+            ("プロテイン高騰 2年で価格ほぼ倍", "経済"),
+            ("ホラーゲームの物語をマンガ家が解説", "エンタメ"),
+            ("Claudeの生成AIに見えない透かし", "テクノロジー"),
+            ("花火大会の事故で3人軽傷", "社会"),
+            ("NEURALモデルの新しい評価手法", "国内"),
+        )
+        for title, expected in cases:
+            with self.subTest(title=title):
+                candidate = _entry_to_candidate(feed_entry(title), config)
+                self.assertIsNotNone(candidate)
+                self.assertEqual(candidate.category, expected)
+
+    def test_feed_category_tags_take_precedence_over_title_keywords(self):
+        cases = (
+            ("英国籍の少女を横浜で保護", "社会", "社会"),
+            ("横浜が無安打で守り切る", "スポーツ", "スポーツ"),
+            ("企業の新サービス", "ビジネス", "経済"),
+            ("海外市場について首相が説明", "政治", "国内"),
+            ("医療支援を発表", "国際", "海外"),
+            ("AIを使った研究", "サイエンス", "科学"),
+            ("作家の新刊", "文化芸能", "エンタメ"),
+        )
+        config = feed_config(inferCategory=True)
+        for title, tag, expected in cases:
+            with self.subTest(tag=tag):
+                candidate = _entry_to_candidate(
+                    feed_entry(title, tags=[{"term": tag}]), config
+                )
+                self.assertIsNotNone(candidate)
+                self.assertEqual(candidate.category, expected)
+
+    def test_comma_separated_official_subjects_are_inferred_individually(self):
+        config = feed_config(inferCategory=True)
+        cases = (
+            ("次世代型の仕組みを紹介", "テレビ番組,エネルギー", "経済"),
+            ("国の仕事を紹介", "ラジオ番組,労働", "経済"),
+            ("被害防止策を紹介", "防犯,安心・安全（その他）", "社会"),
+        )
+        for title, subject, expected in cases:
+            with self.subTest(subject=subject):
+                candidate = _entry_to_candidate(
+                    feed_entry(title, tags=[{"term": subject}]), config
+                )
+                self.assertIsNotNone(candidate)
+                self.assertEqual(candidate.category, expected)
+
+    def test_unknown_feed_category_tag_falls_back_to_title_then_default(self):
+        config = feed_config(inferCategory=True)
+        sports = _entry_to_candidate(
+            feed_entry("夏の甲子園が開幕", tags=[{"term": "ニュース"}]), config
+        )
+        default = _entry_to_candidate(
+            feed_entry("新しい取り組みを発表", tags=[{"label": "ニュース"}]),
+            config,
+        )
+        self.assertEqual(sports.category, "スポーツ")
+        self.assertEqual(default.category, "国内")
+
+    def test_category_inference_is_opt_in_for_specialist_feeds(self):
+        candidate = _entry_to_candidate(
+            feed_entry("海外市場で株価が上昇"),
+            feed_config(category="海外"),
+        )
+        self.assertIsNotNone(candidate)
+        self.assertEqual(candidate.category, "海外")
 
     def test_atom_content_can_supply_description_and_bracket_title(self):
         config = feed_config(
@@ -291,6 +399,147 @@ class FeedTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             _validate_patterns(["["], "includeTitlePatterns")
 
+    def test_entry_category_filter_keeps_only_configured_official_release_type(self):
+        config = feed_config(includeEntryCategories=["報道発表"])
+        release = feed_entry("制度を公表", tags=[{"term": "報道発表"}])
+        procurement = feed_entry("調達情報", tags=[{"term": "調達情報"}])
+        self.assertTrue(_entry_categories_are_allowed(release, config))
+        self.assertFalse(_entry_categories_are_allowed(procurement, config))
+        self.assertIsNotNone(_entry_to_candidate(release, config))
+        self.assertIsNone(_entry_to_candidate(procurement, config))
+
+    def test_official_html_parser_prefers_article_and_ignores_page_chrome(self):
+        config = feed_config(linkedHtmlRootIds=[])
+        detail = _extract_official_html_detail(
+            OFFICIAL_HTML, config, "制度を公表"
+        )
+        self.assertIn("政府は8月15日", detail)
+        self.assertIn("対象は所定の要件", detail)
+        self.assertNotIn("ナビゲーション", detail)
+        self.assertNotIn("ホーム", detail)
+        self.assertNotIn("役に立ちましたか", detail)
+        self.assertNotIn("偽の命令", detail)
+
+    def test_official_html_parser_can_require_a_legacy_content_root(self):
+        payload = """
+        <html><body><div><p>本文ではない案内です。</p></div>
+        <div id="main_content">
+          <p>農林水産省は調査結果を公表しました。対象地域は全国です。</p>
+          <p>前年度と比べて指標は3ポイント改善し、次回は9月に更新します。</p>
+          <p>追加の内訳は都道府県別の資料に掲載しています。</p>
+        </div></body></html>
+        """.encode()
+        detail = _extract_official_html_detail(
+            payload, feed_config(linkedHtmlRootIds=["main_content"]), "調査結果"
+        )
+        self.assertIn("3ポイント改善", detail)
+        self.assertNotIn("本文ではない", detail)
+
+    def test_government_online_parser_keeps_facts_and_drops_program_metadata(self):
+        config = feed_config(linkedHtmlRootIds=["main"])
+        detail = _extract_official_html_detail(
+            GOV_ONLINE_HTML, config, "エネルギーの新技術"
+        )
+        self.assertGreaterEqual(len(detail), 240)
+        self.assertIn("2030年代早期", detail)
+        self.assertIn("世界シェアのおよそ7割", detail)
+        self.assertNotIn("番組放送後", detail)
+        self.assertNotIn("配信期間", detail)
+
+    def test_linked_html_fetch_requires_allowlisted_https_path_type_and_limits(self):
+        config = feed_config(
+            allowedHosts=["www.digital.go.jp"],
+            linkedHtmlPathPrefixes=["/news/"],
+            linkedHtmlMaxBytes=1000,
+            linkedHtmlTimeoutSeconds=7,
+        )
+        with self.assertRaises(RuntimeError):
+            _fetch_linked_html("https://attacker.example/news/story", config)
+        with self.assertRaises(RuntimeError):
+            _fetch_linked_html("http://www.digital.go.jp/news/story", config)
+        with self.assertRaises(RuntimeError):
+            _fetch_linked_html("https://www.digital.go.jp/procurement/story", config)
+        with self.assertRaises(RuntimeError):
+            _fetch_linked_html("https://www.digital.go.jp/news/report.pdf", config)
+
+        response = MagicMock()
+        response.headers = {"Content-Type": "text/html; charset=UTF-8"}
+        response.geturl.return_value = "https://www.digital.go.jp/news/story"
+        response.read.return_value = OFFICIAL_HTML
+        response.__enter__.return_value = response
+        opener = MagicMock()
+        opener.open.return_value = response
+        with patch(
+            "scripts.news_pipeline.feeds.urllib.request.build_opener",
+            return_value=opener,
+        ) as build_opener:
+            payload = _fetch_linked_html(
+                "https://www.digital.go.jp/news/story", config
+            )
+        self.assertEqual(payload, OFFICIAL_HTML)
+        response.read.assert_called_once_with(1001)
+        self.assertEqual(opener.open.call_args.kwargs["timeout"], 7)
+        self.assertEqual(
+            build_opener.call_args.args[0].allowed_path_prefixes, ("/news/",)
+        )
+
+        response.headers = {"Content-Type": "application/pdf"}
+        with patch(
+            "scripts.news_pipeline.feeds.urllib.request.build_opener",
+            return_value=opener,
+        ), self.assertRaises(RuntimeError):
+            _fetch_linked_html("https://www.digital.go.jp/news/story", config)
+
+        response.headers = {
+            "Content-Type": "text/html",
+            "Content-Length": "1001",
+        }
+        with patch(
+            "scripts.news_pipeline.feeds.urllib.request.build_opener",
+            return_value=opener,
+        ), self.assertRaises(RuntimeError):
+            _fetch_linked_html("https://www.digital.go.jp/news/story", config)
+
+    def test_linked_html_can_require_an_exact_host(self):
+        config = feed_config(
+            url="https://www.gov-online.go.jp/rss/index.rdf",
+            allowedHosts=["www.gov-online.go.jp"],
+            linkedHtmlPathPrefixes=["/article/"],
+            linkedHtmlRequireExactHost=True,
+        )
+        with self.assertRaises(RuntimeError):
+            _fetch_linked_html(
+                "https://sub.www.gov-online.go.jp/article/story.html", config
+            )
+
+    def test_linked_html_config_rejects_unsafe_or_ambiguous_settings(self):
+        base = feed_config(
+            fetchLinkedHtml=True,
+            linkedHtmlParser="official",
+            linkedHtmlPathPrefixes=["/news/"],
+        )
+        for override in (
+            {"linkedHtmlParser": "generic"},
+            {"linkedHtmlPathPrefixes": ["news/"]},
+            {"fetchLinkedXml": True, "linkedXmlParser": "jma"},
+            {"linkedHtmlRequireExactHost": "true"},
+        ):
+            item = dict(base)
+            item.update(override)
+            with tempfile.TemporaryDirectory() as directory:
+                path = Path(directory) / "feeds.json"
+                path.write_text(json.dumps({"feeds": [item]}), encoding="utf-8")
+                with self.assertRaises(ValueError):
+                    load_feed_config(path)
+
+    def test_infer_category_config_must_be_boolean(self):
+        item = feed_config(inferCategory="true")
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "feeds.json"
+            path.write_text(json.dumps({"feeds": [item]}), encoding="utf-8")
+            with self.assertRaisesRegex(ValueError, "inferCategory must be a boolean"):
+                load_feed_config(path)
+
     def test_linked_xml_fetch_requires_allowlisted_https_and_enforces_limits(self):
         config = feed_config(
             allowedHosts=["data.jma.go.jp"],
@@ -434,6 +683,73 @@ class FeedTests(unittest.TestCase):
         self.assertEqual(failures, [])
         fetch_detail.assert_called_once()
 
+    def test_official_linked_html_enriches_only_in_window_candidates(self):
+        inside = feed_entry(
+            "新制度を公表",
+            link="https://www.digital.go.jp/news/story",
+            tags=[{"term": "報道発表"}],
+            published_parsed=time.gmtime(1_700_000_000),
+        )
+        outside = feed_entry(
+            "過去の発表",
+            link="https://www.digital.go.jp/news/old-story",
+            tags=[{"term": "報道発表"}],
+            published_parsed=time.gmtime(1_699_900_000),
+        )
+        config = feed_config(
+            allowedHosts=["www.digital.go.jp"],
+            includeEntryCategories=["報道発表"],
+            fetchLinkedHtml=True,
+            linkedHtmlParser="official",
+            linkedHtmlRequired=True,
+            linkedHtmlPathPrefixes=["/news/"],
+            linkedHtmlMinimumChars=80,
+            primarySource=True,
+        )
+        start = datetime.fromtimestamp(1_699_999_000, tz=UTC)
+        end = datetime.fromtimestamp(1_700_001_000, tz=UTC)
+        with patch(
+            "scripts.news_pipeline.feeds._fetch_one", return_value=[inside, outside]
+        ), patch(
+            "scripts.news_pipeline.feeds._fetch_linked_html",
+            return_value=OFFICIAL_HTML,
+        ) as fetch_detail:
+            candidates, failures = collect_candidates(
+                [config], start, end, grace_hours=0, max_workers=1
+            )
+        self.assertEqual(failures, [])
+        self.assertEqual(len(candidates), 1)
+        self.assertTrue(candidates[0].primary_source)
+        self.assertIn("政府は8月15日", candidates[0].description)
+        fetch_detail.assert_called_once()
+
+    def test_required_official_linked_html_failure_does_not_fall_back_to_headline(self):
+        inside = feed_entry(
+            "新制度を公表",
+            link="https://www.digital.go.jp/news/story",
+            published_parsed=time.gmtime(1_700_000_000),
+        )
+        config = feed_config(
+            allowedHosts=["www.digital.go.jp"],
+            fetchLinkedHtml=True,
+            linkedHtmlParser="official",
+            linkedHtmlRequired=True,
+            linkedHtmlPathPrefixes=["/news/"],
+        )
+        start = datetime.fromtimestamp(1_699_999_000, tz=UTC)
+        end = datetime.fromtimestamp(1_700_001_000, tz=UTC)
+        with patch(
+            "scripts.news_pipeline.feeds._fetch_one", return_value=[inside]
+        ), patch(
+            "scripts.news_pipeline.feeds._fetch_linked_html",
+            side_effect=RuntimeError("unavailable"),
+        ):
+            candidates, failures = collect_candidates(
+                [config], start, end, grace_hours=0, max_workers=1
+            )
+        self.assertEqual(candidates, [])
+        self.assertEqual(failures, ["テスト配信"])
+
     def test_same_jma_event_id_collapses_to_richer_later_product(self):
         bulletin = feed_entry(
             "震度速報",
@@ -508,13 +824,43 @@ class FeedTests(unittest.TestCase):
         self.assertEqual(len(candidates), 1)
         self.assertEqual(candidates[0].url, latest["link"])
 
+    def test_category_inference_is_enabled_only_for_mixed_general_feeds(self):
+        feeds = load_feed_config(ROOT / "config" / "feeds.json")
+        enabled = {item["id"] for item in feeds if item.get("inferCategory")}
+        self.assertEqual(
+            enabled,
+            {
+                "nhk-top",
+                "mainichi-flash",
+                "asahi-headlines",
+                "nhk-science-culture",
+                "itmedia-news",
+                "gov-online",
+            },
+        )
+        by_id = {item["id"]: item for item in feeds}
+        self.assertEqual(by_id["meti-releases"]["category"], "経済")
+        self.assertEqual(by_id["mof-policy"]["category"], "経済")
+        self.assertEqual(by_id["maff-releases"]["category"], "経済")
+        self.assertEqual(by_id["nhk-science-culture"]["category"], "科学")
+        for identifier in (
+            "meti-releases",
+            "mof-policy",
+            "maff-releases",
+            "jma-extra",
+            "jma-eqvol",
+            "nhk-world",
+            "nhk-sports",
+        ):
+            self.assertNotIn("inferCategory", by_id[identifier])
+
     def test_new_primary_feeds_are_configured(self):
         feeds = load_feed_config(ROOT / "config" / "feeds.json")
         by_id = {item["id"]: item for item in feeds}
         for identifier in ("jma-extra", "jma-eqvol"):
             item = by_id[identifier]
             self.assertEqual(item["publisher"], "jma")
-            self.assertEqual(item["category"], "国内")
+            self.assertIn(item["category"], {"国内", "経済"})
             self.assertEqual(item["priority"], 5)
             self.assertTrue(item["primarySource"])
             self.assertEqual(item["maxFeedBytes"], 8_000_000)
@@ -556,6 +902,63 @@ class FeedTests(unittest.TestCase):
         self.assertEqual(mofa["priority"], 5)
         self.assertTrue(mofa["primarySource"])
         self.assertEqual(mofa["allowedHosts"], ["anzen.mofa.go.jp"])
+
+        government_online = by_id["gov-online"]
+        self.assertEqual(government_online["publisher"], "gov-online")
+        self.assertEqual(government_online["category"], "国内")
+        self.assertEqual(government_online["priority"], 5)
+        self.assertTrue(government_online["primarySource"])
+        self.assertTrue(government_online["inferCategory"])
+        self.assertTrue(government_online["fetchLinkedHtml"])
+        self.assertEqual(government_online["linkedHtmlParser"], "official")
+        self.assertTrue(government_online["linkedHtmlRequired"])
+        self.assertEqual(government_online["linkedHtmlRootIds"], ["main"])
+        self.assertEqual(
+            government_online["linkedHtmlPathPrefixes"], ["/article/"]
+        )
+        self.assertTrue(government_online["linkedHtmlRequireExactHost"])
+        self.assertEqual(government_online["linkedHtmlMaxBytes"], 750_000)
+        self.assertEqual(government_online["linkedHtmlTimeoutSeconds"], 8)
+        self.assertEqual(government_online["linkedHtmlMinimumChars"], 240)
+        self.assertIn("募集(?:します|を開始|について)?", government_online["excludeTitlePatterns"])
+        self.assertIn("イベント・募集", government_online["excludeEntryCategories"])
+
+        meti = by_id["meti-releases"]
+        self.assertEqual(meti["publisher"], "meti")
+        self.assertEqual(meti["category"], "経済")
+        self.assertEqual(meti["priority"], 5)
+        self.assertTrue(meti["primarySource"])
+        self.assertNotIn("fetchLinkedHtml", meti)
+
+        for identifier, expected_prefix in (
+            ("maff-releases", "/j/press/"),
+            ("digital-agency-releases", "/news/"),
+        ):
+            item = by_id[identifier]
+            self.assertEqual(item["priority"], 5)
+            self.assertTrue(item["primarySource"])
+            self.assertTrue(item["fetchLinkedHtml"])
+            self.assertEqual(item["linkedHtmlParser"], "official")
+            self.assertTrue(item["linkedHtmlRequired"])
+            self.assertEqual(item["linkedHtmlPathPrefixes"], [expected_prefix])
+            self.assertEqual(item["linkedHtmlMaxBytes"], 750_000)
+            self.assertEqual(item["linkedHtmlTimeoutSeconds"], 8)
+            self.assertEqual(item["linkedHtmlMinimumChars"], 160)
+        self.assertEqual(
+            by_id["digital-agency-releases"]["includeEntryCategories"],
+            ["報道発表"],
+        )
+        self.assertEqual(
+            by_id["maff-releases"]["linkedHtmlRootIds"], ["main_content"]
+        )
+        mof = by_id["mof-policy"]
+        self.assertEqual(mof["publisher"], "mof")
+        self.assertEqual(mof["category"], "経済")
+        self.assertTrue(mof["primarySource"])
+        self.assertTrue(mof["fetchLinkedHtml"])
+        self.assertEqual(mof["linkedHtmlRootIds"], ["main"])
+        self.assertIn("/policy/", mof["linkedHtmlPathPrefixes"])
+        self.assertIn("入札", mof["excludeTitlePatterns"])
 
 
 if __name__ == "__main__":

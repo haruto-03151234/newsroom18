@@ -78,11 +78,27 @@ def remember_articles(
         sources = article.get("sources", [])
         if not sources:
             continue
+        urls: set[str] = set()
+        for source in sources:
+            if not isinstance(source, dict):
+                continue
+            if source.get("url"):
+                urls.add(str(source["url"]))
+            links = source.get("links", [])
+            if not isinstance(links, list):
+                continue
+            urls.update(
+                str(link["url"])
+                for link in links
+                if isinstance(link, dict) and link.get("url")
+            )
+        if not urls:
+            continue
         state.setdefault("stories", []).append(
             {
                 "editionId": edition_id,
                 "title": normalize_title(str(article.get("title", ""))),
                 "publishedAt": str(article.get("publishedAt")),
-                "urls": sorted({str(source.get("url")) for source in sources if source.get("url")}),
+                "urls": sorted(urls),
             }
         )

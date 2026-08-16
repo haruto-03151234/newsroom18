@@ -67,6 +67,7 @@
     recentFeatures: [],
     recentFeaturesForEditionId: "",
     selectedCategory: "all",
+    searchQuery: "",
     loadFailed: false
   };
 
@@ -78,6 +79,8 @@
     cacheDom();
     dom.retryButton.addEventListener("click", () => window.location.reload());
     dom.copyLinkButton.addEventListener("click", copyCurrentUrl);
+    dom.searchInput.addEventListener("input", handleSearch);
+    dom.searchClear.addEventListener("click", clearSearch);
     window.addEventListener("popstate", route);
 
     const [latestResult, archiveResult] = await Promise.allSettled([
@@ -109,8 +112,8 @@
     }
 
     state.latestData = state.data;
-    if (!state.loadFailed && !featureArticles(state.data.articles).length) {
-      state.recentFeatures = await loadRecentFeatures(state.data, state.archive);
+    if (!state.loadFailed && featureArticles(state.data.articles).length < 3) {
+      state.recentFeatures = await loadRecentFeatures(state.data, state.archive, 3);
       state.recentFeaturesForEditionId = state.data.edition.id;
     }
 
@@ -125,9 +128,10 @@
     const ids = [
       "loading-state", "error-state", "error-message", "retry-button",
       "dashboard-view", "article-view", "edition-date", "edition-label", "edition-coverage",
-      "last-updated", "brief-summary", "lead-kicker", "lead-heading", "lead-article", "bulletin-list", "category-filters",
+      "last-updated", "brief-summary", "lead-kicker", "lead-heading", "lead-article", "lead-secondary-grid", "bulletin-list",
+      "search-input", "search-clear", "category-filters", "edition-stats", "source-summary", "source-network",
       "important-grid", "news-sections", "result-count", "empty-state", "shorts-section", "shorts-list", "archive-list",
-      "article-breadcrumb", "article-category", "article-importance", "article-title",
+      "article-breadcrumb", "article-category", "article-status", "article-importance", "article-title",
       "article-dek", "article-updated", "article-fact-sheet", "article-verification",
       "article-facts-group", "article-facts-list", "article-impact-group", "article-impact-list",
       "article-background-group", "article-background",
@@ -177,7 +181,7 @@
       return;
     }
 
-    renderDashboard(params.get("category") || "all");
+    renderDashboard(params.get("category") || "all", params.get("q") || "");
   }
 
   async function resolveArticle(articleId) {
@@ -194,48 +198,69 @@
     }
   }
 
-  async function loadRecentFeatures(currentData, archiveItems) {
+  async function loadRecentFeatures(currentData, archiveItems, visibleLimit = 3) {
     const currentTime = dateValue(currentData.generatedAt);
+    const currentFeatures = sortedByImportance(featureArticles(currentData.articles));
+    const missing = Math.max(0, visibleLimit - currentFeatures.length);
+    if (!missing) return [];
     const candidates = archiveItems
       .filter((item) => item.id !== currentData.edition.id && item.dataUrl)
       .filter((item) => !currentTime || dateValue(item.generatedAt) < currentTime)
-      .slice(0, 5);
+      .filter((item) => !currentTime || currentTime - dateValue(item.generatedAt) <= 48 * 60 * 60 * 1000)
+      .slice(0, 8);
 
     const results = await Promise.allSettled(
       candidates.map(async (item) => normalizeEdition(await fetchJson(item.dataUrl)))
     );
     const editions = results.map((result) => result.status === "fulfilled" ? result.value : null);
-    return selectRecentFeatures(editions);
+    return selectRecentFeatures(editions, currentFeatures, missing);
   }
 
-  function selectRecentFeatures(editions) {
+  function selectRecentFeatures(editions, currentFeatures = [], limit = 3) {
+    const selected = [];
+    const seen = new Set(currentFeatures.map((article) => paragraphKey(article.title)));
     for (const edition of editions) {
       if (!edition) continue;
       const features = sortedByImportance(featureArticles(edition.articles));
-      if (features.length) return features.slice(0, 3);
+      for (const article of features) {
+        const key = paragraphKey(article.title) || articleKey(article);
+        if (!key || seen.has(key)) continue;
+        seen.add(key);
+        selected.push(article);
+        if (selected.length >= limit) return selected;
+      }
     }
-    return [];
+    return selected;
   }
 
   function dashboardRecentFeatures() {
-    if (featureArticles(state.data.articles).length) return [];
     if (state.data.edition.id !== state.recentFeaturesForEditionId) return [];
     return state.recentFeatures;
   }
 
-  function renderDashboard(requestedCategory = "all") {
+  function renderDashboard(requestedCategory = "all", requestedSearch = state.searchQuery) {
     dom.articleView.hidden = true;
     dom.dashboardView.hidden = false;
 
-    const available = new Set(state.data.articles.map((article) => article.category));
+    const available = new Set([
+      ...state.data.articles.map((article) => article.category),
+      ...dashboardRecentFeatures().map((article) => article.category)
+    ]);
     const validFilters = new Set(["all", "important", ...available]);
     state.selectedCategory = validFilters.has(requestedCategory) ? requestedCategory : "all";
+    state.searchQuery = String(requestedSearch || "").trim();
+    dom.searchInput.value = state.searchQuery;
+    dom.searchClear.hidden = !state.searchQuery;
 
     renderLead();
+    renderLeadSecondary();
     renderBulletin();
     renderFilters(available);
     renderImportant();
     renderNewsSections();
+    renderEditionStats();
+    renderSourceNetwork();
+    updateGlobalNavigation();
     updateDocumentMeta();
   }
 
@@ -252,12 +277,12 @@
     const currentFeatures = sortedByImportance(featureArticles(state.data.articles));
     const recentFeatures = dashboardRecentFeatures();
     const usingRecent = !currentFeatures.length && recentFeatures.length > 0;
-    const article = currentFeatures[0] || recentFeatures[0];
+    const article = currentFeatures[0] || recentFeatures[0] || sortedByImportance(state.data.articles)[0];
 
-    dom.leadKicker.textContent = usingRecent ? "RECENT FEATURE" : "TOP STORY";
-    dom.leadHeading.textContent = usingRecent ? "直近の詳報" : "重要ニュース";
+    dom.leadKicker.textContent = usingRecent ? "RECENT FEATURE / 前号から" : "TOP STORY / 総合";
+    dom.leadHeading.textContent = usingRecent ? "直近の詳報" : "今日の一面";
     if (!article) {
-      dom.leadArticle.append(element("p", "lead-article__empty", "この号は短報のみです。"));
+      dom.leadArticle.append(element("p", "lead-article__empty", "最新ニュースはニュースラインに掲載しています。"));
       return;
     }
 
@@ -265,11 +290,48 @@
       dom.leadArticle.append(element("p", "lead-article__origin", editionOriginLabel(article)));
     }
     dom.leadArticle.append(element("span", "lead-article__category", categoryLabel(article.category)));
-    dom.leadArticle.append(headingLink(article, "h2"));
+    const heading = element("h2");
+    heading.append(newsDestinationLink(article, article.title));
+    dom.leadArticle.append(heading);
     if (article.dek || article.summary) {
       dom.leadArticle.append(element("p", "lead-article__dek", article.dek || article.summary));
     }
     dom.leadArticle.append(articleMeta(article, "lead-article__meta"));
+  }
+
+  function renderLeadSecondary() {
+    clear(dom.leadSecondaryGrid);
+    const lead = sortedByImportance(featureArticles(state.data.articles))[0]
+      || dashboardRecentFeatures()[0]
+      || sortedByImportance(state.data.articles)[0];
+    const candidates = uniqueArticles([
+      ...sortedByImportance(featureArticles(state.data.articles)),
+      ...dashboardRecentFeatures(),
+      ...sortedByImportance(state.data.articles)
+    ]).filter((article) => articleKey(article) !== articleKey(lead)).slice(0, 3);
+
+    if (!candidates.length) {
+      dom.leadSecondaryGrid.append(element("p", "lead-secondary__empty", "最新記事はニュースラインに掲載しています。"));
+      return;
+    }
+
+    candidates.forEach((article, index) => {
+      const card = element("article", `lead-secondary lead-secondary--${index + 1}`);
+      const top = element("div", "lead-secondary__top");
+      top.append(
+        element("span", "lead-secondary__category", categoryLabel(article.category)),
+        element("span", "lead-secondary__type", article.articleType === "feature" ? "詳報" : "速報")
+      );
+      const heading = element("h3");
+      heading.append(newsDestinationLink(article, article.title));
+      card.append(top, heading);
+      const summary = article.articleType === "brief"
+        ? sanitizeBriefText(article.summary || article.dek)
+        : article.summary || article.dek;
+      if (summary) card.append(element("p", "lead-secondary__summary", summary));
+      card.append(articleMeta(article, "story-meta"));
+      dom.leadSecondaryGrid.append(card);
+    });
   }
 
   function renderBulletin() {
@@ -278,7 +340,7 @@
     const articles = [...state.data.articles]
       .filter((article) => article.id !== leadId)
       .sort((a, b) => dateValue(b.updatedAt) - dateValue(a.updatedAt))
-      .slice(0, 5);
+      .slice(0, 8);
 
     for (const article of articles) {
       const item = document.createElement("li");
@@ -308,6 +370,25 @@
     }
   }
 
+  function handleSearch(event) {
+    state.searchQuery = String(event.target.value || "").trim();
+    dom.searchClear.hidden = !state.searchQuery;
+    const url = new URL(window.location.href);
+    url.searchParams.delete("article");
+    url.searchParams.delete("edition");
+    if (state.searchQuery) url.searchParams.set("q", state.searchQuery);
+    else url.searchParams.delete("q");
+    window.history.replaceState({}, "", url);
+    renderImportant();
+    renderNewsSections();
+  }
+
+  function clearSearch() {
+    dom.searchInput.value = "";
+    dom.searchInput.focus();
+    handleSearch({ target: dom.searchInput });
+  }
+
   function selectCategory(category) {
     state.selectedCategory = category;
     const url = new URL(window.location.href);
@@ -315,28 +396,37 @@
     url.searchParams.delete("edition");
     if (category === "all") url.searchParams.delete("category");
     else url.searchParams.set("category", category);
+    if (state.searchQuery) url.searchParams.set("q", state.searchQuery);
     window.history.replaceState({}, "", url);
     renderFilters(new Set(state.data.articles.map((article) => article.category)));
     renderImportant();
     renderNewsSections();
+    updateGlobalNavigation();
     document.getElementById("all-news-heading")?.scrollIntoView({ behavior: "smooth", block: "start" });
   }
 
   function renderImportant() {
     clear(dom.importantGrid);
-    let articles = sortedByImportance(featureArticles(state.data.articles)).filter((article) => article.importance >= 4);
+    let articles = uniqueArticles([
+      ...sortedByImportance(featureArticles(state.data.articles)),
+      ...sortedByImportance(dashboardRecentFeatures())
+    ]);
+    articles = articles.filter(matchesSearch);
     if (state.selectedCategory === "important") {
-      articles = articles.slice(0, 6);
+      articles = articles.filter((article) => article.importance >= 4);
     } else if (state.selectedCategory !== "all") {
       articles = articles.filter((article) => article.category === state.selectedCategory);
     }
-    articles.slice(0, 4).forEach((article) => dom.importantGrid.append(storyCard(article, true)));
+    articles.slice(0, 3).forEach((article, index) => dom.importantGrid.append(storyCard(article, {
+      important: true,
+      prominent: index === 0
+    })));
     dom.importantGrid.parentElement.hidden = !articles.length;
   }
 
   function renderNewsSections() {
     clear(dom.newsSections);
-    let articles = state.data.articles;
+    let articles = state.data.articles.filter(matchesSearch);
     if (state.selectedCategory === "important") {
       articles = articles.filter((article) => article.importance >= 4);
     } else if (state.selectedCategory !== "all") {
@@ -346,47 +436,62 @@
     const features = featureArticles(articles);
     const briefs = briefArticles(articles);
     let recentFeatures = dashboardRecentFeatures();
+    recentFeatures = recentFeatures.filter(matchesSearch);
     if (state.selectedCategory === "important") {
       recentFeatures = recentFeatures.filter((article) => article.importance >= 4);
     } else if (state.selectedCategory !== "all") {
       recentFeatures = recentFeatures.filter((article) => article.category === state.selectedCategory);
     }
-    const recentCount = recentFeatures.length
-      ? ` / 直近の詳報 ${recentFeatures.length}本（${editionOriginLabel(recentFeatures[0])}）`
-      : "";
-    dom.resultCount.textContent = `現号：詳報 ${features.length}本・短報 ${briefs.length}本${recentCount}`;
+    const currentCount = articles.length;
+    const recentCount = recentFeatures.length ? `、直近の詳報 ${recentFeatures.length}本を併載` : "";
+    dom.resultCount.textContent = state.searchQuery
+      ? `「${state.searchQuery}」に一致：${currentCount + recentFeatures.length}項目`
+      : `ニュース項目 ${currentCount}件（詳報 ${features.length}件・速報 ${briefs.length}件）${recentCount}`;
     dom.emptyState.hidden = Boolean(articles.length || recentFeatures.length);
 
     renderShorts(briefs);
 
     if (recentFeatures.length) {
-      const section = element("section", "category-section category-section--recent");
+      const section = element("section", "desk-section desk-section--recent");
       section.setAttribute("aria-labelledby", "category-recent-features");
-      const heading = element("div", "category-section__heading");
-      const title = element("h3", "", "直近の詳報");
+      const heading = element("div", "desk-section__heading");
+      const title = element("h3", "", "特集・解説");
       title.id = "category-recent-features";
-      heading.append(title, element("span", "", editionOriginLabel(recentFeatures[0])));
-      const grid = element("div", "story-grid");
-      recentFeatures.forEach((article) => grid.append(storyCard(article)));
+      const label = element("span", "", `${editionOriginLabel(recentFeatures[0])}から`);
+      heading.append(title, label);
+      const grid = element("div", "feature-shelf");
+      recentFeatures.forEach((article, index) => grid.append(storyCard(article, { prominent: index === 0 })));
       section.append(heading, grid);
       dom.newsSections.append(section);
     }
 
     for (const category of CATEGORY_ORDER) {
-      const categoryArticles = features
+      const categoryArticles = articles
         .filter((article) => article.category === category)
-        .sort((a, b) => dateValue(b.updatedAt) - dateValue(a.updatedAt));
+        .sort((a, b) => {
+          const featureDifference = Number(b.articleType === "feature") - Number(a.articleType === "feature");
+          return featureDifference || b.importance - a.importance || dateValue(b.updatedAt) - dateValue(a.updatedAt);
+        });
       if (!categoryArticles.length) continue;
 
-      const section = element("section", "category-section");
+      const section = element("section", "desk-section");
       section.setAttribute("aria-labelledby", `category-${category}`);
-      const heading = element("div", "category-section__heading");
+      const heading = element("div", "desk-section__heading");
       const title = element("h3", "", categoryLabel(category));
       title.id = `category-${category}`;
-      heading.append(title, element("span", "", CATEGORY_META[category]?.english || "NEWS"));
-      const grid = element("div", "story-grid");
-      categoryArticles.forEach((article) => grid.append(storyCard(article)));
-      section.append(heading, grid);
+      heading.append(
+        title,
+        element("span", "", `${CATEGORY_META[category]?.english || "NEWS"} / ${categoryArticles.length}項目`)
+      );
+
+      const layout = element("div", "desk-layout");
+      layout.append(storyCard(categoryArticles[0], { deskLead: true }));
+      if (categoryArticles.length > 1) {
+        const list = element("div", "desk-list");
+        categoryArticles.slice(1, 6).forEach((article) => list.append(storyCard(article, { compact: true })));
+        layout.append(list);
+      }
+      section.append(heading, layout);
       dom.newsSections.append(section);
     }
   }
@@ -409,12 +514,14 @@
       title.append(newsDestinationLink(article, article.title));
       const sourceList = element("div", "shorts-item__sources");
       sourceList.append(element("span", "", "原典"));
-      const linkedSources = article.sources.filter((source) => safeExternalUrl(source.url) !== "#");
+      const linkedSources = article.sources
+        .map((source) => ({ source, url: firstSourceUrl(source) }))
+        .filter((item) => item.url !== "#");
       if (linkedSources.length) {
-        linkedSources.forEach((source, index) => {
+        linkedSources.forEach(({ source, url }, index) => {
           if (index) sourceList.append(document.createTextNode(" / "));
           const link = document.createElement("a");
-          link.href = safeExternalUrl(source.url);
+          link.href = url;
           link.target = "_blank";
           link.rel = "noopener noreferrer nofollow";
           link.textContent = source.name;
@@ -431,19 +538,214 @@
     }
   }
 
-  function storyCard(article, important = false) {
-    const card = element("article", important ? "story-card story-card--important" : "story-card");
+  function storyCard(article, options = {}) {
+    if (options === true) options = { important: true };
+    const classes = ["story-card"];
+    if (options.important) classes.push("story-card--important");
+    if (options.prominent) classes.push("story-card--prominent");
+    if (options.deskLead) classes.push("story-card--desk-lead");
+    if (options.compact) classes.push("story-card--compact");
+    if (article.articleType === "brief") classes.push("story-card--live");
+    const card = element("article", classes.join(" "));
+    const top = element("div", "story-card__top");
     const category = element("span", "story-card__category", categoryLabel(article.category));
-    const title = headingLink(article, "h3");
-    const summary = element("p", "story-card__summary", article.summary || article.dek);
+    const format = element("span", "story-card__format", article.articleType === "feature" ? "詳報" : "速報");
+    top.append(category, format);
+    const title = element("h3");
+    title.append(newsDestinationLink(article, article.title));
+    const summaryText = article.articleType === "brief"
+      ? sanitizeBriefText(article.summary || article.dek)
+      : article.summary || article.dek;
+    const summary = element("p", "story-card__summary", summaryText);
     const meta = articleMeta(article, "story-meta");
-    const sourceNames = article.sources.map((source) => source.name).join(" / ");
-    const sources = element("p", "story-card__sources", `出典：${sourceNames || "リンク未掲載"}`);
     if (article.editionId && article.editionId !== state.data.edition.id) {
       card.append(element("p", "story-card__origin", editionOriginLabel(article)));
     }
-    card.append(category, title, summary, meta, sources);
+    card.append(top, title);
+    if (summaryText && !options.compact) card.append(summary);
+    card.append(meta, sourceLinks(article, options.compact ? 2 : 3));
     return card;
+  }
+
+  function sourceLinks(article, limit = 3) {
+    const container = element("p", "story-card__sources");
+    container.append(document.createTextNode("配信元 "));
+    const sources = article.sources.slice(0, limit);
+    if (!sources.length) {
+      container.append(document.createTextNode("未掲載"));
+      return container;
+    }
+    sources.forEach((source, index) => {
+      if (index) container.append(document.createTextNode(" / "));
+      const safeUrl = safeExternalUrl(source.url);
+      if (safeUrl === "#") {
+        container.append(document.createTextNode(source.name));
+      } else {
+        const link = document.createElement("a");
+        link.href = safeUrl;
+        link.target = "_blank";
+        link.rel = "noopener noreferrer nofollow";
+        link.textContent = source.name;
+        container.append(link);
+      }
+    });
+    if (article.sources.length > limit) {
+      container.append(document.createTextNode(` ほか${article.sources.length - limit}件`));
+    }
+    return container;
+  }
+
+  function renderEditionStats() {
+    clear(dom.editionStats);
+    const articles = state.data.articles;
+    const featureCount = featureArticles(articles).length;
+    const publisherCount = new Set(
+      articles.flatMap((article) => article.sources.map((source) => source.publisherId || paragraphKey(source.name)))
+    ).size;
+    const categoryCount = new Set(articles.map((article) => article.category)).size;
+    const originals = uniqueEditionOriginals(articles);
+    const stats = [
+      ["ニュース項目", `${articles.length}件`],
+      ["現号の詳報", `${featureCount}本`],
+      ["直近の詳報", `${dashboardRecentFeatures().length}本`],
+      ["速報・短報", `${briefArticles(articles).length}件`],
+      ["原典", `${originals.length}件`],
+      ["配信元", `${publisherCount}件`],
+      ["ニュース面", `${categoryCount}分野`],
+      ["継続資料", `${originals.filter((item) => item.isContinuation).length}件`]
+    ];
+    stats.forEach(([label, value]) => {
+      const group = element("div", "edition-stats__item");
+      group.append(element("dt", "", label), element("dd", "", value));
+      dom.editionStats.append(group);
+    });
+  }
+
+  function renderSourceNetwork() {
+    clear(dom.sourceNetwork);
+    const publishers = new Map();
+    state.data.articles.forEach((article) => {
+      article.sources.forEach((source) => {
+        const key = source.publisherId || paragraphKey(source.name);
+        if (!key) return;
+        const record = publishers.get(key) || {
+          name: source.name,
+          url: "#",
+          count: 0,
+          primaryCount: 0
+        };
+        record.count += 1;
+        record.primaryCount += Number(source.isPrimary);
+        const url = safeExternalUrl(source.url);
+        if (record.url === "#" && url !== "#") record.url = url;
+        publishers.set(key, record);
+      });
+    });
+
+    const sorted = [...publishers.values()].sort((a, b) =>
+      b.primaryCount - a.primaryCount || b.count - a.count || a.name.localeCompare(b.name, "ja")
+    );
+    const primaryCount = sorted.filter((publisher) => publisher.primaryCount > 0).length;
+    const originalCount = uniqueEditionOriginals(state.data.articles).length;
+    dom.sourceSummary.textContent = sorted.length
+      ? `${sorted.length}件の配信元・機関、原典 ${originalCount}件を参照${primaryCount ? `（一次情報 ${primaryCount}件）` : ""}`
+      : "配信元情報を確認しています。";
+
+    sorted.slice(0, 10).forEach((publisher) => {
+      const item = document.createElement("li");
+      const name = publisher.url === "#" ? element("span", "", publisher.name) : document.createElement("a");
+      if (name instanceof HTMLAnchorElement) {
+        name.href = publisher.url;
+        name.target = "_blank";
+        name.rel = "noopener noreferrer nofollow";
+        name.textContent = publisher.name;
+      }
+      const meta = element("span", "", `${publisher.count}記事${publisher.primaryCount ? "・一次情報" : ""}`);
+      item.append(name, meta);
+      dom.sourceNetwork.append(item);
+    });
+  }
+
+  function uniqueEditionOriginals(articles) {
+    const originals = new Map();
+    articles.forEach((article) => {
+      article.sources.forEach((source) => {
+        const links = source.links.length ? source.links : [{
+          title: source.name,
+          url: source.url,
+          isContinuation: false
+        }];
+        links.forEach((item) => {
+          const url = safeExternalUrl(item.url);
+          if (url === "#") return;
+          const existing = originals.get(url);
+          originals.set(url, existing ? {
+            ...existing,
+            isContinuation: existing.isContinuation || item.isContinuation
+          } : item);
+        });
+      });
+    });
+    return [...originals.values()];
+  }
+
+  function updateGlobalNavigation() {
+    const links = document.querySelectorAll(".global-nav a");
+    const available = new Set([
+      ...state.data.articles.map((article) => article.category),
+      ...dashboardRecentFeatures().map((article) => article.category)
+    ]);
+    links.forEach((link) => {
+      const linkUrl = new URL(link.href, window.location.href);
+      const linkCategory = linkUrl.searchParams.get("category") || "all";
+      const isSectionLink = linkCategory !== "all" && !link.hash;
+      link.hidden = isSectionLink && !available.has(linkCategory);
+      const isCurrent = !link.hash && linkCategory === state.selectedCategory;
+      if (isCurrent) link.setAttribute("aria-current", "page");
+      else link.removeAttribute("aria-current");
+    });
+  }
+
+  function matchesSearch(article) {
+    if (!state.searchQuery) return true;
+    const searchable = [
+      article.title,
+      article.dek,
+      article.summary,
+      categoryLabel(article.category),
+      ...article.facts,
+      ...article.impactPoints,
+      ...article.background,
+      ...article.watchPoints,
+      ...article.body,
+      ...article.tags,
+      ...article.sources.flatMap((source) => [
+        source.name,
+        ...source.keyPoints,
+        ...source.links.map((link) => link.title)
+      ])
+    ].join(" ");
+    const haystack = comparisonText(searchable);
+    return state.searchQuery
+      .split(/\s+/)
+      .map(comparisonText)
+      .filter(Boolean)
+      .every((term) => haystack.includes(term));
+  }
+
+  function uniqueArticles(articles) {
+    const seen = new Set();
+    return articles.filter((article) => {
+      const key = paragraphKey(article.title) || articleKey(article);
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+  }
+
+  function articleKey(article) {
+    if (!article) return "";
+    return `${article.editionId || ""}:${article.id || article.slug || paragraphKey(article.title)}`;
   }
 
   function renderArchive(items, currentEditionId) {
@@ -457,7 +759,7 @@
       date.dateTime = item.generatedAt;
       date.textContent = formatDate(item.generatedAt, { month: "2-digit", day: "2-digit" });
       const title = element("strong", "", item.label);
-      const count = element("span", "", `${item.articleCount ?? "—"}本・${formatTime(item.generatedAt)}更新`);
+      const count = element("span", "", `${item.articleCount ?? "—"}項目・${formatTime(item.generatedAt)}更新`);
       link.append(date, title, count);
       li.append(link);
       dom.archiveList.append(li);
@@ -469,6 +771,9 @@
     dom.articleView.hidden = false;
     dom.articleBreadcrumb.textContent = article.title;
     dom.articleCategory.textContent = categoryLabel(article.category);
+    dom.articleStatus.textContent = article.continuationSourceCount > 0
+      ? `新着 ${article.freshSourceCount}・継続 ${article.continuationSourceCount}`
+      : `新着 ${article.freshSourceCount}`;
     dom.articleImportance.textContent = article.importance >= 4 ? `重要度 ${article.importance}/5` : "";
     dom.articleTitle.textContent = article.title;
     dom.articleDek.textContent = article.dek || article.summary;
@@ -516,8 +821,8 @@
     const primaryCount = article.sources.filter((source) => source.isPrimary).length;
     if (article.sources.length) {
       dom.articleVerification.textContent = primaryCount
-        ? `配信元 ${article.sources.length}件（一次情報 ${primaryCount}件）`
-        : `配信元 ${article.sources.length}件`;
+        ? `原典 ${article.sourceCount}件・配信元 ${article.publisherCount}件（一次情報 ${primaryCount}件）`
+        : `原典 ${article.sourceCount}件・配信元 ${article.publisherCount}件`;
     } else {
       dom.articleVerification.textContent = "出典リンク未掲載";
     }
@@ -568,12 +873,7 @@
       const li = element("li", "source-card");
       const header = element("div", "source-card__header");
       const heading = document.createElement("h3");
-      const link = document.createElement("a");
-      link.href = safeExternalUrl(source.url);
-      link.target = "_blank";
-      link.rel = "noopener noreferrer nofollow";
-      link.textContent = source.name;
-      heading.append(link);
+      heading.textContent = source.name;
       header.append(heading);
 
       const metadata = element("div", "source-card__meta");
@@ -596,6 +896,33 @@
         const pointList = element("ul", "source-card__points");
         points.forEach((point) => pointList.append(element("li", "", point)));
         li.append(pointLabel, pointList);
+      }
+      if (source.links.length) {
+        const linkLabel = element(
+          "p",
+          "source-card__label",
+          source.links.length > 1 ? `参照した原典 ${source.links.length}件` : "参照した原典"
+        );
+        const linkList = element("ul", "source-card__links");
+        source.links.forEach((item) => {
+          const row = document.createElement("li");
+          const anchor = document.createElement("a");
+          anchor.href = safeExternalUrl(item.url);
+          anchor.target = "_blank";
+          anchor.rel = "noopener noreferrer nofollow";
+          anchor.textContent = item.title || source.name;
+          row.append(anchor);
+          const details = [item.isContinuation ? "継続" : "新着"];
+          if (item.publishedAt) {
+            details.push(formatDate(item.publishedAt, {
+              month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit"
+            }));
+          }
+          if (item.originEditionId) details.push(`元版 ${item.originEditionId}`);
+          if (details.length) row.append(element("span", "source-card__link-meta", details.join("・")));
+          linkList.append(row);
+        });
+        li.append(linkLabel, linkList);
       }
       if (source.isPrimary) {
         li.append(element(
@@ -664,8 +991,22 @@
     const time = document.createElement("time");
     time.dateTime = article.updatedAt;
     time.textContent = `${formatTime(article.updatedAt)} 更新`;
-    const sources = element("span", "source-count", `${article.sources.length}配信元`);
+    const sources = element(
+      "span",
+      "source-count",
+      `${article.sourceCount}原典・${article.publisherCount}配信元`
+    );
     meta.append(time, sources);
+    const fromAnotherEdition = article.editionId && article.editionId !== state.data.edition.id;
+    if (!fromAnotherEdition && (article.freshSourceCount > 0 || article.continuationSourceCount > 0)) {
+      meta.append(element(
+        "span",
+        "continuation-count",
+        article.continuationSourceCount > 0
+          ? `新着${article.freshSourceCount}・継続${article.continuationSourceCount}`
+          : `新着${article.freshSourceCount}`
+      ));
+    }
     return meta;
   }
 
@@ -689,14 +1030,23 @@
 
   function newsDestinationLink(article, text) {
     if (article.articleType !== "brief") return articleLink(article, text);
-    const source = article.sources.find((item) => safeExternalUrl(item.url) !== "#");
-    if (!source) return element("span", "", text);
+    const sourceUrl = article.sources.map(firstSourceUrl).find((url) => url !== "#");
+    if (!sourceUrl) return element("span", "", text);
     const link = document.createElement("a");
-    link.href = safeExternalUrl(source.url);
+    link.href = sourceUrl;
     link.target = "_blank";
     link.rel = "noopener noreferrer nofollow";
     link.textContent = text;
     return link;
+  }
+
+  function firstSourceUrl(source) {
+    if (!source || typeof source !== "object") return "#";
+    for (const item of Array.isArray(source.links) ? source.links : []) {
+      const url = safeExternalUrl(item?.url);
+      if (url !== "#") return url;
+    }
+    return safeExternalUrl(source.url);
   }
 
   function featureArticles(articles) {
@@ -805,9 +1155,25 @@
 
     const cleanedDek = normalizeEditorialText(rawDek, title);
     const cleanedSummary = normalizeEditorialText(rawSummary, title);
-    const factLead = facts[0] || "";
     const finalDek = articleType === "brief" ? sanitizeBriefText(cleanedDek) : cleanedDek;
     const finalSummary = articleType === "brief" ? sanitizeBriefText(cleanedSummary) : cleanedSummary;
+    if (articleType === "brief") {
+      facts = facts.map(sanitizeBriefText).filter(Boolean);
+    }
+    const factLead = facts[0] || "";
+
+    const sourceCount = positiveInteger(item.sourceCount)
+      || new Set(sources.flatMap((source) => source.links.length
+        ? source.links.map((link) => safeExternalUrl(link.url))
+        : [safeExternalUrl(source.url)]).filter((url) => url !== "#")).size
+      || sources.length;
+    const publisherCount = positiveInteger(item.publisherCount) || sources.length;
+    const continuationSourceCount = item.continuationSourceCount == null
+      ? 0
+      : nonNegativeInteger(item.continuationSourceCount);
+    const freshSourceCount = item.freshSourceCount == null
+      ? Math.max(0, sourceCount - continuationSourceCount)
+      : nonNegativeInteger(item.freshSourceCount);
 
     return {
       id,
@@ -821,6 +1187,13 @@
       publishedAt,
       updatedAt,
       sources,
+      sourceCount,
+      publisherCount,
+      freshSourceCount,
+      continuationSourceCount,
+      continuationOrigins: Array.isArray(item.continuationOrigins)
+        ? item.continuationOrigins.map(String).filter(Boolean)
+        : [],
       body,
       sections,
       facts,
@@ -843,22 +1216,80 @@
             publishedAt: "",
             type: "",
             isPrimary: false,
-            keyPoints: []
+            publisherId: "",
+            keyPoints: [],
+            links: [{
+              title: `情報源 ${index + 1}`,
+              url: source,
+              publishedAt: "",
+              isContinuation: false,
+              originEditionId: ""
+            }]
           };
         }
         if (!source || typeof source !== "object") return null;
+        const normalizedUrl = String(source.url || source.link || "#");
+        const links = normalizeSourceLinks(source.links || source.articles || source.items || []);
         return {
           name: String(source.name || source.publisher || source.title || `情報源 ${index + 1}`),
-          url: String(source.url || source.link || "#"),
+          publisherId: String(source.publisherId || source.publisher_id || ""),
+          url: normalizedUrl,
           publishedAt: validDate(source.publishedAt || source.published_at || source.date) || "",
           type: String(source.type || source.kind || ""),
           isPrimary: Boolean(source.isPrimary || source.primary),
           keyPoints: uniqueParagraphs(normalizeParagraphs(
             source.keyPoints || source.points || source.summary || source.note || []
-          ))
+          )),
+          links: links.length ? links : normalizedUrl === "#" ? [] : [{
+            title: String(source.title || source.name || source.publisher || `情報源 ${index + 1}`),
+            url: normalizedUrl,
+            publishedAt: validDate(source.publishedAt || source.published_at || source.date) || "",
+            isContinuation: Boolean(source.isContinuation || source.continuation),
+            originEditionId: String(source.originEditionId || source.originEdition || "")
+          }]
         };
       })
       .filter(Boolean);
+  }
+
+  function normalizeSourceLinks(value) {
+    if (!Array.isArray(value)) return [];
+    const seen = new Set();
+    return value.map((item) => {
+      if (typeof item === "string") {
+        return {
+          title: "原典を開く",
+          url: item,
+          publishedAt: "",
+          isContinuation: false,
+          originEditionId: ""
+        };
+      }
+      if (!item || typeof item !== "object") return null;
+      return {
+        title: String(item.title || item.headline || item.name || "原典を開く"),
+        url: String(item.url || item.link || "#"),
+        publishedAt: validDate(item.publishedAt || item.published_at || item.date) || "",
+        isContinuation: Boolean(item.isContinuation || item.continuation),
+        originEditionId: String(item.originEditionId || item.originEdition || "")
+      };
+    }).filter((item) => {
+      if (!item || safeExternalUrl(item.url) === "#") return false;
+      const key = safeExternalUrl(item.url);
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+  }
+
+  function nonNegativeInteger(value) {
+    const number = Number(value);
+    return Number.isFinite(number) && number >= 0 ? Math.floor(number) : 0;
+  }
+
+  function positiveInteger(value) {
+    const number = nonNegativeInteger(value);
+    return number > 0 ? number : 0;
   }
 
   function normalizeParagraphs(value) {
