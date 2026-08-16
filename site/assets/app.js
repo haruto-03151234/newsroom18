@@ -678,7 +678,7 @@
   function articleLink(article, text) {
     const link = document.createElement("a");
     const params = {};
-    if (article.editionId && article.editionId !== state.data.edition.id) {
+    if (article.editionId) {
       params.edition = article.editionId;
     }
     params.article = article.slug || article.id;
@@ -755,8 +755,8 @@
     const publishedAt = validDate(item.publishedAt || item.published_at || item.date) || new Date().toISOString();
     const updatedAt = validDate(item.updatedAt || item.updated_at) || publishedAt;
     const sources = normalizeSources(item.sources || item.sourceLinks || item.references || []);
-    const body = normalizeParagraphs(item.body || item.content || []);
-    const sections = normalizeSections(item.sections || []);
+    let body = normalizeParagraphs(item.body || item.content || []);
+    let sections = normalizeSections(item.sections || []);
     let facts = normalizeParagraphs(item.facts || item.confirmedFacts || item.keyFacts || []);
     if (!facts.length) facts = paragraphsFromSections(sections, /要点|確認できた事実|何が起きた|概要/);
     if (!facts.length && (item.summary || item.description)) facts = [String(item.summary || item.description)];
@@ -781,19 +781,40 @@
     impactPoints = uniqueParagraphs(impactPoints);
     background = uniqueParagraphs(background);
     const updates = normalizeUpdates(item.updates || item.updateHistory || item.revisions || []);
+    const rawDek = String(item.dek || item.subtitle || item.lead || "");
+    const rawSummary = String(item.summary || item.description || item.dek || "");
+
+    body = normalizeEditorialParagraphs(body, title).filter((paragraph) => !isGenericWatchPoint(paragraph));
+    sections = sections.map((section) => ({
+      ...section,
+      paragraphs: normalizeEditorialParagraphs(section.paragraphs, title).filter(
+        (paragraph) => !isGenericWatchPoint(paragraph)
+      )
+    })).filter((section) => section.paragraphs.length);
+    facts = normalizeEditorialParagraphs(facts, title);
+    impactPoints = normalizeEditorialParagraphs(impactPoints, title);
+    background = normalizeEditorialParagraphs(background, title);
+    watchPoints = normalizeEditorialParagraphs(watchPoints, title).filter(
+      (point) => !isGenericWatchPoint(point)
+    );
+
     const articleType = normalizeArticleType(
       item.articleType || item.storyType || item.format || item.presentation,
       { facts, impactPoints, background, body, sections }
     );
-    const rawDek = String(item.dek || item.subtitle || item.lead || "");
-    const rawSummary = String(item.summary || item.description || item.dek || "");
+
+    const cleanedDek = normalizeEditorialText(rawDek, title);
+    const cleanedSummary = normalizeEditorialText(rawSummary, title);
+    const factLead = facts[0] || "";
+    const finalDek = articleType === "brief" ? sanitizeBriefText(cleanedDek) : cleanedDek;
+    const finalSummary = articleType === "brief" ? sanitizeBriefText(cleanedSummary) : cleanedSummary;
 
     return {
       id,
       slug,
       title,
-      dek: articleType === "brief" ? sanitizeBriefText(rawDek) : rawDek,
-      summary: articleType === "brief" ? sanitizeBriefText(rawSummary) : rawSummary,
+      dek: finalDek || finalSummary || factLead,
+      summary: finalSummary || finalDek || factLead,
       category: normalizeCategory(item.category || item.section || "other"),
       importance: clamp(Number(item.importance ?? item.priority ?? 3), 1, 5),
       articleType,
@@ -919,9 +940,47 @@
       const sourceDirection = /(?:詳しい|詳しくは|詳細|全文|続報|最新情報).{0,80}(?:出典|原典|リンク|配信元|公式サイト|元記事).{0,50}(?:確認|参照|ご覧)/.test(text)
         || /(?:出典|原典|リンク|配信元|公式サイト|元記事).{0,60}(?:確認|参照|ご覧)(?:ください|できます)?/.test(text);
       const headlineAttribution = /^.{1,80}(?:は|が)「.+」と(?:報じ|伝え)ました[。.]?$/.test(text)
+        || /^.{1,100}(?:は|が)この動きを(?:報じ|伝え)ています[。.]?$/.test(text)
         || /^.{1,100}の配信概要では、/.test(text);
       return !(sourceDirection || headlineAttribution || isProceduralKeyPoint(text));
     }).join("");
+  }
+
+  function normalizeEditorialParagraphs(values, title) {
+    return uniqueParagraphs(
+      values.map((value) => normalizeEditorialText(value, title)).filter(Boolean)
+    );
+  }
+
+  function normalizeEditorialText(value, title) {
+    const titleKey = paragraphKey(title);
+    return splitSentences(String(value || "").trim()).map((sentence) => {
+      const text = sentence.trim();
+      if (!text) return "";
+      if (/^(?:一次情報を発信する|一次情報を提供する).{1,160}(?:更新|発表|配信)(?:です|となります)[。.]?$/.test(text)) {
+        return "";
+      }
+      if (/^.{1,100}(?:は|が)この動きを(?:報じ|伝え)ています[。.]?$/.test(text)) {
+        return "";
+      }
+
+      const attribution = text.match(/^.{1,80}?(?:は|が)[「『](.+)[」』]と(?:報じ|伝え)ました[。.]?$/);
+      if (attribution && paragraphKey(attribution[1]) === titleKey) return "";
+
+      return text.replace(/^.{1,100}?の配信概要では[、,]\s*/, "").trim();
+    }).filter(Boolean).join("");
+  }
+
+  function isGenericWatchPoint(value) {
+    const text = paragraphKey(value);
+    return [
+      /各配信元.*(?:続報|訂正)/,
+      /別の独立した配信元.*(?:確認|報道)/,
+      /関係機関や当事者.*公式発表/,
+      /一次情報として扱える発表.*(?:解釈|影響).*別の独立した報道.*確認/,
+      /(?:現時点では)?単一の配信元.*(?:続報|照合|訂正)/,
+      /^(?:今後の)?公式発表や続報.*(?:注目|確認)/
+    ].some((pattern) => pattern.test(text));
   }
 
   function uniqueParagraphs(value) {
