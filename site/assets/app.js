@@ -790,7 +790,7 @@
       paragraphs: normalizeEditorialParagraphs(section.paragraphs, title).filter(
         (paragraph) => !isGenericWatchPoint(paragraph)
       )
-    })).filter((section) => section.heading || section.paragraphs.length);
+    })).filter((section) => section.paragraphs.length);
     facts = normalizeEditorialParagraphs(facts, title);
     impactPoints = normalizeEditorialParagraphs(impactPoints, title);
     background = normalizeEditorialParagraphs(background, title);
@@ -940,6 +940,7 @@
       const sourceDirection = /(?:詳しい|詳しくは|詳細|全文|続報|最新情報).{0,80}(?:出典|原典|リンク|配信元|公式サイト|元記事).{0,50}(?:確認|参照|ご覧)/.test(text)
         || /(?:出典|原典|リンク|配信元|公式サイト|元記事).{0,60}(?:確認|参照|ご覧)(?:ください|できます)?/.test(text);
       const headlineAttribution = /^.{1,80}(?:は|が)「.+」と(?:報じ|伝え)ました[。.]?$/.test(text)
+        || /^.{1,100}(?:は|が)この動きを(?:報じ|伝え)ています[。.]?$/.test(text)
         || /^.{1,100}の配信概要では、/.test(text);
       return !(sourceDirection || headlineAttribution || isProceduralKeyPoint(text));
     }).join("");
@@ -959,6 +960,9 @@
       if (/^(?:一次情報を発信する|一次情報を提供する).{1,160}(?:更新|発表|配信)(?:です|となります)[。.]?$/.test(text)) {
         return "";
       }
+      if (/^.{1,100}(?:は|が)この動きを(?:報じ|伝え)ています[。.]?$/.test(text)) {
+        return "";
+      }
 
       const attribution = text.match(/^.{1,80}?(?:は|が)[「『](.+)[」』]と(?:報じ|伝え)ました[。.]?$/);
       if (attribution && paragraphKey(attribution[1]) === titleKey) return "";
@@ -974,6 +978,7 @@
       /別の独立した配信元.*(?:確認|報道)/,
       /関係機関や当事者.*公式発表/,
       /一次情報として扱える発表.*(?:解釈|影響).*別の独立した報道.*確認/,
+      /(?:現時点では)?単一の配信元.*(?:続報|照合|訂正)/,
       /^(?:今後の)?公式発表や続報.*(?:注目|確認)/
     ].some((pattern) => pattern.test(text));
   }
