@@ -6,6 +6,7 @@ from typing import Any
 
 
 CATEGORIES = ("国内", "海外", "テクノロジー", "エンタメ", "スポーツ", "その他")
+ARTICLE_TYPES = ("brief", "feature")
 
 
 @dataclass(frozen=True)
@@ -47,9 +48,11 @@ class StoryDraft:
     importance: int
     tags: list[str]
     facts: list[str] = field(default_factory=list)
+    impact: list[str] = field(default_factory=list)
     background: str = ""
     watch_points: list[str] = field(default_factory=list)
     source_notes: dict[str, str] = field(default_factory=dict)
+    article_type: str = "brief"
 
 
 def dataclass_dict(value: Any) -> dict[str, Any]:
