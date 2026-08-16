@@ -1,7 +1,25 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T12:16:12.760449+09:00",
+  "updatedAt": "2026-08-16T18:23:38.022834+09:00",
   "editions": [
+    {
+      "id": "2026-08-16-18",
+      "path": "data/editions/2026-08-16-18.json",
+      "dataUrl": "data/editions/2026-08-16-18.json",
+      "generatedAt": "2026-08-16T18:23:38.022834+09:00",
+      "date": "2026-08-16",
+      "time": "18:00",
+      "label": "夕方6時版",
+      "coverageLabel": "08月16日 12:00〜08月16日 18:00",
+      "headline": "熊本県熊本地方で地震 M3.6 最大震度3",
+      "articleCount": 7,
+      "categories": {
+        "国内": 4,
+        "スポーツ": 1,
+        "海外": 1,
+        "テクノロジー": 1
+      }
+    },
     {
       "id": "2026-08-16-12",
       "path": "data/editions/2026-08-16-12.json",

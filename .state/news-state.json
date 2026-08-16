@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-16T12:00:00+09:00",
-  "lastCompletedEdition": "2026-08-16-12",
+  "lastCompletedEnd": "2026-08-16T18:00:00+09:00",
+  "lastCompletedEdition": "2026-08-16-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -178,7 +178,63 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2608/16/2000000555"
       ]
+    },
+    {
+      "editionId": "2026-08-16-18",
+      "title": "熊本県熊本地方で地震m36最大震度3",
+      "publishedAt": "2026-08-16T12:07:37+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260816030738_0_VXSE53_270000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-16-18",
+      "title": "熊本のゆめタウン光の森で異臭がすると通報客が店外へ避難",
+      "publishedAt": "2026-08-16T17:55:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8J2TZMV8JTIPE012M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-16-18",
+      "title": "高校野球花巻東が英明に勝利3年ぶりベスト8機動力生かす",
+      "publishedAt": "2026-08-16T17:44:45+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260816de44380"
+      ]
+    },
+    {
+      "editionId": "2026-08-16-18",
+      "title": "米イラン60日の交渉期限迎えるイラン外務次官はxでけん制",
+      "publishedAt": "2026-08-16T17:42:22+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260816/k00/00m/030/122000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-16-18",
+      "title": "対テロ戦争後の世界バーミヤンに残る大仏の穴対テロ戦争はタリバンを変えたのか",
+      "publishedAt": "2026-08-16T17:27:45+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260815/k00/00m/030/200000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-16-18",
+      "title": "交渉期限迫るイラン停戦存在せず米も対決姿勢",
+      "publishedAt": "2026-08-16T15:40:14+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260816de44371"
+      ]
+    },
+    {
+      "editionId": "2026-08-16-18",
+      "title": "女性研究者支援の大学に年間最大5000万円補助へ文部科学省",
+      "publishedAt": "2026-08-16T13:16:34+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260816de44362"
+      ]
     }
   ],
-  "updatedAt": "2026-08-16T12:16:12.760449+09:00"
+  "updatedAt": "2026-08-16T18:23:38.022834+09:00"
 }
