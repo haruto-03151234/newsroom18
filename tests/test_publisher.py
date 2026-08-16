@@ -53,6 +53,9 @@ class PublisherTests(unittest.TestCase):
             latest = json.loads((root / "site" / "data" / "latest.json").read_text())
             self.assertEqual(latest["articles"][0]["title"], "重要ニュース")
             self.assertEqual(latest["articles"][0]["importance"], 5)
+            self.assertEqual(latest["articles"][0]["articleType"], "brief")
+            self.assertEqual(latest["generationMode"], "structured")
+            self.assertEqual(latest["schemaVersion"], 3)
             self.assertTrue(latest["articles"][0]["sources"][0]["isPrimary"])
             self.assertEqual(latest["articles"][0]["sources"][0]["type"], "一次情報")
             self.assertTrue((root / "content" / "2026-08-15-12.md").exists())
@@ -95,12 +98,14 @@ class PublisherTests(unittest.TestCase):
             importance=5,
             tags=["地震"],
             facts=["関係機関が新しい情報を公表しました。"],
+            impact=["沿岸部が発表の対象地域です。"],
             background="これまでの発表内容を踏まえた続報です。",
             watch_points=["次回の公式発表時刻"],
             source_notes={
                 "nhk-top": "主要ニュースでは発表の概要を伝えています。",
                 "nhk-world": "国際フィードでも同じ発表を扱っています。",
             },
+            article_type="feature",
         )
         window = coverage_window(datetime(2026, 8, 15, 12, 10, tzinfo=JST), "12")
         edition = build_edition(
@@ -116,8 +121,10 @@ class PublisherTests(unittest.TestCase):
         article = edition["articles"][0]
         self.assertEqual(article["importance"], 3)
         self.assertEqual(article["facts"], ["関係機関が新しい情報を公表しました。"])
+        self.assertEqual(article["impactPoints"], ["沿岸部が発表の対象地域です。"])
         self.assertEqual(article["background"], "これまでの発表内容を踏まえた続報です。")
         self.assertEqual(article["watchPoints"], ["次回の公式発表時刻"])
+        self.assertEqual(article["articleType"], "feature")
         self.assertEqual(article["sourceCount"], 2)
         self.assertEqual(article["publisherCount"], 1)
         self.assertEqual(len(article["sources"]), 1)
@@ -126,13 +133,63 @@ class PublisherTests(unittest.TestCase):
         self.assertFalse(article["sources"][0]["isPrimary"])
         self.assertEqual(
             [section["heading"] for section in article["sections"]],
-            ["確認できた事実", "背景", "次に注目"],
+            ["確認できた事実", "影響・対象地域", "背景", "次に注目"],
         )
         self.assertEqual(len(article["updates"]), 2)
         self.assertEqual(edition["stats"]["sourceCount"], 2)
         self.assertEqual(edition["stats"]["publisherCount"], 1)
         self.assertEqual(edition["stats"]["publisherCounts"], {"nhk": 1})
+        self.assertEqual(edition["stats"]["articleTypeCounts"], {"feature": 1})
+        self.assertEqual(edition["generationMode"], "structured")
         self.assertIn("1配信元", edition["summary"])
+
+    def test_publish_contract_caps_facts_and_deduplicates_sections(self):
+        candidate = Candidate(
+            id="official-1",
+            title="公式情報を更新",
+            description="公式情報の詳細です。",
+            url="https://example.com/official/1",
+            source_name="公的機関",
+            category="国内",
+            published_at=datetime(2026, 8, 15, 1, tzinfo=UTC),
+            primary_source=True,
+        )
+        facts = [f"確認事実{index}。" for index in range(12)]
+        target = "対象地域は沿岸部です。"
+        draft = StoryDraft(
+            candidate_ids=[candidate.id],
+            title="公式情報を更新",
+            dek="",
+            summary="公式情報が更新されました。",
+            why_it_matters="",
+            category="国内",
+            importance=4,
+            tags=[],
+            facts=facts,
+            impact=[facts[0], target],
+            background=target,
+            watch_points=[facts[1], "次回発表は18時です。"],
+            article_type="full",
+        )
+        window = coverage_window(datetime(2026, 8, 15, 12, 10, tzinfo=JST), "12")
+
+        edition = build_edition(
+            window,
+            [draft],
+            [candidate],
+            datetime(2026, 8, 15, 12, 10, tzinfo=JST),
+            "deterministic",
+            [],
+            {"name": "テスト"},
+        )
+
+        article = edition["articles"][0]
+        self.assertEqual(len(article["facts"]), 10)
+        self.assertEqual(article["impactPoints"], [target])
+        self.assertEqual(article["background"], "")
+        self.assertEqual(article["watchPoints"], ["次回発表は18時です。"])
+        self.assertEqual(article["articleType"], "brief")
+        self.assertEqual(edition["generationMode"], "structured")
 
 
 if __name__ == "__main__":
