@@ -6,11 +6,12 @@ import os
 import re
 import subprocess
 import tempfile
+import unicodedata
 from collections import Counter
 from typing import Any
 
-from .models import CATEGORIES, Candidate, StoryDraft
-from .text_utils import clean_text, looks_japanese, title_similarity
+from .models import ARTICLE_TYPES, CATEGORIES, Candidate, StoryDraft
+from .text_utils import canonical_url, clean_text, looks_japanese, title_similarity
 
 
 LOGGER = logging.getLogger(__name__)
@@ -21,6 +22,35 @@ MAX_INPUT_PER_PUBLISHER = 6
 MAX_ARTICLES_PER_PUBLISHER = 3
 MIN_DISTINCT_PUBLISHERS = 3
 MIN_SUBSTANTIVE_DESCRIPTION_CHARS = 45
+MAX_FACTS = 10
+MAX_IMPACT_POINTS = 8
+MAX_WATCH_POINTS = 6
+FEATURE_MIN_DETAIL_POINTS = 3
+FEATURE_MIN_MATERIAL_CHARS = 180
+
+_BACKGROUND_POINT_PATTERN = re.compile(
+    r"(?:これまで|背景(?:には|として|は)?|過去(?:に|の)|従来|前回|当初|以前から|以来)"
+)
+_CONCRETE_IMPACT_PATTERN = re.compile(
+    r"(?:対象(?:地域|区域|者|世帯)|影響|被害|避難|警報|注意報|警戒情報|"
+    r"危険警報|浸水|増水|氾濫|土砂災害|暴風|強風|大雨|落雷|突風|"
+    r"津波|海面変動|降灰|最大波|到達予想時刻|交通|欠航|運休|停電|"
+    r"震度[0-7０-７](?:弱|強)?\s*[:：]|レベル[1-5１-５])"
+)
+_WATCH_POINT_PATTERN = re.compile(
+    r"(?:今後|見込み|見通し|おそれ|可能性|予定|次回|続報|更新予定|"
+    r"公表予定|発表予定|留意|注視|引き続き確認)"
+)
+_BROAD_IMPACT_PATTERN = re.compile(
+    r"(?:警戒|注意(?:が必要|してください|を呼びかけ)|危険|避難|被害|影響)"
+)
+_JMA_MAJOR_DETAIL_PATTERNS = (
+    re.compile(r"発生時刻\s*[:：]"),
+    re.compile(r"震央・震源地域\s*[:：]"),
+    re.compile(r"マグニチュード\s*[:：]"),
+    re.compile(r"最大震度\s*[:：]"),
+    re.compile(r"(?:津波|海面変動).*(?:心配|警報|注意報|予報|対象地域)"),
+)
 
 _PROMPT_INJECTION_PATTERNS = (
     re.compile(
@@ -43,16 +73,23 @@ def create_drafts(candidates: list[Candidate]) -> tuple[list[StoryDraft], str]:
     # Production editing is intentionally deterministic. Environment variables
     # must never activate a paid API or an optional local model implicitly.
     prepared = _limit_candidates(candidates, has_ai=False)
-    return _fallback_edit(prepared), "fallback"
+    return _fallback_edit(prepared), "structured"
 
 
 def _limit_candidates(candidates: list[Candidate], has_ai: bool) -> list[Candidate]:
     unique: list[Candidate] = []
     for candidate in candidates:
-        # `ai_required` means that fluent translation needs a model; it must not
-        # make the source disappear completely when no model is configured. The
-        # deterministic path can still publish an attributed headline-only note.
-        if not _safe_untrusted_text(candidate.title, 260):
+        safe_title = _safe_untrusted_text(candidate.title, 260)
+        if not safe_title or candidate.published_at.utcoffset() is None:
+            continue
+        try:
+            canonical_url(candidate.url)
+        except ValueError:
+            continue
+        # Deterministic production has no translation step. Keep Japanese
+        # metadata-only headlines as briefs, but do not publish an untranslated
+        # English headline under an invented generic title.
+        if not has_ai and not looks_japanese(safe_title):
             continue
         if any(candidate.url == item.url for item in unique):
             continue
@@ -129,7 +166,20 @@ def _draft_schema(candidate_ids: list[str]) -> dict[str, Any]:
                         "title": {"type": "string"},
                         "dek": {"type": "string"},
                         "summary": {"type": "string"},
-                        "facts": {"type": "array", "items": {"type": "string"}},
+                        "articleType": {
+                            "type": "string",
+                            "enum": list(ARTICLE_TYPES),
+                        },
+                        "facts": {
+                            "type": "array",
+                            "maxItems": MAX_FACTS,
+                            "items": {"type": "string"},
+                        },
+                        "impact": {
+                            "type": "array",
+                            "maxItems": MAX_IMPACT_POINTS,
+                            "items": {"type": "string"},
+                        },
                         "background": {"type": "string"},
                         "why": {"type": "string"},
                         "watch": {"type": "array", "items": {"type": "string"}},
@@ -157,7 +207,9 @@ def _draft_schema(candidate_ids: list[str]) -> dict[str, Any]:
                         "title",
                         "dek",
                         "summary",
+                        "articleType",
                         "facts",
+                        "impact",
                         "background",
                         "why",
                         "watch",
@@ -182,8 +234,13 @@ def _editor_system_prompt() -> str:
         "候補にない数字・固有名詞・因果関係を補わず、推測を事実として書かないでください。"
         "同一事件の候補は1記事に統合し、candidateIdsへ根拠候補を列挙します。最大3記事です。"
         "全項目を日本語で書き、titleは60字、dekは110字、summaryは280字以内とします。"
-        "factsは確認できる事実を2〜4件、backgroundは確認済み素材だけで350字以内、"
-        "whyは重要性を160字以内、watchは今後確認すべき点を1〜3件にします。"
+        "articleTypeはbriefまたはfeatureです。featureは、詳しい一次情報、または本文を"
+        "提供する独立した出版社2社以上から、重複のない独立項目を3件以上抽出でき、"
+        "根拠素材が180字以上ある場合だけにします。見出しの一致だけではfeatureにしません。"
+        "factsは確認事実を最大10件、impactは影響・対象地域を最大8件、"
+        "backgroundは入力に明記された背景だけで350字以内、whyは重要性を160字以内、"
+        "watchは入力に明記された今後の見通しや確認点を最大6件にします。"
+        "同じ文をfacts、impact、background、watchへ重複して入れないでください。"
         "sourceNotesには使用したcandidateIdごとの情報範囲や留保を書きます。"
         "単一ソースしかない場合はその限界を明記し、独立した出版社とカテゴリを分散させます。"
     )
@@ -313,7 +370,8 @@ def _validate_drafts(raw_articles: Any, candidates: list[Candidate]) -> list[Sto
         title = _safe_untrusted_text(str(raw.get("title", "")), 70)
         if not title:
             continue
-        facts = _safe_string_list(raw.get("facts"), 4, 220)
+        facts = _safe_string_list(raw.get("facts"), MAX_FACTS, 240)
+        impact = _safe_string_list(raw.get("impact"), MAX_IMPACT_POINTS, 240)
         summary = _safe_untrusted_text(str(raw.get("summary", "")), 420)
         if not summary and facts:
             summary = _safe_untrusted_text(" ".join(facts), 420)
@@ -321,6 +379,24 @@ def _validate_drafts(raw_articles: Any, candidates: list[Candidate]) -> list[Sto
             continue
         why = raw.get("why", raw.get("whyItMatters", ""))
         watch = raw.get("watch", raw.get("watchPoints", []))
+        background = _safe_untrusted_text(str(raw.get("background", "")), 520)
+        watch_points = _safe_string_list(watch, MAX_WATCH_POINTS, 180)
+        facts, impact, background, watch_points = _deduplicate_sections(
+            facts, impact, background, watch_points
+        )
+        inferred_article_type = _infer_article_type(
+            [by_id[identifier] for identifier in ids]
+        )
+        requested_article_type = str(raw.get("articleType", inferred_article_type))
+        article_type = (
+            requested_article_type
+            if requested_article_type in ARTICLE_TYPES
+            and not (
+                requested_article_type == "feature"
+                and inferred_article_type != "feature"
+            )
+            else inferred_article_type
+        )
         source_notes = _source_notes(raw.get("sourceNotes"), ids)
         drafts.append(
             StoryDraft(
@@ -333,9 +409,11 @@ def _validate_drafts(raw_articles: Any, candidates: list[Candidate]) -> list[Sto
                 importance=importance,
                 tags=_safe_string_list(raw.get("tags"), 3, 30),
                 facts=facts,
-                background=_safe_untrusted_text(str(raw.get("background", "")), 520),
-                watch_points=_safe_string_list(watch, 3, 180),
+                impact=impact,
+                background=background,
+                watch_points=watch_points,
                 source_notes=source_notes,
+                article_type=article_type,
             )
         )
         used.update(ids)
@@ -478,16 +556,9 @@ def _fallback_edit(candidates: list[Candidate]) -> list[StoryDraft]:
         else:
             target.append(candidate)
 
-    # A lone headline is useful for discovery but does not justify a separate
-    # article page. Publish it only when a substantive Japanese description is
-    # available, or when at least two independent publishers corroborate the
-    # event. This keeps the public edition from being padded with empty notes.
-    clusters = [
-        cluster
-        for cluster in clusters
-        if any(_has_substantive_description(item) for item in cluster)
-        or len({_publisher_key(item) for item in cluster}) >= 2
-    ]
+    # Every prepared candidate has a safe Japanese title, URL and aware
+    # timestamp. A cluster without body text remains a headline-only brief;
+    # the UI intentionally renders those as direct source links.
 
     clusters.sort(
         key=lambda cluster: (
@@ -509,68 +580,33 @@ def _fallback_edit(candidates: list[Candidate]) -> list[StoryDraft]:
             else f"{lead.source_name}が報じた{lead.category}ニュース"
         )
         title = title or f"{lead.category}の更新"
-        publisher_count = len({_publisher_key(item) for item in cluster})
-        description = _fallback_description(lead)
-        summary_description = _multi_sentence_excerpt(description, 280)
-        description_facts = _description_facts(description, maximum=6)
-        if looks_japanese(source_title):
-            opening = f"{lead.source_name}は「{source_title}」と報じました。"
-        else:
-            opening = f"{lead.source_name}は英語見出し「{source_title}」を配信しました。"
-        if summary_description:
-            summary = (
-                f"{opening}{lead.source_name}の配信概要では、"
-                f"{summary_description}"
-            )
-        else:
-            summary = (
-                f"{opening}取得できたのは見出し、公開時刻、出典情報までで、"
-                "本文にない事実は補っていません。"
-            )
-        corroborators = _corroborator_sentence(cluster, lead)
-        if corroborators:
-            summary = _safe_untrusted_text(f"{summary}{corroborators}", 420)
+        detail_sentences = _cluster_detail_sentences(cluster)
+        summary_description = _multi_sentence_excerpt(
+            " ".join(detail_sentences), 280
+        )
+        structured_points = _structured_sentences(detail_sentences)
+        # Public copy contains only source material. A headline-only cluster is
+        # represented by its title, source card and timestamp; it is not padded
+        # with an explanation of the collection process.
+        summary = _safe_untrusted_text(summary_description, 420)
 
         # Attribution already appears in the summary and source card. Reserve
         # the fact sheet for actual content from the source.
-        facts = list(description_facts) if description_facts else [opening]
-        for item in cluster:
-            if item is lead or _publisher_key(item) == _publisher_key(lead):
-                continue
-            supporting_title = _safe_untrusted_text(item.title, 100)
-            if supporting_title:
-                facts.append(f"{item.source_name}も「{supporting_title}」と報じています。")
-            if len(facts) >= 6:
-                break
+        facts = list(structured_points["facts"])
+        impact = list(structured_points["impact"])
+        background_points = list(structured_points["background"])
+        watch_points = list(structured_points["watch"])
+        dek_source = next(iter(impact or facts or watch_points), "")
+        dek = _safe_untrusted_text(dek_source, 140)
+        why = ""
 
-        if publisher_count >= 2:
-            dek = f"{publisher_count}つの独立した出版社の報道を照合しました。"
-            why = (
-                "複数の独立した配信元が同じ出来事を扱っています。"
-                "各社で事実関係や更新時刻が変わる可能性があるため、出典を併せて確認できます。"
-            )
-        elif lead.primary_source:
-            dek = f"一次情報を発信する{lead.source_name}の更新です。"
-            why = (
-                "一次情報として扱える発表ですが、解釈や影響については別の独立した報道も"
-                "確認する必要があります。"
-            )
-        else:
-            dek = f"{lead.source_name}のRSS見出しと配信概要を整理しました。"
-            why = (
-                "現時点では単一の配信元で確認した情報です。事実関係の追加や訂正があり得るため、"
-                "続報との照合が必要です。"
-            )
-
-        # A short feed description rarely contains enough evidence to label a
-        # separate paragraph as background. Repeating the same description
-        # under another heading only makes an article look longer, so leave the
-        # field empty unless a future source supplies distinct context.
-        background = ""
-        watch_points = ["各配信元による続報や訂正"]
-        if publisher_count < 2:
-            watch_points.append("別の独立した配信元による確認")
-        watch_points.append("関係機関や当事者による公式発表")
+        # Only source sentences explicitly describing chronology or prior
+        # context can become background. Missing context stays empty rather
+        # than being padded with generic prose.
+        background = _safe_untrusted_text(" ".join(background_points), 520)
+        facts, impact, background, watch_points = _deduplicate_sections(
+            facts, impact, background, watch_points
+        )
         source_notes = {
             item.id: _fallback_source_note(item)
             for item in cluster
@@ -585,10 +621,12 @@ def _fallback_edit(candidates: list[Candidate]) -> list[StoryDraft]:
                 category=lead.category,
                 importance=_importance(cluster),
                 tags=[lead.category],
-                facts=facts[:6],
+                facts=facts[:MAX_FACTS],
+                impact=impact[:MAX_IMPACT_POINTS],
                 background=background,
-                watch_points=watch_points[:3],
+                watch_points=watch_points[:MAX_WATCH_POINTS],
                 source_notes=source_notes,
+                article_type=_infer_article_type(cluster),
             )
         )
     return drafts
@@ -600,11 +638,8 @@ def _fallback_source_note(candidate: Candidate) -> str:
             f"{candidate.source_name}の公開情報をもとに"
             "NEWSROOM 18が要約・加工"
         )
-    return (
-        f"{candidate.source_name}のRSS見出し"
-        + ("と配信概要" if _fallback_description(candidate) else "・公開時刻")
-        + "を使用"
-    )
+    description = _multi_sentence_excerpt(_fallback_description(candidate), 180)
+    return description or _safe_untrusted_text(candidate.title, 180)
 
 
 def _select_diverse_clusters(
@@ -661,19 +696,39 @@ def _select_diverse_clusters(
 
 
 def _lead_candidate(cluster: list[Candidate]) -> Candidate:
-    return max(
-        cluster,
-        key=lambda item: (
-            item.priority,
-            1 if _fallback_description(item) else 0,
-            len(_fallback_description(item)),
-            item.published_at,
-        ),
+    return max(cluster, key=_detail_candidate_rank)
+
+
+def _detail_candidate_rank(candidate: Candidate) -> tuple[Any, ...]:
+    description = _fallback_description(candidate)
+    return (
+        1 if candidate.primary_source and description else 0,
+        1 if description else 0,
+        1 if candidate.primary_source else 0,
+        len(description),
+        candidate.priority,
+        candidate.published_at,
     )
 
 
+def _cluster_detail_sentences(cluster: list[Candidate]) -> list[str]:
+    """Merge grounded detail with rich primary sources first."""
+    result: list[str] = []
+    seen: set[str] = set()
+    for candidate in sorted(cluster, key=_detail_candidate_rank, reverse=True):
+        for sentence in _description_sentences(_fallback_description(candidate)):
+            key = _point_key(sentence)
+            if not key or key in seen:
+                continue
+            seen.add(key)
+            result.append(sentence)
+    return result
+
+
 def _fallback_description(candidate: Candidate) -> str:
-    description = _safe_untrusted_text(candidate.description, 700)
+    # Linked official bulletins are capped at 900 characters by the collector;
+    # retain that full grounded payload for section classification.
+    description = _safe_untrusted_text(candidate.description, 900)
     if not description or not looks_japanese(description):
         return ""
     if re.search(r"(?:…|\.\.\.)[。.]?$", description):
@@ -694,28 +749,158 @@ def _has_substantive_description(candidate: Candidate) -> bool:
 
 
 def _description_facts(description: str, maximum: int) -> list[str]:
-    """Split one attributed feed description into readable factual points."""
+    """Split one attributed feed description into unique readable points."""
+    return _description_sentences(description)[:maximum]
+
+
+def _description_sentences(description: str) -> list[str]:
     if not description:
         return []
-    # Official JMA Atom summaries lead with a product label. The same label is
-    # already used for the article title, so remove it from the first fact.
+    # Official JMA Atom summaries can lead with a product label. The article
+    # title already carries that label, so it is not repeated as a detail.
     value = re.sub(r"^【[^】]{1,180}】\s*", "", description).strip()
-    sentences = [
-        _safe_untrusted_text(item.strip(), 240)
-        for item in re.findall(r"[^。！？!?]+[。！？!?]?", value)
-        if item.strip()
-    ]
-    facts: list[str] = []
-    for sentence in sentences:
+    result: list[str] = []
+    seen: set[str] = set()
+    for raw in re.findall(r"[^。！？!?]+[。！？!?]?", value):
+        sentence = _safe_untrusted_text(raw.strip(), 240)
         if not sentence:
             continue
         if not sentence.endswith(("。", "！", "？", "!", "?")):
             sentence += "。"
-        if sentence not in facts:
-            facts.append(sentence)
-        if len(facts) >= maximum:
-            break
-    return facts
+        key = _point_key(sentence)
+        if not key or key in seen:
+            continue
+        seen.add(key)
+        result.append(sentence)
+    return result
+
+
+def _structured_description_points(description: str) -> dict[str, list[str]]:
+    """Classify source sentences once, without copying text across sections."""
+    return _structured_sentences(_description_sentences(description))
+
+
+def _structured_sentences(sentences: list[str]) -> dict[str, list[str]]:
+    buckets: dict[str, list[str]] = {
+        "facts": [],
+        "impact": [],
+        "background": [],
+        "watch": [],
+    }
+    for sentence in sentences:
+        normalized = unicodedata.normalize("NFKC", sentence)
+        # Forecast or impact language wins over chronology words. For example,
+        # "これまでに経験したことのない大雨となるおそれ" is a current
+        # warning, not historical background.
+        if _WATCH_POINT_PATTERN.search(normalized):
+            bucket = "watch"
+        elif _CONCRETE_IMPACT_PATTERN.search(normalized):
+            bucket = "impact"
+        elif _BROAD_IMPACT_PATTERN.search(normalized):
+            bucket = "impact"
+        elif _BACKGROUND_POINT_PATTERN.search(normalized):
+            bucket = "background"
+        else:
+            bucket = "facts"
+        buckets[bucket].append(sentence)
+    buckets["facts"] = buckets["facts"][:MAX_FACTS]
+    buckets["impact"] = buckets["impact"][:MAX_IMPACT_POINTS]
+    buckets["background"] = buckets["background"][:3]
+    buckets["watch"] = buckets["watch"][:MAX_WATCH_POINTS]
+    return buckets
+
+
+def _deduplicate_sections(
+    facts: list[str],
+    impact: list[str],
+    background: str,
+    watch_points: list[str],
+) -> tuple[list[str], list[str], str, list[str]]:
+    """Enforce mutually exclusive structured fields at the draft boundary."""
+    seen: set[str] = set()
+
+    def unique(values: list[str], limit: int, width: int) -> list[str]:
+        result: list[str] = []
+        for value in values:
+            cleaned = _safe_untrusted_text(value, width)
+            key = _point_key(cleaned)
+            if not key or key in seen:
+                continue
+            seen.add(key)
+            result.append(cleaned)
+            if len(result) >= limit:
+                break
+        return result
+
+    unique_facts = unique(facts, MAX_FACTS, 240)
+    unique_impact = unique(impact, MAX_IMPACT_POINTS, 240)
+    background_sentences = _description_sentences(background)
+    unique_background = unique(background_sentences, 3, 240)
+    unique_watch = unique(watch_points, MAX_WATCH_POINTS, 180)
+    return (
+        unique_facts,
+        unique_impact,
+        _safe_untrusted_text(" ".join(unique_background), 520),
+        unique_watch,
+    )
+
+
+def _point_key(value: str) -> str:
+    normalized = unicodedata.normalize("NFKC", clean_text(value, 500)).casefold()
+    return re.sub(r"[\W_]+", "", normalized, flags=re.UNICODE)
+
+
+def _infer_article_type(candidates: list[Candidate]) -> str:
+    """Promote grounded primary detail or two-newsroom synthesis to feature."""
+    for candidate in candidates:
+        if not candidate.primary_source:
+            continue
+        description = _fallback_description(candidate)
+        points = _structured_description_points(description)
+        point_count, material_chars = _detail_metrics(points)
+        publisher = _publisher_key(candidate).casefold()
+        if publisher == "jma" and _jma_major_detail_count(description) >= 3:
+            return "feature"
+        if (
+            point_count >= FEATURE_MIN_DETAIL_POINTS
+            and material_chars >= FEATURE_MIN_MATERIAL_CHARS
+        ):
+            return "feature"
+
+    # A single secondary feed never becomes a feature, regardless of length.
+    # Two independent publishers must both contribute body detail; similar
+    # headlines without factual material do not satisfy this path.
+    detail_publishers = {
+        _publisher_key(candidate)
+        for candidate in candidates
+        if _description_sentences(_fallback_description(candidate))
+    }
+    if len(detail_publishers) >= 2:
+        merged_points = _structured_sentences(_cluster_detail_sentences(candidates))
+        point_count, material_chars = _detail_metrics(merged_points)
+        if (
+            point_count >= FEATURE_MIN_DETAIL_POINTS
+            and material_chars >= FEATURE_MIN_MATERIAL_CHARS
+        ):
+            return "feature"
+    return "brief"
+
+
+def _detail_metrics(points: dict[str, list[str]]) -> tuple[int, int]:
+    unique_points = [
+        point
+        for name in ("facts", "impact", "background", "watch")
+        for point in points[name]
+    ]
+    return (
+        len(unique_points),
+        sum(len(_point_key(point)) for point in unique_points),
+    )
+
+
+def _jma_major_detail_count(description: str) -> int:
+    normalized = unicodedata.normalize("NFKC", description)
+    return sum(bool(pattern.search(normalized)) for pattern in _JMA_MAJOR_DETAIL_PATTERNS)
 
 
 def _corroborator_sentence(cluster: list[Candidate], lead: Candidate) -> str:
