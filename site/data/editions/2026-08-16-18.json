@@ -2,16 +2,15 @@
   "schemaVersion": 3,
   "site": {
     "name": "NEWSROOM 18",
-    "tagline": "事実・影響・背景を、ひとつの記事で。",
+    "tagline": "事実をつなぎ、背景まで伝える。",
     "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
   },
-  "generatedAt": "2026-08-16T18:23:38.022834+09:00",
-  "summary": "対象時間帯の4配信元のニュースを7本に整理しました。うち重要ニュースは1本です。",
+  "generatedAt": "2026-08-16T19:00:06.060941+09:00",
+  "summary": "対象時間帯の4配信元のニュースを10本に整理しました。うち重要ニュースは1本です。",
   "generationMode": "structured",
   "edition": {
     "id": "2026-08-16-18",
     "date": "2026-08-16",
-    "time": "18:00",
     "slot": "18:00",
     "label": "夕方6時版"
   },
@@ -24,28 +23,32 @@
     "label": "08月16日 12:00〜08月16日 18:00"
   },
   "stats": {
-    "articleCount": 7,
+    "articleCount": 10,
     "categoryCounts": {
-      "国内": 4,
-      "スポーツ": 1,
+      "国内": 1,
+      "社会": 2,
+      "スポーツ": 3,
       "海外": 1,
-      "テクノロジー": 1
+      "科学": 1,
+      "テクノロジー": 1,
+      "経済": 1
     },
-    "sourceCount": 7,
+    "sourceCount": 10,
     "publisherCount": 4,
     "publisherCounts": {
-      "asahi": 1,
+      "asahi": 3,
       "jma": 1,
-      "mainichi": 2,
+      "mainichi": 3,
       "nhk": 3
     },
     "articleTypeCounts": {
       "feature": 1,
-      "brief": 6
+      "brief": 9
     },
-    "feedFailureCount": 1
+    "feedFailureCount": 2
   },
   "feedFailures": [
+    "経済産業省 ニュースリリース",
     "CISA Cybersecurity Advisories"
   ],
   "articles": [
@@ -53,51 +56,51 @@
       "id": "755a62643f967bca",
       "slug": "2026-08-16-18-755a6264",
       "publishedAt": "2026-08-16T12:07:37+09:00",
-      "updatedAt": "2026-08-16T18:23:38.022834+09:00",
+      "updatedAt": "2026-08-16T19:00:06.060941+09:00",
       "title": "熊本県熊本地方で地震 M3.6 最大震度3",
-      "dek": "この地震による津波の心配はありません。",
-      "summary": "発生時刻: 2026-08-16T12:04:00+09:00。 震央・震源地域: 熊本県熊本地方。 マグニチュード: Ｍ３．６。",
+      "dek": "8月16日12時04分、熊本県熊本地方を震源とするマグニチュード3.6の地震があり、最大震度3を観測しました。津波の心配はありません。",
+      "summary": "8月16日12時04分、熊本県熊本地方を震源とするマグニチュード3.6の地震があり、最大震度3を観測しました。津波の心配はありません。熊本県熊本で震度3を観測しました。益城町で震度3を観測しました。",
       "whyItMatters": "",
       "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "earthquake:熊本県熊本地方:2026-08-16t12:04:00+09:00"
+      ],
       "facts": [
-        "発生時刻: 2026-08-16T12:04:00+09:00。",
-        "震央・震源地域: 熊本県熊本地方。",
-        "マグニチュード: Ｍ３．６。",
-        "最大震度: 3。",
-        "１６日１２時０４分ころ、地震がありました。",
-        "＊印は気象庁以外の震度観測点についての情報です。"
+        "発生時刻は8月16日12時04分です。",
+        "震源は熊本県熊本地方です。",
+        "地震の規模はマグニチュード3.6です。",
+        "最大震度は3です。",
+        "16日12時04分ころ、地震がありました。"
       ],
       "impactPoints": [
         "この地震による津波の心配はありません。",
-        "震度３: 熊本県熊本。",
-        "震度３: 益城町。"
+        "熊本県熊本で震度3を観測しました。",
+        "益城町で震度3を観測しました。"
       ],
       "background": "",
       "watchPoints": [],
       "body": [
-        "発生時刻: 2026-08-16T12:04:00+09:00。 震央・震源地域: 熊本県熊本地方。 マグニチュード: Ｍ３．６。",
-        "この地震による津波の心配はありません。",
-        "震度３: 熊本県熊本。",
-        "震度３: 益城町。"
+        "8月16日12時04分、熊本県熊本地方を震源とするマグニチュード3.6の地震があり、最大震度3を観測しました。津波の心配はありません。熊本県熊本で震度3を観測しました。益城町で震度3を観測しました。",
+        "この地震による津波の心配はありません。"
       ],
       "sections": [
         {
           "heading": "確認できた事実",
           "paragraphs": [
-            "発生時刻: 2026-08-16T12:04:00+09:00。",
-            "震央・震源地域: 熊本県熊本地方。",
-            "マグニチュード: Ｍ３．６。",
-            "最大震度: 3。",
-            "１６日１２時０４分ころ、地震がありました。",
-            "＊印は気象庁以外の震度観測点についての情報です。"
+            "発生時刻は8月16日12時04分です。",
+            "震源は熊本県熊本地方です。",
+            "地震の規模はマグニチュード3.6です。",
+            "最大震度は3です。",
+            "16日12時04分ころ、地震がありました。"
           ]
         },
         {
           "heading": "影響・対象地域",
           "paragraphs": [
             "この地震による津波の心配はありません。",
-            "震度３: 熊本県熊本。",
-            "震度３: 益城町。"
+            "熊本県熊本で震度3を観測しました。",
+            "益城町で震度3を観測しました。"
           ]
         }
       ],
@@ -108,7 +111,7 @@
           "source": "気象庁 防災情報（地震・津波・火山）"
         },
         {
-          "at": "2026-08-16T18:23:38.022834+09:00",
+          "at": "2026-08-16T19:00:06.060941+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
@@ -119,7 +122,15 @@
         {
           "name": "気象庁 防災情報（地震・津波・火山）",
           "publisherId": "jma",
-          "url": "https://www.data.jma.go.jp/developer/xml/data/20260816030738_0_VXSE53_270000.xml",
+          "links": [
+            {
+              "title": "熊本県熊本地方で地震 M3.6 最大震度3",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20260816030738_0_VXSE53_270000.xml",
+              "publishedAt": "2026-08-16T12:07:37+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
           "publishedAt": "2026-08-16T12:07:37+09:00",
           "keyPoints": [
             "気象庁 防災情報（地震・津波・火山）の公開情報をもとにNEWSROOM 18が要約・加工"
@@ -129,6 +140,9 @@
         }
       ],
       "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
       "publisherCount": 1,
       "tags": [
         "国内"
@@ -138,12 +152,14 @@
       "id": "37f31228cc5f0571",
       "slug": "2026-08-16-18-37f31228",
       "publishedAt": "2026-08-16T17:55:00+09:00",
-      "updatedAt": "2026-08-16T18:23:38.022834+09:00",
+      "updatedAt": "2026-08-16T19:00:06.060941+09:00",
       "title": "熊本の「ゆめタウン光の森」で「異臭がする」と通報 客が店外へ避難",
       "dek": "",
       "summary": "",
       "whyItMatters": "",
       "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
       "facts": [],
       "impactPoints": [],
       "background": "",
@@ -157,18 +173,26 @@
           "source": "朝日新聞 最新ニュース"
         },
         {
-          "at": "2026-08-16T18:23:38.022834+09:00",
+          "at": "2026-08-16T19:00:06.060941+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
       ],
-      "category": "国内",
+      "category": "社会",
       "importance": 3,
       "sources": [
         {
           "name": "朝日新聞 最新ニュース",
           "publisherId": "asahi",
-          "url": "https://www.asahi.com/articles/ASV8J2TZMV8JTIPE012M.html",
+          "links": [
+            {
+              "title": "熊本の「ゆめタウン光の森」で「異臭がする」と通報 客が店外へ避難",
+              "url": "https://www.asahi.com/articles/ASV8J2TZMV8JTIPE012M.html",
+              "publishedAt": "2026-08-16T17:55:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
           "publishedAt": "2026-08-16T17:55:00+09:00",
           "keyPoints": [
             "熊本の「ゆめタウン光の森」で「異臭がする」と通報 客が店外へ避難"
@@ -178,21 +202,26 @@
         }
       ],
       "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
       "publisherCount": 1,
       "tags": [
-        "国内"
+        "社会"
       ]
     },
     {
       "id": "3788c080f31a48af",
       "slug": "2026-08-16-18-3788c080",
       "publishedAt": "2026-08-16T17:44:45+09:00",
-      "updatedAt": "2026-08-16T18:23:38.022834+09:00",
+      "updatedAt": "2026-08-16T19:00:06.060941+09:00",
       "title": "高校野球 花巻東が英明に勝利 3年ぶりベスト8 機動力生かす",
       "dek": "夏の全国高校野球、大会12日目の第3試合は、岩手の花巻東高校が積極的な走塁でチャンスを作って香川の英明高校に4対0で勝ち、3年ぶりのベスト8進出を決めました。",
       "summary": "夏の全国高校野球、大会12日目の第3試合は、岩手の花巻東高校が積極的な走塁でチャンスを作って香川の英明高校に4対0で勝ち、3年ぶりのベスト8進出を決めました。",
       "whyItMatters": "",
       "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
       "facts": [
         "夏の全国高校野球、大会12日目の第3試合は、岩手の花巻東高校が積極的な走塁でチャンスを作って香川の英明高校に4対0で勝ち、3年ぶりのベスト8進出を決めました。"
       ],
@@ -217,7 +246,7 @@
           "source": "NHK ONE スポーツ"
         },
         {
-          "at": "2026-08-16T18:23:38.022834+09:00",
+          "at": "2026-08-16T19:00:06.060941+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
@@ -228,7 +257,15 @@
         {
           "name": "NHK ONE スポーツ",
           "publisherId": "nhk",
-          "url": "https://news.web.nhk/newsweb/na/nd-20260816de44380",
+          "links": [
+            {
+              "title": "高校野球 花巻東が英明に勝利 3年ぶりベスト8 機動力生かす",
+              "url": "https://news.web.nhk/newsweb/na/nd-20260816de44380",
+              "publishedAt": "2026-08-16T17:44:45+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
           "publishedAt": "2026-08-16T17:44:45+09:00",
           "keyPoints": [
             "夏の全国高校野球、大会12日目の第3試合は、岩手の花巻東高校が積極的な走塁でチャンスを作って香川の英明高校に4対0で勝ち、3年ぶりのベスト8進出を決めました。"
@@ -238,70 +275,26 @@
         }
       ],
       "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
       "publisherCount": 1,
       "tags": [
         "スポーツ"
       ]
     },
     {
-      "id": "8e2faadd8f447a40",
-      "slug": "2026-08-16-18-8e2faadd",
-      "publishedAt": "2026-08-16T17:42:22+09:00",
-      "updatedAt": "2026-08-16T18:23:38.022834+09:00",
-      "title": "米イラン、60日の交渉期限迎える イラン外務次官はXでけん制",
-      "dek": "",
-      "summary": "",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "facts": [],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [],
-      "sections": [],
-      "updates": [
-        {
-          "at": "2026-08-16T17:42:22+09:00",
-          "text": "毎日新聞 ニュース速報の公開情報を確認",
-          "source": "毎日新聞 ニュース速報"
-        },
-        {
-          "at": "2026-08-16T18:23:38.022834+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "国内",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "毎日新聞 ニュース速報",
-          "publisherId": "mainichi",
-          "url": "https://mainichi.jp/articles/20260816/k00/00m/030/122000c",
-          "publishedAt": "2026-08-16T17:42:22+09:00",
-          "keyPoints": [
-            "米イラン、60日の交渉期限迎える イラン外務次官はXでけん制"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "publisherCount": 1,
-      "tags": [
-        "国内"
-      ]
-    },
-    {
       "id": "3d29e0df32e17644",
       "slug": "2026-08-16-18-3d29e0df",
       "publishedAt": "2026-08-16T17:27:45+09:00",
-      "updatedAt": "2026-08-16T18:23:38.022834+09:00",
+      "updatedAt": "2026-08-16T19:00:06.060941+09:00",
       "title": "対テロ戦争後の世界:バーミヤンに残る大仏の「穴」 対テロ戦争はタリバンを変えたのか",
       "dek": "",
       "summary": "",
       "whyItMatters": "",
       "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
       "facts": [],
       "impactPoints": [],
       "background": "",
@@ -315,18 +308,26 @@
           "source": "毎日新聞 ニュース速報"
         },
         {
-          "at": "2026-08-16T18:23:38.022834+09:00",
+          "at": "2026-08-16T19:00:06.060941+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
       ],
-      "category": "国内",
+      "category": "海外",
       "importance": 3,
       "sources": [
         {
           "name": "毎日新聞 ニュース速報",
           "publisherId": "mainichi",
-          "url": "https://mainichi.jp/articles/20260815/k00/00m/030/200000c",
+          "links": [
+            {
+              "title": "対テロ戦争後の世界:バーミヤンに残る大仏の「穴」 対テロ戦争はタリバンを変えたのか",
+              "url": "https://mainichi.jp/articles/20260815/k00/00m/030/200000c",
+              "publishedAt": "2026-08-16T17:27:45+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
           "publishedAt": "2026-08-16T17:27:45+09:00",
           "keyPoints": [
             "対テロ戦争後の世界:バーミヤンに残る大仏の「穴」 対テロ戦争はタリバンを変えたのか"
@@ -336,105 +337,237 @@
         }
       ],
       "sourceCount": 1,
-      "publisherCount": 1,
-      "tags": [
-        "国内"
-      ]
-    },
-    {
-      "id": "580113269ac85ceb",
-      "slug": "2026-08-16-18-58011326",
-      "publishedAt": "2026-08-16T15:40:14+09:00",
-      "updatedAt": "2026-08-16T18:23:38.022834+09:00",
-      "title": "“交渉期限”迫る イラン「停戦存在せず」 米も対決姿勢",
-      "dek": "",
-      "summary": "アメリカとイランが交わした覚書の当初定められた交渉期限が迫る中、イランのアラグチ外相は、期限を延長すべき停戦は存在していないとの認識を示しました。",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "facts": [],
-      "impactPoints": [],
-      "background": "アメリカとイランが交わした覚書の当初定められた交渉期限が迫る中、イランのアラグチ外相は、期限を延長すべき停戦は存在していないとの認識を示しました。",
-      "watchPoints": [],
-      "body": [
-        "アメリカとイランが交わした覚書の当初定められた交渉期限が迫る中、イランのアラグチ外相は、期限を延長すべき停戦は存在していないとの認識を示しました。",
-        "アメリカとイランが交わした覚書の当初定められた交渉期限が迫る中、イランのアラグチ外相は、期限を延長すべき停戦は存在していないとの認識を示しました。"
-      ],
-      "sections": [
-        {
-          "heading": "背景",
-          "paragraphs": [
-            "アメリカとイランが交わした覚書の当初定められた交渉期限が迫る中、イランのアラグチ外相は、期限を延長すべき停戦は存在していないとの認識を示しました。"
-          ]
-        }
-      ],
-      "updates": [
-        {
-          "at": "2026-08-16T15:40:14+09:00",
-          "text": "NHK ONE 国際の公開情報を確認",
-          "source": "NHK ONE 国際"
-        },
-        {
-          "at": "2026-08-16T18:23:38.022834+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "海外",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "NHK ONE 国際",
-          "publisherId": "nhk",
-          "url": "https://news.web.nhk/newsweb/na/nd-20260816de44371",
-          "publishedAt": "2026-08-16T15:40:14+09:00",
-          "keyPoints": [
-            "アメリカとイランが交わした覚書の当初定められた交渉期限が迫る中、イランのアラグチ外相は、期限を延長すべき停戦は存在していないとの認識を示しました。"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
       "publisherCount": 1,
       "tags": [
         "海外"
       ]
     },
     {
-      "id": "39066cd895cdeb35",
-      "slug": "2026-08-16-18-39066cd8",
-      "publishedAt": "2026-08-16T13:16:34+09:00",
-      "updatedAt": "2026-08-16T18:23:38.022834+09:00",
-      "title": "女性研究者支援の大学に年間最大5000万円補助へ 文部科学省",
-      "dek": "文部科学省は、女性研究者の支援に向けて、出産などのライフイベントと研究の両立を進める大学に、年間、最大で5000万円程度の補助金を交付する、新たな制度の導入を検討しています。",
-      "summary": "文部科学省は、女性研究者の支援に向けて、出産などのライフイベントと研究の両立を進める大学に、年間、最大で5000万円程度の補助金を交付する、新たな制度の導入を検討しています。",
+      "id": "cd5d5d4cd0efbdf1",
+      "slug": "2026-08-16-18-cd5d5d4c",
+      "publishedAt": "2026-08-16T17:25:01+09:00",
+      "updatedAt": "2026-08-16T19:00:06.060941+09:00",
+      "title": "【千葉豪雨】死者10人に 夜にかけ雨のおそれ 土砂災害に注意を",
+      "dek": "千葉県は、今回の豪雨で新たに1人の死亡が確認されたと発表し、千葉県内で死亡した人は10人になりました。",
+      "summary": "千葉県は、今回の豪雨で新たに1人の死亡が確認されたと発表し、千葉県内で死亡した人は10人になりました。",
       "whyItMatters": "",
       "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
       "facts": [
-        "文部科学省は、女性研究者の支援に向けて、出産などのライフイベントと研究の両立を進める大学に、年間、最大で5000万円程度の補助金を交付する、新たな制度の導入を検討しています。"
+        "千葉県は、今回の豪雨で新たに1人の死亡が確認されたと発表し、千葉県内で死亡した人は10人になりました。"
       ],
       "impactPoints": [],
       "background": "",
       "watchPoints": [],
       "body": [
-        "文部科学省は、女性研究者の支援に向けて、出産などのライフイベントと研究の両立を進める大学に、年間、最大で5000万円程度の補助金を交付する、新たな制度の導入を検討しています。"
+        "千葉県は、今回の豪雨で新たに1人の死亡が確認されたと発表し、千葉県内で死亡した人は10人になりました。"
       ],
       "sections": [
         {
           "heading": "確認できた事実",
           "paragraphs": [
-            "文部科学省は、女性研究者の支援に向けて、出産などのライフイベントと研究の両立を進める大学に、年間、最大で5000万円程度の補助金を交付する、新たな制度の導入を検討しています。"
+            "千葉県は、今回の豪雨で新たに1人の死亡が確認されたと発表し、千葉県内で死亡した人は10人になりました。"
           ]
         }
       ],
       "updates": [
         {
-          "at": "2026-08-16T13:16:34+09:00",
-          "text": "NHK ONE 科学・文化の公開情報を確認",
-          "source": "NHK ONE 科学・文化"
+          "at": "2026-08-16T17:25:01+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
         },
         {
-          "at": "2026-08-16T18:23:38.022834+09:00",
+          "at": "2026-08-16T19:00:06.060941+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "【千葉豪雨】死者10人に 夜にかけ雨のおそれ 土砂災害に注意を",
+              "url": "https://news.web.nhk/newsweb/na/nd-20260815de44322",
+              "publishedAt": "2026-08-16T17:25:01+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-08-16T17:25:01+09:00",
+          "keyPoints": [
+            "千葉県は、今回の豪雨で新たに1人の死亡が確認されたと発表し、千葉県内で死亡した人は10人になりました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "f7ec595f3c2625ad",
+      "slug": "2026-08-16-18-f7ec595f",
+      "publishedAt": "2026-08-16T17:19:12+09:00",
+      "updatedAt": "2026-08-16T19:00:06.060941+09:00",
+      "title": "花巻東―横浜、健大高崎―有明 18日の準々決勝の組み合わせ決定",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-08-16T17:19:12+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-08-16T19:00:06.060941+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "花巻東―横浜、健大高崎―有明 18日の準々決勝の組み合わせ決定",
+              "url": "https://www.asahi.com/articles/ASV8H1GWSV8HUTQP01RM.html",
+              "publishedAt": "2026-08-16T17:19:12+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-08-16T17:19:12+09:00",
+          "keyPoints": [
+            "花巻東―横浜、健大高崎―有明 18日の準々決勝の組み合わせ決定"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "782fbfeb24dddb3e",
+      "slug": "2026-08-16-18-782fbfeb",
+      "publishedAt": "2026-08-16T17:00:20+09:00",
+      "updatedAt": "2026-08-16T19:00:06.060941+09:00",
+      "title": "テーマ選び、どうする? 夏休みの「自由研究」を研究する",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-08-16T17:00:20+09:00",
+          "text": "毎日新聞 ニュース速報の公開情報を確認",
+          "source": "毎日新聞 ニュース速報"
+        },
+        {
+          "at": "2026-08-16T19:00:06.060941+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 ニュース速報",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "テーマ選び、どうする? 夏休みの「自由研究」を研究する",
+              "url": "https://mainichi.jp/articles/20260812/k00/00m/100/249000c",
+              "publishedAt": "2026-08-16T17:00:20+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-08-16T17:00:20+09:00",
+          "keyPoints": [
+            "テーマ選び、どうする? 夏休みの「自由研究」を研究する"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    },
+    {
+      "id": "47946626851dab25",
+      "slug": "2026-08-16-18-47946626",
+      "publishedAt": "2026-08-16T16:44:20+09:00",
+      "updatedAt": "2026-08-16T19:00:06.060941+09:00",
+      "title": "少年、AIに相談し母と弟殺害か 米の17歳を殺人罪で訴追",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-08-16T16:44:20+09:00",
+          "text": "毎日新聞 ニュース速報の公開情報を確認",
+          "source": "毎日新聞 ニュース速報"
+        },
+        {
+          "at": "2026-08-16T19:00:06.060941+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
@@ -443,21 +576,169 @@
       "importance": 3,
       "sources": [
         {
-          "name": "NHK ONE 科学・文化",
-          "publisherId": "nhk",
-          "url": "https://news.web.nhk/newsweb/na/nd-20260816de44362",
-          "publishedAt": "2026-08-16T13:16:34+09:00",
+          "name": "毎日新聞 ニュース速報",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "少年、AIに相談し母と弟殺害か 米の17歳を殺人罪で訴追",
+              "url": "https://mainichi.jp/articles/20260816/k00/00m/030/109000c",
+              "publishedAt": "2026-08-16T16:44:20+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-08-16T16:44:20+09:00",
           "keyPoints": [
-            "文部科学省は、女性研究者の支援に向けて、出産などのライフイベントと研究の両立を進める大学に、年間、最大で5000万円程度の補助金を交付する、新たな制度の導入を検討しています。"
+            "少年、AIに相談し母と弟殺害か 米の17歳を殺人罪で訴追"
           ],
           "type": "報道",
           "isPrimary": false
         }
       ],
       "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
       "publisherCount": 1,
       "tags": [
         "テクノロジー"
+      ]
+    },
+    {
+      "id": "8c801bc175157b59",
+      "slug": "2026-08-16-18-8c801bc1",
+      "publishedAt": "2026-08-16T16:43:54+09:00",
+      "updatedAt": "2026-08-16T19:00:06.060941+09:00",
+      "title": "女子ゴルフ国内ツアー 安田祐香が優勝 全英制覇の桑木志帆42位",
+      "dek": "女子ゴルフの国内ツアーの大会は長野県で最終ラウンドが行われ、安田祐香選手が通算23アンダーで今シーズン初優勝を果たし、通算3勝目をあげました。",
+      "summary": "女子ゴルフの国内ツアーの大会は長野県で最終ラウンドが行われ、安田祐香選手が通算23アンダーで今シーズン初優勝を果たし、通算3勝目をあげました。 全英女子オープンを制した桑木志帆選手は42位でした。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "女子ゴルフの国内ツアーの大会は長野県で最終ラウンドが行われ、安田祐香選手が通算23アンダーで今シーズン初優勝を果たし、通算3勝目をあげました。",
+        "全英女子オープンを制した桑木志帆選手は42位でした。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "女子ゴルフの国内ツアーの大会は長野県で最終ラウンドが行われ、安田祐香選手が通算23アンダーで今シーズン初優勝を果たし、通算3勝目をあげました。 全英女子オープンを制した桑木志帆選手は42位でした。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "女子ゴルフの国内ツアーの大会は長野県で最終ラウンドが行われ、安田祐香選手が通算23アンダーで今シーズン初優勝を果たし、通算3勝目をあげました。",
+            "全英女子オープンを制した桑木志帆選手は42位でした。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-08-16T16:43:54+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-08-16T19:00:06.060941+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "女子ゴルフ国内ツアー 安田祐香が優勝 全英制覇の桑木志帆42位",
+              "url": "https://news.web.nhk/newsweb/na/nd-20260816de44383",
+              "publishedAt": "2026-08-16T16:43:54+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-08-16T16:43:54+09:00",
+          "keyPoints": [
+            "女子ゴルフの国内ツアーの大会は長野県で最終ラウンドが行われ、安田祐香選手が通算23アンダーで今シーズン初優勝を果たし、通算3勝目をあげました。全英女子オープンを制した桑木志帆選手は42位でした。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "c51a91ce78e061e1",
+      "slug": "2026-08-16-18-c51a91ce",
+      "publishedAt": "2026-08-16T11:00:00+09:00",
+      "updatedAt": "2026-08-16T19:00:06.060941+09:00",
+      "title": "プロテイン高騰「2年でほぼ倍」 米国の「マンジャロ」ブームの影も",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-08-16T11:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-08-16T19:00:06.060941+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "プロテイン高騰「2年でほぼ倍」 米国の「マンジャロ」ブームの影も",
+              "url": "https://www.asahi.com/articles/ASV7X0D9ZV7XUTIL012M.html",
+              "publishedAt": "2026-08-16T11:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-08-16T11:00:00+09:00",
+          "keyPoints": [
+            "プロテイン高騰「2年でほぼ倍」 米国の「マンジャロ」ブームの影も"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
       ]
     }
   ]

@@ -3,13 +3,13 @@
   <channel>
     <title>NEWSROOM 18</title>
     <link>https://haruto-03151234.github.io/newsroom18/</link>
-    <description>事実・影響・背景を、ひとつの記事で。</description>
+    <description>事実をつなぎ、背景まで伝える。</description>
     <language>ja</language>
     <item>
       <title>熊本県熊本地方で地震 M3.6 最大震度3</title>
       <link>https://haruto-03151234.github.io/newsroom18/?article=2026-08-16-18-755a6264</link>
       <guid isPermaLink="false">755a62643f967bca</guid>
-      <description>発生時刻: 2026-08-16T12:04:00+09:00。 震央・震源地域: 熊本県熊本地方。 マグニチュード: Ｍ３．６。</description>
+      <description>8月16日12時04分、熊本県熊本地方を震源とするマグニチュード3.6の地震があり、最大震度3を観測しました。津波の心配はありません。熊本県熊本で震度3を観測しました。益城町で震度3を観測しました。</description>
       <pubDate>Sun, 16 Aug 2026 12:07:37 +0900</pubDate>
     </item>
     <item>
@@ -27,18 +27,18 @@
       <pubDate>Sun, 16 Aug 2026 17:44:45 +0900</pubDate>
     </item>
     <item>
-      <title>米イラン、60日の交渉期限迎える イラン外務次官はXでけん制</title>
-      <link>https://haruto-03151234.github.io/newsroom18/?article=2026-08-16-18-8e2faadd</link>
-      <guid isPermaLink="false">8e2faadd8f447a40</guid>
-      <description />
-      <pubDate>Sun, 16 Aug 2026 17:42:22 +0900</pubDate>
-    </item>
-    <item>
       <title>対テロ戦争後の世界:バーミヤンに残る大仏の「穴」 対テロ戦争はタリバンを変えたのか</title>
       <link>https://haruto-03151234.github.io/newsroom18/?article=2026-08-16-18-3d29e0df</link>
       <guid isPermaLink="false">3d29e0df32e17644</guid>
       <description />
       <pubDate>Sun, 16 Aug 2026 17:27:45 +0900</pubDate>
+    </item>
+    <item>
+      <title>【千葉豪雨】死者10人に 夜にかけ雨のおそれ 土砂災害に注意を</title>
+      <link>https://haruto-03151234.github.io/newsroom18/?article=2026-08-16-18-cd5d5d4c</link>
+      <guid isPermaLink="false">cd5d5d4cd0efbdf1</guid>
+      <description>千葉県は、今回の豪雨で新たに1人の死亡が確認されたと発表し、千葉県内で死亡した人は10人になりました。</description>
+      <pubDate>Sun, 16 Aug 2026 17:25:01 +0900</pubDate>
     </item>
     <item>
       <title>高校野球 東日大昌平が有明をリード（5回終了時）</title>
