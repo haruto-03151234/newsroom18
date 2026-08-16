@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T06:09:24.479619+09:00",
+  "updatedAt": "2026-08-16T12:16:12.760449+09:00",
   "editions": [
+    {
+      "id": "2026-08-16-12",
+      "path": "data/editions/2026-08-16-12.json",
+      "dataUrl": "data/editions/2026-08-16-12.json",
+      "generatedAt": "2026-08-16T12:16:12.760449+09:00",
+      "date": "2026-08-16",
+      "time": "12:00",
+      "label": "昼12時版",
+      "coverageLabel": "08月16日 06:00〜08月16日 12:00",
+      "headline": "高校野球 東日大昌平が有明をリード（5回終了時）",
+      "articleCount": 7,
+      "categories": {
+        "国内": 4,
+        "スポーツ": 2,
+        "テクノロジー": 1
+      }
+    },
     {
       "id": "2026-08-16-06",
       "path": "data/editions/2026-08-16-06.json",

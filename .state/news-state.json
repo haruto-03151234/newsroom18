@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-16T06:00:00+09:00",
-  "lastCompletedEdition": "2026-08-16-06",
+  "lastCompletedEnd": "2026-08-16T12:00:00+09:00",
+  "lastCompletedEdition": "2026-08-16-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -122,7 +122,63 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20260815de44311"
       ]
+    },
+    {
+      "editionId": "2026-08-16-12",
+      "title": "高校野球東日大昌平が有明をリード5回終了時",
+      "publishedAt": "2026-08-16T11:52:43+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260816de44367"
+      ]
+    },
+    {
+      "editionId": "2026-08-16-12",
+      "title": "山形の花火大会で男児含む3人軽傷地上近くで爆発し破片飛散か",
+      "publishedAt": "2026-08-16T11:49:42+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8J0JLKV8JUNHB006M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-16-12",
+      "title": "マック超えの無料給食急拡大にブレーキインドネシア政府",
+      "publishedAt": "2026-08-16T11:49:05+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260816/k00/00m/030/058000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-16-12",
+      "title": "北九州怪談会が就労支援事業所とコラボ妖怪画でクラファン",
+      "publishedAt": "2026-08-16T11:45:11+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260814/k00/00m/040/144000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-16-12",
+      "title": "高校野球健大高崎が佐野日大高に勝つ12年ぶり準決勝進出",
+      "publishedAt": "2026-08-16T11:43:39+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260816de44351"
+      ]
+    },
+    {
+      "editionId": "2026-08-16-12",
+      "title": "高校野球夏の甲子園全試合をハイライト動画で8月9日から",
+      "publishedAt": "2026-08-16T11:15:23+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260809de42917"
+      ]
+    },
+    {
+      "editionId": "2026-08-16-12",
+      "title": "claudeの見えない透かしanthropicが仕組みを説明完全な書き直しなら消える",
+      "publishedAt": "2026-08-16T07:58:11+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/16/2000000555"
+      ]
     }
   ],
-  "updatedAt": "2026-08-16T06:09:24.479619+09:00"
+  "updatedAt": "2026-08-16T12:16:12.760449+09:00"
 }
