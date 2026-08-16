@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-16T18:00:00+09:00",
-  "lastCompletedEdition": "2026-08-16-18",
+  "lastCompletedEnd": "2026-08-17T06:00:00+09:00",
+  "lastCompletedEdition": "2026-08-17-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -258,7 +258,79 @@
       "urls": [
         "https://www.asahi.com/articles/ASV7X0D9ZV7XUTIL012M.html"
       ]
+    },
+    {
+      "editionId": "2026-08-17-06",
+      "title": "車いす利用者送迎車での死亡事故7年で30件消費者事故調",
+      "publishedAt": "2026-08-17T05:56:16+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260816de44410"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-06",
+      "title": "熊本地震地震活動と暑さに注意できるかぎりの熱中症対策を",
+      "publishedAt": "2026-08-17T05:48:39+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260816de44421"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-06",
+      "title": "米国とイラン協議進まず60日ホルムズ海峡の混乱も収まらず",
+      "publishedAt": "2026-08-17T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8J2Q3FV8JUHBI009M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-06",
+      "title": "aiで描いた架空のモデル画像を無断で使われた著作権侵害で裁判に",
+      "publishedAt": "2026-08-17T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV7R33SSV7RPTIL009M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-06",
+      "title": "深層サイエンス個人資格で更新なしの日本アスベスト対策広がる世界との差",
+      "publishedAt": "2026-08-17T04:52:08+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260815/k00/00m/040/290000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-06",
+      "title": "深層サイエンスアスベスト付いた作業着で外へずさん除去の実態届かぬ監視",
+      "publishedAt": "2026-08-17T04:51:08+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260815/k00/00m/040/279000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-06",
+      "title": "米国米歌手グランデさん痩せ過ぎ詮索嫌気活動休止表明に波紋",
+      "publishedAt": "2026-08-17T02:16:39+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260817/ddm/007/030/103000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-06",
+      "title": "サッカー元日本代表巻さん地元宇城で夏祭り被災地の動き",
+      "publishedAt": "2026-08-16T23:53:37+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260816de44395"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-06",
+      "title": "aiが作った曲すでに481曲aiで作った曲もカラオケに",
+      "publishedAt": "2026-08-16T19:30:20+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV7P3CCNV7PPTIL005M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-08-16T19:00:06.060941+09:00"
+  "updatedAt": "2026-08-17T06:08:45.232871+09:00"
 }
