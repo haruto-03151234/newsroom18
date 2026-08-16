@@ -373,6 +373,14 @@ main {
   letter-spacing: 0.08em;
 }
 
+.lead-article__origin {
+  margin: 0 0 9px;
+  color: #f2c7be;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+}
+
 .lead-article h2 {
   max-width: 820px;
   margin: 0;
@@ -560,6 +568,14 @@ main {
   letter-spacing: 0.08em;
 }
 
+.story-card__origin {
+  margin: 0 0 7px;
+  color: var(--blue);
+  font-size: 0.67rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+}
+
 .story-card__category::before {
   content: "";
   width: 12px;
@@ -700,6 +716,11 @@ main {
 .category-section__heading span {
   color: #bac5ca;
   font-size: 0.67rem;
+}
+
+.category-section--recent .category-section__heading {
+  background: var(--red-dark);
+  border-left-color: var(--navy);
 }
 
 .empty-state {
