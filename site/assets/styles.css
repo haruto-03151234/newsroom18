@@ -246,11 +246,6 @@ main {
   font-size: 0.86rem;
 }
 
-.notice--sample {
-  border-color: #b37608;
-  background: #fff4d4;
-}
-
 .notice--error {
   border-color: var(--red);
   background: #fff0ec;
@@ -401,6 +396,14 @@ main {
   margin: 16px 0;
   color: #d8e0e3;
   font-size: 0.95rem;
+}
+
+.lead-article__empty {
+  max-width: 580px;
+  margin: 0;
+  color: #d8e0e3;
+  font-family: "Yu Mincho", YuMincho, serif;
+  font-size: 1rem;
 }
 
 .story-meta,
@@ -593,6 +596,84 @@ main {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+
+.shorts-section {
+  margin-top: 50px;
+}
+
+.shorts-list {
+  margin: 0;
+  padding: 0;
+  background: var(--white);
+  border-top: 3px solid var(--navy);
+  list-style: none;
+}
+
+.shorts-item {
+  padding: 20px 22px;
+  display: grid;
+  grid-template-columns: 120px minmax(0, 1fr);
+  gap: 5px 22px;
+  border: 1px solid var(--line);
+  border-top: 0;
+}
+
+.shorts-item__meta {
+  grid-row: 1 / span 3;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+  color: var(--ink-soft);
+  font-size: 0.67rem;
+}
+
+.shorts-item__category {
+  padding: 2px 7px;
+  color: #fff;
+  background: var(--navy);
+  font-weight: 800;
+}
+
+.shorts-item__title {
+  margin: 0;
+  font-family: "Yu Mincho", YuMincho, serif;
+  font-size: 1.05rem;
+  line-height: 1.55;
+}
+
+.shorts-item__title a {
+  text-decoration: none;
+}
+
+.shorts-item__title a::after {
+  content: " ↗";
+  color: var(--red);
+  font-family: sans-serif;
+  font-size: 0.72em;
+}
+
+.shorts-item__title a:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+}
+
+.shorts-item__summary {
+  margin: 2px 0 3px;
+  color: var(--ink-soft);
+  font-size: 0.79rem;
+}
+
+.shorts-item__sources {
+  color: var(--ink-soft);
+  font-size: 0.67rem;
+}
+
+.shorts-item__sources > span {
+  margin-right: 7px;
+  color: var(--red-dark);
+  font-weight: 800;
 }
 
 .category-section {
@@ -826,11 +907,18 @@ main {
 .fact-group:first-child {
   grid-column: 1 / -1;
   background: #f3f6f7;
-  border-bottom: 1px solid var(--line);
 }
 
-.fact-group:nth-child(2) {
+.fact-group:not(:first-child) {
+  border-top: 1px solid var(--line);
+}
+
+.fact-group--split-left {
   border-right: 1px solid var(--line);
+}
+
+.fact-group--impact {
+  background: #edf4f5;
 }
 
 .fact-group--watch {
@@ -1015,6 +1103,14 @@ main {
   font-family: "Yu Mincho", YuMincho, serif;
   font-size: 0.75rem;
   line-height: 1.7;
+}
+
+.source-card__attribution {
+  margin: 12px 0 0 !important;
+  padding-top: 9px;
+  color: var(--ink-soft);
+  border-top: 1px solid var(--line);
+  font-size: 0.62rem !important;
 }
 
 .source-card__empty {
@@ -1283,6 +1379,17 @@ main {
     border-bottom: 0;
   }
 
+  .shorts-item {
+    grid-template-columns: 1fr;
+    gap: 7px;
+  }
+
+  .shorts-item__meta {
+    grid-row: auto;
+    flex-direction: row;
+    align-items: center;
+  }
+
   .article-header h1 {
     font-size: clamp(2rem, 10vw, 3.2rem);
   }
@@ -1309,9 +1416,8 @@ main {
     grid-column: auto;
   }
 
-  .fact-group:nth-child(2) {
+  .fact-group--split-left {
     border-right: 0;
-    border-bottom: 1px solid var(--line);
   }
 
   .source-card__header {
@@ -1364,8 +1470,7 @@ main {
   .category-nav,
   .sidebar,
   .article-tools,
-  .site-footer,
-  .sample-notice {
+  .site-footer {
     display: none !important;
   }
 
