@@ -1,10 +1,14 @@
 import os
 import unittest
+from dataclasses import replace
 from datetime import UTC, datetime
 from unittest.mock import patch
 
 from scripts.news_pipeline.editor import _validate_drafts, create_drafts
 from scripts.news_pipeline.models import Candidate
+from scripts.news_pipeline.publisher import build_edition
+from scripts.news_pipeline.text_utils import has_balanced_brackets
+from scripts.news_pipeline.time_windows import JST, coverage_window
 
 
 def make_candidate(
@@ -39,6 +43,669 @@ def make_candidate(
 
 
 class EditorTests(unittest.TestCase):
+    def test_seven_items_do_not_fake_three_overlapping_desks(self):
+        candidates = [
+            make_candidate(
+                "nhk-domestic-1",
+                "政府が子育て支援制度の対象拡大を発表",
+                source="NHK ONE",
+                publisher="nhk",
+                description=(
+                    "政府は子育て支援制度の対象を拡大すると発表しました。"
+                    "申請は9月から自治体窓口で受け付ける予定です。"
+                ),
+                category="国内",
+            ),
+            make_candidate(
+                "nhk-domestic-2",
+                "大雨を受け自治体が避難所を開設",
+                source="NHK ONE",
+                publisher="nhk",
+                description=(
+                    "自治体は大雨を受けて市内二か所に避難所を開設しました。"
+                    "河川周辺の住民に早めの避難を呼びかけています。"
+                ),
+                category="国内",
+            ),
+            make_candidate(
+                "nhk-sports",
+                "全国高校野球で準決勝進出校が決定",
+                source="NHK ONE",
+                publisher="nhk",
+                description=(
+                    "全国高校野球は準々決勝の四試合が行われました。"
+                    "勝った四校が準決勝に進出しました。"
+                ),
+                category="スポーツ",
+            ),
+            make_candidate(
+                "mainichi-domestic",
+                "鉄道各社がお盆期間の利用状況を公表",
+                source="毎日新聞",
+                publisher="mainichi",
+                description=(
+                    "鉄道各社はお盆期間の利用状況を公表しました。"
+                    "主要路線の利用者数は前年同期を上回りました。"
+                ),
+                category="国内",
+            ),
+            make_candidate(
+                "mainichi-sports",
+                "プロ野球で首位争いの直接対決",
+                source="毎日新聞",
+                publisher="mainichi",
+                description=(
+                    "プロ野球では首位争いの二チームが直接対決しました。"
+                    "試合は九回まで一点差の展開となりました。"
+                ),
+                category="スポーツ",
+            ),
+            make_candidate(
+                "asahi-domestic",
+                "大学が地域防災の共同研究を開始",
+                source="朝日新聞",
+                publisher="asahi",
+                description=(
+                    "大学は自治体と地域防災の共同研究を始めました。"
+                    "避難情報の伝達方法と避難所運営を調査します。"
+                ),
+                category="国内",
+            ),
+            make_candidate(
+                "itmedia-tech",
+                "国内企業が生成AI向け半導体を発表",
+                source="ITmedia NEWS",
+                publisher="itmedia",
+                description=(
+                    "国内企業は生成AI向けの新しい半導体を発表しました。"
+                    "来年度から国内工場で量産を始める予定です。"
+                ),
+                category="テクノロジー",
+            ),
+        ]
+        drafts, mode = create_drafts(candidates)
+
+        self.assertEqual(mode, "structured")
+        self.assertTrue(drafts)
+        self.assertFalse(any(draft.desk_lens for draft in drafts))
+        self.assertFalse(
+            any(
+                draft.article_type == "feature"
+                and len(draft.candidate_ids) >= 4
+                for draft in drafts
+            )
+        )
+
+    def test_real_feed_shape_does_not_bundle_unrelated_briefs_as_features(self):
+        records = [
+            (
+                "mainichi-indonesia",
+                "インドネシア政府が首都移転の工程を公表",
+                "毎日新聞",
+                "mainichi",
+                "国内",
+                "インドネシア政府は首都移転の次の工程と対象地域を公表しました。"
+                "関係省庁は道路整備と行政機能の移転時期を示しました。"
+                "住民向け説明会は翌月に開かれる予定です。",
+            ),
+            (
+                "nhk-ukraine",
+                "ウクライナ支援をめぐり各国首脳が協議",
+                "NHK ONE 国際",
+                "nhk",
+                "国内",
+                "各国首脳はウクライナ支援の継続策を協議しました。"
+                "会合では人道支援と停戦に向けた外交日程が議題になりました。"
+                "共同声明の文言は協議後に公表される予定です。",
+            ),
+            (
+                "asahi-childcare",
+                "政府が子育て給付の対象拡大を決定",
+                "朝日新聞デジタル",
+                "asahi",
+                "国内",
+                "政府は子育て給付の所得要件を見直し、対象世帯を広げる方針を決定しました。"
+                "自治体は九月から申請を受け付けます。"
+                "必要書類と支給開始日は自治体ごとに案内される予定です。",
+            ),
+            (
+                "kyodo-shelter",
+                "台風接近で自治体が避難所を追加開設",
+                "共同通信",
+                "kyodo",
+                "社会",
+                "台風の接近を受け、自治体は沿岸部を中心に避難所を追加で開設しました。"
+                "高齢者などに早めの避難を呼びかけ、臨時バスも運行します。"
+                "開設状況は雨量に応じて更新される予定です。",
+            ),
+            (
+                "mainichi-koshien",
+                "甲子園で準々決勝の組み合わせ決まる",
+                "毎日新聞",
+                "mainichi",
+                "国内",
+                "甲子園の三回戦が終了し、準々決勝に進む八校が決まりました。"
+                "大会本部は対戦カードと試合開始予定時刻を発表しました。"
+                "天候によって日程を変更する可能性があります。",
+            ),
+            (
+                "asahi-pitcher",
+                "先発投手が完封し次戦へ向け調整",
+                "朝日新聞デジタル",
+                "asahi",
+                "国内",
+                "先発投手は九回を投げ切り、無失点で勝利しました。"
+                "監督は球数と登板間隔を確認して次戦の起用を決めると説明しました。"
+                "チームは翌日の練習予定も公表しました。",
+            ),
+            (
+                "nhk-baseball",
+                "プロ野球の首位争いは一ゲーム差に",
+                "NHK ONE スポーツ",
+                "nhk",
+                "スポーツ",
+                "プロ野球では首位と二位の直接対決が行われ、ゲーム差が一に縮まりました。"
+                "勝利チームは継投でリードを守りました。"
+                "両チームは翌日も同じ球場で対戦する予定です。",
+            ),
+            (
+                "kyodo-film",
+                "国際映画祭がコンペ部門の出品作を発表",
+                "共同通信",
+                "kyodo",
+                "エンタメ",
+                "国際映画祭はコンペティション部門の出品作と審査員を発表しました。"
+                "国内作品を含む十二作品が最高賞を競います。"
+                "上映日程と受賞結果は公式サイトで順次公表される予定です。",
+            ),
+            (
+                "itmedia-claude",
+                "Claude生成文を識別する透かし技術を検証",
+                "ITmedia NEWS",
+                "itmedia",
+                "テクノロジー",
+                "研究チームはClaudeなど生成AIの文章を識別する透かし技術を検証しました。"
+                "検証では文章を編集した場合の検出率も測定しました。"
+                "研究結果と制約は技術報告書に記載されています。",
+            ),
+            (
+                "itmedia-game",
+                "ゲーム配信基盤が大型更新の内容を公開",
+                "ITmedia NEWS",
+                "itmedia",
+                "テクノロジー",
+                "ゲーム配信基盤の運営会社は大型更新の内容を公開しました。"
+                "更新には通信遅延の改善と保護者向け設定の追加が含まれます。"
+                "提供開始日は利用地域ごとに案内される予定です。",
+            ),
+            (
+                "asahi-semiconductor",
+                "国内企業が省電力AI半導体を発表",
+                "朝日新聞デジタル",
+                "asahi",
+                "テクノロジー",
+                "国内企業は生成AI向けの省電力半導体を発表しました。"
+                "試作品は従来製品より消費電力を抑え、国内工場で生産します。"
+                "量産開始は来年度を予定しています。",
+            ),
+            (
+                "mainichi-rail",
+                "鉄道各社がお盆期間の利用実績を公表",
+                "毎日新聞",
+                "mainichi",
+                "経済",
+                "鉄道各社はお盆期間の新幹線と在来線の利用実績を公表しました。"
+                "主要区間の利用者数は前年同期を上回りました。"
+                "各社は月末に詳細な路線別集計を公表する予定です。",
+            ),
+            (
+                "nhk-science",
+                "大学が地震被害予測の共同研究を開始",
+                "NHK ONE 科学・文化",
+                "nhk",
+                "科学",
+                "大学と自治体は地震被害を地区単位で予測する共同研究を始めました。"
+                "過去の揺れと建物データを使って避難計画を検証します。"
+                "初回の分析結果は年度内に公表される予定です。",
+            ),
+            (
+                "kyodo-un",
+                "国連総会が人道支援の追加決議を採択",
+                "共同通信",
+                "kyodo",
+                "海外",
+                "国連総会は紛争地域への人道支援を拡充する決議を採択しました。"
+                "決議は各国に資金拠出と物資輸送の確保を求めています。"
+                "事務総長は実施状況を次回会合で報告する予定です。",
+            ),
+        ]
+        candidates = [
+            make_candidate(
+                identifier,
+                title,
+                source=source,
+                publisher=publisher,
+                category=category,
+                description=description,
+            )
+            for identifier, title, source, publisher, category, description in records
+        ]
+
+        drafts, mode = create_drafts(candidates)
+
+        self.assertEqual(mode, "structured")
+        self.assertFalse(any(draft.desk_lens for draft in drafts))
+        self.assertFalse(any(len(draft.candidate_ids) > 1 for draft in drafts))
+        text = " ".join(draft.title for draft in drafts)
+        self.assertNotIn("を軸に", text)
+        self.assertNotIn("主要4項目", text)
+
+    def test_three_source_rich_events_build_three_natural_features(self):
+        records = [
+            (
+                "policy-a",
+                "子育て給付の所得要件撤廃を政府が決定",
+                "全国新聞",
+                "zenkoku",
+                "国内",
+                "政府は子育て給付の所得要件を見直す法案を閣議決定し、制度の条文と施行日を示しました。"
+                "対象世帯は高校生までの子どもがいる家庭で、申請方法の変更が家計と自治体窓口に影響します。"
+                "これまで給付には所得制限があり、自治体ごとに追加支援の内容が異なっていました。"
+                "今後は国会審議を経て、九月に自治体向けの詳しい実施要領が公表される予定です。",
+            ),
+            (
+                "policy-b",
+                "政府、子育て給付の所得要件撤廃を正式決定",
+                "共同通信",
+                "kyodo",
+                "社会",
+                "政府案は所得要件を撤廃し、申請に必要な確認書類を全国で統一する内容です。"
+                "対象者には自治体から案内が届き、未申請世帯には窓口で個別対応するため事務負担にも影響します。"
+                "従来制度では転居時に再申請が必要で、支給開始が遅れる例が課題として示されていました。"
+                "今後の国会審議では財源と自治体の準備期間が焦点となり、施行前に政省令も示される予定です。",
+            ),
+            (
+                "quake-a",
+                "15日に発生したインドネシア東部M7.7地震、被害確認続く",
+                "国際通信",
+                "worldwire",
+                "海外",
+                "インドネシアの防災当局は東部を震源とする地震の被害状況と、確認済みの避難所数を公表しました。"
+                "対象地域では道路の寸断が救援物資の輸送に影響し、沿岸部と山間部で避難が続いています。"
+                "この地域では過去にも強い地震が起き、耐震性の低い住宅への対策が課題とされてきました。"
+                "今後は行方不明者の捜索と道路の復旧を進め、被害集計を定時に更新する予定です。",
+            ),
+            (
+                "quake-b",
+                "インドネシア東部M7.7地震、15日に発生し救助活動を継続",
+                "日本通信",
+                "nipponwire",
+                "海外",
+                "現地の救助隊は複数の集落で捜索を続け、医療班と重機を被災地へ追加派遣しました。"
+                "対象地域の病院では負傷者の受け入れが続き、停電と断水が診療や住民生活に影響しています。"
+                "これまで島外からの輸送は港と空港に限られ、悪天候時の支援ルート確保が課題でした。"
+                "今後は政府が自治体別の被害と必要物資を集約し、国際支援の受け入れ方針も示す予定です。",
+            ),
+            (
+                "chip-a",
+                "省電力AI半導体「KAZE-1」の試作結果と量産計画を発表",
+                "技術新聞",
+                "techpress",
+                "テクノロジー",
+                "国内企業は生成AIの推論処理に使う省電力半導体の試作結果と測定条件を公表しました。"
+                "対象となるデータセンターでは消費電力と冷却設備への影響を抑えられると説明しています。"
+                "これまで同社は海外企業の設計を採用しており、国内設計への移行に向けて検証を続けてきました。"
+                "今後は顧客企業による評価を経て、来年度に国内工場で量産を始める予定です。",
+            ),
+            (
+                "chip-b",
+                "省電力AI半導体「KAZE-1」、試作結果を公表し量産へ",
+                "産業通信",
+                "industrywire",
+                "経済",
+                "半導体メーカーは演算性能と消費電力の測定値を示し、試作品を顧客へ提供すると発表しました。"
+                "対象製品は生成AI基盤への搭載を想定し、導入企業の電力費と設備投資に影響する可能性があります。"
+                "従来品は海外工場で生産していましたが、供給網を分散するため国内生産の準備を進めてきました。"
+                "今後は耐久試験と顧客評価を実施し、量産時期と販売価格を正式に決める予定です。",
+            ),
+        ]
+        candidates = [
+            make_candidate(
+                identifier,
+                title,
+                source=source,
+                publisher=publisher,
+                category=category,
+                description=description,
+            )
+            for identifier, title, source, publisher, category, description in records
+        ]
+
+        drafts, mode = create_drafts(candidates)
+
+        self.assertEqual(mode, "structured")
+        features = [draft for draft in drafts if draft.desk_lens == "event"]
+        self.assertEqual(len(features), 3)
+        self.assertEqual(len(drafts), 3)
+        self.assertEqual(len({draft.title for draft in features}), 3)
+        for draft in features:
+            self.assertEqual(len(draft.event_keys), 1)
+            self.assertEqual(len(draft.candidate_ids), 2)
+            self.assertTrue(draft.facts)
+            self.assertTrue(draft.impact)
+            self.assertTrue(draft.background)
+            self.assertTrue(draft.watch_points)
+            self.assertGreaterEqual(len(draft.summary.replace(" ", "")), 100)
+            grounded = "".join(
+                (*draft.facts, *draft.impact, draft.background, *draft.watch_points)
+            )
+            self.assertGreaterEqual(len(grounded.replace(" ", "")), 300)
+            copy = " ".join((draft.title, draft.summary, *draft.facts))
+            self.assertNotIn("と配信", copy)
+            self.assertNotIn("を軸に", copy)
+            self.assertNotIn("面の焦点", copy)
+
+        window = coverage_window(
+            datetime(2026, 8, 15, 12, 10, tzinfo=JST), "12"
+        )
+        edition = build_edition(
+            window,
+            drafts,
+            candidates,
+            datetime(2026, 8, 15, 12, 10, tzinfo=JST),
+            mode,
+            [],
+            {"name": "テスト"},
+        )
+        self.assertEqual(len(edition["articles"]), 3)
+        self.assertTrue(
+            all(article["sourceCount"] == 2 for article in edition["articles"])
+        )
+        self.assertTrue(
+            all(len(article["eventKeys"]) == 1 for article in edition["articles"])
+        )
+
+    def test_indonesia_earthquake_joins_fresh_report_and_jma_context(self):
+        fresh = replace(
+            make_candidate(
+                "nhk-indonesia",
+                "インドネシア東部地震の死者47人に 救助活動続く",
+                source="NHK ONE 国際",
+                publisher="nhk",
+                category="海外",
+                description=(
+                    "15日に起きたインドネシア東部のフローレス島付近を震源とする"
+                    "マグニチュード7.7の地震で、インドネシア政府はこれまでに"
+                    "47人が死亡したと発表しました。"
+                ),
+            ),
+            published_at=datetime(2026, 8, 15, 20, 52, tzinfo=UTC),
+        )
+        context = replace(
+            make_candidate(
+                "jma-indonesia",
+                "インドネシア付近で地震 M7.7",
+                source="気象庁 防災情報（地震・津波・火山）",
+                publisher="jma",
+                category="国内",
+                primary_source=True,
+                description=(
+                    "発生時刻: 2026-08-15T06:58:00+09:00。"
+                    "震央・震源地域: インドネシア付近。"
+                    "マグニチュード: Ｍ７．７。"
+                    "太平洋で津波発生の可能性があります。"
+                    "この地震による日本への津波の影響はありません。"
+                    "１５日０６時５８分ころ、海外で規模の大きな地震がありました。"
+                ),
+            ),
+            published_at=datetime(2026, 8, 14, 22, 29, tzinfo=UTC),
+            context_only=True,
+            origin_edition_id="2026-08-15-18",
+        )
+        older_quake = replace(
+            make_candidate(
+                "jma-indonesia-older",
+                "遠地地震に関する情報",
+                source="気象庁 防災情報（地震・津波・火山）",
+                publisher="jma",
+                category="国内",
+                primary_source=True,
+                description=(
+                    "発生時刻は8月14日9時20分です。"
+                    "震央はインドネシアのフローレス島付近です。"
+                    "地震の規模はマグニチュード6.8と推定されています。"
+                    "国内への津波の影響はありませんでした。"
+                ),
+            ),
+            context_only=True,
+            origin_edition_id="2026-08-14-12",
+        )
+
+        drafts, _ = create_drafts(
+            [fresh], context_candidates=[context, older_quake]
+        )
+
+        features = [draft for draft in drafts if draft.desk_lens == "event"]
+        self.assertEqual(len(features), 1)
+        feature = features[0]
+        self.assertEqual(
+            set(feature.candidate_ids), {"nhk-indonesia", "jma-indonesia"}
+        )
+        self.assertEqual(
+            feature.event_keys,
+            ["earthquake:indonesia-flores:2026-08-15:m7.7"],
+        )
+        self.assertNotIn("と配信", " ".join(feature.facts))
+        self.assertNotIn("を軸に", feature.title)
+
+        window = coverage_window(
+            datetime(2026, 8, 16, 12, 10, tzinfo=JST), "12"
+        )
+        edition = build_edition(
+            window,
+            drafts,
+            [fresh, context],
+            datetime(2026, 8, 16, 12, 10, tzinfo=JST),
+            "structured",
+            [],
+            {"name": "テスト"},
+        )
+        article = edition["articles"][0]
+        self.assertEqual(article["freshSourceCount"], 1)
+        self.assertEqual(article["continuationSourceCount"], 1)
+        self.assertEqual(article["publisherCount"], 2)
+
+    def test_metadata_only_topics_and_sports_results_never_form_features(self):
+        candidates = [
+            make_candidate(
+                "yasukuni-nhk",
+                "靖国神社参拝めぐり中国と韓国が反応",
+                source="NHK ONE 国際",
+                publisher="nhk",
+                category="海外",
+                description="中国と韓国の反応です。",
+            ),
+            make_candidate(
+                "yasukuni-asahi",
+                "自民幹部が靖国参拝 終戦の日に合わせ訪問",
+                source="朝日新聞",
+                publisher="asahi",
+                category="国内",
+                description="",
+            ),
+            make_candidate(
+                "claude-a",
+                "Claudeの見えない透かしの仕組み",
+                source="ITmedia NEWS",
+                publisher="itmedia",
+                category="テクノロジー",
+                description="",
+            ),
+            make_candidate(
+                "claude-b",
+                "Claude透かし技術を開発元が説明",
+                source="技術通信",
+                publisher="techwire",
+                category="テクノロジー",
+                description="",
+            ),
+            make_candidate(
+                "mlb-murakami",
+                "ホワイトソックス 村上宗隆 ツーベースヒット",
+                source="NHK ONE スポーツ",
+                publisher="nhk",
+                category="スポーツ",
+                description="村上宗隆選手がツーベースを打ち、チームは勝ちました。",
+            ),
+            make_candidate(
+                "mlb-suzuki",
+                "カブス 鈴木誠也 ツーベースヒット",
+                source="NHK ONE スポーツ",
+                publisher="nhk",
+                category="スポーツ",
+                description="鈴木誠也選手がツーベースを打ち、チームは敗れました。",
+            ),
+            make_candidate(
+                "baseball-koshien",
+                "高校野球 仙台育英がベスト8進出",
+                source="NHK ONE スポーツ",
+                publisher="nhk",
+                category="スポーツ",
+                description="仙台育英が6対3で勝ち、ベスト8進出を決めました。",
+            ),
+            make_candidate(
+                "gymnastics",
+                "新体操 日本が五輪出場権を獲得",
+                source="NHK ONE スポーツ",
+                publisher="nhk",
+                category="スポーツ",
+                description="世界選手権の団体総合で日本は2位に入りました。",
+            ),
+        ]
+
+        drafts, _ = create_drafts(candidates)
+
+        self.assertFalse(any(draft.desk_lens == "event" for draft in drafts))
+        self.assertTrue(all(len(draft.candidate_ids) == 1 for draft in drafts))
+
+    def test_expired_primary_context_cannot_upgrade_a_fresh_brief(self):
+        fresh = make_candidate(
+            "fresh-niigata-weather",
+            "新潟県気象解説情報（大雨・落雷・突風）",
+            source="地域通信",
+            publisher="regional",
+            category="社会",
+            description="新潟県では大雨と落雷への注意が呼びかけられています。",
+        )
+        old = replace(
+            make_candidate(
+                "old-niigata-weather",
+                "新潟県気象解説情報（大雨・落雷・突風）",
+                source="気象庁 防災情報（気象）",
+                publisher="jma",
+                category="国内",
+                primary_source=True,
+                description=(
+                    "新潟県では14日夜遅くまで低い土地の浸水と河川の増水に警戒してください。"
+                    "対象地域では14日夜に一時間四十ミリの雨が予想されています。"
+                    "これまでの雨で地盤が緩んでいる所があります。"
+                    "補足情報は14日中に更新する予定です。"
+                ),
+            ),
+            published_at=datetime(2026, 8, 14, 14, tzinfo=UTC),
+            context_only=True,
+            origin_edition_id="2026-08-15-06",
+        )
+
+        drafts, _ = create_drafts([fresh], context_candidates=[old])
+
+        self.assertFalse(any(draft.desk_lens == "event" for draft in drafts))
+        self.assertEqual(
+            {identifier for draft in drafts for identifier in draft.candidate_ids},
+            {fresh.id},
+        )
+
+    def test_single_category_material_does_not_fake_desk_features(self):
+        candidates = [
+            make_candidate(
+                f"one-category-{index}",
+                f"国内ニュースの見出し{index}",
+                source=f"配信元{index % 3}",
+                publisher=f"publisher-{index % 3}",
+                description="",
+                category="国内",
+            )
+            for index in range(7)
+        ]
+
+        drafts, _ = create_drafts(candidates)
+
+        self.assertTrue(drafts)
+        self.assertFalse(any("横断" in draft.title for draft in drafts))
+        self.assertTrue(all(draft.article_type == "brief" for draft in drafts))
+
+    def test_unrelated_rolling_context_is_never_used_as_feature_filler(self):
+        fresh = [
+            make_candidate(
+                f"fresh-{index}",
+                title,
+                source="NHK ONE",
+                publisher="nhk",
+                description=(
+                    f"NHK ONEは{title}について具体的な発表内容を伝えました。"
+                    "関係機関が対象と実施時期を公表しています。"
+                ),
+                category=category,
+            )
+            for index, (title, category) in enumerate(
+                [
+                    ("政府が新制度の受付開始を発表", "国内"),
+                    ("全国大会で準決勝進出チームが決定", "スポーツ"),
+                    ("生成AI向け半導体の試作品を公開", "テクノロジー"),
+                ]
+            )
+        ]
+        context = [
+            replace(
+                make_candidate(
+                    f"context-{index}",
+                    title,
+                    source=source,
+                    publisher=publisher,
+                    description=(
+                        f"{source}は{title}について公表された内容を伝えました。"
+                        "発表には対象地域と今後の日程が含まれています。"
+                    ),
+                    category=category,
+                ),
+                context_only=True,
+                origin_edition_id="2026-08-15-18",
+            )
+            for index, (title, category, source, publisher) in enumerate(
+                [
+                    ("海外首脳会議が共同声明を採択", "海外", "朝日新聞", "asahi"),
+                    ("自治体が大雨の避難所を追加開設", "社会", "共同通信", "kyodo"),
+                    ("政府がお盆期間の交通需要を公表", "経済", "毎日新聞", "mainichi"),
+                    ("プロ野球で首位争いの直接対決", "スポーツ", "毎日新聞", "mainichi"),
+                    ("甲子園で準々決勝の対戦決まる", "スポーツ", "朝日新聞", "asahi"),
+                    ("国際映画祭が出品作を発表", "エンタメ", "共同通信", "kyodo"),
+                    ("国内企業が新型半導体を公開", "テクノロジー", "ITmedia NEWS", "itmedia"),
+                    ("大学が地震予測の共同研究を開始", "科学", "朝日新聞", "asahi"),
+                    ("天文台が観測装置の運用を開始", "科学", "毎日新聞", "mainichi"),
+                ]
+            )
+        ]
+
+        drafts, _ = create_drafts(fresh, context_candidates=context)
+
+        self.assertFalse(any(draft.desk_lens for draft in drafts))
+        individual_ids = {
+            draft.candidate_ids[0]
+            for draft in drafts
+            if len(draft.candidate_ids) == 1
+        }
+        self.assertEqual(individual_ids, {candidate.id for candidate in fresh})
+
     def test_fallback_is_japanese_and_attributed(self):
         with patch.dict(os.environ, {}, clear=True):
             drafts, mode = create_drafts([make_candidate("a", "政府が新制度を発表")])
@@ -177,6 +844,45 @@ class EditorTests(unittest.TestCase):
         self.assertNotIn("今後の…", drafts[0].summary)
         self.assertFalse(any("今後の…" in fact for fact in drafts[0].facts))
 
+    def test_unclosed_or_overlong_description_unit_is_not_published(self):
+        candidate = make_candidate(
+            "broken-section",
+            "富山県で大雨への警戒続く",
+            description=(
+                "気象庁は富山県で大雨への警戒を呼びかけました。"
+                "これで「富山県気象解説情報（大雨・落雷に関する詳細情報"
+                + "とても長い未完の説明" * 35
+                + "。"
+            ),
+        )
+
+        drafts, _ = create_drafts([candidate])
+
+        published = " ".join(
+            drafts[0].facts
+            + drafts[0].impact
+            + [drafts[0].background]
+            + drafts[0].watch_points
+        )
+        self.assertIn("大雨への警戒", published)
+        self.assertNotIn("これで「富山県気象解説情報（大雨・落", published)
+        self.assertTrue(has_balanced_brackets(published))
+
+    def test_long_headline_is_visibly_clipped_with_balanced_brackets(self):
+        candidate = make_candidate(
+            "long-title",
+            "自治体が「富山県気象解説情報（大雨・落雷に関する詳細情報と対象地域）"
+            + "を更新し住民へ警戒を呼びかける方針を発表" * 5
+            + "」",
+            description="自治体は大雨への警戒情報を更新しました。",
+        )
+
+        drafts, _ = create_drafts([candidate])
+
+        self.assertLessEqual(len(drafts[0].title), 120)
+        self.assertIn("…", drafts[0].title)
+        self.assertTrue(has_balanced_brackets(drafts[0].title))
+
     def test_paid_api_environment_is_never_used(self):
         candidate = make_candidate("no-paid-api", "政府が新制度を発表")
         with patch.dict(os.environ, {"OPENAI_API_KEY": "must-not-be-used"}, clear=True):
@@ -219,6 +925,9 @@ class EditorTests(unittest.TestCase):
                 "震度3: 福島県、宮城県。"
                 "過去にも周辺で地震活動が観測されています。"
                 "今後の情報に留意してください。"
+                "揺れは福島県浜通りと宮城県南部の複数地点で観測されました。"
+                "震源の深さは約50キロと推定され、気象庁は観測網の記録を解析しました。"
+                "一部の鉄道事業者は安全確認を実施しました。"
                 "この地震による津波の心配はありません。"
             ),
             priority=5,
@@ -231,7 +940,9 @@ class EditorTests(unittest.TestCase):
         draft = drafts[0]
         self.assertEqual(draft.article_type, "feature")
         self.assertTrue(any("発生時刻" in point for point in draft.facts))
-        self.assertTrue(any("震度3:" in point for point in draft.impact))
+        self.assertTrue(
+            any("震度3を観測しました" in point for point in draft.impact)
+        )
         self.assertIn("過去にも", draft.background)
         self.assertTrue(any("今後の情報" in point for point in draft.watch_points))
         points = draft.facts + draft.impact + [draft.background] + draft.watch_points
@@ -240,6 +951,108 @@ class EditorTests(unittest.TestCase):
         self.assertEqual(
             sum("津波の心配はありません" in point for point in points), 1
         )
+
+    def test_fresh_jma_major_fields_are_feature_below_general_char_floor(self):
+        candidate = make_candidate(
+            "jma-kumamoto-live-shape",
+            "熊本県熊本地方で地震 M3.6 最大震度3",
+            source="気象庁 防災情報（地震・津波・火山）",
+            publisher="jma",
+            description=(
+                "発生時刻: 2026-08-16T12:04:00+09:00。"
+                "震央・震源地域: 熊本県熊本地方。"
+                "マグニチュード: Ｍ３．６。"
+                "最大震度: 3。"
+                "１６日１２時０４分ころ、地震がありました。"
+                "＊印は気象庁以外の震度観測点についての情報です。"
+                "この地震による津波の心配はありません。"
+                "震度３: 熊本県熊本。"
+                "震度３: 益城町。"
+            ),
+            priority=5,
+            primary_source=True,
+        )
+        candidate = replace(
+            candidate,
+            published_at=datetime(2026, 8, 16, 3, 7, tzinfo=UTC),
+        )
+
+        drafts, _ = create_drafts([candidate])
+
+        self.assertEqual(len(drafts), 1)
+        draft = drafts[0]
+        self.assertEqual(draft.article_type, "feature")
+        self.assertEqual(draft.desk_lens, "event")
+        self.assertEqual(len(draft.event_keys), 1)
+        self.assertGreaterEqual(len(draft.facts) + len(draft.impact), 8)
+        self.assertGreaterEqual(len(draft.summary.replace(" ", "")), 90)
+        self.assertNotIn("と配信", " ".join((*draft.facts, *draft.impact)))
+        self.assertNotIn("T12:04", f"{draft.dek} {draft.summary}")
+        self.assertIn("8月16日12時04分", draft.dek)
+        self.assertIn("熊本県熊本地方を震源", draft.dek)
+        self.assertIn("マグニチュード3.6", draft.dek)
+        self.assertIn("最大震度3", draft.dek)
+        self.assertIn("津波の心配はありません", draft.dek)
+        self.assertFalse(
+            any(
+                point.startswith("気象庁")
+                for point in (*draft.facts, *draft.impact)
+            )
+        )
+
+        window = coverage_window(
+            datetime(2026, 8, 16, 18, 10, tzinfo=JST), "18"
+        )
+        article = build_edition(
+            window,
+            drafts,
+            [candidate],
+            datetime(2026, 8, 16, 18, 10, tzinfo=JST),
+            "structured",
+            [],
+            {"name": "テスト"},
+        )["articles"][0]
+        self.assertEqual(len(article["body"]), len(set(article["body"])))
+        self.assertFalse(
+            any(
+                paragraph != article["summary"]
+                and paragraph in article["summary"]
+                for paragraph in article["body"]
+            )
+        )
+
+    def test_two_same_place_jma_quakes_keep_distinct_event_keys(self):
+        candidates = []
+        for identifier, time, magnitude in (
+            ("kumamoto-1204", "12:04", "3.6"),
+            ("kumamoto-1542", "15:42", "3.8"),
+        ):
+            candidates.append(
+                make_candidate(
+                    identifier,
+                    f"熊本県熊本地方で地震 M{magnitude} 最大震度3",
+                    source="気象庁 防災情報（地震・津波・火山）",
+                    publisher="jma",
+                    description=(
+                        f"発生時刻: 2026-08-16T{time}:00+09:00。"
+                        "震央・震源地域: 熊本県熊本地方。"
+                        f"マグニチュード: Ｍ{magnitude}。"
+                        "最大震度: 3。"
+                        "この地震による津波の心配はありません。"
+                        "震度３: 熊本県熊本。"
+                        "震度３: 益城町。"
+                    ),
+                    priority=5,
+                    primary_source=True,
+                )
+            )
+
+        drafts, _ = create_drafts(candidates)
+
+        features = [draft for draft in drafts if draft.article_type == "feature"]
+        self.assertEqual(len(features), 2)
+        self.assertTrue(all(len(draft.candidate_ids) == 1 for draft in features))
+        self.assertEqual(len({draft.event_keys[0] for draft in features}), 2)
 
     def test_detailed_mofa_primary_source_is_structured_as_feature(self):
         candidate = make_candidate(
@@ -374,6 +1187,8 @@ class EditorTests(unittest.TestCase):
                 "最大震度: 3。"
                 "この地震による津波の心配はありません。"
                 "震度3: 福島県、宮城県。"
+                "震源の深さは約50キロと推定され、複数の観測点で揺れを記録しました。"
+                "気象庁は地震計の観測記録を解析し、震源位置と規模を公表しました。"
             ),
             priority=2,
             primary_source=True,
@@ -387,6 +1202,8 @@ class EditorTests(unittest.TestCase):
                 "この地震による津波の心配はありません。"
                 "福島県と宮城県で揺れが観測されました。"
                 "鉄道各社は運行への影響を確認しています。"
+                "自治体は庁舎や公共施設の被害情報を集めています。"
+                "消防は住民から寄せられた通報の内容を確認しました。"
             ),
             priority=5,
         )

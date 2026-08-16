@@ -7,6 +7,7 @@ from pathlib import Path
 
 from scripts.news_pipeline.models import Candidate, StoryDraft
 from scripts.news_pipeline.publisher import build_edition, publish_edition
+from scripts.news_pipeline.text_utils import has_balanced_brackets
 from scripts.news_pipeline.time_windows import JST, coverage_window
 
 
@@ -56,8 +57,23 @@ class PublisherTests(unittest.TestCase):
             self.assertEqual(latest["articles"][0]["articleType"], "brief")
             self.assertEqual(latest["generationMode"], "structured")
             self.assertEqual(latest["schemaVersion"], 3)
+            self.assertEqual(latest["edition"]["slot"], "12:00")
+            self.assertNotIn("time", latest["edition"])
             self.assertTrue(latest["articles"][0]["sources"][0]["isPrimary"])
             self.assertEqual(latest["articles"][0]["sources"][0]["type"], "一次情報")
+            self.assertNotIn("url", latest["articles"][0]["sources"][0])
+            self.assertEqual(
+                latest["articles"][0]["sources"][0]["links"],
+                [
+                    {
+                        "title": "見出し",
+                        "url": "https://example.com/news",
+                        "publishedAt": "2026-08-15T10:00:00+09:00",
+                        "isContinuation": False,
+                        "originEditionId": "",
+                    }
+                ],
+            )
             self.assertTrue((root / "content" / "2026-08-15-12.md").exists())
             ET.parse(root / "site" / "feed.xml")
             ET.parse(root / "site" / "sitemap.xml")
@@ -126,9 +142,19 @@ class PublisherTests(unittest.TestCase):
         self.assertEqual(article["watchPoints"], ["次回の公式発表時刻"])
         self.assertEqual(article["articleType"], "feature")
         self.assertEqual(article["sourceCount"], 2)
+        self.assertEqual(article["freshSourceCount"], 2)
+        self.assertEqual(article["continuationSourceCount"], 0)
+        self.assertEqual(article["continuationOrigins"], [])
         self.assertEqual(article["publisherCount"], 1)
         self.assertEqual(len(article["sources"]), 1)
         self.assertEqual(article["sources"][0]["publisherId"], "nhk")
+        self.assertEqual(article["sources"][0]["name"], "NHK ONE")
+        self.assertNotIn("url", article["sources"][0])
+        self.assertEqual(len(article["sources"][0]["links"]), 2)
+        self.assertEqual(
+            {link["url"] for link in article["sources"][0]["links"]},
+            {"https://example.com/nhk/top", "https://example.com/nhk/world"},
+        )
         self.assertEqual(len(article["sources"][0]["keyPoints"]), 2)
         self.assertFalse(article["sources"][0]["isPrimary"])
         self.assertEqual(
@@ -190,6 +216,58 @@ class PublisherTests(unittest.TestCase):
         self.assertEqual(article["watchPoints"], ["次回発表は18時です。"])
         self.assertEqual(article["articleType"], "brief")
         self.assertEqual(edition["generationMode"], "structured")
+
+    def test_publish_contract_never_hard_clips_title_or_section_sentence(self):
+        candidate = Candidate(
+            id="weather-long",
+            title="富山県で大雨への警戒続く",
+            description="気象庁は大雨への警戒を呼びかけました。",
+            url="https://example.com/weather/long",
+            source_name="気象庁",
+            category="国内",
+            published_at=datetime(2026, 8, 15, 1, tzinfo=UTC),
+            primary_source=True,
+        )
+        long_title = (
+            "自治体が「富山県気象解説情報（大雨・落雷に関する詳細情報"
+            + "と対象地域" * 40
+            + "）」を更新"
+        )
+        broken_fact = (
+            "これで「富山県気象解説情報（大雨・落雷"
+            + "に関する説明" * 50
+            + "。"
+        )
+        draft = StoryDraft(
+            candidate_ids=[candidate.id],
+            title=long_title,
+            dek="気象庁は対象地域を公表しました。",
+            summary="気象庁は富山県で大雨への警戒を呼びかけました。",
+            why_it_matters="",
+            category="国内",
+            importance=4,
+            tags=["国内"],
+            facts=["気象庁は大雨への警戒を呼びかけました。", broken_fact],
+        )
+        window = coverage_window(datetime(2026, 8, 15, 12, 10, tzinfo=JST), "12")
+
+        edition = build_edition(
+            window,
+            [draft],
+            [candidate],
+            datetime(2026, 8, 15, 12, 10, tzinfo=JST),
+            "structured",
+            [],
+            {"name": "テスト"},
+        )
+
+        article = edition["articles"][0]
+        self.assertLessEqual(len(article["title"]), 120)
+        self.assertIn("…", article["title"])
+        self.assertTrue(has_balanced_brackets(article["title"]))
+        self.assertEqual(
+            article["facts"], ["気象庁は大雨への警戒を呼びかけました。"]
+        )
 
 
 if __name__ == "__main__":

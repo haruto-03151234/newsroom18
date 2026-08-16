@@ -1,5 +1,7 @@
 {
   "name": "NEWSROOM 18",
-  "tagline": "事実・影響・背景を、ひとつの記事で。",
+  "tagline": "事実をつなぎ、背景まで伝える。",
+  "description": "国内・国際・経済・社会・科学・テクノロジー・文化・スポーツを、複数の情報源とともに詳しく伝える日本語ニュースサイト。",
+  "editionTimes": ["06:00", "12:00", "18:00"],
   "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
 }

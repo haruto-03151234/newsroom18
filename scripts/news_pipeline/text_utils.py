@@ -20,6 +20,22 @@ TRACKING_PARAMS = {
     "ref_src",
 }
 
+_BRACKET_PAIRS = {
+    "「": "」",
+    "『": "』",
+    "（": "）",
+    "(": ")",
+    "【": "】",
+    "［": "］",
+    "[": "]",
+}
+_BRACKET_CLOSERS = frozenset(_BRACKET_PAIRS.values())
+_SENTENCE_ENDINGS = frozenset("。！？!?")
+_TRUNCATED_SENTENCE_PATTERN = re.compile(
+    r"(?:があ|てい|であ|となっ|につい|およ|ならび|踏まえ|受けてい)"
+    r"\s*[。！？!?]$"
+)
+
 
 class _TextExtractor(HTMLParser):
     def __init__(self) -> None:
@@ -41,6 +57,120 @@ def clean_text(value: str | None, limit: int = 1200) -> str:
     raw = "".join(ch for ch in raw if ch in "\n\t" or unicodedata.category(ch)[0] != "C")
     raw = re.sub(r"\s+", " ", raw).strip()
     return raw[:limit].rstrip()
+
+
+def has_balanced_brackets(value: str) -> bool:
+    """Return whether Japanese/ASCII quote and bracket pairs are complete."""
+    stack: list[str] = []
+    for character in value:
+        if character in _BRACKET_PAIRS:
+            stack.append(_BRACKET_PAIRS[character])
+        elif character in _BRACKET_CLOSERS:
+            if not stack or stack[-1] != character:
+                return False
+            stack.pop()
+    return not stack
+
+
+def complete_text(value: str | None, limit: int) -> str:
+    """Keep only complete, balanced text units that fit without hard clipping.
+
+    A short label without sentence punctuation is retained. Longer prose is
+    assembled from whole balanced sentences; an overlong or unclosed unit is
+    omitted instead of being turned into a fabricated-looking fragment.
+    """
+    cleaned = clean_text(value, max(1200, limit * 4))
+    if not cleaned:
+        return ""
+    if (
+        len(cleaned) <= limit
+        and has_balanced_brackets(cleaned)
+        and not has_truncated_sentence(cleaned)
+    ):
+        return cleaned
+
+    segments: list[str] = []
+    buffer: list[str] = []
+    stack: list[str] = []
+    for character in cleaned:
+        buffer.append(character)
+        if character in _BRACKET_PAIRS:
+            stack.append(_BRACKET_PAIRS[character])
+        elif character in _BRACKET_CLOSERS:
+            if not stack or stack[-1] != character:
+                buffer = []
+                stack = []
+                continue
+            stack.pop()
+        if character in _SENTENCE_ENDINGS and not stack:
+            segment = "".join(buffer).strip()
+            if segment:
+                segments.append(segment)
+            buffer = []
+    tail = "".join(buffer).strip()
+    if tail and not stack and has_balanced_brackets(tail):
+        segments.append(tail)
+
+    selected: list[str] = []
+    length = 0
+    for segment in segments:
+        if (
+            not has_balanced_brackets(segment)
+            or has_truncated_sentence(segment)
+            or len(segment) > limit
+        ):
+            continue
+        separator = 1 if selected else 0
+        if length + separator + len(segment) > limit:
+            break
+        selected.append(segment)
+        length += separator + len(segment)
+    return " ".join(selected)
+
+
+def has_truncated_sentence(value: str) -> bool:
+    """Detect common mid-word endings produced by hard character clipping."""
+    return any(
+        _TRUNCATED_SENTENCE_PATTERN.search(sentence.strip())
+        for sentence in re.findall(r"[^。！？!?]+[。！？!?]", value)
+    )
+
+
+def clip_balanced_title(value: str | None, limit: int = 120) -> str:
+    """Clip a headline visibly while closing any open quote or bracket."""
+    cleaned = clean_text(value, max(300, limit * 3))
+    if not cleaned:
+        return ""
+    if len(cleaned) <= limit and has_balanced_brackets(cleaned):
+        return cleaned
+
+    prefix = cleaned[: max(1, limit - 1)].rstrip()
+    boundary = max(
+        (prefix.rfind(mark) for mark in ("。", "！", "？", "!", "?", "｜", "|", "：", ":")),
+        default=-1,
+    )
+    if boundary >= max(12, limit // 2):
+        prefix = prefix[: boundary + 1].rstrip("｜|：: ")
+
+    while prefix:
+        stack: list[str] = []
+        invalid = False
+        for character in prefix:
+            if character in _BRACKET_PAIRS:
+                stack.append(_BRACKET_PAIRS[character])
+            elif character in _BRACKET_CLOSERS:
+                if not stack or stack[-1] != character:
+                    invalid = True
+                    break
+                stack.pop()
+        if invalid:
+            prefix = prefix[:-1].rstrip()
+            continue
+        closers = "".join(reversed(stack))
+        if len(prefix) + 1 + len(closers) <= limit:
+            return prefix.rstrip("、,・/／｜|：:-") + "…" + closers
+        prefix = prefix[:-1].rstrip()
+    return ""
 
 
 def normalize_title(value: str) -> str:
@@ -107,4 +237,3 @@ def looks_japanese(value: str) -> bool:
     japanese = len(re.findall(r"[\u3040-\u30ff\u3400-\u9fff]", value))
     letters = len(re.findall(r"[A-Za-z\u3040-\u30ff\u3400-\u9fff]", value))
     return letters > 0 and japanese / letters >= 0.12
-

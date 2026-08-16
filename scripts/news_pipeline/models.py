@@ -5,7 +5,17 @@ from datetime import datetime
 from typing import Any
 
 
-CATEGORIES = ("国内", "海外", "テクノロジー", "エンタメ", "スポーツ", "その他")
+CATEGORIES = (
+    "国内",
+    "海外",
+    "経済",
+    "社会",
+    "科学",
+    "テクノロジー",
+    "エンタメ",
+    "スポーツ",
+    "その他",
+)
 ARTICLE_TYPES = ("brief", "feature")
 
 
@@ -22,6 +32,8 @@ class Candidate:
     ai_required: bool = False
     primary_source: bool = False
     publisher_id: str = ""
+    context_only: bool = False
+    origin_edition_id: str = ""
 
     def prompt_record(self) -> dict[str, Any]:
         return {
@@ -34,6 +46,8 @@ class Candidate:
             "publishedAt": self.published_at.isoformat(),
             "priority": self.priority,
             "primarySource": self.primary_source,
+            "contextOnly": self.context_only,
+            "originEditionId": self.origin_edition_id,
         }
 
 
@@ -53,6 +67,8 @@ class StoryDraft:
     watch_points: list[str] = field(default_factory=list)
     source_notes: dict[str, str] = field(default_factory=dict)
     article_type: str = "brief"
+    desk_lens: str = ""
+    event_keys: list[str] = field(default_factory=list)
 
 
 def dataclass_dict(value: Any) -> dict[str, Any]:

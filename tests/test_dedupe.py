@@ -96,6 +96,38 @@ class DedupeTests(unittest.TestCase):
         )
         self.assertEqual(state["stories"][0]["editionId"], "2026-08-15-12")
 
+    def test_remember_keeps_every_nested_publisher_link(self):
+        state = {"stories": []}
+        remember_articles(
+            state,
+            [
+                {
+                    "title": "横断詳報",
+                    "publishedAt": "2026-08-15T10:00:00+09:00",
+                    "sources": [
+                        {
+                            "url": "https://example.com/a",
+                            "links": [
+                                {"url": "https://example.com/a"},
+                                {"url": "https://example.com/b"},
+                                {"url": "https://example.com/c"},
+                            ],
+                        }
+                    ],
+                }
+            ],
+            "2026-08-15-12",
+        )
+
+        self.assertEqual(
+            state["stories"][0]["urls"],
+            [
+                "https://example.com/a",
+                "https://example.com/b",
+                "https://example.com/c",
+            ],
+        )
+
 
 if __name__ == "__main__":
     unittest.main()
