@@ -62,7 +62,10 @@
 
   const state = {
     data: null,
+    latestData: null,
     archive: [],
+    recentFeatures: [],
+    recentFeaturesForEditionId: "",
     selectedCategory: "all",
     loadFailed: false
   };
@@ -105,6 +108,12 @@
       state.archive = [editionToArchiveItem(state.data)];
     }
 
+    state.latestData = state.data;
+    if (!state.loadFailed && !featureArticles(state.data.articles).length) {
+      state.recentFeatures = await loadRecentFeatures(state.data, state.archive);
+      state.recentFeaturesForEditionId = state.data.edition.id;
+    }
+
     dom.loadingState.hidden = true;
     await route();
     if (state.loadFailed) {
@@ -116,7 +125,7 @@
     const ids = [
       "loading-state", "error-state", "error-message", "retry-button",
       "dashboard-view", "article-view", "edition-date", "edition-label", "edition-coverage",
-      "last-updated", "brief-summary", "lead-article", "bulletin-list", "category-filters",
+      "last-updated", "brief-summary", "lead-kicker", "lead-heading", "lead-article", "bulletin-list", "category-filters",
       "important-grid", "news-sections", "result-count", "empty-state", "shorts-section", "shorts-list", "archive-list",
       "article-breadcrumb", "article-category", "article-importance", "article-title",
       "article-dek", "article-updated", "article-fact-sheet", "article-verification",
@@ -136,6 +145,10 @@
     const params = new URLSearchParams(window.location.search);
     const editionId = params.get("edition");
     const articleId = params.get("article");
+
+    if (!editionId && state.latestData && state.data.edition.id !== state.latestData.edition.id) {
+      state.data = state.latestData;
+    }
 
     if (editionId && editionId !== state.data.edition.id) {
       const archiveItem = state.archive.find((item) => item.id === editionId);
@@ -181,6 +194,35 @@
     }
   }
 
+  async function loadRecentFeatures(currentData, archiveItems) {
+    const currentTime = dateValue(currentData.generatedAt);
+    const candidates = archiveItems
+      .filter((item) => item.id !== currentData.edition.id && item.dataUrl)
+      .filter((item) => !currentTime || dateValue(item.generatedAt) < currentTime)
+      .slice(0, 5);
+
+    const results = await Promise.allSettled(
+      candidates.map(async (item) => normalizeEdition(await fetchJson(item.dataUrl)))
+    );
+    const editions = results.map((result) => result.status === "fulfilled" ? result.value : null);
+    return selectRecentFeatures(editions);
+  }
+
+  function selectRecentFeatures(editions) {
+    for (const edition of editions) {
+      if (!edition) continue;
+      const features = sortedByImportance(featureArticles(edition.articles));
+      if (features.length) return features.slice(0, 3);
+    }
+    return [];
+  }
+
+  function dashboardRecentFeatures() {
+    if (featureArticles(state.data.articles).length) return [];
+    if (state.data.edition.id !== state.recentFeaturesForEditionId) return [];
+    return state.recentFeatures;
+  }
+
   function renderDashboard(requestedCategory = "all") {
     dom.articleView.hidden = true;
     dom.dashboardView.hidden = false;
@@ -207,18 +249,27 @@
 
   function renderLead() {
     clear(dom.leadArticle);
-    const article = sortedByImportance(featureArticles(state.data.articles))[0];
+    const currentFeatures = sortedByImportance(featureArticles(state.data.articles));
+    const recentFeatures = dashboardRecentFeatures();
+    const usingRecent = !currentFeatures.length && recentFeatures.length > 0;
+    const article = currentFeatures[0] || recentFeatures[0];
+
+    dom.leadKicker.textContent = usingRecent ? "RECENT FEATURE" : "TOP STORY";
+    dom.leadHeading.textContent = usingRecent ? "直近の詳報" : "重要ニュース";
     if (!article) {
       dom.leadArticle.append(element("p", "lead-article__empty", "この号は短報のみです。"));
       return;
     }
 
-    dom.leadArticle.append(
-      element("span", "lead-article__category", categoryLabel(article.category)),
-      headingLink(article, "h2"),
-      element("p", "lead-article__dek", article.dek || article.summary),
-      articleMeta(article, "lead-article__meta")
-    );
+    if (usingRecent) {
+      dom.leadArticle.append(element("p", "lead-article__origin", editionOriginLabel(article)));
+    }
+    dom.leadArticle.append(element("span", "lead-article__category", categoryLabel(article.category)));
+    dom.leadArticle.append(headingLink(article, "h2"));
+    if (article.dek || article.summary) {
+      dom.leadArticle.append(element("p", "lead-article__dek", article.dek || article.summary));
+    }
+    dom.leadArticle.append(articleMeta(article, "lead-article__meta"));
   }
 
   function renderBulletin() {
@@ -294,10 +345,32 @@
 
     const features = featureArticles(articles);
     const briefs = briefArticles(articles);
-    dom.resultCount.textContent = `詳報 ${features.length}本・短報 ${briefs.length}本`;
-    dom.emptyState.hidden = Boolean(articles.length);
+    let recentFeatures = dashboardRecentFeatures();
+    if (state.selectedCategory === "important") {
+      recentFeatures = recentFeatures.filter((article) => article.importance >= 4);
+    } else if (state.selectedCategory !== "all") {
+      recentFeatures = recentFeatures.filter((article) => article.category === state.selectedCategory);
+    }
+    const recentCount = recentFeatures.length
+      ? ` / 直近の詳報 ${recentFeatures.length}本（${editionOriginLabel(recentFeatures[0])}）`
+      : "";
+    dom.resultCount.textContent = `現号：詳報 ${features.length}本・短報 ${briefs.length}本${recentCount}`;
+    dom.emptyState.hidden = Boolean(articles.length || recentFeatures.length);
 
     renderShorts(briefs);
+
+    if (recentFeatures.length) {
+      const section = element("section", "category-section category-section--recent");
+      section.setAttribute("aria-labelledby", "category-recent-features");
+      const heading = element("div", "category-section__heading");
+      const title = element("h3", "", "直近の詳報");
+      title.id = "category-recent-features";
+      heading.append(title, element("span", "", editionOriginLabel(recentFeatures[0])));
+      const grid = element("div", "story-grid");
+      recentFeatures.forEach((article) => grid.append(storyCard(article)));
+      section.append(heading, grid);
+      dom.newsSections.append(section);
+    }
 
     for (const category of CATEGORY_ORDER) {
       const categoryArticles = features
@@ -366,6 +439,9 @@
     const meta = articleMeta(article, "story-meta");
     const sourceNames = article.sources.map((source) => source.name).join(" / ");
     const sources = element("p", "story-card__sources", `出典：${sourceNames || "リンク未掲載"}`);
+    if (article.editionId && article.editionId !== state.data.edition.id) {
+      card.append(element("p", "story-card__origin", editionOriginLabel(article)));
+    }
     card.append(category, title, summary, meta, sources);
     return card;
   }
@@ -601,7 +677,12 @@
 
   function articleLink(article, text) {
     const link = document.createElement("a");
-    link.href = queryUrl({ article: article.slug || article.id });
+    const params = {};
+    if (article.editionId && article.editionId !== state.data.edition.id) {
+      params.edition = article.editionId;
+    }
+    params.article = article.slug || article.id;
+    link.href = queryUrl(params);
     link.textContent = text;
     return link;
   }
@@ -639,6 +720,13 @@
     const generatedAt = validDate(raw.generatedAt || raw.updatedAt) || new Date().toISOString();
     const edition = raw.edition && typeof raw.edition === "object" ? raw.edition : {};
     const id = String(edition.id || raw.id || generatedAt.slice(0, 16).replace(/[-T:]/g, ""));
+    const editionLabel = String(edition.label || edition.name || inferEditionLabel(generatedAt));
+    const editionArticles = articles.map((article) => ({
+      ...article,
+      editionId: id,
+      editionLabel,
+      editionGeneratedAt: generatedAt
+    }));
 
     return {
       schemaVersion: raw.schemaVersion || 1,
@@ -648,14 +736,14 @@
       generationMode: String(raw.generationMode || ""),
       edition: {
         id,
-        label: String(edition.label || edition.name || inferEditionLabel(generatedAt)),
+        label: editionLabel,
         slot: String(edition.slot || formatTime(generatedAt))
       },
       coverage: {
         start: validDate(raw.coverage?.start || raw.coverage?.from || raw.windowStart),
         end: validDate(raw.coverage?.end || raw.coverage?.to || raw.windowEnd)
       },
-      articles
+      articles: editionArticles
     };
   }
 
@@ -995,6 +1083,14 @@
     const response = await fetch(url, { cache: "no-store", headers: { Accept: "application/json" } });
     if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
     return response.json();
+  }
+
+  function editionOriginLabel(article) {
+    const date = formatDate(article.editionGeneratedAt || article.updatedAt, {
+      month: "long",
+      day: "numeric"
+    });
+    return `${date} ${article.editionLabel || "過去の号"}`;
   }
 
   function formatCoverage(coverage) {
