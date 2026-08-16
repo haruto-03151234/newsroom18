@@ -10,7 +10,7 @@ from pathlib import Path
 from typing import Any
 from urllib.parse import quote
 
-from .models import Candidate, StoryDraft
+from .models import ARTICLE_TYPES, Candidate, StoryDraft
 from .text_utils import clean_text, stable_hash
 from .time_windows import CoverageWindow, JST
 
@@ -47,14 +47,17 @@ def build_edition(
             importance = 3
         summary = clean_text(draft.summary, 300)
         why_it_matters = clean_text(draft.why_it_matters, 140)
-        facts = _clean_values(draft.facts, 240, limit=6)
-        if not facts and summary:
-            facts = [summary]
+        facts = _clean_values(draft.facts, 240, limit=10)
+        impact = _clean_values(draft.impact, 240, limit=8)
         background = clean_text(draft.background, 500)
-        watch_points = _clean_values(draft.watch_points, 180, limit=4)
-        if not watch_points and why_it_matters:
-            watch_points = [why_it_matters]
-        sections = _article_sections(facts, background, watch_points)
+        watch_points = _clean_values(draft.watch_points, 180, limit=6)
+        facts, impact, background, watch_points = _deduplicate_article_fields(
+            facts, impact, background, watch_points
+        )
+        article_type = (
+            draft.article_type if draft.article_type in ARTICLE_TYPES else "brief"
+        )
+        sections = _article_sections(facts, impact, background, watch_points)
         updates = _article_updates(sources, generated_at)
         articles.append(
             {
@@ -66,10 +69,16 @@ def build_edition(
                 "dek": clean_text(draft.dek, 120),
                 "summary": summary,
                 "whyItMatters": why_it_matters,
+                "articleType": article_type,
                 "facts": facts,
+                "impactPoints": impact,
                 "background": background,
                 "watchPoints": watch_points,
-                "body": [value for value in (summary, background, *watch_points) if value],
+                "body": [
+                    value
+                    for value in (summary, *impact, background, *watch_points)
+                    if value
+                ],
                 "sections": sections,
                 "updates": updates,
                 "category": draft.category,
@@ -92,7 +101,7 @@ def build_edition(
             )
     categories = Counter(item["category"] for item in articles)
     return {
-        "schemaVersion": 2,
+        "schemaVersion": 3,
         "site": {
             "name": str(site_config.get("name", "NEWSROOM 18")),
             "tagline": str(site_config.get("tagline", "要点から背景まで、読みやすく。")),
@@ -100,7 +109,7 @@ def build_edition(
         },
         "generatedAt": generated_at.astimezone(JST).isoformat(),
         "summary": _edition_summary(articles),
-        "generationMode": generation_mode,
+        "generationMode": _public_generation_mode(generation_mode),
         "edition": {
             "id": window.id,
             "date": f"{window.end:%Y-%m-%d}",
@@ -122,6 +131,9 @@ def build_edition(
             "sourceCount": len(edition_source_urls),
             "publisherCount": len(edition_publishers),
             "publisherCounts": dict(sorted(publisher_article_counts.items())),
+            "articleTypeCounts": dict(
+                Counter(item["articleType"] for item in articles)
+            ),
             "feedFailureCount": len(feed_failures),
         },
         "feedFailures": feed_failures,
@@ -203,6 +215,39 @@ def _clean_values(values: Any, width: int, limit: int) -> list[str]:
     return _deduplicate_values(cleaned, limit=limit)
 
 
+def _deduplicate_article_fields(
+    facts: list[str],
+    impact: list[str],
+    background: str,
+    watch_points: list[str],
+) -> tuple[list[str], list[str], str, list[str]]:
+    """Keep a published sentence in only one structured section."""
+    seen: set[str] = set()
+
+    def unique(values: list[str], limit: int) -> list[str]:
+        result: list[str] = []
+        for value in values:
+            cleaned = clean_text(value, 500)
+            key = cleaned.casefold()
+            if not cleaned or key in seen:
+                continue
+            seen.add(key)
+            result.append(cleaned)
+            if len(result) >= limit:
+                break
+        return result
+
+    facts = unique(facts, 10)
+    impact = unique(impact, 8)
+    clean_background = clean_text(background, 500)
+    if clean_background.casefold() in seen:
+        clean_background = ""
+    elif clean_background:
+        seen.add(clean_background.casefold())
+    watch_points = unique(watch_points, 6)
+    return facts, impact, clean_background, watch_points
+
+
 def _deduplicate_values(values: list[str], limit: int) -> list[str]:
     result: list[str] = []
     seen: set[str] = set()
@@ -220,17 +265,27 @@ def _deduplicate_values(values: list[str], limit: int) -> list[str]:
 
 def _article_sections(
     facts: list[str],
+    impact: list[str],
     background: str,
     watch_points: list[str],
 ) -> list[dict[str, Any]]:
     sections: list[dict[str, Any]] = []
     if facts:
         sections.append({"heading": "確認できた事実", "paragraphs": facts})
+    if impact:
+        sections.append({"heading": "影響・対象地域", "paragraphs": impact})
     if background:
         sections.append({"heading": "背景", "paragraphs": [background]})
     if watch_points:
         sections.append({"heading": "次に注目", "paragraphs": watch_points})
     return sections
+
+
+def _public_generation_mode(value: str) -> str:
+    cleaned = clean_text(value, 40).casefold()
+    if cleaned in {"", "fallback", "deterministic"}:
+        return "structured"
+    return cleaned
 
 
 def _article_updates(
