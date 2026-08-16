@@ -5,7 +5,7 @@ from scripts.news_pipeline.dedupe import filter_seen, remember_articles
 from scripts.news_pipeline.models import Candidate
 
 
-def candidate(title: str, url: str) -> Candidate:
+def candidate(title: str, url: str, *, primary_source: bool = False) -> Candidate:
     return Candidate(
         id=url.rsplit("/", 1)[-1],
         title=title,
@@ -14,6 +14,7 @@ def candidate(title: str, url: str) -> Candidate:
         source_name="テスト通信",
         category="国内",
         published_at=datetime(2026, 8, 15, 2, tzinfo=UTC),
+        primary_source=primary_source,
     )
 
 
@@ -43,6 +44,43 @@ class DedupeTests(unittest.TestCase):
         result = filter_seen([candidate("政府が新制度を発表", "https://other.example/b")], state)
         self.assertEqual(result, [])
 
+    def test_primary_update_with_new_url_survives_similar_title(self):
+        state = {
+            "stories": [
+                {
+                    "title": "東京都気象警報・注意報",
+                    "publishedAt": "2026-08-15T10:00:00+09:00",
+                    "urls": ["https://data.jma.go.jp/old.xml"],
+                }
+            ]
+        }
+        update = candidate(
+            "東京都気象警報・注意報",
+            "https://data.jma.go.jp/new.xml",
+            primary_source=True,
+        )
+
+        self.assertEqual(filter_seen([update], state), [update])
+
+    def test_primary_update_with_exact_seen_url_is_still_filtered(self):
+        url = "https://data.jma.go.jp/same.xml"
+        state = {
+            "stories": [
+                {
+                    "title": "東京都気象警報・注意報",
+                    "publishedAt": "2026-08-15T10:00:00+09:00",
+                    "urls": [url],
+                }
+            ]
+        }
+        update = candidate(
+            "東京都気象警報・注意報",
+            url,
+            primary_source=True,
+        )
+
+        self.assertEqual(filter_seen([update], state), [])
+
     def test_remember_uses_only_code_assembled_sources(self):
         state = {"stories": []}
         remember_articles(
@@ -61,4 +99,3 @@ class DedupeTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-
