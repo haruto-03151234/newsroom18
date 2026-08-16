@@ -46,112 +46,25 @@
     "社会": "society"
   };
 
-  const FALLBACK_DATA = {
+  const EMPTY_EDITION = {
     schemaVersion: 1,
     site: {
       name: "NEWSROOM 18",
       timezone: TIMEZONE,
       description: "朝6時・昼12時・夕方18時に更新するニュースダイジェスト"
     },
-    generatedAt: "2026-08-15T06:00:00+09:00",
-    summary: "表示確認用のサンプル号です。自動更新後は、対象時間帯のニュースに置き換わります。",
-    edition: { id: "sample-0600", label: "朝刊・サンプル", slot: "06:00", isSample: true },
-    coverage: { start: "2026-08-14T18:00:00+09:00", end: "2026-08-15T06:00:00+09:00" },
-    articles: [
-      {
-        id: "sample-top",
-        slug: "sample-top",
-        title: "表示サンプル：最も重要なニュースが、この大見出しに掲載されます",
-        dek: "複数の信頼できる情報源を照合し、出来事・影響・背景・今後の注目点まで整理します。",
-        summary: "これはレイアウト確認用の記事です。実際のニュースではありません。",
-        category: "domestic",
-        importance: 5,
-        publishedAt: "2026-08-15T05:20:00+09:00",
-        updatedAt: "2026-08-15T05:50:00+09:00",
-        facts: [
-          "これは表示確認用のサンプルで、実際のニュースではありません。",
-          "実運用では対象時間帯ごとに収集した記事へ自動で置き換わります。"
-        ],
-        background: [
-          "画面構成とデータ契約を、外部APIなしでも確認できるように用意しています。"
-        ],
-        watchPoints: [
-          "自動更新後は複数ソースの照合状況と続報を確認します。"
-        ],
-        updates: [
-          { at: "2026-08-15T05:50:00+09:00", text: "表示サンプルの構成を更新", source: "NEWSROOM 18" }
-        ],
-        body: [
-          "これはデータを読み込めない環境でも画面を確認できるように用意したサンプル記事です。実際のニュース内容を示すものではありません。",
-          "自動更新が始まると、対象時間帯のニュースを複数ソースで確認し、重複をまとめた記事がここに表示されます。"
-        ],
-        sources: [
-          {
-            name: "NHK NEWS WEB（出典表示例）",
-            url: "https://www3.nhk.or.jp/news/",
-            type: "報道",
-            keyPoints: ["情報源ごとに取得した要点を、この位置に表示します。"]
-          },
-          {
-            name: "Reuters（出典表示例）",
-            url: "https://www.reuters.com/",
-            type: "報道",
-            keyPoints: ["別の情報源の要点を分けて表示し、差異を確認しやすくします。"]
-          }
-        ]
-      },
-      {
-        id: "sample-world",
-        slug: "sample-world",
-        title: "海外ニュースの見出しと要点を、背景が分かる長さで表示",
-        summary: "各記事には更新時刻と参照した情報源へのリンクが付きます。",
-        category: "world",
-        importance: 4,
-        publishedAt: "2026-08-15T04:40:00+09:00",
-        updatedAt: "2026-08-15T05:35:00+09:00",
-        sources: [{ name: "BBC News（出典表示例）", url: "https://www.bbc.com/news" }]
-      },
-      {
-        id: "sample-tech",
-        slug: "sample-tech",
-        title: "テクノロジー分野の最新動向を、専門用語を抑えて解説",
-        summary: "製品発表、AI、サイバーセキュリティなどの重要な動きを整理します。",
-        category: "technology",
-        importance: 3,
-        publishedAt: "2026-08-15T03:30:00+09:00",
-        updatedAt: "2026-08-15T05:10:00+09:00",
-        sources: [{ name: "企業公式発表（出典表示例）", url: "https://example.com/" }]
-      },
-      {
-        id: "sample-entertainment",
-        slug: "sample-entertainment",
-        title: "エンタメの注目トピックも同じフォーマットで掲載",
-        summary: "作品・イベント・文化に関する話題を簡潔にまとめます。",
-        category: "entertainment",
-        importance: 2,
-        publishedAt: "2026-08-15T02:10:00+09:00",
-        updatedAt: "2026-08-15T04:55:00+09:00",
-        sources: [{ name: "公式サイト（出典表示例）", url: "https://example.com/" }]
-      },
-      {
-        id: "sample-sports",
-        slug: "sample-sports",
-        title: "スポーツは試合結果と重要な記録をひと目で確認",
-        summary: "大会公式情報と報道を参照し、主要な結果をまとめます。",
-        category: "sports",
-        importance: 3,
-        publishedAt: "2026-08-15T01:20:00+09:00",
-        updatedAt: "2026-08-15T04:25:00+09:00",
-        sources: [{ name: "大会公式サイト（出典表示例）", url: "https://example.com/" }]
-      }
-    ]
+    generatedAt: new Date().toISOString(),
+    summary: "最新号を取得できませんでした。再読み込みして配信状況をご確認ください。",
+    edition: { id: "unavailable", label: "最新号", slot: "" },
+    coverage: { start: "", end: "" },
+    articles: []
   };
 
   const state = {
     data: null,
     archive: [],
     selectedCategory: "all",
-    usedFallback: false
+    loadFailed: false
   };
 
   const dom = {};
@@ -173,16 +86,16 @@
     if (latestResult.status === "fulfilled") {
       rawData = latestResult.value;
     } else {
-      rawData = FALLBACK_DATA;
-      state.usedFallback = true;
+      rawData = EMPTY_EDITION;
+      state.loadFailed = true;
     }
 
     try {
       state.data = normalizeEdition(rawData);
     } catch (error) {
       console.error("Invalid news data:", error);
-      state.data = normalizeEdition(FALLBACK_DATA);
-      state.usedFallback = true;
+      state.data = normalizeEdition(EMPTY_EDITION);
+      state.loadFailed = true;
     }
 
     state.archive = archiveResult.status === "fulfilled"
@@ -193,20 +106,22 @@
     }
 
     dom.loadingState.hidden = true;
-    dom.sampleNotice.hidden = !(state.usedFallback || state.data.edition.isSample);
     await route();
+    if (state.loadFailed) {
+      showError("最新号を取得できませんでした。通信状況を確認して、もう一度読み込んでください。", true);
+    }
   }
 
   function cacheDom() {
     const ids = [
-      "loading-state", "error-state", "error-message", "retry-button", "sample-notice",
-      "mode-notice-title", "mode-notice-message",
+      "loading-state", "error-state", "error-message", "retry-button",
       "dashboard-view", "article-view", "edition-date", "edition-label", "edition-coverage",
       "last-updated", "brief-summary", "lead-article", "bulletin-list", "category-filters",
-      "important-grid", "news-sections", "result-count", "empty-state", "archive-list",
+      "important-grid", "news-sections", "result-count", "empty-state", "shorts-section", "shorts-list", "archive-list",
       "article-breadcrumb", "article-category", "article-importance", "article-title",
       "article-dek", "article-updated", "article-fact-sheet", "article-verification",
-      "article-facts-group", "article-facts-list", "article-background-group", "article-background",
+      "article-facts-group", "article-facts-list", "article-impact-group", "article-impact-list",
+      "article-background-group", "article-background",
       "article-watch-group", "article-watch-list", "article-body", "article-sources-list",
       "article-updates", "article-updates-list",
       "copy-link-button", "copy-status", "related-grid"
@@ -288,22 +203,13 @@
     dom.editionCoverage.textContent = formatCoverage(data.coverage);
     setTime(dom.lastUpdated, data.generatedAt, formatDate(data.generatedAt, { month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit" }));
     dom.briefSummary.textContent = data.summary || `${data.articles.length}本のニュースを掲載しています。`;
-    const simpleMode = data.generationMode === "fallback" && !data.edition.isSample;
-    dom.sampleNotice.hidden = !(state.usedFallback || data.edition.isSample || simpleMode);
-    if (simpleMode) {
-      dom.modeNoticeTitle.textContent = "APIを使わない自動編集";
-      dom.modeNoticeMessage.textContent = "RSSの概要・見出し・公開時刻と、許可された一次情報の公式詳細データだけを根拠に整理しています。確認できない内容は補っていません。";
-    } else {
-      dom.modeNoticeTitle.textContent = "表示確認用サンプル";
-      dom.modeNoticeMessage.textContent = "自動更新が始まると、この内容は実際のニュースに置き換わります。";
-    }
   }
 
   function renderLead() {
     clear(dom.leadArticle);
-    const article = sortedByImportance(state.data.articles)[0];
+    const article = sortedByImportance(featureArticles(state.data.articles))[0];
     if (!article) {
-      dom.leadArticle.append(element("p", "", "現在、掲載できるニュースはありません。"));
+      dom.leadArticle.append(element("p", "lead-article__empty", "この号は短報のみです。"));
       return;
     }
 
@@ -317,7 +223,7 @@
 
   function renderBulletin() {
     clear(dom.bulletinList);
-    const leadId = sortedByImportance(state.data.articles)[0]?.id;
+    const leadId = sortedByImportance(featureArticles(state.data.articles))[0]?.id;
     const articles = [...state.data.articles]
       .filter((article) => article.id !== leadId)
       .sort((a, b) => dateValue(b.updatedAt) - dateValue(a.updatedAt))
@@ -325,7 +231,7 @@
 
     for (const article of articles) {
       const item = document.createElement("li");
-      const link = articleLink(article, article.title);
+      const link = newsDestinationLink(article, article.title);
       const time = document.createElement("time");
       time.dateTime = article.updatedAt;
       time.textContent = `${formatTime(article.updatedAt)} 更新・${categoryLabel(article.category)}`;
@@ -367,7 +273,7 @@
 
   function renderImportant() {
     clear(dom.importantGrid);
-    let articles = sortedByImportance(state.data.articles).filter((article) => article.importance >= 4);
+    let articles = sortedByImportance(featureArticles(state.data.articles)).filter((article) => article.importance >= 4);
     if (state.selectedCategory === "important") {
       articles = articles.slice(0, 6);
     } else if (state.selectedCategory !== "all") {
@@ -386,11 +292,15 @@
       articles = articles.filter((article) => article.category === state.selectedCategory);
     }
 
-    dom.resultCount.textContent = `${articles.length}本を表示`;
+    const features = featureArticles(articles);
+    const briefs = briefArticles(articles);
+    dom.resultCount.textContent = `詳報 ${features.length}本・短報 ${briefs.length}本`;
     dom.emptyState.hidden = Boolean(articles.length);
 
+    renderShorts(briefs);
+
     for (const category of CATEGORY_ORDER) {
-      const categoryArticles = articles
+      const categoryArticles = features
         .filter((article) => article.category === category)
         .sort((a, b) => dateValue(b.updatedAt) - dateValue(a.updatedAt));
       if (!categoryArticles.length) continue;
@@ -408,6 +318,46 @@
     }
   }
 
+  function renderShorts(articles) {
+    clear(dom.shortsList);
+    dom.shortsSection.hidden = !articles.length;
+
+    const sorted = [...articles].sort((a, b) => dateValue(b.updatedAt) - dateValue(a.updatedAt));
+    for (const article of sorted) {
+      const item = element("li", "shorts-item");
+      const meta = element("div", "shorts-item__meta");
+      meta.append(
+        element("span", "shorts-item__category", categoryLabel(article.category)),
+        element("time", "", `${formatTime(article.updatedAt)} 更新`)
+      );
+      meta.querySelector("time").dateTime = article.updatedAt;
+
+      const title = element("h3", "shorts-item__title");
+      title.append(newsDestinationLink(article, article.title));
+      const sourceList = element("div", "shorts-item__sources");
+      sourceList.append(element("span", "", "原典"));
+      const linkedSources = article.sources.filter((source) => safeExternalUrl(source.url) !== "#");
+      if (linkedSources.length) {
+        linkedSources.forEach((source, index) => {
+          if (index) sourceList.append(document.createTextNode(" / "));
+          const link = document.createElement("a");
+          link.href = safeExternalUrl(source.url);
+          link.target = "_blank";
+          link.rel = "noopener noreferrer nofollow";
+          link.textContent = source.name;
+          sourceList.append(link);
+        });
+      } else {
+        sourceList.append(document.createTextNode(" 出典リンク未掲載"));
+      }
+      item.append(meta, title);
+      const summary = sanitizeBriefText(article.summary || article.dek);
+      if (summary) item.append(element("p", "shorts-item__summary", summary));
+      item.append(sourceList);
+      dom.shortsList.append(item);
+    }
+  }
+
   function storyCard(article, important = false) {
     const card = element("article", important ? "story-card story-card--important" : "story-card");
     const category = element("span", "story-card__category", categoryLabel(article.category));
@@ -415,7 +365,7 @@
     const summary = element("p", "story-card__summary", article.summary || article.dek);
     const meta = articleMeta(article, "story-meta");
     const sourceNames = article.sources.map((source) => source.name).join(" / ");
-    const sources = element("p", "story-card__sources", `出典：${sourceNames || "確認中"}`);
+    const sources = element("p", "story-card__sources", `出典：${sourceNames || "リンク未掲載"}`);
     card.append(category, title, summary, meta, sources);
     return card;
   }
@@ -462,33 +412,43 @@
 
   function renderFactSheet(article) {
     clear(dom.articleFactsList);
+    clear(dom.articleImpactList);
     clear(dom.articleBackground);
     clear(dom.articleWatchList);
 
     article.facts.forEach((fact) => dom.articleFactsList.append(element("li", "", fact)));
+    article.impactPoints.forEach((point) => dom.articleImpactList.append(element("li", "", point)));
     article.background.forEach((paragraph) => dom.articleBackground.append(element("p", "", paragraph)));
     article.watchPoints.forEach((point) => dom.articleWatchList.append(element("li", "", point)));
 
     dom.articleFactsGroup.hidden = !article.facts.length;
+    dom.articleImpactGroup.hidden = !article.impactPoints.length;
     dom.articleBackgroundGroup.hidden = !article.background.length;
     dom.articleWatchGroup.hidden = !article.watchPoints.length;
-    dom.articleBackgroundGroup.classList.toggle(
-      "fact-group--wide",
-      Boolean(article.background.length && !article.watchPoints.length)
-    );
-    dom.articleWatchGroup.classList.toggle(
-      "fact-group--wide",
-      Boolean(article.watchPoints.length && !article.background.length)
-    );
 
-    const status = [];
-    if (article.sources.length === 0) status.push("出典を確認中");
-    else if (article.sources.length === 1) status.push("単独ソース");
-    else status.push(`${article.sources.length}ソースを掲載`);
-    if (!article.background.length) status.push("背景情報は確認中");
-    dom.articleVerification.textContent = `確認状況：${status.join(" / ")}`;
+    const secondaryGroups = [
+      { node: dom.articleImpactGroup, visible: article.impactPoints.length > 0 },
+      { node: dom.articleBackgroundGroup, visible: article.background.length > 0 },
+      { node: dom.articleWatchGroup, visible: article.watchPoints.length > 0 }
+    ].filter((group) => group.visible);
+    secondaryGroups.forEach((group, index) => {
+      const isLastOdd = secondaryGroups.length % 2 === 1 && index === secondaryGroups.length - 1;
+      group.node.classList.toggle("fact-group--wide", isLastOdd);
+      group.node.classList.toggle("fact-group--split-left", !isLastOdd && index % 2 === 0);
+    });
 
-    dom.articleFactSheet.hidden = !(article.facts.length || article.background.length || article.watchPoints.length);
+    const primaryCount = article.sources.filter((source) => source.isPrimary).length;
+    if (article.sources.length) {
+      dom.articleVerification.textContent = primaryCount
+        ? `配信元 ${article.sources.length}件（一次情報 ${primaryCount}件）`
+        : `配信元 ${article.sources.length}件`;
+    } else {
+      dom.articleVerification.textContent = "出典リンク未掲載";
+    }
+
+    dom.articleFactSheet.hidden = !(
+      article.facts.length || article.impactPoints.length || article.background.length || article.watchPoints.length
+    );
   }
 
   function renderArticleBody(article) {
@@ -505,9 +465,9 @@
     }
 
     const overviewParagraphs = new Set(
-      [...article.facts, ...article.background, ...article.watchPoints].map(paragraphKey)
+      [...article.facts, ...article.impactPoints, ...article.background, ...article.watchPoints].map(paragraphKey)
     );
-    const overviewText = [...article.facts, ...article.background, ...article.watchPoints];
+    const overviewText = [...article.facts, ...article.impactPoints, ...article.background, ...article.watchPoints];
     const paragraphs = article.body
       .filter((paragraph) => !overviewParagraphs.has(paragraphKey(paragraph)))
       .map((paragraph) => distinctParagraphContent(paragraph, overviewText))
@@ -525,7 +485,7 @@
     const sources = article.sources;
     clear(dom.articleSourcesList);
     if (!sources.length) {
-      dom.articleSourcesList.append(element("li", "", "情報源を確認中です。"));
+      dom.articleSourcesList.append(element("li", "", "この記事に出典リンクは掲載されていません。"));
       return;
     }
     for (const source of sources) {
@@ -560,6 +520,13 @@
         const pointList = element("ul", "source-card__points");
         points.forEach((point) => pointList.append(element("li", "", point)));
         li.append(pointLabel, pointList);
+      }
+      if (source.isPrimary) {
+        li.append(element(
+          "p",
+          "source-card__attribution",
+          `${source.name}の公開情報をもとにNEWSROOM 18が要約・加工`
+        ));
       }
       dom.articleSourcesList.append(li);
     }
@@ -604,7 +571,7 @@
 
   function renderRelated(article) {
     clear(dom.relatedGrid);
-    const related = state.data.articles
+    const related = featureArticles(state.data.articles)
       .filter((candidate) => candidate.id !== article.id)
       .sort((a, b) => {
         const sameA = a.category === article.category ? 1 : 0;
@@ -621,7 +588,7 @@
     const time = document.createElement("time");
     time.dateTime = article.updatedAt;
     time.textContent = `${formatTime(article.updatedAt)} 更新`;
-    const sources = element("span", "source-count", `${article.sources.length}ソース`);
+    const sources = element("span", "source-count", `${article.sources.length}配信元`);
     meta.append(time, sources);
     return meta;
   }
@@ -637,6 +604,26 @@
     link.href = queryUrl({ article: article.slug || article.id });
     link.textContent = text;
     return link;
+  }
+
+  function newsDestinationLink(article, text) {
+    if (article.articleType !== "brief") return articleLink(article, text);
+    const source = article.sources.find((item) => safeExternalUrl(item.url) !== "#");
+    if (!source) return element("span", "", text);
+    const link = document.createElement("a");
+    link.href = safeExternalUrl(source.url);
+    link.target = "_blank";
+    link.rel = "noopener noreferrer nofollow";
+    link.textContent = text;
+    return link;
+  }
+
+  function featureArticles(articles) {
+    return articles.filter((article) => article.articleType !== "brief");
+  }
+
+  function briefArticles(articles) {
+    return articles.filter((article) => article.articleType === "brief");
   }
 
   function normalizeEdition(raw) {
@@ -662,8 +649,7 @@
       edition: {
         id,
         label: String(edition.label || edition.name || inferEditionLabel(generatedAt)),
-        slot: String(edition.slot || formatTime(generatedAt)),
-        isSample: Boolean(edition.isSample || raw.isSample)
+        slot: String(edition.slot || formatTime(generatedAt))
       },
       coverage: {
         start: validDate(raw.coverage?.start || raw.coverage?.from || raw.windowStart),
@@ -690,6 +676,13 @@
     let background = normalizeParagraphs(item.background || item.context || []);
     if (!background.length) background = paragraphsFromSections(sections, /背景|経緯|これまで/);
 
+    let impactPoints = normalizeParagraphs(
+      item.impactPoints || item.impact || item.impacts || item.affectedAreas || item.consequences || []
+    );
+    if (!impactPoints.length) {
+      impactPoints = paragraphsFromSections(sections, /影響|対象地域|被害|注意点/);
+    }
+
     let watchPoints = normalizeParagraphs(item.watchPoints || item.whatToWatch || item.outlook || []);
     watchPoints = uniqueParagraphs([
       ...watchPoints,
@@ -697,23 +690,32 @@
       ...paragraphsFromSections(sections, /注目|なぜ重要|今後/)
     ]);
     facts = uniqueParagraphs(facts);
+    impactPoints = uniqueParagraphs(impactPoints);
     background = uniqueParagraphs(background);
     const updates = normalizeUpdates(item.updates || item.updateHistory || item.revisions || []);
+    const articleType = normalizeArticleType(
+      item.articleType || item.storyType || item.format || item.presentation,
+      { facts, impactPoints, background, body, sections }
+    );
+    const rawDek = String(item.dek || item.subtitle || item.lead || "");
+    const rawSummary = String(item.summary || item.description || item.dek || "");
 
     return {
       id,
       slug,
       title,
-      dek: String(item.dek || item.subtitle || item.lead || ""),
-      summary: String(item.summary || item.description || item.dek || ""),
+      dek: articleType === "brief" ? sanitizeBriefText(rawDek) : rawDek,
+      summary: articleType === "brief" ? sanitizeBriefText(rawSummary) : rawSummary,
       category: normalizeCategory(item.category || item.section || "other"),
       importance: clamp(Number(item.importance ?? item.priority ?? 3), 1, 5),
+      articleType,
       publishedAt,
       updatedAt,
       sources,
       body,
       sections,
       facts,
+      impactPoints,
       background,
       watchPoints,
       updates,
@@ -798,7 +800,40 @@
   }
 
   function isOverviewSection(heading) {
-    return /要点|確認できた事実|何が起きた|概要|背景|経緯|これまで|注目|なぜ重要|今後/.test(heading);
+    return /要点|確認できた事実|何が起きた|概要|影響|対象地域|被害|注意点|背景|経緯|これまで|注目|なぜ重要|今後/.test(heading);
+  }
+
+  function normalizeArticleType(value, detail) {
+    const type = String(value || "").trim().toLocaleLowerCase("ja");
+    if (["brief", "short", "newsbrief", "news-brief", "bulletin", "速報", "短報"].includes(type)) {
+      return "brief";
+    }
+    if (["feature", "full", "analysis", "longform", "long-form", "詳報", "解説"].includes(type)) {
+      return "feature";
+    }
+
+    const detailedSections = detail.sections.filter((section) => !isOverviewSection(section.heading));
+    const bodyLength = detail.body.join("").length;
+    return detail.facts.length >= 3
+      || detail.impactPoints.length > 0
+      || detail.background.length > 0
+      || detailedSections.length > 0
+      || bodyLength >= 240
+      ? "feature"
+      : "brief";
+  }
+
+  function sanitizeBriefText(value) {
+    const sentences = splitSentences(String(value || "").trim());
+    return sentences.filter((sentence) => {
+      const text = sentence.trim();
+      if (!text) return false;
+      const sourceDirection = /(?:詳しい|詳しくは|詳細|全文|続報|最新情報).{0,80}(?:出典|原典|リンク|配信元|公式サイト|元記事).{0,50}(?:確認|参照|ご覧)/.test(text)
+        || /(?:出典|原典|リンク|配信元|公式サイト|元記事).{0,60}(?:確認|参照|ご覧)(?:ください|できます)?/.test(text);
+      const headlineAttribution = /^.{1,80}(?:は|が)「.+」と(?:報じ|伝え)ました[。.]?$/.test(text)
+        || /^.{1,100}の配信概要では、/.test(text);
+      return !(sourceDirection || headlineAttribution || isProceduralKeyPoint(text));
+    }).join("");
   }
 
   function uniqueParagraphs(value) {
@@ -886,7 +921,8 @@
       /rss(?:の)?(?:見出し|フィード)/i,
       /(?:見出し|配信概要|公開時刻).*(?:使用|参照|取得)/,
       /(?:情報源|出典).*(?:使用|参照|表示)/,
-      /(?:記事|要約).*(?:作成|生成).*(?:使用|参照)?/
+      /(?:記事|要約).*(?:作成|生成).*(?:使用|参照)?/,
+      /(?:公開情報|提供情報|公開データ).*(?:もと|基に).*(?:要約|編集|加工)/
     ].some((pattern) => pattern.test(text));
   }
 

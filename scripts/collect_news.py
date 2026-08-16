@@ -9,6 +9,7 @@ import sys
 import tempfile
 from datetime import datetime
 from pathlib import Path
+from typing import Any
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 REPOSITORY_ROOT = SCRIPT_DIR.parent
@@ -90,6 +91,7 @@ def main() -> int:
 
     published_count = 0
     generation_modes: list[str] = []
+    prepared_editions: list[tuple[CoverageWindow, dict[str, Any], str]] = []
     for window in windows:
         earliest = window.start.timestamp() - 1.5 * 3600
         in_window = [
@@ -108,11 +110,18 @@ def main() -> int:
             feed_failures=failures,
             site_config=site_config,
         )
-        publish_edition(root, edition, root / "templates" / "article.md.tmpl")
+        _assert_publishable_source_mix(edition)
+        # Remember prepared editions in memory so a later catch-up window does
+        # not republish the same event. Public files and persistent state are
+        # untouched until every pending window passes the quality gate.
         remember_articles(state, edition["articles"], window.id)
         _record_completion(state, window)
+        prepared_editions.append((window, edition, mode))
         published_count += len(edition["articles"])
         generation_modes.append(mode)
+
+    for window, edition, mode in prepared_editions:
+        publish_edition(root, edition, root / "templates" / "article.md.tmpl")
         LOGGER.info(
             "Published %s: %d articles (%s)", window.id, len(edition["articles"]), mode
         )
@@ -127,6 +136,43 @@ def main() -> int:
         ", ".join(sorted(set(generation_modes))),
     )
     return 0
+
+
+def _assert_publishable_source_mix(edition: dict[str, Any]) -> None:
+    """Reject an empty or single-newsroom non-primary edition before writes."""
+    raw_articles = edition.get("articles", [])
+    articles = raw_articles if isinstance(raw_articles, list) else []
+    sources: list[dict[str, Any]] = []
+    for article in articles:
+        if not isinstance(article, dict):
+            continue
+        raw_sources = article.get("sources", [])
+        if isinstance(raw_sources, list):
+            sources.extend(
+                source for source in raw_sources if isinstance(source, dict)
+            )
+    publishers = {
+        str(source.get("publisherId") or source.get("name") or "").strip()
+        for source in sources
+        if source.get("publisherId") or source.get("name")
+    }
+    has_primary = any(source.get("isPrimary") is True for source in sources)
+    edition_meta = edition.get("edition", {})
+    edition_id = (
+        edition_meta.get("id", "unknown")
+        if isinstance(edition_meta, dict)
+        else "unknown"
+    )
+    if not articles or not publishers:
+        raise RuntimeError(
+            f"Edition {edition_id} has no publishable sourced articles; "
+            "publication and state advancement were aborted"
+        )
+    if len(publishers) == 1 and not has_primary:
+        raise RuntimeError(
+            f"Edition {edition_id} contains only one non-primary publisher; "
+            "publication and state advancement were aborted"
+        )
 
 
 def _select_fresh_candidates(
