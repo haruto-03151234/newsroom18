@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-17T12:00:00+09:00",
-  "lastCompletedEdition": "2026-08-17-12",
+  "lastCompletedEnd": "2026-08-17T18:00:00+09:00",
+  "lastCompletedEdition": "2026-08-17-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -434,7 +434,120 @@
       "urls": [
         "https://www.asahi.com/articles/ASV8C761GV8CUTIL002M.html"
       ]
+    },
+    {
+      "editionId": "2026-08-17-18",
+      "title": "火山名阿蘇山火山の状況に関する解説情報",
+      "publishedAt": "2026-08-17T16:00:19+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260817070020_0_VFVO51_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260817070047_0_VFVO51_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-18",
+      "title": "熊本県熊本地方で地震m35最大震度3",
+      "publishedAt": "2026-08-17T15:43:09+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260817064309_0_VXSE53_270000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-18",
+      "title": "食育実践優良法人2027の申請受付を開始いたします",
+      "publishedAt": "2026-08-17T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/hyoji/260817.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-18",
+      "title": "侵略の責任があいまいに中国外務省高市首相の式辞批判",
+      "publishedAt": "2026-08-17T17:55:35+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260817/k00/00m/030/191000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-18",
+      "title": "高市首相が病院受診6時間半滞在半年ぶりに手など検査",
+      "publishedAt": "2026-08-17T17:46:20+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260817/k00/00m/010/188000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-18",
+      "title": "縦読み漫画アプリcomicoサービス終了へ13年の歴史に幕購入作品はめちゃコミックで引き継ぎ可能",
+      "publishedAt": "2026-08-17T17:39:15+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/17/2000000569"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-18",
+      "title": "anaとjal国内線のダイヤ調整へ羽田岡山線で冬ダイヤから",
+      "publishedAt": "2026-08-17T17:32:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8K2J61V8KULFA015M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-18",
+      "title": "楽天迎撃ドローンの独ヘルシングと提携へ防衛省への納入支援報道",
+      "publishedAt": "2026-08-17T17:26:36+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/17/2000000568"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-18",
+      "title": "千葉豪雨死者10人2人行方不明千葉市で車約2500台路上に残る",
+      "publishedAt": "2026-08-17T17:22:54+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260816de44428"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-18",
+      "title": "高市首相が病院を受診周辺は手などの検査約6時間半とどまる",
+      "publishedAt": "2026-08-17T17:15:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8K2HB5V8KUTFK00HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-18",
+      "title": "福岡県議会議長の辞職勧告決議案採決行われず",
+      "publishedAt": "2026-08-17T17:07:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260817de44547"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-18",
+      "title": "八代亜紀さんゆかり本当の昭和のキャバレー熊本地震で被災",
+      "publishedAt": "2026-08-17T16:44:23+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260816/k00/00m/040/153000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-18",
+      "title": "米男子ゴルフプレーオフ第1戦最終日松山英樹7位久常涼52位",
+      "publishedAt": "2026-08-17T14:10:38+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260817de44513"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-18",
+      "title": "人間に出せない答えたどりつくaiなぜ米テックが科学に挑むのか",
+      "publishedAt": "2026-08-17T12:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8D3W7KV8DUTFL001M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-08-17T12:42:02.192172+09:00"
+  "updatedAt": "2026-08-17T18:37:41.099741+09:00"
 }
