@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-17T06:00:00+09:00",
-  "lastCompletedEdition": "2026-08-17-06",
+  "lastCompletedEnd": "2026-08-17T12:00:00+09:00",
+  "lastCompletedEdition": "2026-08-17-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -330,7 +330,111 @@
       "urls": [
         "https://www.asahi.com/articles/ASV7P3CCNV7PPTIL005M.html"
       ]
+    },
+    {
+      "editionId": "2026-08-17-12",
+      "title": "福岡県福岡地方で地震m44最大震度4",
+      "publishedAt": "2026-08-17T06:41:12+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260816214112_0_VXSE53_270000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-12",
+      "title": "メッツ千賀滉大1イニング2奪三振で無失点3試合連続セーブ",
+      "publishedAt": "2026-08-17T11:49:34+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260817de44458"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-12",
+      "title": "滋賀・長浜市が独自ポロシャツ製作は入庁1年目の新人チーム",
+      "publishedAt": "2026-08-17T11:48:47+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260817/k00/00m/040/059000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-12",
+      "title": "4",
+      "publishedAt": "2026-08-17T11:45:08+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260817de44453"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-12",
+      "title": "ankerのスピーカーでまた発火事故過去にも5回の火災で回収・交換中消費者庁直ちに使用中止を",
+      "publishedAt": "2026-08-17T11:40:09+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/17/2000000562"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-12",
+      "title": "続く円安為替介入の仕組みと効果とは米との協調介入も",
+      "publishedAt": "2026-08-17T11:30:13+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260817/k00/00m/020/048000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-12",
+      "title": "愛子さま熊本と千葉の被災者にお見舞いの言葉半導体の国際会議で",
+      "publishedAt": "2026-08-17T11:24:22+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8K0FY8V8KUTIL008M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-12",
+      "title": "スマートリングは日本でブレイクするか高精度な睡眠モニターと分析のultrahumanringairを試す",
+      "publishedAt": "2026-08-17T11:17:32+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/17/2000000559"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-12",
+      "title": "9月閉館の相鉄ムービル壁や床に週刊漫画で描く最後の物語",
+      "publishedAt": "2026-08-17T11:00:22+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260814/k00/00m/040/434000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-12",
+      "title": "トランプ大統領米韓合同軍事演習縮小を指示",
+      "publishedAt": "2026-08-17T10:01:53+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260816de44424"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-12",
+      "title": "huggingface分析中国のオープンモデルが台頭qwenは派生モデル15万件超",
+      "publishedAt": "2026-08-17T08:42:45+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/17/2000000557"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-12",
+      "title": "一酸化炭素中毒で死亡停電中の発電機か千葉豪雨で死者10人に",
+      "publishedAt": "2026-08-17T08:14:13+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8J1V93V8JUDCB00NM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-17-12",
+      "title": "aiリスクどう考える教師も学んでシンポで教育関係者ら語る",
+      "publishedAt": "2026-08-17T07:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8C761GV8CUTIL002M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-08-17T06:08:45.232871+09:00"
+  "updatedAt": "2026-08-17T12:42:02.192172+09:00"
 }
