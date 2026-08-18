@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-18T18:00:00+09:00",
-  "lastCompletedEdition": "2026-08-18-18",
+  "lastCompletedEnd": "2026-08-19T06:00:00+09:00",
+  "lastCompletedEdition": "2026-08-19-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -843,7 +843,111 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2608/18/2000000589"
       ]
+    },
+    {
+      "editionId": "2026-08-19-06",
+      "title": "鈴木農林水産大臣の国内出張について",
+      "publishedAt": "2026-08-18T21:10:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/kanbo/bunsyo/saigai/260818_1.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-06",
+      "title": "icc赤根所長を制裁対象にトランプ政権悪意をもって権限乱用",
+      "publishedAt": "2026-08-19T05:59:43+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8L61W4V8LUHBI01QM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-06",
+      "title": "非核三原則見直すべきだと思う27男女で26倍の開き",
+      "publishedAt": "2026-08-19T05:48:59+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260818/k00/00m/010/358000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-06",
+      "title": "営農型太陽光発電に急ブレーキ国の新規制案に足かせの声",
+      "publishedAt": "2026-08-19T05:30:27+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260815/k00/00m/040/114000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-06",
+      "title": "ny市の首相拘束は可能だったのかicc非加盟の米国で波紋",
+      "publishedAt": "2026-08-19T05:17:01+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8D62RSV8DUHBI00LM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-06",
+      "title": "千葉豪雨死者13人浸水2300棟超路上の車両きょう移動完了へ",
+      "publishedAt": "2026-08-19T05:11:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260818de44911"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-06",
+      "title": "短パン勤務企業でじわり浸透清潔感に配慮除毛クリーム提供も",
+      "publishedAt": "2026-08-19T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8K151GV8KULFA00PM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-06",
+      "title": "高校野球健大高崎が有明に延長の末サヨナラ勝ち初のベスト4",
+      "publishedAt": "2026-08-19T03:29:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260818de44857"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-06",
+      "title": "ニュース・ナビゲート声の権利と生成ai指針で被害に歯止め社会部東京グループ副部長島田信幸",
+      "publishedAt": "2026-08-19T02:49:39+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260819/ddm/005/040/097000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-06",
+      "title": "米トランプ政権icc国際刑事裁判所赤根所長を制裁対象に",
+      "publishedAt": "2026-08-19T02:46:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de44920"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-06",
+      "title": "linecreditに業務改善命令システム不備で貸金業法違反一部顧客に過剰貸付けも東京都",
+      "publishedAt": "2026-08-18T19:14:09+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/18/2000000603"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-06",
+      "title": "ドコモ・バイクシェア障害なぜ起きた同社が原因と再発防止策を公表返金は9月末までに",
+      "publishedAt": "2026-08-18T18:17:28+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/18/2000000601"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-06",
+      "title": "生成aiで巧妙化するデマ熊本地震で露見した10年前にはなかった新たな手法識者に聞く",
+      "publishedAt": "2026-08-18T18:03:55+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/18/2000000600"
+      ]
     }
   ],
-  "updatedAt": "2026-08-18T18:28:59.123487+09:00"
+  "updatedAt": "2026-08-19T06:11:51.908574+09:00"
 }
