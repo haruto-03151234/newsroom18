@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-18T12:00:00+09:00",
-  "lastCompletedEdition": "2026-08-18-12",
+  "lastCompletedEnd": "2026-08-18T18:00:00+09:00",
+  "lastCompletedEdition": "2026-08-18-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -731,7 +731,119 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20260817de44666"
       ]
+    },
+    {
+      "editionId": "2026-08-18-18",
+      "title": "熊本県天草・芦北地方で地震m40最大震度3",
+      "publishedAt": "2026-08-18T15:09:22+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260818060922_0_VXSE53_270000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-18-18",
+      "title": "令和8年熊本地震に関する農林水産省緊急自然災害対策本部第12回及び令和8年8月千葉豪雨に関する農林水産省緊急自然災害対策本部第1回の開催について",
+      "publishedAt": "2026-08-18T13:30:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/kanbo/bunsyo/saigai/260818.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-18-18",
+      "title": "駅伝365早大が新潟での選抜合宿を公開山の名探偵はスローペース",
+      "publishedAt": "2026-08-18T17:59:46+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260818/k00/00m/050/214000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-18-18",
+      "title": "殺人未遂罪で起訴の77歳被告病院から不明に勾留執行の停止中",
+      "publishedAt": "2026-08-18T17:55:02+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8L2CQ5V8LIIPE00GM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-18-18",
+      "title": "健大高崎からフレフレ熊本コール夏の甲子園有明に向けて",
+      "publishedAt": "2026-08-18T17:48:29+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260818/k00/00m/050/213000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-18-18",
+      "title": "米国産ジャガイモ輸入解禁容認できずja北海道中央会",
+      "publishedAt": "2026-08-18T17:48:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260818de44701"
+      ]
+    },
+    {
+      "editionId": "2026-08-18-18",
+      "title": "米トルコ首脳が電話会談エルドアン氏イランと協議継続を",
+      "publishedAt": "2026-08-18T17:40:41+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260818de44773"
+      ]
+    },
+    {
+      "editionId": "2026-08-18-18",
+      "title": "高校野球天理が完封勝利でベスト4一番乗り",
+      "publishedAt": "2026-08-18T17:35:29+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260818de44680"
+      ]
+    },
+    {
+      "editionId": "2026-08-18-18",
+      "title": "クロマグロ漁獲枠日本支持の25増で合意メキシコ反対し再協議",
+      "publishedAt": "2026-08-18T17:25:07+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8L2CX2V8LULFA00LM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-18-18",
+      "title": "熊本地震水俣湾埋め立て地の公園が液状化水銀は検出されず",
+      "publishedAt": "2026-08-18T17:18:24+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260818/k00/00m/040/198000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-18-18",
+      "title": "通販生活が楽天市場から撤退迎撃ドローン関連の報道受け企業理念に反する",
+      "publishedAt": "2026-08-18T16:52:05+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/18/2000000596"
+      ]
+    },
+    {
+      "editionId": "2026-08-18-18",
+      "title": "デジタル教科書動画字幕など標準仕様へ音声読み上げやルビも",
+      "publishedAt": "2026-08-18T16:46:47+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8L24R3V8LUTIL003M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-18-18",
+      "title": "食欲が削られるaiで作られた気色の悪い飲食店メニューがxで物議実物を見たいの声も",
+      "publishedAt": "2026-08-18T16:14:46+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/18/2000000580"
+      ]
+    },
+    {
+      "editionId": "2026-08-18-18",
+      "title": "25次元アイドルいれいす事務所のbiツールに不正アクセスファンの氏名・電話番号や推し情報漏えい",
+      "publishedAt": "2026-08-18T14:19:55+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/18/2000000589"
+      ]
     }
   ],
-  "updatedAt": "2026-08-18T12:37:44.245025+09:00"
+  "updatedAt": "2026-08-18T18:28:59.123487+09:00"
 }
