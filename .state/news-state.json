@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-19T06:00:00+09:00",
-  "lastCompletedEdition": "2026-08-19-06",
+  "lastCompletedEnd": "2026-08-19T12:00:00+09:00",
+  "lastCompletedEdition": "2026-08-19-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -947,7 +947,119 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2608/18/2000000600"
       ]
+    },
+    {
+      "editionId": "2026-08-19-12",
+      "title": "熊本地震の被災自治体等へガバメントai源内を緊急提供します更新",
+      "publishedAt": "2026-08-19T10:18:06+09:00",
+      "urls": [
+        "https://www.digital.go.jp/news/cb912b3b-49c9-4a02-aa46-4056b96c1d4f"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-12",
+      "title": "熊本県天草・芦北地方で地震m38最大震度3",
+      "publishedAt": "2026-08-19T07:14:32+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260818221432_0_VXSE53_270000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-12",
+      "title": "レッドソックス吉田けがは深刻復帰は早くても今季終盤か",
+      "publishedAt": "2026-08-19T11:55:31+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de44953"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-12",
+      "title": "ブルージェイズ岡本和真17試合ぶりの25号ホームラン",
+      "publishedAt": "2026-08-19T11:49:35+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de44958"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-12",
+      "title": "バレー推し故郷・熊本の地震に宮浦健人被災者を思いベストを尽くす",
+      "publishedAt": "2026-08-19T11:45:48+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260819/k00/00m/050/081000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-12",
+      "title": "万博工事費水増し自宅改装に使用か背任容疑で竹中工務店元所長逮捕",
+      "publishedAt": "2026-08-19T11:38:12+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8L7RXZV8LPTIL014M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-12",
+      "title": "駐車場シェアのakippa上場へ想定時価総額約338億円",
+      "publishedAt": "2026-08-19T11:30:34+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/19/2000000614"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-12",
+      "title": "googleや英政府aiで飛行機雲を回避する大規模実証開始航空業界の温暖化影響を減らす狙い",
+      "publishedAt": "2026-08-19T11:09:16+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/19/2000000613"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-12",
+      "title": "建物全壊相次いだ熊本・八代公開されていた地震危険度マップ",
+      "publishedAt": "2026-08-19T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8J4F5VV8JUHNB003M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-12",
+      "title": "ドジャース大谷翔平6年連続となる30号ホームラン",
+      "publishedAt": "2026-08-19T10:47:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de44941"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-12",
+      "title": "イスラエルシリアを8回空爆基地再建やトルコをけん制か",
+      "publishedAt": "2026-08-19T10:45:53+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260819/k00/00m/030/038000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-12",
+      "title": "日経平均一時2100円超下落中東情勢の混迷や金利上昇が影響",
+      "publishedAt": "2026-08-19T10:39:07+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8M0F82V8MULFA00BM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-12",
+      "title": "ヤマハ発動機系保育園向け電動アシストお散歩カー開発保育士従来の10の力で動かせた",
+      "publishedAt": "2026-08-19T10:19:49+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/19/2000000609"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-12",
+      "title": "人獣共通感染症の脅威に対抗明治アニマルヘルス・廣瀬和彦社長",
+      "publishedAt": "2026-08-19T10:00:14+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260818/k00/00m/020/355000c"
+      ]
     }
   ],
-  "updatedAt": "2026-08-19T06:11:51.908574+09:00"
+  "updatedAt": "2026-08-19T12:39:01.323210+09:00"
 }
