@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-19T12:00:00+09:00",
-  "lastCompletedEdition": "2026-08-19-12",
+  "lastCompletedEnd": "2026-08-19T18:00:00+09:00",
+  "lastCompletedEdition": "2026-08-19-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -1059,7 +1059,120 @@
       "urls": [
         "https://mainichi.jp/articles/20260818/k00/00m/020/355000c"
       ]
+    },
+    {
+      "editionId": "2026-08-19-18",
+      "title": "令和7年産米の相対取引価格・数量について令和8年7月",
+      "publishedAt": "2026-08-19T17:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousan/kikaku/260819.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-18",
+      "title": "米に関するマンスリーレポート令和8年8月号の公表について",
+      "publishedAt": "2026-08-19T17:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousan/kikaku/260819_1.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-18",
+      "title": "石狩・空知・後志地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-19T16:24:56+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260819072456_0_VPFJ50_016000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260819073502_0_VPFJ50_012000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-18",
+      "title": "アジア大会日本選手団の結団式旗手の藤波朱理が意気込み",
+      "publishedAt": "2026-08-19T17:55:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de45070"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-18",
+      "title": "天理攻守念入りに確認健大高崎は聞こえない想定の守備練習も",
+      "publishedAt": "2026-08-19T17:55:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8M2Q0DV8MPTQP008M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-18",
+      "title": "竹本織太夫さん綱太夫襲名へ文楽の大名跡17年ぶり復活",
+      "publishedAt": "2026-08-19T17:54:15+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260819/k00/00m/200/247000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-18",
+      "title": "トランプ大統領秋にも米朝首脳会談を側近らに要求米報道",
+      "publishedAt": "2026-08-19T17:47:48+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de44961"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-18",
+      "title": "特定技能1号受け入れ停止飲食店の45が事業計画に影響",
+      "publishedAt": "2026-08-19T17:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8M2JHWV8MULFA01DM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-18",
+      "title": "香川の私鉄ことでん券売機をほぼ廃止スマホで買うデジタル切符に移行地方鉄道で全国初",
+      "publishedAt": "2026-08-19T17:41:21+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/19/2000000631"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-18",
+      "title": "あいさつに母校訪れた卒業生にわいせつ疑い都立高教諭を逮捕",
+      "publishedAt": "2026-08-19T17:41:06+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260819/k00/00m/040/246000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-18",
+      "title": "さくら別のシステムでも不正アクセスか会員情報136万アカウントが漏えいの可能性調査で判明",
+      "publishedAt": "2026-08-19T17:33:59+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/19/2000000629"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-18",
+      "title": "ポッドキャスト熊本地震で企業や農家はどうなった現地入りの記者が見た現実",
+      "publishedAt": "2026-08-19T17:00:13+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260818/k00/00m/020/124000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-18",
+      "title": "避難所の7割がエアコンなし専門家真夏は生死に関わる問題",
+      "publishedAt": "2026-08-19T16:12:51+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de44948"
+      ]
+    },
+    {
+      "editionId": "2026-08-19-18",
+      "title": "鳥取県が人探し全国39カ所の弥生遺跡巡り全制覇者いますか",
+      "publishedAt": "2026-08-19T16:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8K31X9V8KPUUB008M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-08-19T12:39:01.323210+09:00"
+  "updatedAt": "2026-08-19T18:30:25.926663+09:00"
 }
