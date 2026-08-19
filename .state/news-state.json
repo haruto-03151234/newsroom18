@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-19T18:00:00+09:00",
-  "lastCompletedEdition": "2026-08-19-18",
+  "lastCompletedEnd": "2026-08-20T06:00:00+09:00",
+  "lastCompletedEdition": "2026-08-20-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -1172,7 +1172,113 @@
       "urls": [
         "https://www.asahi.com/articles/ASV8K31X9V8KPUUB008M.html"
       ]
+    },
+    {
+      "editionId": "2026-08-20-06",
+      "title": "石狩・空知・後志地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-20T04:35:13+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260819193514_0_VPCJ50_016000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260819200114_0_VPFJ50_016000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260819201909_0_VPFJ50_012000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-06",
+      "title": "浦河沖で地震m40最大震度3",
+      "publishedAt": "2026-08-20T00:54:18+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260819155418_0_VXSE53_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-06",
+      "title": "ウクライナ国民から高評価の前国防相が大統領選挙実施を要求",
+      "publishedAt": "2026-08-20T05:47:09+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260820de45192"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-06",
+      "title": "鎌倉時代の元寇の矢見つかる元が南宋から接収し転用か",
+      "publishedAt": "2026-08-20T05:05:24+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de45169"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-06",
+      "title": "移民と社会対岸の火事ではない特定技能外食停止介護業界に広がる波紋",
+      "publishedAt": "2026-08-20T05:00:17+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260817/k00/00m/040/083000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-06",
+      "title": "フェルメール・ブルーの謎に迫るなぜ真珠の耳飾りの少女は魅力的か",
+      "publishedAt": "2026-08-20T04:50:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV7S2S9TV7SUEFT002M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-06",
+      "title": "視聴室",
+      "publishedAt": "2026-08-20T02:02:12+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260820/ddm/018/200/008000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-06",
+      "title": "サッカー天皇杯1回戦24試合結果カズが2得点",
+      "publishedAt": "2026-08-20T01:12:33+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de45171"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-06",
+      "title": "米韓が合同演習を縮小金正恩氏と対話探るトランプ氏の意向が背景に",
+      "publishedAt": "2026-08-19T23:01:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8M3PT5V8MUHBI00DM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-06",
+      "title": "博多の老舗焼き肉店から白煙客らが避難大東園4年前にも火事",
+      "publishedAt": "2026-08-19T22:26:36+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8M44KCV8MTIPE026M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-06",
+      "title": "熊本地震で井戸被災水道未普及地区生活に支障移住悩む人も",
+      "publishedAt": "2026-08-19T20:37:30+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260819/k00/00m/040/306000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-06",
+      "title": "生成ai画像で架空の女性に成り済まして政治投稿か立憲栃木県連の男性党員一部報道",
+      "publishedAt": "2026-08-19T20:21:49+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/19/2000000632"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-06",
+      "title": "氏名・住所など16万人分漏えい学生向けpc販売サイト不正アクセスの影響判明明大・帝京など利用",
+      "publishedAt": "2026-08-19T18:25:36+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/19/2000000625"
+      ]
     }
   ],
-  "updatedAt": "2026-08-19T18:30:25.926663+09:00"
+  "updatedAt": "2026-08-20T06:14:35.654630+09:00"
 }
