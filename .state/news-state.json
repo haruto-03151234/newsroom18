@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-20T06:00:00+09:00",
-  "lastCompletedEdition": "2026-08-20-06",
+  "lastCompletedEnd": "2026-08-20T12:00:00+09:00",
+  "lastCompletedEdition": "2026-08-20-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -1278,7 +1278,119 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2608/19/2000000625"
       ]
+    },
+    {
+      "editionId": "2026-08-20-12",
+      "title": "富山県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-20T10:35:24+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260820013524_0_VPFJ50_160000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-12",
+      "title": "全国トレーニングファーム推進協議会の第1回総会を開催します",
+      "publishedAt": "2026-08-20T10:30:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/keiei/zinzai/260820.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-12",
+      "title": "熊本地震被災地は午前中から猛烈な暑さ熱中症対策の徹底を",
+      "publishedAt": "2026-08-20T11:58:01+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260820de45198"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-12",
+      "title": "西日本中心に午前中から猛暑日も熱中症対策の徹底を",
+      "publishedAt": "2026-08-20T11:56:39+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260820de45196"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-12",
+      "title": "円高進み1ドル158円台前半長期金利急低下米財務省の一手で",
+      "publishedAt": "2026-08-20T11:53:41+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8N0RVSV8NULFA004M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-12",
+      "title": "高校野球智弁和歌山5年ぶり決勝へ横浜に逆転勝ち詳報",
+      "publishedAt": "2026-08-20T11:43:28+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260819de45038"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-12",
+      "title": "focusプロ野球1500キロの氷屋外用エアコン球界でも欠かせない暑さ対策",
+      "publishedAt": "2026-08-20T11:30:11+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260819/k00/00m/050/132000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-12",
+      "title": "自宅のリフォーム費万博工事に偽装か施工業者が証言",
+      "publishedAt": "2026-08-20T11:30:10+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260820/k00/00m/040/045000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-12",
+      "title": "息子の死賠償に家1軒大規模デモ1年民主主義は守られたか",
+      "publishedAt": "2026-08-20T11:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8L1QFCV8LUHBI01CM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-12",
+      "title": "amazonprimeairを米500都市へ大幅拡大ドローン配送を現在の6倍規模へ",
+      "publishedAt": "2026-08-20T11:19:05+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/20/2000000640"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-12",
+      "title": "福岡市公用車に飲酒検知装置3児死亡事故20年啓発活動強化",
+      "publishedAt": "2026-08-20T11:18:55+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260820/k00/00m/040/035000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-12",
+      "title": "仕事や家事で体を動かす女性ほど高ストレスなぜ起きる対策は",
+      "publishedAt": "2026-08-20T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8F0H5ZV8FUTFL01NM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-12",
+      "title": "stripeaiモデルゲートウェイのopenrouter買収400以上のaiモデルを束ねる中立基盤は維持",
+      "publishedAt": "2026-08-20T10:43:52+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/20/2000000639"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-12",
+      "title": "サッカーのヘディング直後に脳の損傷指標が上昇300人の実測データ米医学誌に掲載",
+      "publishedAt": "2026-08-20T10:20:34+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/20/2000000624"
+      ]
     }
   ],
-  "updatedAt": "2026-08-20T06:14:35.654630+09:00"
+  "updatedAt": "2026-08-20T12:39:44.527304+09:00"
 }
