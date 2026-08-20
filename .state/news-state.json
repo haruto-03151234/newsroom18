@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-20T12:00:00+09:00",
-  "lastCompletedEdition": "2026-08-20-12",
+  "lastCompletedEnd": "2026-08-20T18:00:00+09:00",
+  "lastCompletedEdition": "2026-08-20-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -1390,7 +1390,144 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2608/20/2000000624"
       ]
+    },
+    {
+      "editionId": "2026-08-20-18",
+      "title": "福島県記録的短時間大雨情報",
+      "publishedAt": "2026-08-20T17:57:49+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260820085750_0_VPOA50_070000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-18",
+      "title": "福島県レベル4土砂災害危険警報",
+      "publishedAt": "2026-08-20T17:29:31+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260820082933_0_VXWW50_070000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-18",
+      "title": "令和8年熊本地震罹災証明書り災証明書のオンライン申請について2026年8月20日更新",
+      "publishedAt": "2026-08-20T17:19:28+09:00",
+      "urls": [
+        "https://www.digital.go.jp/news/f83a8d24-4c79-4c47-b768-6a2435c3d350"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-18",
+      "title": "富山県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-20T16:39:13+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260820073913_0_VPFJ50_012000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260820074408_0_VPFJ50_160000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-18",
+      "title": "鈴木農林水産大臣の国内出張について",
+      "publishedAt": "2026-08-20T12:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousan/kaki/260820_2.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-18",
+      "title": "首都圏新築マンション平均価格7月は約1億6500万円過去最高に",
+      "publishedAt": "2026-08-20T17:59:52+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260820de45330"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-18",
+      "title": "織田を助けたかったが故郷・熊本思う池田聖摩の甲子園",
+      "publishedAt": "2026-08-20T17:59:44+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260820/k00/00m/050/171000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-18",
+      "title": "熊本地震死者38人に1人取り下げ関連しないと判断",
+      "publishedAt": "2026-08-20T17:48:12+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260820/k00/00m/040/166000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-18",
+      "title": "火星の衛星探査機mmx10月20日にh3ロケットで打ち上げへ",
+      "publishedAt": "2026-08-20T17:41:04+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8N2QHRV8NUTFL00LM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-18",
+      "title": "熊本地震の被災地で空き巣被害相次ぐ警察が24時間態勢で警戒強化",
+      "publishedAt": "2026-08-20T17:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8N2F95V8NUTNB00FM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-18",
+      "title": "害悪すぎるバカ迷惑嫌われまくるai営業電話今すぐ取れる自衛策は",
+      "publishedAt": "2026-08-20T17:10:55+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/19/2000000583"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-18",
+      "title": "大阪万博の関係者情報が漏えいか再委託先のmicrosoft365アカウントに不正アクセス",
+      "publishedAt": "2026-08-20T17:09:26+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/20/2000000657"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-18",
+      "title": "製紙3社熊本地震被災の日本製紙を支援新聞用紙の安定供給で",
+      "publishedAt": "2026-08-20T17:03:34+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8N2FGPV8NUTIL027M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-18",
+      "title": "アジア大会聖火リレーへ32年前の開催地広島で採火式",
+      "publishedAt": "2026-08-20T17:03:22+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260820de45308"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-18",
+      "title": "随時更新ロシアウクライナに軍事侵攻8月20日の動き",
+      "publishedAt": "2026-08-20T17:01:08+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260817de44541"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-18",
+      "title": "topics10月野村萬斎狂言ござる乃座72nd還暦迎え挑む庵の梅",
+      "publishedAt": "2026-08-20T14:02:32+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260820/dde/018/200/010000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-20-18",
+      "title": "中国の動画サイトbilibiliにグローバル版アプリ日本でも配信開始まずはandroidから",
+      "publishedAt": "2026-08-20T12:45:42+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/20/2000000643"
+      ]
     }
   ],
-  "updatedAt": "2026-08-20T12:39:44.527304+09:00"
+  "updatedAt": "2026-08-20T18:30:54.780186+09:00"
 }
