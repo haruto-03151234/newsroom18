@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-21T18:00:00+09:00",
-  "lastCompletedEdition": "2026-08-21-18",
+  "lastCompletedEnd": "2026-08-22T06:00:00+09:00",
+  "lastCompletedEdition": "2026-08-22-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -1868,7 +1868,114 @@
       "urls": [
         "https://www.asahi.com/articles/ASV8P12YHV8PUCVL00MM.html"
       ]
+    },
+    {
+      "editionId": "2026-08-22-06",
+      "title": "宮古島地方レベル4土砂災害危険警報",
+      "publishedAt": "2026-08-22T05:48:30+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260821204832_0_VXWW50_473000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-06",
+      "title": "神奈川県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-22T05:40:19+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260821204020_0_VPFJ50_140000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260821204237_0_VPFJ50_080000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260821204314_0_VPFJ50_110000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260821205307_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-06",
+      "title": "秋篠宮ご夫妻日本人のパラグアイ移住90周年記念式典に",
+      "publishedAt": "2026-08-22T05:50:26+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260821de45603"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-06",
+      "title": "27年度概算要求初の130兆円超へ4年連続で過去最大更新",
+      "publishedAt": "2026-08-22T05:30:13+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260821/k00/00m/020/355000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-06",
+      "title": "栃木4人死亡事故運転士急ブレーキかけたが間に合わず",
+      "publishedAt": "2026-08-22T05:12:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260822de45613"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-06",
+      "title": "教育特化型のaiアプリ文科省が開発へ27年度中に実証研究",
+      "publishedAt": "2026-08-22T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8P2HN3V8PUTIL00PM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-06",
+      "title": "プロ野球結果セ・リーグ首位阪神がdenaに勝利",
+      "publishedAt": "2026-08-22T00:40:27+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260821de45597"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-06",
+      "title": "劇物入りマフィンで殺人未遂容疑女を逮捕殺すつもりなかった",
+      "publishedAt": "2026-08-22T00:12:53+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8P4VXFV8PPLZB01DM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-06",
+      "title": "日本の支援が重要な鍵icc赤根所長米制裁にコメント",
+      "publishedAt": "2026-08-21T23:00:11+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260821/k00/00m/030/381000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-06",
+      "title": "海外製ai依存にリスク安保3文書改定へ国内開発力維持を",
+      "publishedAt": "2026-08-21T21:55:29+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260821/k00/00m/040/362000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-06",
+      "title": "目指すは日本発ipで海外売上20兆円経産省が新戦略を発表ものがたり大国5カ年計画",
+      "publishedAt": "2026-08-21T21:51:39+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/21/2000000696"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-06",
+      "title": "棋士資格かかる西山白玲と福間挑戦者が前夜祭で抱負将棋白玲戦",
+      "publishedAt": "2026-08-21T20:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8P3QG3V8PUCVL02MM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-06",
+      "title": "法務省ラヴ上等とのタイアップ中止当初の意図を全うすることが難しい",
+      "publishedAt": "2026-08-21T19:51:06+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/21/2000000695"
+      ]
     }
   ],
-  "updatedAt": "2026-08-21T18:32:53.412073+09:00"
+  "updatedAt": "2026-08-22T06:12:22.970098+09:00"
 }
