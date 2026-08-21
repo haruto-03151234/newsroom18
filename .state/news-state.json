@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-21T12:00:00+09:00",
-  "lastCompletedEdition": "2026-08-21-12",
+  "lastCompletedEnd": "2026-08-21T18:00:00+09:00",
+  "lastCompletedEdition": "2026-08-21-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -1748,7 +1748,127 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20260821de45439"
       ]
+    },
+    {
+      "editionId": "2026-08-21-18",
+      "title": "広島県レベル4土砂災害危険警報",
+      "publishedAt": "2026-08-21T17:42:06+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260821084208_0_VXWW50_340000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-18",
+      "title": "千葉県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-21T17:30:39+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260821083039_0_VPFJ50_120000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-18",
+      "title": "令和8年度世界かんがい施設遺産の認定について",
+      "publishedAt": "2026-08-21T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousin/sekkei/260821.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-18",
+      "title": "断れず水増し請求下請け業者側が主張万博工事巡る背任事件",
+      "publishedAt": "2026-08-21T17:55:53+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260821/k00/00m/040/218000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-18",
+      "title": "スーパーのコメ平均価格5キロ3191円2週ぶり値下がり",
+      "publishedAt": "2026-08-21T17:52:10+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260821de45521"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-18",
+      "title": "ケロポンズ1億8000万回再生の人気曲で交通安全の輪を",
+      "publishedAt": "2026-08-21T17:51:28+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260821/k00/00m/040/221000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-18",
+      "title": "財務省来年度予算の想定金利38で調整金利上昇で財政を圧迫",
+      "publishedAt": "2026-08-21T17:51:23+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8P2SJ2V8PULFA00LM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-18",
+      "title": "anthropic8月末にもipo申請書類を公開か調達額はspacexの過去最大に匹敵と米報道",
+      "publishedAt": "2026-08-21T17:44:56+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/21/2000000688"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-18",
+      "title": "名古屋駅前近鉄パッセビル商業利用再開を検討再開発見直しで",
+      "publishedAt": "2026-08-21T17:37:44+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8P2RVXV8POIPE00BM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-18",
+      "title": "埼玉県で記録的短時間大雨発表中国地方などでも雨雲発達",
+      "publishedAt": "2026-08-21T17:33:17+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260821de45437"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-18",
+      "title": "wifi・防災・暑さ・クマ出没10の都民向け情報を1枚のマップにtokyomap正式公開",
+      "publishedAt": "2026-08-21T17:28:07+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/21/2000000680"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-18",
+      "title": "大規模災害時の死者氏名公表小池都知事国にルール作り要望",
+      "publishedAt": "2026-08-21T17:03:36+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260821/k00/00m/040/203000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-18",
+      "title": "snsのウソ画像どう見破る熊本県庁やテレビ局も頼るすごい企業の正体",
+      "publishedAt": "2026-08-21T16:09:56+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/21/2000000682"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-18",
+      "title": "自民プーチン氏北方領土訪問容認できず対話求める声も",
+      "publishedAt": "2026-08-21T15:50:11+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260821de45520"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-18",
+      "title": "北海道じゃらん休刊へじゃらんの雑誌・書籍販売歴史に幕",
+      "publishedAt": "2026-08-21T12:35:58+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8P12YHV8PUCVL00MM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-08-21T12:43:17.444917+09:00"
+  "updatedAt": "2026-08-21T18:32:53.412073+09:00"
 }
