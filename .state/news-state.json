@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-21T06:00:00+09:00",
-  "lastCompletedEdition": "2026-08-21-06",
+  "lastCompletedEnd": "2026-08-21T12:00:00+09:00",
+  "lastCompletedEdition": "2026-08-21-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -1641,7 +1641,114 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2608/20/2000000654"
       ]
+    },
+    {
+      "editionId": "2026-08-21-12",
+      "title": "令和8年熊本地震に関する農林水産省緊急自然災害対策本部第13回及び令和8年8月千葉豪雨に関する農林水産省緊急自然災害対策本部第2回の開催について",
+      "publishedAt": "2026-08-21T11:30:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/kanbo/bunsyo/saigai/260821.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-12",
+      "title": "富山県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-21T11:22:46+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260821022246_0_VPFJ50_170000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260821022510_0_VPFJ50_150000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260821023849_0_VPFJ50_080000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260821024009_0_VPFJ50_160000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-12",
+      "title": "フェルメール展大阪で開幕真珠の耳飾りの少女の前に行列",
+      "publishedAt": "2026-08-21T11:59:04+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8P0T3SV8PUCVL014M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-12",
+      "title": "死刑執行まで9年5カ月法律は6カ月規定収容中100人以上続く",
+      "publishedAt": "2026-08-21T11:56:59+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8P0HM1V8PUTIL005M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-12",
+      "title": "クールジャパン機構概算要求見送り廃止含めて検討経産省",
+      "publishedAt": "2026-08-21T11:51:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260821de45462"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-12",
+      "title": "震災で親族亡くした俳優ら銀河鉄道の夜再演盛岡や仙台で",
+      "publishedAt": "2026-08-21T11:45:10+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260821/k00/00m/200/027000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-12",
+      "title": "終了発表の縦読み漫画comico元重課金ユーザーが振り返るいつしか開かなくなった理由",
+      "publishedAt": "2026-08-21T11:44:02+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/21/2000000649"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-12",
+      "title": "特急が時速50キロで駅構内に進入か東武日光線4人死亡事故",
+      "publishedAt": "2026-08-21T11:42:58+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260821/k00/00m/040/064000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-12",
+      "title": "ブルージェイズ岡本和真26号ホームランで勝利に貢献",
+      "publishedAt": "2026-08-21T11:36:09+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260821de45457"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-12",
+      "title": "7月の消費者物価18上昇メモリーカードは前年の25倍に",
+      "publishedAt": "2026-08-21T11:28:37+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8P0QMSV8PULFA005M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-12",
+      "title": "エボラ出血熱封じ込めへコンゴ民主に未承認ワクチン7万回分",
+      "publishedAt": "2026-08-21T10:58:50+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260821/k00/00m/030/042000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-12",
+      "title": "googleのオープンモデルgemma累計10億ダウンロード超githubに公式ディレクトリ公開",
+      "publishedAt": "2026-08-21T10:14:33+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/21/2000000670"
+      ]
+    },
+    {
+      "editionId": "2026-08-21-12",
+      "title": "nyダウ700ドル超下落米長期金利が再び上昇で",
+      "publishedAt": "2026-08-21T07:12:14+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260821de45439"
+      ]
     }
   ],
-  "updatedAt": "2026-08-21T06:16:35.307256+09:00"
+  "updatedAt": "2026-08-21T12:43:17.444917+09:00"
 }
