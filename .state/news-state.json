@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-22T12:00:00+09:00",
-  "lastCompletedEdition": "2026-08-22-12",
+  "lastCompletedEnd": "2026-08-22T18:00:00+09:00",
+  "lastCompletedEdition": "2026-08-22-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -2075,7 +2075,106 @@
       "urls": [
         "https://www.asahi.com/articles/ASV8P3SJ4V8PTOLB001M.html"
       ]
+    },
+    {
+      "editionId": "2026-08-22-18",
+      "title": "沖縄地方気象解説情報台風第18号",
+      "publishedAt": "2026-08-22T17:45:34+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260822084534_0_VPCJ50_471000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-18",
+      "title": "埼玉県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-22T17:24:43+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260822082444_0_VPFJ50_110000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-18",
+      "title": "東京都記録的短時間大雨情報",
+      "publishedAt": "2026-08-22T17:09:31+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260822080932_0_VPOA50_110000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260822080932_0_VPOA50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260822081711_0_VPOA50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260822082746_0_VPOA50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-18",
+      "title": "夏の甲子園期間中の熱中症疑い選手のべ16人去年より8人減",
+      "publishedAt": "2026-08-22T17:54:45+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260822de45681"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-18",
+      "title": "東京北区と板橋区付近埼玉戸田市付近で記録的な大雨",
+      "publishedAt": "2026-08-22T17:51:51+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260822de45671"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-18",
+      "title": "東京23区レベル4大雨危険警報中央区・荒川区・台東区にも",
+      "publishedAt": "2026-08-22T17:46:12+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260822de45669"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-18",
+      "title": "劇団四季リトルマーメイド最終通し稽古を報道公開舞浜で",
+      "publishedAt": "2026-08-22T17:40:23+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260822/k00/00m/200/131000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-18",
+      "title": "歯1本から取得できる身元情報は6種類災害犠牲者の特定に期待",
+      "publishedAt": "2026-08-22T17:12:34+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260822/k00/00m/100/121000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-18",
+      "title": "27年度予算国債費36兆円で調整過去最大想定金利38",
+      "publishedAt": "2026-08-22T16:44:50+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260822/k00/00m/020/098000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-18",
+      "title": "名古屋城からアジア大会へ聖火リレーは吉田沙保里さんからスタート",
+      "publishedAt": "2026-08-22T16:01:20+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8Q24HTV8QUQIP03KM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-18",
+      "title": "智弁和歌山人生で一番いい夏健大高崎鳥肌立った全選手言葉",
+      "publishedAt": "2026-08-22T15:42:17+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8P51RDV8PDIFI019M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-18",
+      "title": "米国防総省星条旗新聞の編集長らに解雇通知テレビで検閲批判",
+      "publishedAt": "2026-08-22T15:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8Q15TYV8QUHBI00SM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-08-22T12:35:20.246990+09:00"
+  "updatedAt": "2026-08-22T18:23:18.759361+09:00"
 }
