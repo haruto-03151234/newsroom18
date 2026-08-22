@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-22T06:00:00+09:00",
-  "lastCompletedEdition": "2026-08-22-06",
+  "lastCompletedEnd": "2026-08-22T12:00:00+09:00",
+  "lastCompletedEdition": "2026-08-22-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -1975,7 +1975,107 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2608/21/2000000695"
       ]
+    },
+    {
+      "editionId": "2026-08-22-12",
+      "title": "全般気象解説情報台風第19号",
+      "publishedAt": "2026-08-22T10:21:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260822012101_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-12",
+      "title": "茨城県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-22T06:07:11+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260821210711_0_VPFJ50_190000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260821212422_0_VPFJ50_473000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260822014346_0_VPFJ50_080000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260822020840_0_VPFJ50_110000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260822021636_0_VPFJ50_120000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-12",
+      "title": "国連事務総長選第2回投票は南米ガイアナの女性候補が1位に",
+      "publishedAt": "2026-08-22T11:59:27+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260822/k00/00m/030/042000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-12",
+      "title": "青赤のピッチサイドからmatchphotoj1千葉戦ひたむきにfc東京7の系譜",
+      "publishedAt": "2026-08-22T11:47:00+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260822/k00/00m/050/037000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-12",
+      "title": "2時間超の叱責48日連勤19歳ゴルフ研修生自殺両親提訴",
+      "publishedAt": "2026-08-22T11:45:10+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260821/k00/00m/040/297000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-12",
+      "title": "参院の英語表記初の変更councillor理解されにくく",
+      "publishedAt": "2026-08-22T11:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8P1JNLV8PUTFK00BM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-12",
+      "title": "米元高官イラン制裁の効果見極め必要軍事攻撃再開も",
+      "publishedAt": "2026-08-22T11:16:14+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260822de45629"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-12",
+      "title": "部下と上司からパワハラ市役所職員の自死高裁も公務災害認定",
+      "publishedAt": "2026-08-22T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8P2JMCV8PTIPE00PM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-12",
+      "title": "tesla歴5年の筆者がみなさんの疑問に答えます",
+      "publishedAt": "2026-08-22T11:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/22/2000000678"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-12",
+      "title": "次の国連事務総長選出へ2回目の非公開投票も混戦に",
+      "publishedAt": "2026-08-22T08:54:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260822de45628"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-12",
+      "title": "随時更新ロシアウクライナに軍事侵攻8月22日の動き",
+      "publishedAt": "2026-08-22T08:51:37+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260817de44549"
+      ]
+    },
+    {
+      "editionId": "2026-08-22-12",
+      "title": "元寇船から矢の末端を発見南宋の武器転用か長崎・鷹島海底遺跡",
+      "publishedAt": "2026-08-22T07:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8P3SJ4V8PTOLB001M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-08-22T06:12:22.970098+09:00"
+  "updatedAt": "2026-08-22T12:35:20.246990+09:00"
 }
