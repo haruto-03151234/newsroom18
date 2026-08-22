@@ -1,7 +1,27 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T18:23:18.759361+09:00",
+  "updatedAt": "2026-08-23T06:09:53.207837+09:00",
   "editions": [
+    {
+      "id": "2026-08-23-06",
+      "path": "data/editions/2026-08-23-06.json",
+      "dataUrl": "data/editions/2026-08-23-06.json",
+      "generatedAt": "2026-08-23T06:09:53.207837+09:00",
+      "date": "2026-08-23",
+      "time": "06:00",
+      "label": "朝6時版",
+      "coverageLabel": "08月22日 18:00〜08月23日 06:00",
+      "headline": "岐阜県気象解説情報（落雷・突風）",
+      "articleCount": 11,
+      "categories": {
+        "国内": 4,
+        "社会": 3,
+        "経済": 1,
+        "エンタメ": 1,
+        "スポーツ": 1,
+        "海外": 1
+      }
+    },
     {
       "id": "2026-08-22-18",
       "path": "data/editions/2026-08-22-18.json",

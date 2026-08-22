@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-22T18:00:00+09:00",
-  "lastCompletedEdition": "2026-08-22-18",
+  "lastCompletedEnd": "2026-08-23T06:00:00+09:00",
+  "lastCompletedEdition": "2026-08-23-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -2174,7 +2174,98 @@
       "urls": [
         "https://www.asahi.com/articles/ASV8Q15TYV8QUHBI00SM.html"
       ]
+    },
+    {
+      "editionId": "2026-08-23-06",
+      "title": "岐阜県気象解説情報落雷・突風",
+      "publishedAt": "2026-08-23T05:23:05+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260822202306_0_VPFJ50_140000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260822203211_0_VPFJ50_210000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260822204048_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260822205503_0_VPFJ50_120000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-23-06",
+      "title": "沖縄地方気象解説情報台風第20号",
+      "publishedAt": "2026-08-23T04:51:43+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260822195143_0_VPCJ50_471000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-23-06",
+      "title": "地震茨城牛久市役所で天井の一部落ちる",
+      "publishedAt": "2026-08-23T05:56:21+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260823de45803"
+      ]
+    },
+    {
+      "editionId": "2026-08-23-06",
+      "title": "山口茜が女子シングルス決勝進出世界バドミントン第6日",
+      "publishedAt": "2026-08-23T05:55:50+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260822/k00/00m/050/194000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-23-06",
+      "title": "東京千葉埼玉茨城の17市区町で震度5弱各地でけが人も",
+      "publishedAt": "2026-08-23T05:50:33+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260823/k00/00m/040/039000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-23-06",
+      "title": "食品トレー・容器から見える景気動向は最大手エフピコ会長に聞く",
+      "publishedAt": "2026-08-23T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8N1BTYV8NULFA01WM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-23-06",
+      "title": "そもそも解説女性トイレ行列問題とは理由国の対応国際基準",
+      "publishedAt": "2026-08-23T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8Q3H8RV8QUTIL00ZM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-23-06",
+      "title": "松尾貴史のちょっと違和感",
+      "publishedAt": "2026-08-23T03:32:17+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260823/ddm/012/070/016000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-23-06",
+      "title": "サッカーj1第3節鹿島アントラーズが開幕3連勝",
+      "publishedAt": "2026-08-22T23:29:52+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260822de45727"
+      ]
+    },
+    {
+      "editionId": "2026-08-23-06",
+      "title": "学術会議の新会員任命拒否6人は選ばれず法人化後の125人発表",
+      "publishedAt": "2026-08-22T23:16:51+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8P3PT2V8PUTFL00NM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-23-06",
+      "title": "ウクライナの商業施設に無人機攻撃16人死亡100人以上けが",
+      "publishedAt": "2026-08-22T19:06:31+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260822de45697"
+      ]
     }
   ],
-  "updatedAt": "2026-08-22T18:23:18.759361+09:00"
+  "updatedAt": "2026-08-23T06:09:53.207837+09:00"
 }
