@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-23T06:00:00+09:00",
-  "lastCompletedEdition": "2026-08-23-06",
+  "lastCompletedEnd": "2026-08-23T12:00:00+09:00",
+  "lastCompletedEdition": "2026-08-23-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -2265,7 +2265,121 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20260822de45697"
       ]
+    },
+    {
+      "editionId": "2026-08-23-12",
+      "title": "宮古島地方気象解説情報台風第20号",
+      "publishedAt": "2026-08-23T11:11:08+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260823021109_0_VPFJ50_474000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260823022709_0_VPFJ50_473000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260823024335_0_VPCJ50_471000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-23-12",
+      "title": "八重山地方レベル4土砂災害危険警報",
+      "publishedAt": "2026-08-23T09:31:32+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260823003134_0_VXWW50_474000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-23-12",
+      "title": "長野県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-08-23T06:13:23+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260822211323_0_VPFJ50_200000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-23-12",
+      "title": "台風20号沖縄先島諸島で大雨線状降水帯発生のおそれ",
+      "publishedAt": "2026-08-23T11:51:57+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260823de45798"
+      ]
+    },
+    {
+      "editionId": "2026-08-23-12",
+      "title": "米は制裁で圧力強化へイラン米に協力した国は敵と見なす",
+      "publishedAt": "2026-08-23T11:44:23+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260823de45821"
+      ]
+    },
+    {
+      "editionId": "2026-08-23-12",
+      "title": "生きた兵器として戦地に送られた馬慰霊碑に寄せられた手紙",
+      "publishedAt": "2026-08-23T11:43:14+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260823/k00/00m/040/087000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-23-12",
+      "title": "国宝5城ぴかぴかに同時に床磨き彦根城は世界遺産登録めざし気勢",
+      "publishedAt": "2026-08-23T11:40:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8R0FMSV8RPTJB003M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-23-12",
+      "title": "栃木県産イチゴが3冠知事ブランド世界へ発信",
+      "publishedAt": "2026-08-23T11:28:20+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260823/k00/00m/020/092000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-23-12",
+      "title": "ドラマに映画本マルチな才能リリー・フランキーさんの信条",
+      "publishedAt": "2026-08-23T11:00:15+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260818/k00/00m/200/252000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-23-12",
+      "title": "ドローン攻撃続いても夏を楽しむモスクワ市民生活変えたくない",
+      "publishedAt": "2026-08-23T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8P655YV8PUHBI00JM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-23-12",
+      "title": "ブルージェイズ岡本8試合連続ヒットで勝利に貢献",
+      "publishedAt": "2026-08-23T10:54:21+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260823de45835"
+      ]
+    },
+    {
+      "editionId": "2026-08-23-12",
+      "title": "会社を辞め司法書士始めた61歳勉強は毎日の出社前独学で合格",
+      "publishedAt": "2026-08-23T08:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8M3J2LV8MULFA004M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-23-12",
+      "title": "tiktok児童プライバシー訴訟で4億ドル支払いへ米司法省と和解",
+      "publishedAt": "2026-08-23T07:37:08+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/23/2000000701"
+      ]
+    },
+    {
+      "editionId": "2026-08-23-12",
+      "title": "comicoサ終にマンガ家が思う縦読みマンガの弱点と戦略ミス",
+      "publishedAt": "2026-08-23T07:15:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/23/2000000693"
+      ]
     }
   ],
-  "updatedAt": "2026-08-23T06:09:53.207837+09:00"
+  "updatedAt": "2026-08-23T12:43:05.071963+09:00"
 }
