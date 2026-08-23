@@ -1,7 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T12:43:05.071963+09:00",
+  "updatedAt": "2026-08-23T18:24:20.810092+09:00",
   "editions": [
+    {
+      "id": "2026-08-23-18",
+      "path": "data/editions/2026-08-23-18.json",
+      "dataUrl": "data/editions/2026-08-23-18.json",
+      "generatedAt": "2026-08-23T18:24:20.810092+09:00",
+      "date": "2026-08-23",
+      "time": "18:00",
+      "label": "夕方6時版",
+      "coverageLabel": "08月23日 12:00〜08月23日 18:00",
+      "headline": "沖縄地方気象解説情報（台風第２０号）",
+      "articleCount": 12,
+      "categories": {
+        "国内": 3,
+        "社会": 5,
+        "スポーツ": 2,
+        "経済": 1,
+        "海外": 1
+      }
+    },
     {
       "id": "2026-08-23-12",
       "path": "data/editions/2026-08-23-12.json",
