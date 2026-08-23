@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-23T18:00:00+09:00",
-  "lastCompletedEdition": "2026-08-23-18",
+  "lastCompletedEnd": "2026-08-24T06:00:00+09:00",
+  "lastCompletedEdition": "2026-08-24-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -2478,7 +2478,106 @@
       "urls": [
         "https://mainichi.jp/articles/20260823/k00/00m/050/113000c"
       ]
+    },
+    {
+      "editionId": "2026-08-24-06",
+      "title": "山形県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-24T05:30:15+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260823203015_0_VPFJ50_020000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260823203023_0_VPFJ50_050000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260823203030_0_VPFJ50_060000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-06",
+      "title": "九州南部・奄美地方気象解説情報台風第18号",
+      "publishedAt": "2026-08-24T05:24:46+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260823202446_0_VPCJ50_460100.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260823202625_0_VPFJ50_460040.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-06",
+      "title": "八重山地方気象解説情報台風第20号",
+      "publishedAt": "2026-08-24T04:59:09+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260823195910_0_VPFJ50_474000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-06",
+      "title": "台風18号あす以降沖縄・奄美に接近へ早めに備えを",
+      "publishedAt": "2026-08-24T05:50:48+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260823de45899"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-06",
+      "title": "abuロボコン香港で開催地元の香港大学が優勝",
+      "publishedAt": "2026-08-24T05:40:25+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260823de45901"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-06",
+      "title": "読む政治消費減税政権浮揚効果は限定的物価高対策の決め手ならず",
+      "publishedAt": "2026-08-24T05:30:12+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260823/k00/00m/010/175000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-06",
+      "title": "大阪市残す都構想しょうもない維新内からもツッコミ",
+      "publishedAt": "2026-08-24T05:30:09+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260823/k00/00m/010/002000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-06",
+      "title": "新方式で国産初の量子コンピューター稼働開始分子科学研究所",
+      "publishedAt": "2026-08-24T05:10:35+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260823de45895"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-06",
+      "title": "処理水放出3年禁輸で水産物価格が暴落賠償に至らず泣き寝入りも",
+      "publishedAt": "2026-08-24T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8R1RZQV8RUTFL01QM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-06",
+      "title": "クマ対策からサクラ害虫防除まで実質外国人が負担出国税の増税分",
+      "publishedAt": "2026-08-24T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV78165DV78ULFA008M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-06",
+      "title": "影山貴彦のテレビ燦松村北斗が輝く告白25年目の秘密",
+      "publishedAt": "2026-08-24T02:02:00+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260824/ddm/018/200/033000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-06",
+      "title": "ウクライナから避難の母親大阪に交流拠点文化を守り伝えたい",
+      "publishedAt": "2026-08-23T20:56:17+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8P3FG6V8PPTIL00TM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-08-23T18:24:20.810092+09:00"
+  "updatedAt": "2026-08-24T06:10:08.421652+09:00"
 }
