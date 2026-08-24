@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-24T18:00:00+09:00",
-  "lastCompletedEdition": "2026-08-24-18",
+  "lastCompletedEnd": "2026-08-25T06:00:00+09:00",
+  "lastCompletedEdition": "2026-08-25-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -2812,7 +2812,137 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2608/24/2000000714"
       ]
+    },
+    {
+      "editionId": "2026-08-25-06",
+      "title": "石川県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-08-25T05:33:40+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260824203341_0_VPFJ50_170000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-06",
+      "title": "沖縄地方気象解説情報台風第18号",
+      "publishedAt": "2026-08-25T05:31:47+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260824203148_0_VPCJ50_471000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-06",
+      "title": "奄美地方鹿児島県気象解説情報台風第18号",
+      "publishedAt": "2026-08-25T05:31:12+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260824203112_0_VPFJ50_460040.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260824204529_0_VPFJ50_460100.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-06",
+      "title": "山形県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-25T05:30:21+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260824203021_0_VPFJ50_060000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260824203710_0_VPFJ50_150000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-06",
+      "title": "英国ウクライナに巡航ミサイルの技術提供戦況への効果は限定的か",
+      "publishedAt": "2026-08-25T05:28:09+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8S6R89V8SUHBI001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-06",
+      "title": "福岡県議会藏内議長25日辞職の見通し会派離脱の議員も",
+      "publishedAt": "2026-08-25T05:26:44+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260825de46092"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-06",
+      "title": "トランプ大統領カナダの自動車などへの追加関税を50に",
+      "publishedAt": "2026-08-25T05:17:09+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260825de46101"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-06",
+      "title": "除染土再生利用さいたま市と仙台市の国の出先機関でも都外初",
+      "publishedAt": "2026-08-25T05:08:10+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260824de46083"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-06",
+      "title": "経済プラスビジネスが出会う異空間スタートアップが福岡で育つワケ",
+      "publishedAt": "2026-08-25T05:00:21+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260821/k00/00m/020/168000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-06",
+      "title": "容疑者の男は日本原燃の協力会社員青森・六ケ所の死亡ひき逃げ事故",
+      "publishedAt": "2026-08-25T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8S2R7WV8SUBNB006M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-06",
+      "title": "厚労省厚労省がん患者支援ポスター配慮不足批判相次ぐ映画タイアップは中止",
+      "publishedAt": "2026-08-25T03:28:42+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260825/ddm/041/100/028000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-06",
+      "title": "米国イランと取引がある団体に2次制裁実施へ時期は明言せず",
+      "publishedAt": "2026-08-25T03:22:58+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260825/k00/00m/030/013000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-06",
+      "title": "まるで奇行種とある人型ロボの爆走フォームが話題に中国のロボット運動会400m走で優勝",
+      "publishedAt": "2026-08-24T21:54:36+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/24/2000000730"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-06",
+      "title": "就職先の選定snsを参考にした8327年春の大卒生閲覧で入社意欲増した",
+      "publishedAt": "2026-08-24T19:51:11+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/24/2000000729"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-06",
+      "title": "東京の下町や浦安周辺はなぜ揺れやすい日本地震工学会の揺れやすさマップが話題",
+      "publishedAt": "2026-08-24T18:44:33+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/24/2000000726"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-06",
+      "title": "キャベツの旬を宇宙から先読み買いどき知らせて食品ロス削減へ",
+      "publishedAt": "2026-08-24T18:36:09+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8S2TMVV8SUTFL00WM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-08-24T18:43:25.767077+09:00"
+  "updatedAt": "2026-08-25T06:17:08.880158+09:00"
 }
