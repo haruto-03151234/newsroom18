@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-24T06:00:00+09:00",
-  "lastCompletedEdition": "2026-08-24-06",
+  "lastCompletedEnd": "2026-08-24T12:00:00+09:00",
+  "lastCompletedEdition": "2026-08-24-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -2577,7 +2577,114 @@
       "urls": [
         "https://www.asahi.com/articles/ASV8P3FG6V8PPTIL00TM.html"
       ]
+    },
+    {
+      "editionId": "2026-08-24-12",
+      "title": "沖縄地方気象解説情報台風第18号",
+      "publishedAt": "2026-08-24T10:44:43+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260824014443_0_VPZJ50_010000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260824020007_0_VPFJ50_472000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260824020337_0_VPFJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260824020810_0_VPCJ50_471000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-12",
+      "title": "火山名桜島火山の状況に関する解説情報",
+      "publishedAt": "2026-08-24T10:00:41+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260824010042_0_VFVO51_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-12",
+      "title": "東北地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-24T04:50:29+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260823195029_0_VPCJ50_040000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-12",
+      "title": "ソフトバンクg個人向け社債1兆円国内最大規模ai投資を加速",
+      "publishedAt": "2026-08-24T11:47:43+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8S0SS3V8SULFA004M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-12",
+      "title": "テレビ離れどこまで進むnhkのデータから見える真相",
+      "publishedAt": "2026-08-24T11:47:36+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260824/k00/00m/200/022000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-12",
+      "title": "福岡県議会の蔵内勇夫議長が議員辞職を表明理由の説明はなし",
+      "publishedAt": "2026-08-24T11:46:38+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8S0240V8STIPE015M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-12",
+      "title": "台風18号南西諸島に接近へ速度落とし影響長引く恐れ",
+      "publishedAt": "2026-08-24T11:45:33+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260824/k00/00m/040/012000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-12",
+      "title": "41歳の新球挑戦宮西尚生を引退させなかった妻のよく頑張った",
+      "publishedAt": "2026-08-24T11:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8R4V1WV8RUTQP00BM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-12",
+      "title": "相模原17歳男子高校生が死亡繰り返し殴られたような跡",
+      "publishedAt": "2026-08-24T11:14:41+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260824de45952"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-12",
+      "title": "女子ゴルフ米ツアー最終ラウンド山下美夢有が優勝今季2勝目",
+      "publishedAt": "2026-08-24T11:02:22+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260824de45946"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-12",
+      "title": "ロッキーズ菅野智之3回5失点で7敗目",
+      "publishedAt": "2026-08-24T11:01:12+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260824de45944"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-12",
+      "title": "メタボが脳にゴミを詰まらせるにおいが分かりにくい経て認知症へ米大学が新説",
+      "publishedAt": "2026-08-24T11:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/24/2000000662"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-12",
+      "title": "パキスタン軍幹部がイラン訪問へ経済制裁準備の米国との仲介役",
+      "publishedAt": "2026-08-24T10:12:12+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260824/k00/00m/030/025000c"
+      ]
     }
   ],
-  "updatedAt": "2026-08-24T06:10:08.421652+09:00"
+  "updatedAt": "2026-08-24T12:46:18.888918+09:00"
 }
