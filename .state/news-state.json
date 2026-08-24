@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-24T12:00:00+09:00",
-  "lastCompletedEdition": "2026-08-24-12",
+  "lastCompletedEnd": "2026-08-24T18:00:00+09:00",
+  "lastCompletedEdition": "2026-08-24-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -2684,7 +2684,135 @@
       "urls": [
         "https://mainichi.jp/articles/20260824/k00/00m/030/025000c"
       ]
+    },
+    {
+      "editionId": "2026-08-24-18",
+      "title": "関東甲信地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-24T17:59:49+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260824085950_0_VPCJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-18",
+      "title": "沖縄本島地方気象解説情報台風第18号",
+      "publishedAt": "2026-08-24T17:59:43+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260824085943_0_VPFJ50_471000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-18",
+      "title": "結果報告砂漠化対処条約第17回締約国会議unccdcop17における農林水産省主催サイドイベントの開催",
+      "publishedAt": "2026-08-24T16:49:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/y_kokusai/kikou/260824.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-18",
+      "title": "令和7年度末の汚水処理人口普及状況について",
+      "publishedAt": "2026-08-24T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousin/seibi/260824.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-18",
+      "title": "人工衛星活用し旬のキャベツ届ける取り組み開始jaxaなど",
+      "publishedAt": "2026-08-24T17:58:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260824de46018"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-18",
+      "title": "元衆院議長の綿貫民輔氏死去99歳郵政民営化反対で自民一時除名",
+      "publishedAt": "2026-08-24T17:56:34+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8S11GZV8SPJLB002M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-18",
+      "title": "教育のいま北海道の公立高が掲げる宇宙教育全国から生徒が集まる理由",
+      "publishedAt": "2026-08-24T17:53:56+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260824/k00/00m/100/199000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-18",
+      "title": "福岡・築上渇水で田畑ひび割れため池・河川ほぼ干上がる",
+      "publishedAt": "2026-08-24T17:51:57+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260824/k00/00m/040/198000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-18",
+      "title": "ドコモ・バイクシェア新ブランドへの刷新また延期8月のシステム障害受け",
+      "publishedAt": "2026-08-24T17:46:13+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/24/2000000725"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-18",
+      "title": "群馬沼田市・川場村にレベル4大雨土砂災害危険警報",
+      "publishedAt": "2026-08-24T17:40:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260824de46027"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-18",
+      "title": "福岡県議会のドン蔵内氏辞職強まった包囲網疑惑未解明のまま",
+      "publishedAt": "2026-08-24T17:36:15+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8S2QVKV8STIPE01FM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-18",
+      "title": "サッカー日本代表小川航基fc町田ゼルビアに移籍で合意",
+      "publishedAt": "2026-08-24T17:15:19+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260824de46012"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-18",
+      "title": "守りたいウクライナの民主主義全面侵攻4年半声を上げる若者ら",
+      "publishedAt": "2026-08-24T16:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8S1PLTV8SUHBI00KM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-18",
+      "title": "うるう秒27年に事実上廃止へ自転とのずれ1時間まで容認10月に国際会議で採決",
+      "publishedAt": "2026-08-24T15:10:09+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/24/2000000718"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-18",
+      "title": "トーク逃したら後悔覚悟した映画平行と垂直安田章大と主演のん",
+      "publishedAt": "2026-08-24T13:39:12+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260824/dde/012/200/007000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-24-18",
+      "title": "中国人型ロボットが100メートルで9秒32ボルト超え続出の北京世界人型ロボット運動会",
+      "publishedAt": "2026-08-24T13:34:23+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/24/2000000714"
+      ]
     }
   ],
-  "updatedAt": "2026-08-24T12:46:18.888918+09:00"
+  "updatedAt": "2026-08-24T18:43:25.767077+09:00"
 }
