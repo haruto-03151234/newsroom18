@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-25T06:00:00+09:00",
-  "lastCompletedEdition": "2026-08-25-06",
+  "lastCompletedEnd": "2026-08-25T12:00:00+09:00",
+  "lastCompletedEdition": "2026-08-25-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -2942,7 +2942,123 @@
       "urls": [
         "https://www.asahi.com/articles/ASV8S2TMVV8SUTFL00WM.html"
       ]
+    },
+    {
+      "editionId": "2026-08-25-12",
+      "title": "全般気象解説情報台風第18号",
+      "publishedAt": "2026-08-25T11:14:22+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260825021423_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-12",
+      "title": "九州南部・奄美地方気象解説情報台風第18号",
+      "publishedAt": "2026-08-25T11:00:51+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260825020052_0_VPCJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260825020835_0_VPFJ50_472000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260825021311_0_VPFJ50_460100.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260825021837_0_VPFJ50_460040.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260825022011_0_VPCJ50_460100.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-12",
+      "title": "米対中75の追加関税を検討計20に過剰生産能力で",
+      "publishedAt": "2026-08-25T11:45:47+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260825/k00/00m/030/071000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-12",
+      "title": "江戸時代都市の食生活現代よりミネラル豊富古い本の毛髪分析",
+      "publishedAt": "2026-08-25T11:45:11+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260824/k00/00m/040/158000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-12",
+      "title": "三重県庁私物usbメモリ全廃全体の3割・3789個が私物だった",
+      "publishedAt": "2026-08-25T11:21:24+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/25/2000000737"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-12",
+      "title": "pixivfanbox無断転載コンテンツのgoogle削除申請を代行投稿データのスクレイピング被害受け",
+      "publishedAt": "2026-08-25T10:55:18+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/25/2000000735"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-12",
+      "title": "鹿児島与論町町内全域の2640世帯4873人に避難指示",
+      "publishedAt": "2026-08-25T10:17:56+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260825de46113"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-12",
+      "title": "アジカン・後藤さん創設団体地元ハードオフと連携し音楽家支援",
+      "publishedAt": "2026-08-25T10:15:09+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260825/k00/00m/200/025000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-12",
+      "title": "今からロボットを現場投入できないか増えた日本企業からの問い合わせ頭脳を作る韓国企業が感じた国内の変化",
+      "publishedAt": "2026-08-25T10:00:38+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/25/2000000731"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-12",
+      "title": "米財務長官イランと取り引きある企業などに大規模経済制裁",
+      "publishedAt": "2026-08-25T09:23:54+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260825de46098"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-12",
+      "title": "ウクライナ支援有志連合の首脳会合防空支援強化で一致",
+      "publishedAt": "2026-08-25T08:16:40+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260824de46077"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-12",
+      "title": "イラン追放制裁効果限定的かトランプ政権自国の基盤も動揺",
+      "publishedAt": "2026-08-25T07:33:11+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8S7521V8SBQBQ25MM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-12",
+      "title": "大きな問いに魅せられ先端技術で解き明かす利根川進さんの歩み",
+      "publishedAt": "2026-08-25T07:01:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8P215KV8PUTFL008M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-12",
+      "title": "小川航基を日本へ戻す意味jリーグが劣る現状変えないと",
+      "publishedAt": "2026-08-25T07:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8S3VGCV8SUTQP00MM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-08-25T06:17:08.880158+09:00"
+  "updatedAt": "2026-08-25T12:41:09.416763+09:00"
 }
