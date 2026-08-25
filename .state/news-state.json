@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-25T12:00:00+09:00",
-  "lastCompletedEdition": "2026-08-25-12",
+  "lastCompletedEnd": "2026-08-25T18:00:00+09:00",
+  "lastCompletedEdition": "2026-08-25-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -3058,7 +3058,128 @@
       "urls": [
         "https://www.asahi.com/articles/ASV8S3VGCV8SUTQP00MM.html"
       ]
+    },
+    {
+      "editionId": "2026-08-25-18",
+      "title": "群馬県気象防災速報竜巻注意",
+      "publishedAt": "2026-08-25T17:46:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260825084650_0_VPHW50_100000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-18",
+      "title": "全般気象解説情報台風第18号",
+      "publishedAt": "2026-08-25T17:18:35+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260825081836_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-18",
+      "title": "奄美地方鹿児島県気象解説情報台風第18号",
+      "publishedAt": "2026-08-25T17:18:22+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260825081823_0_VPFJ50_460100.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260825081920_0_VPFJ50_460040.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-18",
+      "title": "英国からの生きた家きん家きん肉等の輸入一時停止措置の解除について",
+      "publishedAt": "2026-08-25T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/douei/260825.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-18",
+      "title": "国定公園に違法建築規制説明されず日南市に2億円超の賠償命令",
+      "publishedAt": "2026-08-25T17:57:44+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8T2SP9V8TUTIL01HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-18",
+      "title": "衆院選挙制度座長試案にサンラグ方式どんな政党に有利",
+      "publishedAt": "2026-08-25T17:53:10+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260825/k00/00m/010/219000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-18",
+      "title": "楽天版shein若者向けプチプラ通販ラクヨコ開設sns感覚で数百円から商品探し",
+      "publishedAt": "2026-08-25T17:51:52+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/25/2000000757"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-18",
+      "title": "美浜3号機50年超運転へ規制委が大筋了承蒸気漏れ防止も要求",
+      "publishedAt": "2026-08-25T17:50:12+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8T2QVPV8TUTFL00SM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-18",
+      "title": "西日本では39度超危険な暑さに北海道では大雨",
+      "publishedAt": "2026-08-25T17:46:46+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260824de46075"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-18",
+      "title": "同志社理事長が辞任へ校長は退任の見通し辺野古沖転覆事故受け",
+      "publishedAt": "2026-08-25T17:46:17+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8T015TV8TPLZB00MM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-18",
+      "title": "政府パレスチナに5億円の食料支援へ人道状況の悪化を受け",
+      "publishedAt": "2026-08-25T17:41:26+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260825/k00/00m/010/213000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-18",
+      "title": "パドレス松井裕樹パイレーツ戦にリリーフ登板1回無失点",
+      "publishedAt": "2026-08-25T17:36:03+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260825de46235"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-18",
+      "title": "公文書2万枚持ち帰り裏面に小説コピー町教委職員を懲戒免職",
+      "publishedAt": "2026-08-25T17:32:57+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260825/k00/00m/040/208000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-18",
+      "title": "chatgptでadobeツールを動かすを検証静止画の編集は快適一方で動画は",
+      "publishedAt": "2026-08-25T16:41:19+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/25/2000000736"
+      ]
+    },
+    {
+      "editionId": "2026-08-25-18",
+      "title": "熊本地震激甚災害対象追加見込み災害公営住宅建設など支援へ",
+      "publishedAt": "2026-08-25T16:39:53+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260825de46206"
+      ]
     }
   ],
-  "updatedAt": "2026-08-25T12:41:09.416763+09:00"
+  "updatedAt": "2026-08-25T18:31:50.046745+09:00"
 }
