@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-26T12:00:00+09:00",
-  "lastCompletedEdition": "2026-08-26-12",
+  "lastCompletedEnd": "2026-08-26T18:00:00+09:00",
+  "lastCompletedEdition": "2026-08-26-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -3399,7 +3399,113 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2608/26/2000000752"
       ]
+    },
+    {
+      "editionId": "2026-08-26-18",
+      "title": "福岡県気象防災速報竜巻注意",
+      "publishedAt": "2026-08-26T17:42:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260826084259_0_VPHW50_180000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260826085300_0_VPHW50_240000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260826085653_0_VPHW50_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-18",
+      "title": "スペースx米南部に宇宙港16兆円投じたロケット発射施設",
+      "publishedAt": "2026-08-26T17:58:18+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260826/k00/00m/020/215000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-18",
+      "title": "高市首相日本とベトナムが舞台のミュージカル主演俳優を激励",
+      "publishedAt": "2026-08-26T17:56:37+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260826de46459"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-18",
+      "title": "セブンフリマ商品をセルフ発送手続き10秒の専用機導入へ",
+      "publishedAt": "2026-08-26T17:55:50+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260826/k00/00m/020/217000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-18",
+      "title": "韓国skhynix宮城県に半導体工場の計画浮上何か知り得ているものはないと村井知事",
+      "publishedAt": "2026-08-26T17:55:22+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/26/2000000820"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-18",
+      "title": "原油調達の多角化を支援ホルムズ海峡封鎖で政府が対策原発活用も",
+      "publishedAt": "2026-08-26T17:54:33+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8V2T0LV8VULFA021M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-18",
+      "title": "沖縄県知事選が27日告示6人が立候補を表明経済対策など争点か",
+      "publishedAt": "2026-08-26T17:46:10+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8V2S4ZV8VUTIL02KM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-18",
+      "title": "地域活性化に貢献愛知・岡崎市に総務大臣賞都市対抗野球",
+      "publishedAt": "2026-08-26T17:38:53+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260826/k00/00m/050/216000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-18",
+      "title": "悪質uiを体験できるダークパターン博物館が話題解約迷路偽の閉じるボタンなど全8種",
+      "publishedAt": "2026-08-26T17:22:17+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/26/2000000817"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-18",
+      "title": "政府副首都構想で10月下旬めどに指定要件など決める方針",
+      "publishedAt": "2026-08-26T17:15:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260826de46472"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-18",
+      "title": "ホロライブカードゲームの公式サイトに不正アクセスの痕跡cmsの脆弱性突かれたか",
+      "publishedAt": "2026-08-26T17:00:47+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/26/2000000811"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-18",
+      "title": "米国イラン攻撃を当面控える中間選挙終わるまでか米報道",
+      "publishedAt": "2026-08-26T16:27:02+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8V2C3CV8VUHMC004M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-18",
+      "title": "カブス鈴木誠也2安打もチームはサヨナラ負け",
+      "publishedAt": "2026-08-26T14:48:49+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260826de46452"
+      ]
     }
   ],
-  "updatedAt": "2026-08-26T12:46:08.842872+09:00"
+  "updatedAt": "2026-08-26T18:36:47.664041+09:00"
 }
