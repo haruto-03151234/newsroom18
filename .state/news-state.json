@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-26T06:00:00+09:00",
-  "lastCompletedEdition": "2026-08-26-06",
+  "lastCompletedEnd": "2026-08-26T12:00:00+09:00",
+  "lastCompletedEdition": "2026-08-26-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -3278,7 +3278,128 @@
       "urls": [
         "https://www.asahi.com/articles/ASV8T4TRRV8TULFA02BM.html"
       ]
+    },
+    {
+      "editionId": "2026-08-26-12",
+      "title": "福井県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-26T11:25:18+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260826022518_0_VPFJ50_170000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260826025808_0_VPFJ50_180000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-12",
+      "title": "宮古島地方気象解説情報台風第18号",
+      "publishedAt": "2026-08-26T11:23:06+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260826022307_0_VPFJ50_473000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-12",
+      "title": "関税・外国為替等審議会関税分科会特殊関税部会令和8年7月30日議事録",
+      "publishedAt": "2026-08-26T11:00:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_tokusyu/proceedings/kanb20260730.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-12",
+      "title": "qaで解説米国対イラン戦略を軍事作戦から経済戦争に",
+      "publishedAt": "2026-08-26T11:49:47+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260826/k00/00m/030/061000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-12",
+      "title": "高級時計窃盗事件2人組の男現場にハンマー残し逃走か",
+      "publishedAt": "2026-08-26T11:49:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260826de46385"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-12",
+      "title": "イランへの制裁米の元制裁調査官交渉の席に戻すねらい",
+      "publishedAt": "2026-08-26T11:46:12+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260826de46381"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-12",
+      "title": "国籍ない難民2世の亡命の物語都内でチベット現代アート展",
+      "publishedAt": "2026-08-26T11:45:11+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260825/k00/00m/040/178000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-12",
+      "title": "appleの布ほぼ半額に新モデルが1580円で販売開始変更点は",
+      "publishedAt": "2026-08-26T11:44:08+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/26/2000000789"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-12",
+      "title": "東京23区で徒歩10分以内に駅がない地域はどこ駅空白地帯マップが話題",
+      "publishedAt": "2026-08-26T11:31:11+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/25/2000000759"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-12",
+      "title": "上場廃止の昭和hd前代表が激白ずっと殴られ続けてる実印は返却",
+      "publishedAt": "2026-08-26T11:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8N41QCV8NULFA001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-12",
+      "title": "テニス錦織圭現役最後の全米op男子シングルス予選2回戦へ進出",
+      "publishedAt": "2026-08-26T11:28:52+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260826de46362"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-12",
+      "title": "台風18号沖縄や奄美に接近1人けが大雨災害に警戒呼び掛け",
+      "publishedAt": "2026-08-26T11:12:25+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260826/k00/00m/040/056000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-12",
+      "title": "外国人問題火付け役は世論じゃなく政治早大・田辺教授の調査から",
+      "publishedAt": "2026-08-26T11:01:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV781H9JV78UHBI033M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-12",
+      "title": "巨大it規制のスマホ新法アプリ事業者ら法の目的達成されず",
+      "publishedAt": "2026-08-26T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8T23PQV8TULFA00SM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-26-12",
+      "title": "法人パソコンにも高騰の波中古の常識を変えたリファービッシュpcに企業が熱視線のワケvaioに聞く",
+      "publishedAt": "2026-08-26T10:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/26/2000000752"
+      ]
     }
   ],
-  "updatedAt": "2026-08-26T06:15:29.122185+09:00"
+  "updatedAt": "2026-08-26T12:46:08.842872+09:00"
 }
