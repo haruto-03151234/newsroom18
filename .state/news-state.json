@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-27T12:00:00+09:00",
-  "lastCompletedEdition": "2026-08-27-12",
+  "lastCompletedEnd": "2026-08-27T18:00:00+09:00",
+  "lastCompletedEdition": "2026-08-27-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -3696,7 +3696,139 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20260827de46580"
       ]
+    },
+    {
+      "editionId": "2026-08-27-18",
+      "title": "秋田県気象防災速報竜巻注意",
+      "publishedAt": "2026-08-27T17:36:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260827083659_0_VPHW50_330000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260827083701_0_VPHW50_280000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260827085311_0_VPHW50_180000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260827085313_0_VPHW50_260000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260827085659_0_VPHW50_050000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-18",
+      "title": "三重県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-27T17:33:55+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260827083355_0_VPFJ50_240000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-18",
+      "title": "山下農林水産副大臣の海外出張概要について第11回apec食料安全保障担当大臣会合",
+      "publishedAt": "2026-08-27T16:40:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/y_kokusai/kikou/260827.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-18",
+      "title": "令和8年熊本地震による農林水産省の被災者の生活となりわい支援のためのパッケージについて",
+      "publishedAt": "2026-08-27T16:30:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/kanbo/bunsyo/saigai/260827_1.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-18",
+      "title": "令和8年梅雨前線豪雨令和8年8月千葉豪雨等による災害仮称における大規模災害時の災害査定の効率化の対象について",
+      "publishedAt": "2026-08-27T16:15:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/kanbo/bunsyo/saigai/260827_2.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-18",
+      "title": "洲本商工会議所の事務局長を750万円横領容疑で逮捕神戸地検",
+      "publishedAt": "2026-08-27T17:58:16+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8W2V7QV8WPIHB00ZM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-18",
+      "title": "小川航基がjリーグ復帰で会見5大リーグに行けたとしても",
+      "publishedAt": "2026-08-27T17:57:46+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8W2V2XV8WUTQP002M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-18",
+      "title": "google副社長子どものsns利用年齢制限間違っている",
+      "publishedAt": "2026-08-27T17:13:13+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8W2H1GV8WUTFL00MM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-18",
+      "title": "backlogの値上げエグすぎsnsで悲鳴ユーザー無制限プラン月最低16万円36万円に",
+      "publishedAt": "2026-08-27T17:12:55+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/27/2000000862"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-18",
+      "title": "韓国政策金利引き上げ3に中央銀行市場へのシグナル",
+      "publishedAt": "2026-08-27T15:15:08+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46706"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-18",
+      "title": "ホワイトソックス村上宗隆ノーヒットも2四球チームは2連勝",
+      "publishedAt": "2026-08-27T15:11:27+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46700"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-18",
+      "title": "ちっちゃな人型ロボが100mトラックをぽてぽて中国ロボ陸上のおちびランナーが話題可愛すぎけなげ",
+      "publishedAt": "2026-08-27T14:59:23+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/27/2000000852"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-18",
+      "title": "キオクシア1兆円超の新棟建設報道に言及さまざまな検討を行っていることは事実",
+      "publishedAt": "2026-08-27T14:58:11+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/27/2000000851"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-18",
+      "title": "topics宝塚月組トップコンビ退団記者会見挑み成長できる学びや有終の公演天穹のアルテミス12月開幕",
+      "publishedAt": "2026-08-27T13:52:40+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260827/dde/018/200/017000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-18",
+      "title": "topics",
+      "publishedAt": "2026-08-27T13:50:59+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260827/dde/018/200/009000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-18",
+      "title": "イスラエル総選挙ネタニヤフ首相が苦戦地元メディア世論調査",
+      "publishedAt": "2026-08-27T11:45:35+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46582"
+      ]
     }
   ],
-  "updatedAt": "2026-08-27T22:23:59.142255+09:00"
+  "updatedAt": "2026-08-28T04:24:39.177642+09:00"
 }
