@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-27T06:00:00+09:00",
-  "lastCompletedEdition": "2026-08-27-06",
+  "lastCompletedEnd": "2026-08-27T12:00:00+09:00",
+  "lastCompletedEdition": "2026-08-27-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -3604,7 +3604,99 @@
       "urls": [
         "https://www.asahi.com/articles/ASV8V4HCWV8VIIPE010M.html"
       ]
+    },
+    {
+      "editionId": "2026-08-27-12",
+      "title": "令和8年熊本地震に関する農林水産省緊急自然災害対策本部第14回及び令和8年8月千葉豪雨に関する農林水産省緊急自然災害対策本部第3回の開催について",
+      "publishedAt": "2026-08-27T11:30:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/kanbo/bunsyo/saigai/260827.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-12",
+      "title": "火山名岩手山火山の状況に関する解説情報",
+      "publishedAt": "2026-08-27T11:10:24+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260827021024_0_VFVO51_040000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-12",
+      "title": "中国地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-27T11:00:17+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260827020018_0_VPFJ50_200000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260827020311_0_VPFJ50_270000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260827022756_0_VPCJ50_340000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260827022837_0_VPFJ50_310000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260827023532_0_VPFJ50_180000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-12",
+      "title": "ブルージェイズ岡本和真2打数ノーヒットもチームは勝利",
+      "publishedAt": "2026-08-27T11:57:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46656"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-12",
+      "title": "ハリー王子がイギリスに家族と帰国と報道現地で高い関心",
+      "publishedAt": "2026-08-27T11:49:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46587"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-12",
+      "title": "マイナアプリ一部端末でログインできない不具合リリースから2日",
+      "publishedAt": "2026-08-27T11:11:49+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/27/2000000833"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-12",
+      "title": "洋服の青山初の空調ウェア自腹レビューきちんと感なのに涼しいよく考えられたデザインに驚いた",
+      "publishedAt": "2026-08-27T11:06:41+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/26/2000000795"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-12",
+      "title": "指輪型のたまごっち誕生カラー液晶搭載で30種以上のたまごっちに成長",
+      "publishedAt": "2026-08-27T11:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/27/2000000832"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-12",
+      "title": "下級生への暴力複数回寮内の盗難報告せず龍谷大野球部が活動停止",
+      "publishedAt": "2026-08-27T10:31:06+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8W0F09V8WPLZB001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-12",
+      "title": "母親が我が子3人を殺害原因は産後の精神病なのか全米が注目",
+      "publishedAt": "2026-08-27T07:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8T0HHRV8TUHBI00LM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-12",
+      "title": "中部電力浜岡原発の廃炉めぐる不適切事案きょう公表へ",
+      "publishedAt": "2026-08-27T04:37:25+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46580"
+      ]
     }
   ],
-  "updatedAt": "2026-08-27T09:18:54.844663+09:00"
+  "updatedAt": "2026-08-27T22:23:59.142255+09:00"
 }
