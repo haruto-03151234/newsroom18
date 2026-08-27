@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-26T18:00:00+09:00",
-  "lastCompletedEdition": "2026-08-26-18",
+  "lastCompletedEnd": "2026-08-27T06:00:00+09:00",
+  "lastCompletedEdition": "2026-08-27-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -3505,7 +3505,106 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20260826de46452"
       ]
+    },
+    {
+      "editionId": "2026-08-27-06",
+      "title": "石川県レベル4土砂災害危険警報",
+      "publishedAt": "2026-08-27T05:59:28+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260826205930_0_VXWW50_170000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-06",
+      "title": "長野県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-27T05:55:34+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260826205534_0_VPFJ50_110000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260826205721_0_VPFJ50_140000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260826205746_0_VPFJ50_090000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260826205812_0_VPFJ50_200000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-06",
+      "title": "群馬県気象防災速報竜巻注意",
+      "publishedAt": "2026-08-27T05:53:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260826205312_0_VPHW50_100000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-06",
+      "title": "sns等におけるなりすまし詐欺広告に関する対策強化のための7府省庁合同要請の実施",
+      "publishedAt": "2026-08-26T18:10:47+09:00",
+      "urls": [
+        "https://www.digital.go.jp/news/b96e34b8-0af0-4fe3-b6b5-2191726c8cc5"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-06",
+      "title": "sns1日2時間に制限子どもの依存訴訟メタが28兆円で和解",
+      "publishedAt": "2026-08-27T05:47:26+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8V5SN9V8VUHBI022M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-06",
+      "title": "中国ロボット運動会100m決勝は5台が8秒台技術開発が加速",
+      "publishedAt": "2026-08-27T05:45:43+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46581"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-06",
+      "title": "原子力規制庁来年度予算案の概算要求に次世代炉審査の調査費",
+      "publishedAt": "2026-08-27T05:35:39+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260826de46568"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-06",
+      "title": "経済プラスかつて石油業界が反発復活したナフサ備蓄が直面する厳しい現状",
+      "publishedAt": "2026-08-27T05:31:08+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260826/k00/00m/020/320000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-06",
+      "title": "人生は煮込み料理綾戸智恵さんのええダシ出てる引き算の音楽",
+      "publishedAt": "2026-08-27T05:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8B2138V8BUPQJ00PM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-06",
+      "title": "サッカー天皇杯2回戦結果前回王者・j1町田が快勝",
+      "publishedAt": "2026-08-27T03:42:19+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46569"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-06",
+      "title": "米アカデミー賞急に具合が悪くなる米アカデミー賞長編映画賞の日本代表に",
+      "publishedAt": "2026-08-27T02:03:12+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260827/ddm/041/200/021000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-27-06",
+      "title": "娘と別れた男子中学生に脅迫メール数千件母親を逮捕北海道警",
+      "publishedAt": "2026-08-26T22:47:35+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8V4HCWV8VIIPE010M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-08-26T18:36:47.664041+09:00"
+  "updatedAt": "2026-08-27T09:18:54.844663+09:00"
 }
