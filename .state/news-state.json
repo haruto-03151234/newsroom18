@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-28T06:00:00+09:00",
-  "lastCompletedEdition": "2026-08-28-06",
+  "lastCompletedEnd": "2026-08-28T12:00:00+09:00",
+  "lastCompletedEdition": "2026-08-28-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -3921,7 +3921,114 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2608/27/2000000870"
       ]
+    },
+    {
+      "editionId": "2026-08-28-12",
+      "title": "愛知県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-28T11:32:38+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260828023239_0_VPFJ50_230000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260828023315_0_VPFJ50_270000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260828024041_0_VPFJ50_170000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260828024213_0_VPFJ50_180000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-12",
+      "title": "釧路・根室地方気象防災速報竜巻注意",
+      "publishedAt": "2026-08-28T11:32:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260828023304_0_VPHW50_014100.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-12",
+      "title": "網走・北見・紋別地方気象防災速報竜巻注意",
+      "publishedAt": "2026-08-28T11:32:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260828023300_0_VPHW50_013000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-12",
+      "title": "令和8年熊本地震に関する対応状況について8月27日",
+      "publishedAt": "2026-08-28T09:30:51+09:00",
+      "urls": [
+        "https://www.digital.go.jp/news/32cda2c5-cfaf-40d2-82cb-8e2860fee8b7"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-12",
+      "title": "多数派が静かすぎる元米陸軍特殊部隊将校が懸念する米国の分断",
+      "publishedAt": "2026-08-28T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8V34Z4V8VUHBI01DM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-12",
+      "title": "ドナウ川の底からローマ時代の橋跡マンモス化石渇水の副産物次",
+      "publishedAt": "2026-08-28T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8W22KHV8WUHBI006M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-12",
+      "title": "トランプ大統領オンタリオ湖をアメリカ湖に変更の大統領令",
+      "publishedAt": "2026-08-28T10:15:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46864"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-12",
+      "title": "週刊ダイヤモンド紙の発行終了114年目で幕完全デジタル化へ",
+      "publishedAt": "2026-08-28T10:05:15+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/28/2000000883"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-12",
+      "title": "r18ゲームをiphoneでもdmmgamesios向け独自ストアを31日に公開",
+      "publishedAt": "2026-08-28T09:49:50+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/28/2000000881"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-12",
+      "title": "キオクシアとsandisk日本に約5兆円投資へフラッシュメモリ増産政府の支援前提",
+      "publishedAt": "2026-08-28T09:11:09+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/28/2000000879"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-12",
+      "title": "ドジャース佐木朗希右手中指のまめでけが人リスト入り",
+      "publishedAt": "2026-08-28T09:06:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46860"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-12",
+      "title": "東海第二原発で防潮堤完成延期へ再稼働は2028年度後半以降に",
+      "publishedAt": "2026-08-28T08:50:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46859"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-12",
+      "title": "小学校を襲った誤爆児童120人が犠牲イラン攻撃から半年",
+      "publishedAt": "2026-08-28T07:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8W1G9RV8WUHBI02MM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-08-28T13:59:25.280476+09:00"
+  "updatedAt": "2026-08-28T23:44:48.518597+09:00"
 }
