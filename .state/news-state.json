@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-28T12:00:00+09:00",
-  "lastCompletedEdition": "2026-08-28-12",
+  "lastCompletedEnd": "2026-08-28T18:00:00+09:00",
+  "lastCompletedEdition": "2026-08-28-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -4028,7 +4028,124 @@
       "urls": [
         "https://www.asahi.com/articles/ASV8W1G9RV8WUHBI02MM.html"
       ]
+    },
+    {
+      "editionId": "2026-08-28-18",
+      "title": "令和8年7月の米穀流通の動向集荷販売民間在庫",
+      "publishedAt": "2026-08-28T17:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousan/kikaku/260828.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-18",
+      "title": "富山県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-28T16:31:06+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260828073107_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260828074518_0_VPFJ50_120000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260828074819_0_VPFJ50_160000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260828075041_0_VPZJ50_010000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260828075311_0_VPFJ50_180000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260828075709_0_VPFJ50_170000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-18",
+      "title": "オーディエー株式会社における業務用加工食品すりごまの不適正表示に対する措置について",
+      "publishedAt": "2026-08-28T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/kansa/260828.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-18",
+      "title": "ラグビーリーグワン海外出身選手の出場制限を見直しへ",
+      "publishedAt": "2026-08-28T17:48:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46879"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-18",
+      "title": "熊本地震で壊れた名勝重文の修復費用文化庁などが寄付を募る",
+      "publishedAt": "2026-08-28T17:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8X1T9KV8XUCVL03LM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-18",
+      "title": "活断層密集の近畿30年以内にm68以上5060地震本部",
+      "publishedAt": "2026-08-28T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8W3J3HV8WUTFL00PM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-18",
+      "title": "警察官にウェアラブルカメラ実装へ試行で有用性確認",
+      "publishedAt": "2026-08-28T16:56:39+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/28/2000000910"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-18",
+      "title": "nfl目指す松澤寛政プレシーズンゲーム最終戦は出場機会なし",
+      "publishedAt": "2026-08-28T16:52:12+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de47004"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-18",
+      "title": "トレファク子会社に不正アクセス13万人超の顧客情報漏えい二段階認証設定しておらず",
+      "publishedAt": "2026-08-28T16:24:41+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/28/2000000908"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-18",
+      "title": "退職代行モームリ前社長に有罪判決利用者を弁護士に違法あっせん",
+      "publishedAt": "2026-08-28T16:20:03+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/28/2000000907"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-18",
+      "title": "サッカーuefaがfifa主催大会への不参加を暫定的に停止",
+      "publishedAt": "2026-08-28T15:58:22+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46939"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-18",
+      "title": "シネマの週末・特選掘り出し",
+      "publishedAt": "2026-08-28T13:16:51+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260828/dde/012/070/003000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-18",
+      "title": "シネマの週末・トピックス",
+      "publishedAt": "2026-08-28T13:16:19+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260828/dde/012/070/004000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-18",
+      "title": "行方不明の日本人夫婦と子3人ネパール土石流の死者472人に",
+      "publishedAt": "2026-08-28T12:14:33+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8V45KXV8VUHBI01TM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-08-28T23:44:48.518597+09:00"
+  "updatedAt": "2026-08-29T05:40:58.764639+09:00"
 }
