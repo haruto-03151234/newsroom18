@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-27T18:00:00+09:00",
-  "lastCompletedEdition": "2026-08-27-18",
+  "lastCompletedEnd": "2026-08-28T06:00:00+09:00",
+  "lastCompletedEdition": "2026-08-28-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -3828,7 +3828,100 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20260827de46582"
       ]
+    },
+    {
+      "editionId": "2026-08-28-06",
+      "title": "富山県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-28T05:49:25+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260827204925_0_VPFJ50_160000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260827205128_0_VPFJ50_030000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260827205135_0_VPFJ50_014100.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260827205153_0_VPFJ50_200000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260827205521_0_VPFJ50_050000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260827205712_0_VPFJ50_040000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-06",
+      "title": "ネパール土石流362人死亡確認日本人5人と連絡取れず",
+      "publishedAt": "2026-08-28T05:53:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46815"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-06",
+      "title": "富山県東部と北海道・根室地方に線状降水帯の直前予測気象庁が発表",
+      "publishedAt": "2026-08-28T05:27:41+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8W6KN4V8WOXIE001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-06",
+      "title": "横浜市長が辞職へ28日の後援会で表明かパワハラ問題受け",
+      "publishedAt": "2026-08-28T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8W3QR7V8WULOB00DM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-06",
+      "title": "生成ai",
+      "publishedAt": "2026-08-28T02:29:47+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260828/ddm/007/030/088000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-06",
+      "title": "オリックス森友哉が左手首を手術今シーズンの復帰は困難か",
+      "publishedAt": "2026-08-27T21:54:17+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46803"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-06",
+      "title": "芸術家草間彌生さん死去97歳水玉モチーフの作品で知られる",
+      "publishedAt": "2026-08-27T21:18:11+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260827de46651"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-06",
+      "title": "浜岡原発で新たな不正地元はまたかと憤り幹部ら市議会で謝罪",
+      "publishedAt": "2026-08-27T21:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8W3R48V8WUTPB00MM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-06",
+      "title": "初の指輪型たまごっちの秘密開発者に聞く驚きのあるデバイスを前面ボタンは飾りです",
+      "publishedAt": "2026-08-27T20:22:04+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/27/2000000871"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-06",
+      "title": "twitterが帰ってきた元twitter法務のスタートアップが新sns立ち上げxとは係争中",
+      "publishedAt": "2026-08-27T19:42:56+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/27/2000000842"
+      ]
+    },
+    {
+      "editionId": "2026-08-28-06",
+      "title": "103年前の関東大震災どこがどれだけ揺れた市区町村別の詳細震度マップがxで話題に",
+      "publishedAt": "2026-08-27T19:26:18+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/27/2000000870"
+      ]
     }
   ],
-  "updatedAt": "2026-08-28T04:24:39.177642+09:00"
+  "updatedAt": "2026-08-28T13:59:25.280476+09:00"
 }
