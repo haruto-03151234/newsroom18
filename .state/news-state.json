@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-29T18:00:00+09:00",
-  "lastCompletedEdition": "2026-08-29-18",
+  "lastCompletedEnd": "2026-08-30T06:00:00+09:00",
+  "lastCompletedEdition": "2026-08-30-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -4400,7 +4400,106 @@
       "urls": [
         "https://www.asahi.com/articles/ASV8W2RPKV8WUTNB00TM.html"
       ]
+    },
+    {
+      "editionId": "2026-08-30-06",
+      "title": "京都府気象解説情報落雷・突風",
+      "publishedAt": "2026-08-30T05:32:45+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260829203245_0_VPFJ50_260000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-06",
+      "title": "福井県レベル4土砂災害危険警報",
+      "publishedAt": "2026-08-30T05:32:41+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260829203243_0_VXWW50_180000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-06",
+      "title": "石川県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-30T05:30:53+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260829203054_0_VPFJ50_320000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260829203246_0_VPFJ50_250000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260829203922_0_VPFJ50_150000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260829204927_0_VPFJ50_170000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-06",
+      "title": "河川カメラの映像福井県各地の河川状況",
+      "publishedAt": "2026-08-30T05:42:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260830de47211"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-06",
+      "title": "偵察衛星になるはずだったnasaの新型宇宙望遠鏡30日打ち上げ",
+      "publishedAt": "2026-08-30T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8V51FRV8VULLI001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-06",
+      "title": "ai時代のceoに必要な力とはヘッドハンターに聞く甘くない未来",
+      "publishedAt": "2026-08-30T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8X0CRZV8XULFA013M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-06",
+      "title": "福岡県県議の任意団体に税金で補助30年以上垂れ流しか",
+      "publishedAt": "2026-08-30T04:30:06+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260829/k00/00m/040/201000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-06",
+      "title": "ネパール土石流682人死亡行方不明者の捜索続くも難航",
+      "publishedAt": "2026-08-30T04:16:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260830de47203"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-06",
+      "title": "松尾貴史のちょっと違和感",
+      "publishedAt": "2026-08-30T03:45:17+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260830/ddm/012/070/008000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-06",
+      "title": "茨城県で震度4津波の心配なし千葉県東方沖が震源m48",
+      "publishedAt": "2026-08-30T00:44:47+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260830/k00/00m/040/001000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-06",
+      "title": "野球18歳以下の日本代表大学日本代表に敗れる",
+      "publishedAt": "2026-08-29T23:45:36+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260829de47187"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-06",
+      "title": "維新来春の福岡県議選に20人擁立方針吉村代表重点選挙",
+      "publishedAt": "2026-08-29T18:50:45+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8Y33T3V8YTIPE00PM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-08-29T23:08:52.850665+09:00"
+  "updatedAt": "2026-08-30T07:52:12.606786+09:00"
 }
