@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-28T18:00:00+09:00",
-  "lastCompletedEdition": "2026-08-28-18",
+  "lastCompletedEnd": "2026-08-29T06:00:00+09:00",
+  "lastCompletedEdition": "2026-08-29-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -4145,7 +4145,116 @@
       "urls": [
         "https://www.asahi.com/articles/ASV8V45KXV8VUHBI01TM.html"
       ]
+    },
+    {
+      "editionId": "2026-08-29-06",
+      "title": "富山県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-29T05:22:19+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260828202220_0_VPCJ50_340000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260828203112_0_VPFJ50_320000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260828203117_0_VPFJ50_310000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260828204147_0_VPFJ50_160000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260828204306_0_VPFJ50_180000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260828205708_0_VPFJ50_170000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-06",
+      "title": "関税・外国為替等審議会第69回外国為替等分科会議事録",
+      "publishedAt": "2026-08-28T18:00:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-foreign_exchange/proceedings/proceedings/20260821112328.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-06",
+      "title": "関税・外国為替等審議会第14回総会令和8年6月10日議事録",
+      "publishedAt": "2026-08-28T18:00:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/soukai/proceedings/proceedings/20260821114114.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-06",
+      "title": "プロ野球速報阪神2位巨人との直接対決3連戦の初戦に勝つ",
+      "publishedAt": "2026-08-29T05:42:49+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de47098"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-06",
+      "title": "土石流586人死亡ネパール側の行方不明者1900人超に",
+      "publishedAt": "2026-08-29T05:15:27+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260829de47121"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-06",
+      "title": "借地上の建物の持ち分地主に買い取り代金は請求できず最高裁",
+      "publishedAt": "2026-08-29T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8X3FH3V8XUTIL00JM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-06",
+      "title": "校内に避難所他校で間借りも学校始まった熊本再開へ応援チーム",
+      "publishedAt": "2026-08-29T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8X2DK0V8XUTIL00ZM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-06",
+      "title": "視聴室",
+      "publishedAt": "2026-08-29T02:02:33+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260829/ddm/018/200/009000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-06",
+      "title": "サンドウィッチマン伊達みきおさんが当面休養脳梗塞で入院治療",
+      "publishedAt": "2026-08-28T22:15:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8X46JGV8XUCVL037M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-06",
+      "title": "インフルエンザ全国的な流行入り8月の発表は異例の早さ",
+      "publishedAt": "2026-08-28T20:10:45+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46966"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-06",
+      "title": "批判を真摯に受け止める平口法相ネトフリラヴ上等とのコラボ中止に",
+      "publishedAt": "2026-08-28T19:23:55+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/28/2000000929"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-06",
+      "title": "パナソニックco2削減目標を下方修正3145万t550万tにエアコン販売拡大など影響",
+      "publishedAt": "2026-08-28T19:18:54+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/28/2000000928"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-06",
+      "title": "電車にスマホ貼り付けホーム全力疾走の様子を撮影tiktokerの動画が物議衣服ブランドの宣伝目的か",
+      "publishedAt": "2026-08-28T18:38:23+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/28/2000000921"
+      ]
     }
   ],
-  "updatedAt": "2026-08-29T05:40:58.764639+09:00"
+  "updatedAt": "2026-08-29T11:55:52.614208+09:00"
 }
