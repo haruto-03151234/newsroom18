@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-29T06:00:00+09:00",
-  "lastCompletedEdition": "2026-08-29-06",
+  "lastCompletedEnd": "2026-08-29T12:00:00+09:00",
+  "lastCompletedEdition": "2026-08-29-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -4254,7 +4254,92 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2608/28/2000000921"
       ]
+    },
+    {
+      "editionId": "2026-08-29-12",
+      "title": "富山県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-29T10:02:40+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260829010241_0_VPFJ50_320000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260829015441_0_VPCJ50_150000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260829020052_0_VPFJ50_160000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260829021513_0_VPCJ50_340000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260829021716_0_VPFJ50_170000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260829023122_0_VPFJ50_180000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-12",
+      "title": "ゼレンスキー大統領cia長官のモスクワ訪問の説明受けた",
+      "publishedAt": "2026-08-29T11:24:37+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260829de47122"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-12",
+      "title": "米財務省イラン経済制裁でエジプトの銀行とのドル取引遮断へ",
+      "publishedAt": "2026-08-29T11:17:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260829de47128"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-12",
+      "title": "山手線を百年支える帝都の赤じゅうたん伝統と近代化両立は",
+      "publishedAt": "2026-08-29T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8X0VSBV8XUTIL00MM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-12",
+      "title": "石油の一滴は血の一滴ホルムズ危機が突きつけた日本の急所",
+      "publishedAt": "2026-08-29T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8V30P0V8VULFA00SM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-12",
+      "title": "ネパールの大規模土石流なぜこれほどの被害温暖化で増すリスク",
+      "publishedAt": "2026-08-29T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8X44FGV8XUTFL01DM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-12",
+      "title": "テニス錦織圭現役最後の四大大会本戦出場ならず全米オープン",
+      "publishedAt": "2026-08-29T10:41:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260829de47125"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-12",
+      "title": "サンドウィッチマン",
+      "publishedAt": "2026-08-29T10:37:13+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260829/ddm/041/200/040000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-12",
+      "title": "動画カメラは混沌の時代へミラーレス一眼へ乗り出すアクションカムメーカーも現れた2026年前半の業界動向",
+      "publishedAt": "2026-08-29T09:16:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/29/2000000906"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-12",
+      "title": "大人向けスーパーカー自転車は和テイストだったリトラクタブルライトにrfid認証など装備満載",
+      "publishedAt": "2026-08-29T08:32:34+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/29/2000000934"
+      ]
     }
   ],
-  "updatedAt": "2026-08-29T11:55:52.614208+09:00"
+  "updatedAt": "2026-08-29T18:35:50.894961+09:00"
 }
