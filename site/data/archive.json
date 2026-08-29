@@ -1,7 +1,27 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-29T18:35:50.894961+09:00",
+  "updatedAt": "2026-08-29T23:08:52.850665+09:00",
   "editions": [
+    {
+      "id": "2026-08-29-18",
+      "path": "data/editions/2026-08-29-18.json",
+      "dataUrl": "data/editions/2026-08-29-18.json",
+      "generatedAt": "2026-08-29T23:08:52.850665+09:00",
+      "date": "2026-08-29",
+      "time": "18:00",
+      "label": "夕方6時版",
+      "coverageLabel": "08月29日 12:00〜08月29日 18:00",
+      "headline": "島根県気象解説情報（大雨・落雷・突風）",
+      "articleCount": 7,
+      "categories": {
+        "国内": 2,
+        "社会": 1,
+        "科学": 1,
+        "海外": 1,
+        "スポーツ": 1,
+        "経済": 1
+      }
+    },
     {
       "id": "2026-08-29-12",
       "path": "data/editions/2026-08-29-12.json",

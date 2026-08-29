@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-29T12:00:00+09:00",
-  "lastCompletedEdition": "2026-08-29-12",
+  "lastCompletedEnd": "2026-08-29T18:00:00+09:00",
+  "lastCompletedEdition": "2026-08-29-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -4339,7 +4339,68 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2608/29/2000000934"
       ]
+    },
+    {
+      "editionId": "2026-08-29-18",
+      "title": "島根県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-29T16:36:36+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260829073636_0_VPFJ50_180000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260829074041_0_VPFJ50_320000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260829074048_0_VPZJ50_010000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260829074051_0_VPFJ50_310000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260829074422_0_VPFJ50_160000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260829075453_0_VPFJ50_170000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-18",
+      "title": "温泉でくつろぐカピバラなどを表現新潟市内でわらアートまつり",
+      "publishedAt": "2026-08-29T17:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8Y2C20V8YUOHB002M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-18",
+      "title": "篠田守男さん死去95歳建築機械的な金属彫刻明和電機ら指導",
+      "publishedAt": "2026-08-29T17:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8Y2FS7V8YUCVL00GM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-18",
+      "title": "熊本地震400人余を病院間搬送緊急事態で生かされたことは",
+      "publishedAt": "2026-08-29T17:29:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260829de47139"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-18",
+      "title": "トランプ大統領ベネズエラ石油資源の過半数の支配権を確保",
+      "publishedAt": "2026-08-29T15:01:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260829de47161"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-18",
+      "title": "女子ゴルフ米ツアー第2r山下美夢有が首位浮上",
+      "publishedAt": "2026-08-29T14:59:56+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260829de47159"
+      ]
+    },
+    {
+      "editionId": "2026-08-29-18",
+      "title": "コンビニで車中泊魅力は料金以外にも記者も利用感じた安心",
+      "publishedAt": "2026-08-29T13:05:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8W2RPKV8WUTNB00TM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-08-29T18:35:50.894961+09:00"
+  "updatedAt": "2026-08-29T23:08:52.850665+09:00"
 }
