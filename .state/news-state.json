@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-30T18:00:00+09:00",
-  "lastCompletedEdition": "2026-08-30-18",
+  "lastCompletedEnd": "2026-08-31T06:00:00+09:00",
+  "lastCompletedEdition": "2026-08-31-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -4644,7 +4644,103 @@
       "urls": [
         "https://www.asahi.com/articles/ASV8X3FPSV8XULFA01CM.html"
       ]
+    },
+    {
+      "editionId": "2026-08-31-06",
+      "title": "北陸地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-30T22:35:10+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260830133511_0_VPCJ50_150000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-06",
+      "title": "福井県レベル4土砂災害危険警報",
+      "publishedAt": "2026-08-30T22:23:23+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260830132326_0_VXWW50_180000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-06",
+      "title": "数万曲を無断でaiにソニー傘下など35社アンソロピック提訴",
+      "publishedAt": "2026-08-31T05:53:48+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8Z6T5QV8ZUHBI001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-06",
+      "title": "ネパール土石流797人死亡住民孤立支援態勢の構築が急務に",
+      "publishedAt": "2026-08-31T05:47:25+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260831de47329"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-06",
+      "title": "千葉豪雨走行中のタクシー浸水被害100台超協会が緊急会合へ",
+      "publishedAt": "2026-08-31T05:38:33+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260830de47321"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-06",
+      "title": "公明合流見送り31日表明立憲の決定を踏まえ",
+      "publishedAt": "2026-08-31T05:30:03+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260830/k00/00m/010/240000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-06",
+      "title": "最期まで私らしく知っておきたい在宅の医療とケア終われない制度からオーダーメードへ変わる成年後見",
+      "publishedAt": "2026-08-31T05:00:23+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260827/k00/00m/100/297000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-06",
+      "title": "郵便不正の情報開示ほとぼりさめさせる総務省の業務チャットに",
+      "publishedAt": "2026-08-31T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8Z36QMV8ZUTIL030M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-06",
+      "title": "人生100年クラブ",
+      "publishedAt": "2026-08-31T02:48:45+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260831/ddm/013/200/009000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-06",
+      "title": "西武栗山巧引退試合最後の打席はセンター前ヒット2152安打",
+      "publishedAt": "2026-08-31T01:11:26+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260830de47288"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-06",
+      "title": "土石流は氷河が崩れたため中国が原因発表ネパール側死者781人",
+      "publishedAt": "2026-08-31T00:23:54+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8Z10JKV8ZUHBI00HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-06",
+      "title": "huggingface侵害事件openaiとmetrが最終報告書公開約1200体のaiエージェントが闇掲示板で結託し700体が攻撃に参加",
+      "publishedAt": "2026-08-30T18:23:12+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/30/2000000949"
+      ]
     }
   ],
-  "updatedAt": "2026-08-30T23:15:28.968360+09:00"
+  "updatedAt": "2026-08-31T07:57:56.791313+09:00"
 }
