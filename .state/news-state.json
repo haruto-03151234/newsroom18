@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-30T06:00:00+09:00",
-  "lastCompletedEdition": "2026-08-30-06",
+  "lastCompletedEnd": "2026-08-30T12:00:00+09:00",
+  "lastCompletedEdition": "2026-08-30-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -4499,7 +4499,91 @@
       "urls": [
         "https://www.asahi.com/articles/ASV8Y33T3V8YTIPE00PM.html"
       ]
+    },
+    {
+      "editionId": "2026-08-30-12",
+      "title": "富山県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-30T11:15:14+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260830021515_0_VPFJ50_160000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260830022635_0_VPFJ50_170000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260830023017_0_VPFJ50_150000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-12",
+      "title": "島根県レベル4土砂災害危険警報",
+      "publishedAt": "2026-08-30T10:02:58+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260830010300_0_VXWW50_210000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260830015726_0_VXWW50_170000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260830022226_0_VXWW50_320000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-12",
+      "title": "ブルージェイズ岡本和真はノーヒットもチームは逆転勝ち",
+      "publishedAt": "2026-08-30T11:35:46+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260830de47258"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-12",
+      "title": "パドレス松井裕樹8回にリリーフ登板8試合連続の無失点",
+      "publishedAt": "2026-08-30T11:34:09+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260830de47261"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-12",
+      "title": "メッツ千賀滉大9回1イニングを無失点チームは連敗3で止める",
+      "publishedAt": "2026-08-30T11:04:19+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260830de47256"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-12",
+      "title": "サンマの体内から見つかる赤い糸の正体専門家に聞いてみると",
+      "publishedAt": "2026-08-30T11:02:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8T4S94V8TIIPE00QM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-12",
+      "title": "夜行列車が緊急停止記者は林に隠れたキーウの警報3日で35回",
+      "publishedAt": "2026-08-30T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8Y7K5MV8YUHBI003M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-12",
+      "title": "警察の発砲で死んだ男ウナギで還暦祝った1週間後違法薬物影響か",
+      "publishedAt": "2026-08-30T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8X1HTVV8XPTIL00VM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-12",
+      "title": "openaicursorへのモデル提供を11月12日に終了spacexによる買収が理由",
+      "publishedAt": "2026-08-30T08:12:23+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/30/2000000945"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-12",
+      "title": "fanzaスタジオ爆誕へ成人向けaiマンガに違和感を覚えるマンガ家も期待する部分とは",
+      "publishedAt": "2026-08-30T07:16:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/30/2000000911"
+      ]
     }
   ],
-  "updatedAt": "2026-08-30T07:52:12.606786+09:00"
+  "updatedAt": "2026-08-30T17:44:48.179763+09:00"
 }
