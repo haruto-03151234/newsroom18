@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-30T12:00:00+09:00",
-  "lastCompletedEdition": "2026-08-30-12",
+  "lastCompletedEnd": "2026-08-30T18:00:00+09:00",
+  "lastCompletedEdition": "2026-08-30-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -4583,7 +4583,68 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2608/30/2000000911"
       ]
+    },
+    {
+      "editionId": "2026-08-30-18",
+      "title": "富山県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-08-30T16:03:14+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260830070315_0_VPCJ50_340000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260830070911_0_VPFJ50_150000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260830071847_0_VPFJ50_170000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260830072118_0_VPFJ50_320000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260830073032_0_VPZJ50_010000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260830073641_0_VPFJ50_160000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-18",
+      "title": "男子ゴルフ国内ツアーイ・サンヒが初優勝細野勇策が2位",
+      "publishedAt": "2026-08-30T17:44:51+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260830de47289"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-18",
+      "title": "黄川田担当相北方領土洋上慰霊に参加墓参を早期に実現",
+      "publishedAt": "2026-08-30T17:18:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260830de47263"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-18",
+      "title": "氾濫した河川水をかき分け進む車も丸岡城周辺も冠水福井の大雨",
+      "publishedAt": "2026-08-30T17:08:46+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8Z2GYJV8ZOXIE00NM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-18",
+      "title": "北朝鮮で党の中央軍事委員会開催副委員長や国防相人事を決定",
+      "publishedAt": "2026-08-30T16:07:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260830de47267"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-18",
+      "title": "トイレから水あふれる国道が川のよう福井県で浸水被害相次ぐ",
+      "publishedAt": "2026-08-30T14:42:37+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8Z0RRJV8ZPTIL007M.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-30-18",
+      "title": "先端aiへの防御企業担当者2割何から始めれば人材・予算も壁",
+      "publishedAt": "2026-08-30T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8X3FPSV8XULFA01CM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-08-30T17:44:48.179763+09:00"
+  "updatedAt": "2026-08-30T23:15:28.968360+09:00"
 }

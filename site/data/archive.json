@@ -1,7 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-30T17:44:48.179763+09:00",
+  "updatedAt": "2026-08-30T23:15:28.968360+09:00",
   "editions": [
+    {
+      "id": "2026-08-30-18",
+      "path": "data/editions/2026-08-30-18.json",
+      "dataUrl": "data/editions/2026-08-30-18.json",
+      "generatedAt": "2026-08-30T23:15:28.968360+09:00",
+      "date": "2026-08-30",
+      "time": "18:00",
+      "label": "夕方6時版",
+      "coverageLabel": "08月30日 12:00〜08月30日 18:00",
+      "headline": "富山県気象解説情報（大雨・落雷・突風）",
+      "articleCount": 7,
+      "categories": {
+        "国内": 1,
+        "スポーツ": 1,
+        "海外": 2,
+        "社会": 2,
+        "経済": 1
+      }
+    },
     {
       "id": "2026-08-30-12",
       "path": "data/editions/2026-08-30-12.json",
