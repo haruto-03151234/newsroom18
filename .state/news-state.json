@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-31T06:00:00+09:00",
-  "lastCompletedEdition": "2026-08-31-06",
+  "lastCompletedEnd": "2026-08-31T12:00:00+09:00",
+  "lastCompletedEdition": "2026-08-31-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -4740,7 +4740,79 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2608/30/2000000949"
       ]
+    },
+    {
+      "editionId": "2026-08-31-12",
+      "title": "アメリカとイランが双方攻撃直接攻撃交わされたのは7月末以来",
+      "publishedAt": "2026-08-31T11:48:35+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260831de47336"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-12",
+      "title": "日韓の若者4千人に意識調査両国の民間主導少子化対策を共同研究",
+      "publishedAt": "2026-08-31T11:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8Z4HX8V8ZUNHB00SM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-12",
+      "title": "パドレス松井裕樹1イニングを無失点チームはサヨナラ負け",
+      "publishedAt": "2026-08-31T11:25:13+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260831de47354"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-12",
+      "title": "備品のオシロスコープなど持ち出し換金仙台高専の技術職員を懲戒解雇",
+      "publishedAt": "2026-08-31T11:18:31+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/31/2000000957"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-12",
+      "title": "男子ゴルフ米ツアープレーオフ最終戦松山英樹は21位",
+      "publishedAt": "2026-08-31T11:06:24+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260831de47351"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-12",
+      "title": "フェスの案内ai正体はacrobat大阪・ジャイガで稼働したpdf製の即席チャットbot",
+      "publishedAt": "2026-08-31T11:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/31/2000000939"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-12",
+      "title": "煙の先に小さな山救助隊員がみた惨状44人死亡の火災で何が",
+      "publishedAt": "2026-08-31T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8X3PQNV8XUTIL01TM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-12",
+      "title": "厚労省の調査書類ヤマトが配送中に紛失339人分の氏名や給与額など漏えいのおそれ",
+      "publishedAt": "2026-08-31T09:57:53+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/31/2000000952"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-12",
+      "title": "海外大医学部とzen大学をかけもち次世代のグローバル医療めざす",
+      "publishedAt": "2026-08-31T07:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8X2T47V8XUTIL006M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-08-31T07:57:56.791313+09:00"
+  "updatedAt": "2026-08-31T18:07:11.990198+09:00"
 }
