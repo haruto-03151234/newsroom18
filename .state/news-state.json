@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-08-31T12:00:00+09:00",
-  "lastCompletedEdition": "2026-08-31-12",
+  "lastCompletedEnd": "2026-08-31T18:00:00+09:00",
+  "lastCompletedEdition": "2026-08-31-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -4812,7 +4812,144 @@
       "urls": [
         "https://www.asahi.com/articles/ASV8X2T47V8XUTIL006M.html"
       ]
+    },
+    {
+      "editionId": "2026-08-31-18",
+      "title": "令和8年度租税特別措置等に係る政策の事後評価書を公表します",
+      "publishedAt": "2026-08-31T17:00:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/about_mof/policy_evaluation/mof/fy2026/evaluation2/2026sotokukouhyou.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-18",
+      "title": "火山名桜島火山の状況に関する解説情報",
+      "publishedAt": "2026-08-31T16:00:49+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260831070050_0_VFVO51_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260831070232_0_VFVO51_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-18",
+      "title": "令和7年度日本型直接支払の実施状況について",
+      "publishedAt": "2026-08-31T16:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousin/tyusan/260831.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-18",
+      "title": "松本デジタル大臣が米国を訪問しました",
+      "publishedAt": "2026-08-31T15:54:14+09:00",
+      "urls": [
+        "https://www.digital.go.jp/news/9e39fb6f-c517-4d1b-8ef7-d3b31413fbd2"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-18",
+      "title": "令和8年熊本地震に関する対応状況について8月31日",
+      "publishedAt": "2026-08-31T15:10:53+09:00",
+      "urls": [
+        "https://www.digital.go.jp/news/7266f120-48b5-4a2a-a2d6-e1467df7824e"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-18",
+      "title": "富山県レベル4土砂災害危険警報",
+      "publishedAt": "2026-08-31T14:43:06+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260831054308_0_VXWW50_160000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-18",
+      "title": "令和9年度税制改正要望について",
+      "publishedAt": "2026-08-31T13:24:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/keiei/tyosei/260831.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-18",
+      "title": "民放テレビ局1局2波可能に9月にも省令改正ローカル局念頭",
+      "publishedAt": "2026-08-31T17:10:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV80251VV80UCVL01WM.html"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-18",
+      "title": "個人開発のオンライン将棋飛角終了ほとんどがbot対局人同士が成立しない状況に",
+      "publishedAt": "2026-08-31T17:05:57+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/31/2000000982"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-18",
+      "title": "ソニーミュージックのvtuberプロジェクトvee終了5年で幕事業継続困難",
+      "publishedAt": "2026-08-31T16:27:33+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/31/2000000976"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-18",
+      "title": "googleマップオンタリオ湖アメリカ湖に米国内で表記変更日本では併記",
+      "publishedAt": "2026-08-31T16:16:27+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2608/31/2000000975"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-18",
+      "title": "帰還事業めぐり原告が北朝鮮資産の差し押さえ申し立て",
+      "publishedAt": "2026-08-31T16:03:13+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260831de47384"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-18",
+      "title": "テニス全米オープン開幕男子シングルス島袋は1回戦敗退",
+      "publishedAt": "2026-08-31T14:52:24+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260831de47396"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-18",
+      "title": "中国の製造業景況感2か月連続景気判断の節目50下回る",
+      "publishedAt": "2026-08-31T14:51:07+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260831de47405"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-18",
+      "title": "台湾出身日本兵封印の抑留史たどるドキュメンタリー映画日本公開へ",
+      "publishedAt": "2026-08-31T14:02:50+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260831/dde/007/030/027000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-18",
+      "title": "室内楽を身近にする実験場大阪・今福音楽堂奏者と聴衆ともに育て",
+      "publishedAt": "2026-08-31T13:58:39+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260831/dde/018/200/004000c"
+      ]
+    },
+    {
+      "editionId": "2026-08-31-18",
+      "title": "topics私はあなたを知らない中野量太監督10年ぶりオリジナル癒えない傷抱え生きる姿",
+      "publishedAt": "2026-08-31T13:45:25+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260831/dde/012/200/008000c"
+      ]
     }
   ],
-  "updatedAt": "2026-08-31T18:07:11.990198+09:00"
+  "updatedAt": "2026-09-01T01:41:06.492665+09:00"
 }
