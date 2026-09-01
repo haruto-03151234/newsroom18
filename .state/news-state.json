@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-01T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-01-06",
+  "lastCompletedEnd": "2026-09-01T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-01-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -5069,7 +5069,97 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2608/31/2000000992"
       ]
+    },
+    {
+      "editionId": "2026-09-01-12",
+      "title": "胆振・日高地方気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-09-01T11:04:29+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260901020430_0_VPFJ50_015000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-01-12",
+      "title": "渡島・檜山地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-01T10:50:43+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260901015043_0_VPCJ50_016000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260901020836_0_VPFJ50_017000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260901021630_0_VPFJ50_016000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-01-12",
+      "title": "米イラン約1か月ぶりの直接攻撃トランプ大統領は報復を示唆",
+      "publishedAt": "2026-09-01T11:46:16+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47536"
+      ]
+    },
+    {
+      "editionId": "2026-09-01-12",
+      "title": "ギョーザ県でシューマイの乱が熱い西北南から宇都宮包囲網",
+      "publishedAt": "2026-09-01T11:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8V2JTHV8VUUHB00CM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-01-12",
+      "title": "秋山豊寛さん死去日本人初の宇宙飛行これ本番ですかと第一声",
+      "publishedAt": "2026-09-01T11:29:15+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV910QJ1V91TIPE027M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-01-12",
+      "title": "熊本地震で首相トップの非常災害復旧復興本部新設中長期的な支援へ",
+      "publishedAt": "2026-09-01T11:21:11+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV910PYTV91UTFK003M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-01-12",
+      "title": "サッカーメッシアルゼンチン代表を引退snsで表明",
+      "publishedAt": "2026-09-01T11:00:27+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47526"
+      ]
+    },
+    {
+      "editionId": "2026-09-01-12",
+      "title": "米財務長官日本に財政持続可能性や利上げ道筋を",
+      "publishedAt": "2026-09-01T10:53:23+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47542"
+      ]
+    },
+    {
+      "editionId": "2026-09-01-12",
+      "title": "nvidiamediatekの転換社債に35億ドル投資nvlinkfusion採用などでai協業を強化",
+      "publishedAt": "2026-09-01T10:36:31+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/01/2000001005"
+      ]
+    },
+    {
+      "editionId": "2026-09-01-12",
+      "title": "自衛隊指揮統制にai導入ドローン取得加速防衛省概算要求過去最大8兆8900億円",
+      "publishedAt": "2026-09-01T10:20:07+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/01/2000001004"
+      ]
+    },
+    {
+      "editionId": "2026-09-01-12",
+      "title": "東大価値創造学部新設へ27年秋入学授業はすべて英語",
+      "publishedAt": "2026-09-01T10:18:57+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/01/2000001002"
+      ]
     }
   ],
-  "updatedAt": "2026-09-01T09:09:45.417333+09:00"
+  "updatedAt": "2026-09-01T17:08:53.755939+09:00"
 }
