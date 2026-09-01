@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-01T18:00:00+09:00",
-  "lastCompletedEdition": "2026-09-01-18",
+  "lastCompletedEnd": "2026-09-02T06:00:00+09:00",
+  "lastCompletedEdition": "2026-09-02-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -5291,7 +5291,121 @@
       "urls": [
         "https://mainichi.jp/articles/20260901/dde/012/200/001000c"
       ]
+    },
+    {
+      "editionId": "2026-09-02-06",
+      "title": "山形県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-02T05:50:34+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260901205034_0_VPFJ50_060000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260901205809_0_VPFJ50_390000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260901205825_0_VPFJ50_360000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-06",
+      "title": "青森県レベル4土砂災害危険警報",
+      "publishedAt": "2026-09-02T05:48:48+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260901204850_0_VXWW50_020000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-06",
+      "title": "四国地方気象解説情報落雷・突風",
+      "publishedAt": "2026-09-02T05:45:52+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260901204553_0_VPCJ50_370000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-06",
+      "title": "上海協力機構の首脳会議が閉幕イランに連帯示す",
+      "publishedAt": "2026-09-02T05:54:16+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260902de47715"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-06",
+      "title": "ネパール土石流発生1週間2万人態勢で救助",
+      "publishedAt": "2026-09-02T05:16:14+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47705"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-06",
+      "title": "toeflをイラン国内で受験できず米国の制裁で若者らショック",
+      "publishedAt": "2026-09-02T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9151MSV91UHBI027M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-06",
+      "title": "ドイツ空港のドローン事件ロシアに責任総領事館閉鎖の対抗措置",
+      "publishedAt": "2026-09-02T03:56:14+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV915J5MV91UHBI01NM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-06",
+      "title": "米財務長官日銀総裁と会談円安是正の金融政策を強く支持",
+      "publishedAt": "2026-09-02T03:20:40+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260902/k00/00m/020/002000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-06",
+      "title": "視聴室",
+      "publishedAt": "2026-09-02T02:01:00+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260902/ddm/018/200/012000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-06",
+      "title": "プロ野球結果ソフトバンクがマジックナンバー18に",
+      "publishedAt": "2026-09-02T01:30:08+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47693"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-06",
+      "title": "視聴者参加型の終わらないai番組も可能に実時間以下で動画を生成できるminimaxh3max登場",
+      "publishedAt": "2026-09-01T21:53:18+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/01/2000001045"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-06",
+      "title": "秋山豊寛さんから毛利衛さんへ宇宙先に行って申し訳ない",
+      "publishedAt": "2026-09-01T21:46:00+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260901/k00/00m/040/357000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-06",
+      "title": "関西電力美浜原発3号機12日にも再稼働蒸気漏れ対策を実施",
+      "publishedAt": "2026-09-01T21:15:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV912PM2V91PGJB004M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-06",
+      "title": "原宿に現れた歩くゴミ箱正体は学生発の広告サービス良いアイデアとsnsで話題",
+      "publishedAt": "2026-09-01T18:50:32+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/01/2000001040"
+      ]
     }
   ],
-  "updatedAt": "2026-09-01T22:54:19.937283+09:00"
+  "updatedAt": "2026-09-02T07:52:48.207964+09:00"
 }

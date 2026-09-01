@@ -6,6 +6,41 @@
     <description>事実をつなぎ、背景まで伝える。</description>
     <language>ja</language>
     <item>
+      <title>山形県気象解説情報（大雨・落雷・突風）</title>
+      <link>https://haruto-03151234.github.io/newsroom18/?article=2026-09-02-06-a723b4e3</link>
+      <guid isPermaLink="false">a723b4e3b4f3a61e</guid>
+      <description>山形県では、前線や暖かく湿った空気の影響により、大雨となる所があるでしょう。3日明け方から夕方にかけて、大雨による低い土地の浸水や河川の増水、土砂災害に十分注意してください。また、2日昼前から3日昼過ぎにかけて、竜巻などの激しい突風や落雷、降ひょうに注意してください。</description>
+      <pubDate>Wed, 02 Sep 2026 05:50:34 +0900</pubDate>
+    </item>
+    <item>
+      <title>青森県レベル４土砂災害危険警報</title>
+      <link>https://haruto-03151234.github.io/newsroom18/?article=2026-09-02-06-46b01207</link>
+      <guid isPermaLink="false">46b01207ae0050d1</guid>
+      <description>&lt; レベル4土砂災害危険警報の補足情報&gt; レベル4土砂災害危険警報が発表されている地域では、崖の近くや谷の出口など土砂災害警戒区域等にお住まいの方は、市町村から発令される避難指示などの情報に留意し、少しでも安全な場所への速やかな避難を心がけてください。</description>
+      <pubDate>Wed, 02 Sep 2026 05:48:48 +0900</pubDate>
+    </item>
+    <item>
+      <title>四国地方気象解説情報（落雷・突風）</title>
+      <link>https://haruto-03151234.github.io/newsroom18/?article=2026-09-02-06-fa5e6588</link>
+      <guid isPermaLink="false">fa5e658886c41662</guid>
+      <description>四国地方では、3日未明から4日にかけて、落雷、竜巻などの激しい突風、急な強い雨に注意してください。[気象概況] 前線が3日にかけて日本海から西日本に南下し、4日も西日本に停滞する見込みです。前線に向かって暖かく湿った空気が流れ込むため、四国地方では3日未明から4日にかけて大気の状態が非常に不安定となるでしょう。</description>
+      <pubDate>Wed, 02 Sep 2026 05:45:52 +0900</pubDate>
+    </item>
+    <item>
+      <title>上海協力機構の首脳会議が閉幕 イランに連帯示す</title>
+      <link>https://haruto-03151234.github.io/newsroom18/?article=2026-09-02-06-3c2eddeb</link>
+      <guid isPermaLink="false">3c2eddebce7690e1</guid>
+      <description>中国とロシアが主導する上海協力機構の首脳会議は、アメリカなどによる攻撃を受けたイランへの連帯を示す内容などを盛り込んだ「ビシケク宣言」を発表して閉幕しました。</description>
+      <pubDate>Wed, 02 Sep 2026 05:54:16 +0900</pubDate>
+    </item>
+    <item>
+      <title>ネパール土石流発生1週間 2万人態勢で救助</title>
+      <link>https://haruto-03151234.github.io/newsroom18/?article=2026-09-02-06-2eaaea82</link>
+      <guid isPermaLink="false">2eaaea8219b3aed8</guid>
+      <description>ネパールと中国の国境付近で起きた大規模な土石流の発生から、9月2日で1週間です。 被災地ではこれまでに1000人以上の死亡が確認されたほか、日本人5人を含む4400人以上の行方がわからなくなっていて、ネ…。</description>
+      <pubDate>Wed, 02 Sep 2026 05:16:14 +0900</pubDate>
+    </item>
+    <item>
       <title>全般気象解説情報（台風第２４号）</title>
       <link>https://haruto-03151234.github.io/newsroom18/?article=2026-09-01-18-4b0857ad</link>
       <guid isPermaLink="false">4b0857ad2693bb8d</guid>
@@ -669,41 +704,6 @@
       <guid isPermaLink="false">0cc1d7685c63e678</guid>
       <description />
       <pubDate>Wed, 26 Aug 2026 17:55:22 +0900</pubDate>
-    </item>
-    <item>
-      <title>福井県気象解説情報（大雨・落雷・突風）</title>
-      <link>https://haruto-03151234.github.io/newsroom18/?article=2026-08-26-12-43631768</link>
-      <guid isPermaLink="false">436317682b413a91</guid>
-      <description>福井県では、27日未明から28日午前中にかけて低い土地の浸水や河川の増水、土砂災害に注意・警戒してください。また、落雷や竜巻などの激しい突風、降ひょうに注意してください。[気象概況] 26日夜から28日にかけて北陸地方付近に前線が停滞する見込みです。</description>
-      <pubDate>Wed, 26 Aug 2026 11:25:18 +0900</pubDate>
-    </item>
-    <item>
-      <title>宮古島地方気象解説情報（台風第１８号）</title>
-      <link>https://haruto-03151234.github.io/newsroom18/?article=2026-08-26-12-74797f08</link>
-      <guid isPermaLink="false">74797f08c9645382</guid>
-      <description>台風第18号は、28日にかけて強い勢力を維持したまま東シナ海を西よりに進む見込みです。宮古島地方では、強風やうねりを伴う高波に注意してください。[気象概況] 強い台風第18号は、26日10時には沖永良部島の西北西約180キロの北緯27度55分、東経127度00分にあって、1時間におよそ15キロの速さで西北西へ進んでいます。</description>
-      <pubDate>Wed, 26 Aug 2026 11:23:06 +0900</pubDate>
-    </item>
-    <item>
-      <title>関税・外国為替等審議会 関税分科会 特殊関税部会(令和8年7月30日)議事録</title>
-      <link>https://haruto-03151234.github.io/newsroom18/?article=2026-08-26-12-a582eb83</link>
-      <guid isPermaLink="false">a582eb8360ac4d14</guid>
-      <description>委員の皆様方におかれましては、御多用のところ御出席いただきまして、誠にありがとうございます。特殊関税部会長の阿部でございます。本日はよろしくお願いいたします。本日の議題に入ります前に、事務局におきまして人事異動がありました。</description>
-      <pubDate>Wed, 26 Aug 2026 11:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>＜QAで解説＞米国、対イラン戦略を軍事作戦から「経済戦争」に</title>
-      <link>https://haruto-03151234.github.io/newsroom18/?article=2026-08-26-12-75e11ae0</link>
-      <guid isPermaLink="false">75e11ae0ab66ced6</guid>
-      <description />
-      <pubDate>Wed, 26 Aug 2026 11:49:47 +0900</pubDate>
-    </item>
-    <item>
-      <title>高級時計窃盗事件 2人組の男 現場にハンマー残し逃走か</title>
-      <link>https://haruto-03151234.github.io/newsroom18/?article=2026-08-26-12-f94577fb</link>
-      <guid isPermaLink="false">f94577fb448dd188</guid>
-      <description>25日、東京 中野区の商業施設に入る時計店で海外製の高級腕時計4本、あわせておよそ2億円相当が盗まれた事件で、ショーケースを割る際に使われたとみられるハンマーが現場に残されていたことが捜査関係者への取…。</description>
-      <pubDate>Wed, 26 Aug 2026 11:49:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
