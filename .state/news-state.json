@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-01T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-01-12",
+  "lastCompletedEnd": "2026-09-01T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-01-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -5159,7 +5159,139 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/01/2000001002"
       ]
+    },
+    {
+      "editionId": "2026-09-01-18",
+      "title": "全般気象解説情報台風第24号",
+      "publishedAt": "2026-09-01T16:56:47+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260901075648_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-01-18",
+      "title": "大東島地方気象解説情報台風第24号",
+      "publishedAt": "2026-09-01T16:44:48+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260901074449_0_VPFJ50_472000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260901080408_0_VPCJ50_460100.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260901080520_0_VPFJ50_460040.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-01-18",
+      "title": "胆振・日高地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-01T16:41:30+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260901074131_0_VPFJ50_015000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260901075042_0_VPFJ50_170000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-01-18",
+      "title": "令和8年度第1・四半期予算使用の状況の概要",
+      "publishedAt": "2026-09-01T16:00:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/policy/budget/report/budget_use/fy2026/08_1.html",
+        "https://www.mof.go.jp/policy/budget/report/budget_use/fy2026/08_1gai.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-01-18",
+      "title": "令和7年度予算使用の状況令和7年度出納整理期間を含むの概要",
+      "publishedAt": "2026-09-01T16:00:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/policy/budget/report/budget_use/fy2025/07_4sgai.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-01-18",
+      "title": "鈴木農林水産大臣の国内出張について",
+      "publishedAt": "2026-09-01T12:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousan/b_taisaku/260901.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-01-18",
+      "title": "ガラケー型トイカメラで平成にやり残したことに挑戦できるらしい",
+      "publishedAt": "2026-09-01T17:41:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/01/2000001031"
+      ]
+    },
+    {
+      "editionId": "2026-09-01-18",
+      "title": "学歴ネタ動画原子力福島大に触らせたくない学長は反発声明",
+      "publishedAt": "2026-09-01T17:09:06+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV912CKRV91UGTB004M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-01-18",
+      "title": "同盟国失えば米国も倒れる訪日のベルギー国防相米欧の協調訴え",
+      "publishedAt": "2026-09-01T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9125NQV91UHBI01KM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-01-18",
+      "title": "宇宙からこれ本番ですか後年に内幕語る秋山豊寛さん死去",
+      "publishedAt": "2026-09-01T16:53:04+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV912G5WV91UTFL00KM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-01-18",
+      "title": "中国発ネット通販shein上場成長鈍化で課題も",
+      "publishedAt": "2026-09-01T16:08:57+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47623"
+      ]
+    },
+    {
+      "editionId": "2026-09-01-18",
+      "title": "横綱豊昇龍秋場所出場は慎重に判断へ7月に右ひざ手術",
+      "publishedAt": "2026-09-01T15:57:47+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47625"
+      ]
+    },
+    {
+      "editionId": "2026-09-01-18",
+      "title": "アジア開発銀行神田総裁の再任が決定",
+      "publishedAt": "2026-09-01T15:43:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260901de47620"
+      ]
+    },
+    {
+      "editionId": "2026-09-01-18",
+      "title": "アニメ情報サイトfebri閉鎖へ開設から5年余りで",
+      "publishedAt": "2026-09-01T15:20:53+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/01/2000001027"
+      ]
+    },
+    {
+      "editionId": "2026-09-01-18",
+      "title": "nerv防災緊急地震速報のカウントダウンをロック画面に表示リアルタイム更新通知に対応",
+      "publishedAt": "2026-09-01T13:43:35+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/01/2000001021"
+      ]
+    },
+    {
+      "editionId": "2026-09-01-18",
+      "title": "topics陽キャ集団にいる芹沢は俺の前だと様子が小泉光咲主演高校ドラマ",
+      "publishedAt": "2026-09-01T13:27:01+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260901/dde/012/200/001000c"
+      ]
     }
   ],
-  "updatedAt": "2026-09-01T17:08:53.755939+09:00"
+  "updatedAt": "2026-09-01T22:54:19.937283+09:00"
 }
