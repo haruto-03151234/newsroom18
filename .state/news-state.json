@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-02T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-02-06",
+  "lastCompletedEnd": "2026-09-02T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-02-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -5405,7 +5405,99 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/01/2000001040"
       ]
+    },
+    {
+      "editionId": "2026-09-02-12",
+      "title": "秋田県レベル4土砂災害危険警報",
+      "publishedAt": "2026-09-02T11:41:14+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260902024116_0_VXWW50_050000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-12",
+      "title": "富山県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-02T11:33:56+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260902023357_0_VPCJ50_270000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260902024427_0_VPFJ50_260000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260902024428_0_VPFJ50_160000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260902024625_0_VPFJ50_017000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260902024954_0_VPFJ50_280000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-12",
+      "title": "dysonカメラ搭載の電動歯ブラシcamerajet日本での販売価格は7万9800円",
+      "publishedAt": "2026-09-02T11:58:21+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/02/2000001060"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-12",
+      "title": "核兵器の使用や実験の被害者のための基金設立へ初の国際会議",
+      "publishedAt": "2026-09-02T11:57:20+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260902de47754"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-12",
+      "title": "引退決めたヤクルト石川めちゃ一瞬大好きな野球を続けた25年",
+      "publishedAt": "2026-09-02T11:45:26+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV920PZJV92UTQP024M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-12",
+      "title": "プーチン大統領日ロ関係悪化の責任100日本にある",
+      "publishedAt": "2026-09-02T11:32:44+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260902de47747"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-12",
+      "title": "長期金利3超え片山財務相緊張感を持って対応",
+      "publishedAt": "2026-09-02T11:20:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260902de47749"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-12",
+      "title": "googleai画像生成・編集ツールgooglepics提供開始特定オブジェクトの編集や文字翻訳も可能",
+      "publishedAt": "2026-09-02T11:10:34+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/02/2000001058"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-12",
+      "title": "楽天モバイル楽天id未連携なら11月末に自動解約電話番号も失効",
+      "publishedAt": "2026-09-02T11:07:28+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/02/2000001057"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-12",
+      "title": "青森で線状降水帯鰺ケ沢や深浦弘前などで大雨土砂崩落も",
+      "publishedAt": "2026-09-02T09:45:07+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9202RFV92UBNB001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-12",
+      "title": "フグが目をつむる仕組み解明体膨らます行動と関連下関の水族館",
+      "publishedAt": "2026-09-02T07:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8012HWV80UTFL006M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-09-02T07:52:48.207964+09:00"
+  "updatedAt": "2026-09-02T16:28:12.779911+09:00"
 }
