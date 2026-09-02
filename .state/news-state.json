@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-02T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-02-12",
+  "lastCompletedEnd": "2026-09-02T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-02-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -5497,7 +5497,129 @@
       "urls": [
         "https://www.asahi.com/articles/ASV8012HWV80UTFL006M.html"
       ]
+    },
+    {
+      "editionId": "2026-09-02-18",
+      "title": "沖縄地方気象解説情報台風第24号",
+      "publishedAt": "2026-09-02T17:31:16+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260902083116_0_VPFJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260902083749_0_VPCJ50_471000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-18",
+      "title": "和歌山県北部で地震m33最大震度3",
+      "publishedAt": "2026-09-02T17:26:30+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260902082630_0_VXSE53_270000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-18",
+      "title": "九州北部地方山口県を含む気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-02T17:20:24+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260902082025_0_VPCJ50_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-18",
+      "title": "福岡県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-02T17:10:40+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260902081040_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260902081620_0_VPFJ50_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-18",
+      "title": "サッカー菅原由勢がイタリア1部カリアリに期限付き移籍",
+      "publishedAt": "2026-09-02T17:52:57+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260902de47823"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-18",
+      "title": "香港の著名民主活動家国安法違反で再び有罪へ収監の長期化に懸念",
+      "publishedAt": "2026-09-02T17:50:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV922H1RV92UHBI00LM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-18",
+      "title": "委託業者が無断でai利用かヨルシカライブ映像上映会のチケットサンプル画像が文字化けデザインにも影響",
+      "publishedAt": "2026-09-02T17:49:15+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/02/2000001082"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-18",
+      "title": "米・イランが攻撃の応酬結婚式直撃子どもら死亡原油価格は高騰",
+      "publishedAt": "2026-09-02T17:39:32+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9163JPV91UHBI02SM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-18",
+      "title": "ぬいぐるみ盗んだ罪被告の保釈認める決定最高裁が地裁の判断覆す",
+      "publishedAt": "2026-09-02T17:38:04+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV922R7ZV92UTIL01JM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-18",
+      "title": "東大の新価値創造学部に批判相次ぐ他学部は価値を創造していないのか空虚な名前",
+      "publishedAt": "2026-09-02T17:12:32+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/02/2000001084"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-18",
+      "title": "アクションカムのgopro米国の光フォトニクス企業との合併を発表incaseやgriffinと同じグループに",
+      "publishedAt": "2026-09-02T17:01:36+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/02/2000001081"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-18",
+      "title": "ドジャース大谷2試合ぶり安打チームは投手陣が崩れ敗れる",
+      "publishedAt": "2026-09-02T16:54:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260902de47818"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-18",
+      "title": "g20閉幕政府・日銀の政策焦点アメリカの注文など踏まえ",
+      "publishedAt": "2026-09-02T15:34:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260902de47719"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-18",
+      "title": "うそのない物語社会動かす力に医療的ケア児ら出演映画時には懺悔を",
+      "publishedAt": "2026-09-02T14:19:40+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260902/dde/041/200/018000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-02-18",
+      "title": "自身の復調誰かの養生に映画まさゆめ吉開菜央監督",
+      "publishedAt": "2026-09-02T14:05:55+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260902/dde/018/200/005000c"
+      ]
     }
   ],
-  "updatedAt": "2026-09-02T16:28:12.779911+09:00"
+  "updatedAt": "2026-09-02T22:12:38.776366+09:00"
 }
