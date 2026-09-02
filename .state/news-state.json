@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-02T18:00:00+09:00",
-  "lastCompletedEdition": "2026-09-02-18",
+  "lastCompletedEnd": "2026-09-03T06:00:00+09:00",
+  "lastCompletedEdition": "2026-09-03-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -5619,7 +5619,115 @@
       "urls": [
         "https://mainichi.jp/articles/20260902/dde/018/200/005000c"
       ]
+    },
+    {
+      "editionId": "2026-09-03-06",
+      "title": "新潟県気象防災速報竜巻注意",
+      "publishedAt": "2026-09-03T05:57:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260902205702_0_VPHW50_150000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-06",
+      "title": "近畿地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-03T05:53:50+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260902205350_0_VPFJ50_390000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260902205355_0_VPCJ50_270000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260902205432_0_VPFJ50_310000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260902205620_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260902205812_0_VPFJ50_230000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-06",
+      "title": "アメリカ中間選挙まで2か月共和・民主の選挙戦さらに激しく",
+      "publishedAt": "2026-09-03T05:40:03+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de47876"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-06",
+      "title": "エンゼルスが身売り強権オーナー退陣資金潤沢な球団への期待",
+      "publishedAt": "2026-09-03T05:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9234N6V92UTQP01CM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-06",
+      "title": "ネパール土石流1200人以上死亡首相は気候変動対策を訴え",
+      "publishedAt": "2026-09-03T05:29:46+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de47884"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-06",
+      "title": "北九州",
+      "publishedAt": "2026-09-03T05:15:12+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260902/k00/00m/310/288000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-06",
+      "title": "バカヤローカエレの罵声も忘れられた大会の歴史にも目を",
+      "publishedAt": "2026-09-03T05:02:12+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260901/k00/00m/050/085000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-06",
+      "title": "一つのアジアを決めるのはスローガンに抱く懸念と違和感",
+      "publishedAt": "2026-09-03T05:01:06+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260901/k00/00m/050/077000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-06",
+      "title": "大阪市が民泊開業の規制強化へ木造・鉄骨アパートは原則認めず",
+      "publishedAt": "2026-09-03T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV92328FV92OXIE006M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-06",
+      "title": "米財務長官リフレ政策は止めるべきだアベノミクス評価しつつ注文",
+      "publishedAt": "2026-09-02T23:26:15+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV917HLWV91ULFA03QM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-06",
+      "title": "福島大学の放射能研究やゆする動画めぐり大学側が声明発表",
+      "publishedAt": "2026-09-02T22:05:35+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260902de47867"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-06",
+      "title": "アメリカ湖を拒否したらappstoreでランキング1位に忘れられていた老舗地図アプリとは",
+      "publishedAt": "2026-09-02T20:13:06+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/02/2000001094"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-06",
+      "title": "好き嫌いcomってどんなサイト運営は個人国が情プラ法で指定した好感度掲示板を開いてみた",
+      "publishedAt": "2026-09-02T19:34:25+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/02/2000001093"
+      ]
     }
   ],
-  "updatedAt": "2026-09-02T22:12:38.776366+09:00"
+  "updatedAt": "2026-09-03T07:53:25.715818+09:00"
 }
