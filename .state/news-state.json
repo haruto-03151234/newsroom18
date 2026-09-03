@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-03T18:00:00+09:00",
-  "lastCompletedEdition": "2026-09-03-18",
+  "lastCompletedEnd": "2026-09-04T06:00:00+09:00",
+  "lastCompletedEdition": "2026-09-04-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -5949,7 +5949,106 @@
       "urls": [
         "https://mainichi.jp/articles/20260903/dde/018/200/007000c"
       ]
+    },
+    {
+      "editionId": "2026-09-04-06",
+      "title": "香川県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-04T05:53:23+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260903205323_0_VPFJ50_260000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260903205540_0_VPFJ50_370000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260903205604_0_VPFJ50_380000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260903205820_0_VPFJ50_270000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-06",
+      "title": "ネパール土石流閉じこめの水力発電所に生存者か",
+      "publishedAt": "2026-09-04T05:53:48+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48070"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-06",
+      "title": "ウーブン・シティの技術を各地へ静岡県とトヨタ子会社が協定",
+      "publishedAt": "2026-09-04T05:45:05+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260903/k00/00m/310/258000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-06",
+      "title": "自殺者数過去最少若者の自殺は増加傾向自殺対策白書案",
+      "publishedAt": "2026-09-04T05:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV933H7GV93UTFL01DM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-06",
+      "title": "残暑の中おせち予約始まる北九州・小倉井筒屋が特設売り場",
+      "publishedAt": "2026-09-04T05:15:08+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260902/k00/00m/310/166000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-06",
+      "title": "米ジャガイモ輸入解禁に強まる反対論病害虫侵入なら壊滅的被害",
+      "publishedAt": "2026-09-04T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV933C5KV93ULFA018M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-06",
+      "title": "遺族ら追悼のキャンドルつらさ変わらない紀伊半島大水害15年",
+      "publishedAt": "2026-09-04T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV936GW2V93PXLB002M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-06",
+      "title": "最低賃金引き上げ国は中小企業などへの支援進める",
+      "publishedAt": "2026-09-04T03:45:39+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de48045"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-06",
+      "title": "イグ・ノーベル賞で日本鼻のかみ方研究が医学賞を受賞",
+      "publishedAt": "2026-09-04T03:09:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48062"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-06",
+      "title": "ベネチア国際映画祭",
+      "publishedAt": "2026-09-04T02:01:24+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260904/ddm/041/200/041000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-06",
+      "title": "仏にドラゴンボールのテーマパーク報道に東映アニメ許諾していないどこで話がねじくれた話題が錯綜した経緯",
+      "publishedAt": "2026-09-03T19:35:51+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/03/2000001140"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-06",
+      "title": "純金金貨購入中身は銅と鉄田中貴金属やミキモトかたる偽サイトに注意消費者庁",
+      "publishedAt": "2026-09-03T18:59:56+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/03/2000001141"
+      ]
     }
   ],
-  "updatedAt": "2026-09-03T22:13:42.699019+09:00"
+  "updatedAt": "2026-09-04T07:52:00.287174+09:00"
 }
