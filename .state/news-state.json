@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-03T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-03-12",
+  "lastCompletedEnd": "2026-09-03T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-03-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -5826,7 +5826,130 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20260903de47900"
       ]
+    },
+    {
+      "editionId": "2026-09-03-18",
+      "title": "奄美地方鹿児島県気象解説情報台風第24号",
+      "publishedAt": "2026-09-03T17:15:47+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260903081548_0_VPFJ50_460040.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-18",
+      "title": "全般気象解説情報台風第24号",
+      "publishedAt": "2026-09-03T17:15:42+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260903081542_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-18",
+      "title": "和歌山県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-03T17:03:39+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260903080340_0_VPFJ50_300000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260903080803_0_VPFJ50_090000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260903081037_0_VPCJ50_270000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260903083010_0_VPFJ50_290000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-18",
+      "title": "ネパール中部で発生した大規模な土石流災害に関する注意喚起",
+      "publishedAt": "2026-09-03T13:43:57+09:00",
+      "urls": [
+        "https://www.anzen.mofa.go.jp/info/pcspotinfo_2026C039.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-18",
+      "title": "家宅捜索中の暴行映像削除容疑者特定できず大阪府警が捜査終結",
+      "publishedAt": "2026-09-03T17:56:58+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV932RVKV93PTIL00HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-18",
+      "title": "フィギュア島田麻央シニア国際大会デビューを前に意気込み",
+      "publishedAt": "2026-09-03T17:51:48+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de47997"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-18",
+      "title": "最低賃金平均1177円目安超え56円増上げ幅過去2番目",
+      "publishedAt": "2026-09-03T17:35:19+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV932DQ9V93UJUB009M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-18",
+      "title": "トランプ政権記事のai学習は著作権侵害ではないopenaiを支持する意見書対newyorktimesなどとの訴訟で",
+      "publishedAt": "2026-09-03T17:20:04+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/03/2000001130"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-18",
+      "title": "ニューヨーク市公立校で生成ai利用を1年間禁止8年生まで約60万人が対象",
+      "publishedAt": "2026-09-03T17:13:59+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/03/2000001115"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-18",
+      "title": "ロシア極東で対日戦勝式典",
+      "publishedAt": "2026-09-03T16:49:49+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de47980"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-18",
+      "title": "awsをゲームで学べるawsクエストにまさかの新バージョンaiバーチャル顧客と対話可能に",
+      "publishedAt": "2026-09-03T16:26:37+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/03/2000001124"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-18",
+      "title": "ノーベル化学賞・白川英樹さん死去電気を通すプラスチック開発",
+      "publishedAt": "2026-09-03T16:09:18+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV932C2VV93UTFL010M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-18",
+      "title": "サッカー日本代表11月にブラジルパラグアイと対戦",
+      "publishedAt": "2026-09-03T16:04:31+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de47975"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-18",
+      "title": "評演劇scotサマー・シーズン世界のゆがみ鋭く見つめ評・濱田元子",
+      "publishedAt": "2026-09-03T13:56:06+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260903/dde/018/200/009000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-18",
+      "title": "topics",
+      "publishedAt": "2026-09-03T13:55:51+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260903/dde/018/200/007000c"
+      ]
     }
   ],
-  "updatedAt": "2026-09-03T16:32:51.415730+09:00"
+  "updatedAt": "2026-09-03T22:13:42.699019+09:00"
 }
