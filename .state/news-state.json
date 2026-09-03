@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-03T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-03-06",
+  "lastCompletedEnd": "2026-09-03T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-03-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -5727,7 +5727,106 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/02/2000001093"
       ]
+    },
+    {
+      "editionId": "2026-09-03-12",
+      "title": "宮崎県気象解説情報台風第24号",
+      "publishedAt": "2026-09-03T11:06:07+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260903020607_0_VPCJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260903022406_0_VPFJ50_472000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260903022618_0_VPFJ50_450000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-12",
+      "title": "鹿児島県奄美地方を除く気象解説情報台風第24号",
+      "publishedAt": "2026-09-03T11:02:20+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260903020220_0_VPCJ50_460100.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260903020511_0_VPFJ50_460100.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-12",
+      "title": "島根県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-03T10:47:20+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260903014720_0_VPFJ50_320000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-12",
+      "title": "uberロンドンで英国初の自動運転配車を開始年内には東京でも車両投入へ",
+      "publishedAt": "2026-09-03T11:54:12+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/03/2000001106"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-12",
+      "title": "ファミマposレジ刷新1台でセルフ有人切り替えレジ業務2割削減へ",
+      "publishedAt": "2026-09-03T11:48:30+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/03/2000001104"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-12",
+      "title": "大阪府警発砲は正当防衛の調査結果死亡の男覚醒剤使用疑い",
+      "publishedAt": "2026-09-03T11:34:25+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV930BTZV93PTIL001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-12",
+      "title": "uber全従業員の約10を削減管理階層を削減しよりシンプルで速く",
+      "publishedAt": "2026-09-03T11:21:22+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/03/2000001103"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-12",
+      "title": "日本の急所半導体のホルムズ海峡台湾有事に加え水不足もリスク",
+      "publishedAt": "2026-09-03T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV800F1YV80ULFA00KM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-12",
+      "title": "長寿科学に集まる投資16兆円死と闘うバイタリズムとは",
+      "publishedAt": "2026-09-03T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8T23M5V8TUHBI001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-12",
+      "title": "ロッキーズ菅野智之6回3失点勝ち負けつかず",
+      "publishedAt": "2026-09-03T10:21:31+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de47901"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-12",
+      "title": "プロ野球結果セ・リーグ首位阪神4位ヤクルトに敗れる",
+      "publishedAt": "2026-09-03T09:59:38+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260902de47868"
+      ]
+    },
+    {
+      "editionId": "2026-09-03-12",
+      "title": "結婚式4人死亡イラン戦争犯罪米攻撃準備できている",
+      "publishedAt": "2026-09-03T09:27:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260903de47900"
+      ]
     }
   ],
-  "updatedAt": "2026-09-03T07:53:25.715818+09:00"
+  "updatedAt": "2026-09-03T16:32:51.415730+09:00"
 }
