@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-04T18:00:00+09:00",
-  "lastCompletedEdition": "2026-09-04-18",
+  "lastCompletedEnd": "2026-09-05T06:00:00+09:00",
+  "lastCompletedEdition": "2026-09-05-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -6292,7 +6292,136 @@
       "urls": [
         "https://www.asahi.com/articles/ASV9246MBV92PITB00HM.html"
       ]
+    },
+    {
+      "editionId": "2026-09-05-06",
+      "title": "全般気象解説情報台風第24号",
+      "publishedAt": "2026-09-05T05:37:44+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260904203744_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-06",
+      "title": "東京都気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-05T05:33:26+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260904203326_0_VPCJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260904204729_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-06",
+      "title": "奄美地方鹿児島県気象解説情報台風第24号",
+      "publishedAt": "2026-09-05T05:22:13+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260904202213_0_VPFJ50_460040.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-06",
+      "title": "令和8年熊本地震に関する対応状況について9月4日",
+      "publishedAt": "2026-09-04T22:56:49+09:00",
+      "urls": [
+        "https://www.digital.go.jp/news/14d4b2c8-4a92-44b6-a472-b2df25570de1"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-06",
+      "title": "結い方飾りの掛け方島田髷まつりに向け日本髪の勉強会",
+      "publishedAt": "2026-09-05T05:45:06+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260901/k00/00m/310/389000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-06",
+      "title": "米メディアイランの結婚式攻撃の爆弾は米軍のもの",
+      "publishedAt": "2026-09-05T05:43:44+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48250"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-06",
+      "title": "青森山田高野球部監督の兜森氏退任24年は全国4強後任は中條氏",
+      "publishedAt": "2026-09-05T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9435X2V94UBNB00HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-06",
+      "title": "米雇用統計8月の就業者は前月比増加市場予想を大きく上回る",
+      "publishedAt": "2026-09-05T00:41:53+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48240"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-06",
+      "title": "フィリピン副大統領に逮捕状殺し屋雇ったと大統領を脅した容疑",
+      "publishedAt": "2026-09-05T00:33:09+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9452PSV94UHBI01QM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-06",
+      "title": "奈良・名阪国道で10台近く絡む玉突き事故負傷者有無を調査中",
+      "publishedAt": "2026-09-04T23:34:16+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260904/k00/00m/040/422000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-06",
+      "title": "片山財務相続投へ茂木外相の留任有力財政・外交の継続性を重視",
+      "publishedAt": "2026-09-04T22:59:12+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV944HH2V94UTFK014M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-06",
+      "title": "米就業者数8月は16万2000人増市場予想を大幅に上回る",
+      "publishedAt": "2026-09-04T22:27:00+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260904/k00/00m/030/050000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-06",
+      "title": "インフルエンザ患者数前週比16倍に増加基本的な対策を",
+      "publishedAt": "2026-09-04T19:54:54+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48171"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-06",
+      "title": "新宿駅にごみ箱ロボット出現改札内を自動巡回jr東が実証実験",
+      "publishedAt": "2026-09-04T19:05:13+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/04/2000001199"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-06",
+      "title": "segaそっくりのロゴでmagaトランプ政権公開のwebゲームが物議移民送還などを題材に追記あり",
+      "publishedAt": "2026-09-04T19:01:26+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/04/2000001191"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-06",
+      "title": "サントリー新商品の店頭popに生成ai疑惑成分表示にも誤りで物議同社に事実関係を聞いた",
+      "publishedAt": "2026-09-04T18:40:29+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/04/2000001197"
+      ]
     }
   ],
-  "updatedAt": "2026-09-04T22:07:37.540764+09:00"
+  "updatedAt": "2026-09-05T07:36:00.035327+09:00"
 }
