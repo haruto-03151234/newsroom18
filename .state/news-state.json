@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-04T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-04-12",
+  "lastCompletedEnd": "2026-09-04T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-04-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -6162,7 +6162,137 @@
       "urls": [
         "https://www.asahi.com/articles/ASV932G9FV93PLZB001M.html"
       ]
+    },
+    {
+      "editionId": "2026-09-04-18",
+      "title": "鹿児島県奄美地方を除く気象解説情報台風第24号",
+      "publishedAt": "2026-09-04T16:56:36+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260904075637_0_VPFJ50_460100.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260904082046_0_VPFJ50_460040.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-18",
+      "title": "全般気象解説情報台風第24号",
+      "publishedAt": "2026-09-04T16:55:50+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260904075550_0_VPFJ50_450000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260904080008_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-18",
+      "title": "ネパール中部で発生した大規模な洪水及び土石流災害に関する中国における注意喚起チベット自治区シガツェ市",
+      "publishedAt": "2026-09-04T16:40:56+09:00",
+      "urls": [
+        "https://www.anzen.mofa.go.jp/info/pcspotinfo_2026C040.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-18",
+      "title": "令和6年度財務省所管補正予算の主な事業の執行状況",
+      "publishedAt": "2026-09-04T15:00:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/about_mof/mof_budget/budget/fy2024/20260904.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-18",
+      "title": "令和8年熊本地震に関する農林水産省緊急自然災害対策本部第15回の持ち回り開催について",
+      "publishedAt": "2026-09-04T12:10:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/kanbo/bunsyo/saigai/260904_1.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-18",
+      "title": "配布前のちいかわグッズがメルカリにくら寿司コラボ第2弾初日から内部犯の臆測呼ぶ第1弾に続き",
+      "publishedAt": "2026-09-04T17:39:47+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/04/2000001194"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-18",
+      "title": "国連の報告書パリ協定の気温15度超の長期化に警鐘",
+      "publishedAt": "2026-09-04T17:39:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48188"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-18",
+      "title": "自衛隊への外国人登用考えていない小泉防衛相会見で否定",
+      "publishedAt": "2026-09-04T17:20:37+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV942PHDV94UTFK007M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-18",
+      "title": "子どものsns法律で年齢制限必要64でも大人の意識は複雑",
+      "publishedAt": "2026-09-04T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV930S87V93UZPS004M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-18",
+      "title": "シニアこそai学習作曲や小説執筆新たな趣味と友人づくりどんどん試したくなった",
+      "publishedAt": "2026-09-04T16:44:58+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/04/2000001192"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-18",
+      "title": "webメディア新r259月末でメディア運営終了約9年の歴史に幕",
+      "publishedAt": "2026-09-04T16:29:12+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/04/2000001190"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-18",
+      "title": "米オープンai最新モデルの提供開始安全対策を強化と強調",
+      "publishedAt": "2026-09-04T16:25:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48178"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-18",
+      "title": "ロッテ一筋19年37歳の唐川侑己が今季かぎりで引退へプロ野球",
+      "publishedAt": "2026-09-04T14:52:03+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48153"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-18",
+      "title": "シネマの週末・この1本",
+      "publishedAt": "2026-09-04T13:29:18+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260904/dde/012/070/006000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-18",
+      "title": "シネマの週末・時代の目",
+      "publishedAt": "2026-09-04T13:29:03+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260904/dde/012/070/005000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-18",
+      "title": "カキ養殖支援へ電力会社がaiアプリ瀬戸内海の今夏の測定結果は",
+      "publishedAt": "2026-09-04T12:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9246MBV92PITB00HM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-09-04T16:34:07.768576+09:00"
+  "updatedAt": "2026-09-04T22:07:37.540764+09:00"
 }
