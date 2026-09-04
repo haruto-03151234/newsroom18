@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-04T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-04-06",
+  "lastCompletedEnd": "2026-09-04T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-04-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -6048,7 +6048,121 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/03/2000001141"
       ]
+    },
+    {
+      "editionId": "2026-09-04-12",
+      "title": "大分県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-04T11:15:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260904021500_0_VPFJ50_440000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-12",
+      "title": "鹿児島県奄美地方を除く気象解説情報台風第24号",
+      "publishedAt": "2026-09-04T11:05:36+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260904020536_0_VPFJ50_460100.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260904022652_0_VPFJ50_450000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260904022748_0_VPFJ50_460040.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-12",
+      "title": "九州北部地方山口県を含む気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-04T11:03:29+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260904020329_0_VPCJ50_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-12",
+      "title": "農業界とスポーツ界との連携に関する勉強会の取りまとめを公表します",
+      "publishedAt": "2026-09-04T11:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/keiei/zinzai/260904.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-12",
+      "title": "鈴木農林水産大臣の国内出張について",
+      "publishedAt": "2026-09-04T11:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/kanbo/bunsyo/saigai/260904.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-12",
+      "title": "ホワイトソックス村上宗隆4打数無安打3三振チームは2連敗",
+      "publishedAt": "2026-09-04T11:46:37+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48078"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-12",
+      "title": "グロリア・スタイネムさん死去米国からフェミニズム運動を牽引",
+      "publishedAt": "2026-09-04T11:37:46+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV940QQ9V94UHBI00BM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-12",
+      "title": "rizap社員私用aiに顧客の個人情報入力氏名や疾患保険証番号など同社が謝罪",
+      "publishedAt": "2026-09-04T11:33:22+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/04/2000001161"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-12",
+      "title": "イランメディア米攻撃による犠牲者の葬儀大きく報道",
+      "publishedAt": "2026-09-04T11:12:35+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48080"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-12",
+      "title": "開成の鉄研寝台特急サンライズでの迷惑行為を謝罪大声やラウンジ占拠など旅行活動停止",
+      "publishedAt": "2026-09-04T11:05:29+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/04/2000001159"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-12",
+      "title": "ドジャース大谷翔平31試合ぶり先発外れる12試合hrなし",
+      "publishedAt": "2026-09-04T11:03:36+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48083"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-12",
+      "title": "老化研究揺るがす論文見る対象を取り違えたのに期待通りの結論",
+      "publishedAt": "2026-09-04T11:01:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8T3HJVV8TUTFL00YM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-12",
+      "title": "rsa260ついに解けたxに130ケタの数字投稿世界が注目マスク氏文字数増やしてよかった",
+      "publishedAt": "2026-09-04T10:40:26+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/04/2000001157"
+      ]
+    },
+    {
+      "editionId": "2026-09-04-12",
+      "title": "村上春樹さんが同志社大で11月無料講演ゆかりの京都早くも反響",
+      "publishedAt": "2026-09-04T06:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV932G9FV93PLZB001M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-09-04T07:52:00.287174+09:00"
+  "updatedAt": "2026-09-04T16:34:07.768576+09:00"
 }
