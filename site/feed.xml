@@ -6,6 +6,41 @@
     <description>事実をつなぎ、背景まで伝える。</description>
     <language>ja</language>
     <item>
+      <title>神奈川県気象解説情報（大雨・落雷・突風）</title>
+      <link>https://haruto-03151234.github.io/newsroom18/?article=2026-09-05-18-9b53325e</link>
+      <guid isPermaLink="false">9b53325e8125740b</guid>
+      <description>神奈川県では、6日夜のはじめ頃から7日にかけて、土砂災害、低い土地の浸水、河川の増水に注意・警戒してください。また、落雷や竜巻などの激しい突風、降ひょうに注意してください。[気象概況] 前線が伊豆諸島付近を通って、日本の東にのびています。</description>
+      <pubDate>Sat, 05 Sep 2026 16:59:26 +0900</pubDate>
+    </item>
+    <item>
+      <title>沖縄本島地方気象解説情報（台風第２４号）</title>
+      <link>https://haruto-03151234.github.io/newsroom18/?article=2026-09-05-18-776aa791</link>
+      <guid isPermaLink="false">776aa7918c377238</guid>
+      <description>台風第24号は6日にかけて沖縄本島近海を南下する見込みです。沖縄本島地方では、6日にかけて雨雲の発達の程度によっては警報級の大雨となるおそれがあります。また、うねりを伴う高波、落雷や竜巻等の激しい突風に十分注意し、強風に注意してください。</description>
+      <pubDate>Sat, 05 Sep 2026 16:54:49 +0900</pubDate>
+    </item>
+    <item>
+      <title>宮古島地方気象解説情報（台風第２４号）</title>
+      <link>https://haruto-03151234.github.io/newsroom18/?article=2026-09-05-18-d837792d</link>
+      <guid isPermaLink="false">d837792df8982c1d</guid>
+      <description>那覇市付近の台風第24号は、5日から6日にかけて沖縄近海を南下し、宮古島地方に接近する見込みです。宮古島地方では、強風やうねりを伴う高波に十分注意してください。また、台風の進路等によっては大しけとなる可能性があります。</description>
+      <pubDate>Sat, 05 Sep 2026 16:48:23 +0900</pubDate>
+    </item>
+    <item>
+      <title>トランプ大統領 ロシアとウクライナに特使ら派遣へ</title>
+      <link>https://haruto-03151234.github.io/newsroom18/?article=2026-09-05-18-cab32c97</link>
+      <guid isPermaLink="false">cab32c97dce69662</guid>
+      <description>アメリカのトランプ大統領はウィトコフ特使らをロシアとウクライナに近く派遣し長期化するウクライナ侵攻をめぐって、事態打開を図りたい考えを示しました。</description>
+      <pubDate>Sat, 05 Sep 2026 17:17:24 +0900</pubDate>
+    </item>
+    <item>
+      <title>東京大学「赤門」の改修工事現場 関係者向け見学会</title>
+      <link>https://haruto-03151234.github.io/newsroom18/?article=2026-09-05-18-3e9b70c6</link>
+      <guid isPermaLink="false">3e9b70c6f5d25425</guid>
+      <description>国の重要文化財に指定されている東京大学の「赤門」の改修工事の現場が5日、卒業生や地域の人に公開されました。</description>
+      <pubDate>Sat, 05 Sep 2026 17:03:00 +0900</pubDate>
+    </item>
+    <item>
       <title>宮崎県気象解説情報（大雨・落雷・突風）</title>
       <link>https://haruto-03151234.github.io/newsroom18/?article=2026-09-05-12-bab67f87</link>
       <guid isPermaLink="false">bab67f872039cfbe</guid>
@@ -669,41 +704,6 @@
       <guid isPermaLink="false">dbffba95cb5a11e4</guid>
       <description>大リーグ、メッツの千賀滉大投手はアストロズ戦の9回にリリーフ登板し、1イニングを無失点に抑えました。</description>
       <pubDate>Sun, 30 Aug 2026 11:04:19 +0900</pubDate>
-    </item>
-    <item>
-      <title>京都府気象解説情報（落雷・突風）</title>
-      <link>https://haruto-03151234.github.io/newsroom18/?article=2026-08-30-06-f2497ca1</link>
-      <guid isPermaLink="false">f2497ca1f3037ca9</guid>
-      <description>京都府では、30日夜のはじめ頃にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。[気象概況] 前線が日本海から東日本を通って日本の東にのびています。前線に向かって流れ込む暖かく湿った空気の影響により、京都府では、引き続き30日夜のはじめ頃にかけて大気の状態が非常に不安定となり、局地的に雷雲が発達するでしょう。</description>
-      <pubDate>Sun, 30 Aug 2026 05:32:45 +0900</pubDate>
-    </item>
-    <item>
-      <title>福井県レベル４土砂災害危険警報</title>
-      <link>https://haruto-03151234.github.io/newsroom18/?article=2026-08-30-06-1c210faa</link>
-      <guid isPermaLink="false">1c210faac4cecdde</guid>
-      <description>＜レベル４土砂災害危険警報の補足情報＞ レベル４土砂災害危険警報が発表されている地域では、崖の近くや谷の出口など土砂災害警戒区域等にお住まいの方は、市町から発令される避難指示などの情報に留意し、少しでも安全な場所への速やかな避難を心がけてください。 警戒: 越前町。 警戒: 福井市、大野市、勝山市、鯖江市、あわら市、坂井市、永平寺町。</description>
-      <pubDate>Sun, 30 Aug 2026 05:32:41 +0900</pubDate>
-    </item>
-    <item>
-      <title>石川県気象解説情報（大雨・落雷・突風）</title>
-      <link>https://haruto-03151234.github.io/newsroom18/?article=2026-08-30-06-26272bd4</link>
-      <guid isPermaLink="false">26272bd483ca59b0</guid>
-      <description>加賀では、30日昼前にかけて土砂災害、低い土地の浸水、河川の増水や氾濫に厳重に警戒をしてください。また石川県では、30日夜遅くにかけて土砂災害に、30日夕方にかけて低い土地の浸水や河川の増水に注意・警戒してください。</description>
-      <pubDate>Sun, 30 Aug 2026 05:30:53 +0900</pubDate>
-    </item>
-    <item>
-      <title>【河川カメラの映像】福井県 各地の河川状況</title>
-      <link>https://haruto-03151234.github.io/newsroom18/?article=2026-08-30-06-ddb08e9c</link>
-      <guid isPermaLink="false">ddb08e9c638ece05</guid>
-      <description>前線と湿った空気の影響で福井県では当初の予想を上回る大雨となっています。 福井県内各地の河川の状況を河川カメラの映像でお伝えします。</description>
-      <pubDate>Sun, 30 Aug 2026 05:42:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>偵察衛星になるはずだった…NASAの新型宇宙望遠鏡30日打ち上げ</title>
-      <link>https://haruto-03151234.github.io/newsroom18/?article=2026-08-30-06-60c86631</link>
-      <guid isPermaLink="false">60c86631a5cd61d0</guid>
-      <description />
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

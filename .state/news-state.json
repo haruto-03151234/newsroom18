@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-05T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-05-12",
+  "lastCompletedEnd": "2026-09-05T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-05-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -6527,7 +6527,90 @@
       "urls": [
         "https://www.asahi.com/articles/ASV923FKDV92UTFL017M.html"
       ]
+    },
+    {
+      "editionId": "2026-09-05-18",
+      "title": "神奈川県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-05T16:59:26+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260905075927_0_VPFJ50_140000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260905080530_0_VPFJ50_120000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-18",
+      "title": "沖縄本島地方気象解説情報台風第24号",
+      "publishedAt": "2026-09-05T16:54:49+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260905075449_0_VPFJ50_471000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-18",
+      "title": "宮古島地方気象解説情報台風第24号",
+      "publishedAt": "2026-09-05T16:48:23+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260905074824_0_VPFJ50_460040.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260905075012_0_VPFJ50_473000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260905075718_0_VPCJ50_460100.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-18",
+      "title": "トランプ大統領ロシアとウクライナに特使ら派遣へ",
+      "publishedAt": "2026-09-05T17:17:24+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260905de48327"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-18",
+      "title": "東京大学赤門の改修工事現場関係者向け見学会",
+      "publishedAt": "2026-09-05T17:03:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260905de48328"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-18",
+      "title": "文化祭の高校で教諭に催涙スプレー噴射か男逮捕盗撮見つかり",
+      "publishedAt": "2026-09-05T16:20:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9525YSV95UTIL005M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-18",
+      "title": "日米関税合意不変赤沢経産相対日関税15超えず米側に確認",
+      "publishedAt": "2026-09-05T15:22:01+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV951TNJV95ULFA003M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-18",
+      "title": "パドレス松井裕樹リリーフで11試合連続無失点",
+      "publishedAt": "2026-09-05T15:09:02+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260905de48313"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-18",
+      "title": "openaiのaiエージェント休眠サイトを掲示板化してタスク回答を共有か研究団体が報告書公開",
+      "publishedAt": "2026-09-05T12:06:58+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/05/2000001200"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-18",
+      "title": "山田涼介演じる戦国z世代プリンスが暗躍豊臣兄弟終盤の鍵に",
+      "publishedAt": "2026-09-05T12:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV944F5FV94UCVL03NM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-09-05T16:14:46.608331+09:00"
+  "updatedAt": "2026-09-05T21:20:39.022237+09:00"
 }
