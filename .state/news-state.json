@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-05T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-05-06",
+  "lastCompletedEnd": "2026-09-05T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-05-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -6421,7 +6421,113 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/04/2000001197"
       ]
+    },
+    {
+      "editionId": "2026-09-05-12",
+      "title": "宮崎県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-05T11:50:18+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260905025018_0_VPFJ50_450000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-12",
+      "title": "九州南部・奄美地方気象解説情報台風第24号",
+      "publishedAt": "2026-09-05T11:38:08+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260905023809_0_VPCJ50_460100.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-12",
+      "title": "鹿児島県奄美地方を除く気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-05T11:34:12+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260905023413_0_VPFJ50_460100.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-12",
+      "title": "全般気象解説情報台風第24号",
+      "publishedAt": "2026-09-05T11:20:54+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260905022055_0_VPCJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260905022334_0_VPFJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260905025907_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-12",
+      "title": "スイーツを健康的に管理栄養士目指す大学生が焼きドーナツ開発",
+      "publishedAt": "2026-09-05T11:45:08+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260904/k00/00m/310/125000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-12",
+      "title": "私大って減らされるの少子化見据えた国の思惑と大学の苦境",
+      "publishedAt": "2026-09-05T11:30:08+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260905/k00/00m/100/022000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-12",
+      "title": "女性目線の水のいらない全身キレイセット防災グッズ大賞に",
+      "publishedAt": "2026-09-05T11:23:28+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260905/k00/00m/040/044000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-12",
+      "title": "中国頼りの肥料で食糧危機に現実味農水相がモロッコへ向かったわけ",
+      "publishedAt": "2026-09-05T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9332CCV93ULFA03CM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-12",
+      "title": "フランスで猛暑続く暑さ関連とみられる死者7000人に",
+      "publishedAt": "2026-09-05T10:34:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260905de48267"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-12",
+      "title": "アルゼンチンと英島の領有権巡り対立深まるトランプ発言で",
+      "publishedAt": "2026-09-05T10:27:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260905de48278"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-12",
+      "title": "プロ野球結果セ・リーグ2位の巨人広島に競り勝つ",
+      "publishedAt": "2026-09-05T09:01:30+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260904de48236"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-12",
+      "title": "塚本晋也が危惧する戦争のヒロイズム監督最新作ベネチアで歓声",
+      "publishedAt": "2026-09-05T09:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV944CSQV94UCVL00SM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-05-12",
+      "title": "ジュラ紀の虫の音を再現当時の森コーラスで満ちていたかも",
+      "publishedAt": "2026-09-05T09:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV923FKDV92UTFL017M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-09-05T07:36:00.035327+09:00"
+  "updatedAt": "2026-09-05T16:14:46.608331+09:00"
 }
