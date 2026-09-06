@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-06T18:00:00+09:00",
-  "lastCompletedEdition": "2026-09-06-18",
+  "lastCompletedEnd": "2026-09-07T06:00:00+09:00",
+  "lastCompletedEdition": "2026-09-07-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -6899,7 +6899,99 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20260906de48422"
       ]
+    },
+    {
+      "editionId": "2026-09-07-06",
+      "title": "千葉県レベル4土砂災害危険警報",
+      "publishedAt": "2026-09-07T05:58:30+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260906205832_0_VXWW50_120000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-06",
+      "title": "静岡県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-07T05:46:09+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260906204610_0_VPFJ50_040000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260906204618_0_VPFJ50_070000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260906205418_0_VPCJ50_270000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260906205821_0_VPFJ50_080000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260906205828_0_VPFJ50_220000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-06",
+      "title": "1級建築士から臨床仏教師に坊主barで悩みに耳傾ける",
+      "publishedAt": "2026-09-07T05:45:03+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260906/k00/00m/310/087000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-06",
+      "title": "東京・新島村にレベル5土砂災害特別警報山手線や中央線で減便予定",
+      "publishedAt": "2026-09-07T05:02:27+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV957HSMV95TPOB003M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-06",
+      "title": "ワクチン安全性国内で早期検証へ予防接種データを一元化",
+      "publishedAt": "2026-09-07T05:02:06+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260903/k00/00m/100/268000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-06",
+      "title": "どう変わるデジタル化元年転換点迎える予防接種行政",
+      "publishedAt": "2026-09-07T05:01:07+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260903/k00/00m/100/259000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-06",
+      "title": "関東東海東北線状降水帯発生の可能性安全最優先に行動を",
+      "publishedAt": "2026-09-07T04:14:36+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260906de48377"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-06",
+      "title": "3人死亡火事は同級生の集まりで発生か会社役員関与の可能性も",
+      "publishedAt": "2026-09-07T04:07:11+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260907de48555"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-06",
+      "title": "米特使がキーウを初訪問残る対立点終戦への道筋示すのは困難か",
+      "publishedAt": "2026-09-07T01:52:46+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9635LFV96UHBI00HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-06",
+      "title": "プロ野球結果西武が首位ソフトバンクに勝利",
+      "publishedAt": "2026-09-06T23:53:16+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260906de48544"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-06",
+      "title": "水曜どうでしょう祭に4万人大泉洋さんゆるい雰囲気すばらしい",
+      "publishedAt": "2026-09-06T21:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV963CPZV96IIPE009M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-09-06T21:35:13.164309+09:00"
+  "updatedAt": "2026-09-07T07:29:58.100369+09:00"
 }
