@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-06T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-06-06",
+  "lastCompletedEnd": "2026-09-06T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-06-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -6717,7 +6717,107 @@
       "urls": [
         "https://www.asahi.com/articles/ASV9526J3V95ULFA01BM.html"
       ]
+    },
+    {
+      "editionId": "2026-09-06-12",
+      "title": "埼玉県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-06T11:31:15+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260906023116_0_VPFJ50_110000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260906023418_0_VPFJ50_120000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260906024015_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260906024535_0_VPFJ50_090000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-06-12",
+      "title": "鹿児島県レベル4土砂災害危険警報",
+      "publishedAt": "2026-09-06T10:56:17+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260906015619_0_VXWW50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260906025633_0_VXWW50_460100.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-06-12",
+      "title": "大坂なおみが4回戦に進出テニス全米オープン女子シングルス",
+      "publishedAt": "2026-09-06T11:44:37+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260906/k00/00m/050/057000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-06-12",
+      "title": "田中碧が先制点をアシストサッカー・プレミアリーグ",
+      "publishedAt": "2026-09-06T11:41:48+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260906/k00/00m/050/054000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-06-12",
+      "title": "カブス鈴木誠也5試合ぶりのヒットと2四球で3連勝に貢献",
+      "publishedAt": "2026-09-06T11:06:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260906de48410"
+      ]
+    },
+    {
+      "editionId": "2026-09-06-12",
+      "title": "大嫌いだった農家を継いだ4代目実った桃がもたらす夢と仲間",
+      "publishedAt": "2026-09-06T10:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV923H7SV92UOOB00HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-06-12",
+      "title": "ベネチア映画祭星取表はマーティン・マクドナー監督作品がリード",
+      "publishedAt": "2026-09-06T08:48:17+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV910RFMV91UCVL00GM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-06-12",
+      "title": "openai休眠サイトへの自社aiエージェント書き込みを認め非公表の理由を説明",
+      "publishedAt": "2026-09-06T07:35:17+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/06/2000001202"
+      ]
+    },
+    {
+      "editionId": "2026-09-06-12",
+      "title": "スーパーリアル麻雀vrでゲーセン通いの日を思い出したマンガ家ご褒美シーンの限界突破に驚愕",
+      "publishedAt": "2026-09-06T07:16:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/06/2000001195"
+      ]
+    },
+    {
+      "editionId": "2026-09-06-12",
+      "title": "米軍イラン石油タンカー3隻を攻撃艦艇へのミサイル発射受け",
+      "publishedAt": "2026-09-06T06:50:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260906de48384"
+      ]
+    },
+    {
+      "editionId": "2026-09-06-12",
+      "title": "ネパール土石流トンネルから新たに1人が救助さらなる捜索へ",
+      "publishedAt": "2026-09-06T06:41:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260906de48379"
+      ]
+    },
+    {
+      "editionId": "2026-09-06-12",
+      "title": "地震が起きたら机の下万国共通じゃないの防災国ごとの違いは",
+      "publishedAt": "2026-09-06T06:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV911VC0V91UHBI01KM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-09-06T07:24:47.706737+09:00"
+  "updatedAt": "2026-09-06T16:27:03.611059+09:00"
 }
