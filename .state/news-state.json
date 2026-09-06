@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-06T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-06-12",
+  "lastCompletedEnd": "2026-09-06T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-06-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -6817,7 +6817,89 @@
       "urls": [
         "https://www.asahi.com/articles/ASV911VC0V91UHBI01KM.html"
       ]
+    },
+    {
+      "editionId": "2026-09-06-18",
+      "title": "東京都レベル4土砂災害危険警報",
+      "publishedAt": "2026-09-06T17:34:19+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260906083421_0_VXWW50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-06-18",
+      "title": "奄美地方鹿児島県気象解説情報台風第24号",
+      "publishedAt": "2026-09-06T17:10:18+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260906081019_0_VPFJ50_460040.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-06-18",
+      "title": "全般気象解説情報台風第24号",
+      "publishedAt": "2026-09-06T17:05:12+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260906080513_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-06-18",
+      "title": "三重県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-06T16:57:50+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260906075750_0_VPFJ50_240000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260906080539_0_VPFJ50_080000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260906081035_0_VPFJ50_140000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-06-18",
+      "title": "ケーキ店火災は死者3人に閉店後11人で集まりうち1人が関与か",
+      "publishedAt": "2026-09-06T17:34:19+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9562ZYV95OIPE00CM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-06-18",
+      "title": "不発弾通常と違う方法で処理半径280メートル避難長崎・大村",
+      "publishedAt": "2026-09-06T17:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV962FRDV96UEFT002M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-06-18",
+      "title": "アメリカの特使らキーウでゼレンスキー大統領と会談へ",
+      "publishedAt": "2026-09-06T17:29:38+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260906de48465"
+      ]
+    },
+    {
+      "editionId": "2026-09-06-18",
+      "title": "クライミングシリーズリード第5戦男子は鈴木音生が優勝",
+      "publishedAt": "2026-09-06T16:43:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260906de48457"
+      ]
+    },
+    {
+      "editionId": "2026-09-06-18",
+      "title": "その経験宇宙で生かせます異業種人材が支える成長産業の最前線",
+      "publishedAt": "2026-09-06T16:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV930CKTV93UTFL00CM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-06-18",
+      "title": "大谷翔平3試合連続で先発メンバー外れるドジャース移籍後初",
+      "publishedAt": "2026-09-06T15:42:34+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260906de48422"
+      ]
     }
   ],
-  "updatedAt": "2026-09-06T16:27:03.611059+09:00"
+  "updatedAt": "2026-09-06T21:35:13.164309+09:00"
 }
