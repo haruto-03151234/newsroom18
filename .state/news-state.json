@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-07T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-07-06",
+  "lastCompletedEnd": "2026-09-07T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-07-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -6991,7 +6991,99 @@
       "urls": [
         "https://www.asahi.com/articles/ASV963CPZV96IIPE009M.html"
       ]
+    },
+    {
+      "editionId": "2026-09-07-12",
+      "title": "福島県レベル4土砂災害危険警報",
+      "publishedAt": "2026-09-07T11:44:43+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260907024445_0_VXWW50_070000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-12",
+      "title": "令和9年度税制改正要望",
+      "publishedAt": "2026-09-07T11:00:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/tax_policy/tax_reform/outline/fy2027/request/index.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-12",
+      "title": "全般気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-07T10:51:13+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260907015114_0_VPCJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260907020728_0_VPFJ50_090000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260907020917_0_VPZJ50_010000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260907021025_0_VPCJ50_230000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260907021531_0_VPFJ50_220000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-12",
+      "title": "ドジャース大谷シーズン中の投手復帰困難打者で7日復帰期待",
+      "publishedAt": "2026-09-07T11:51:18+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260907de48723"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-12",
+      "title": "イランが米に報復主張ホルムズ海峡周辺で緊張続く",
+      "publishedAt": "2026-09-07T11:24:17+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260907de48600"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-12",
+      "title": "北朝鮮キム総書記新型駆逐艦の就役式で海軍力強化強調",
+      "publishedAt": "2026-09-07T11:12:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260907de48725"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-12",
+      "title": "辺野古はもう争点じゃない沖縄知事選の陣営戦略有権者の思いは",
+      "publishedAt": "2026-09-07T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9321DVV93UTIL01VM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-12",
+      "title": "韓国に奪われたlng船復活できるか世界1位建造ゼロの日本",
+      "publishedAt": "2026-09-07T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9251M1V92ULFA001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-12",
+      "title": "29秒に1回の110番通報テキスト化・緊急度分析のai開発へ",
+      "publishedAt": "2026-09-07T10:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV942V8MV94UTIL019M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-12",
+      "title": "openaiエージェントによる研究加速と直面する安全性の壁を開示チーフサイエンティストは自発的減速を提唱",
+      "publishedAt": "2026-09-07T09:19:02+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/07/2000001204"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-12",
+      "title": "犬を飼うと認知症リスク48減東京に住む1万人以上を調査国立環境研究所や東大など",
+      "publishedAt": "2026-09-07T07:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/07/2000001178"
+      ]
     }
   ],
-  "updatedAt": "2026-09-07T07:29:58.100369+09:00"
+  "updatedAt": "2026-09-07T16:43:40.129396+09:00"
 }
