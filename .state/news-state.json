@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-07T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-07-12",
+  "lastCompletedEnd": "2026-09-07T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-07-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -7083,7 +7083,123 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/07/2000001178"
       ]
+    },
+    {
+      "editionId": "2026-09-07-18",
+      "title": "南海トラフ地震関連解説情報",
+      "publishedAt": "2026-09-07T17:00:07+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260907080008_0_VYSE52_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-18",
+      "title": "令和8年熊本地震に関する対応状況について9月7日",
+      "publishedAt": "2026-09-07T17:00:00+09:00",
+      "urls": [
+        "https://www.digital.go.jp/news/4d10e390-4a0b-44f9-90c6-67c2b00537b0"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-18",
+      "title": "全般気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-07T16:40:09+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260907074010_0_VPZJ50_010000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260907075142_0_VPFJ50_220000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260907075919_0_VPFJ50_240000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260907080133_0_VPFJ50_080000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260907085303_0_VPFJ50_120000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-18",
+      "title": "週刊実話側に160万円賠償命令労組への名誉毀損を一部認める",
+      "publishedAt": "2026-09-07T17:58:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV972SDPV97UTIL01GM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-18",
+      "title": "カメラのないaiグラスrayneoioはどこまでやれるのか盗撮疑惑とは無縁になるが機能面は",
+      "publishedAt": "2026-09-07T17:24:08+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/07/2000001208"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-18",
+      "title": "日米韓3か国が共同訓練開始連携を確認",
+      "publishedAt": "2026-09-07T16:29:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260907de48814"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-18",
+      "title": "随時更新ロシアウクライナに軍事侵攻9月7日の動き",
+      "publishedAt": "2026-09-07T16:24:05+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46984"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-18",
+      "title": "大相撲横綱・大の里が連合稽古で大関・琴櫻と連続20番",
+      "publishedAt": "2026-09-07T16:15:45+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260907de48801"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-18",
+      "title": "aiで今日着た服を自動判定1日の服コスパが分かるシステムがスゴイ",
+      "publishedAt": "2026-09-07T14:18:39+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/07/2000001213"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-18",
+      "title": "楽天モバイルkddiローミングは10月以降も継続と再告知現在も詰めの協議",
+      "publishedAt": "2026-09-07T14:07:25+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/07/2000001211"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-18",
+      "title": "トークがむしゃらな生き様見てミュージカルファニー・ガール出演水田航生",
+      "publishedAt": "2026-09-07T13:30:30+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260907/dde/012/200/006000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-18",
+      "title": "topics天満天神繁昌亭20周年上真打ち制度復活せず難しい競争原理の導入",
+      "publishedAt": "2026-09-07T13:29:57+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260907/dde/012/200/003000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-18",
+      "title": "みずほ楽天カード還元率2業界最高水準ポイントで巻き返しへ",
+      "publishedAt": "2026-09-07T12:10:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV945WG5V94ULFA02BM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-07-18",
+      "title": "解凍後もぷるんでフードロス削減に植物が原料の新素材で実現",
+      "publishedAt": "2026-09-07T12:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV942JDXV94OIPE006M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-09-07T16:43:40.129396+09:00"
+  "updatedAt": "2026-09-07T23:45:16.264473+09:00"
 }
