@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-07T18:00:00+09:00",
-  "lastCompletedEdition": "2026-09-07-18",
+  "lastCompletedEnd": "2026-09-08T06:00:00+09:00",
+  "lastCompletedEdition": "2026-09-08-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -7199,7 +7199,114 @@
       "urls": [
         "https://www.asahi.com/articles/ASV942JDXV94OIPE006M.html"
       ]
+    },
+    {
+      "editionId": "2026-09-08-06",
+      "title": "愛媛県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-08T05:53:31+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260907205332_0_VPFJ50_380000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260907205419_0_VPCJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260907205634_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260907205756_0_VPCJ50_270000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-08-06",
+      "title": "自民党役員人事と内閣改造来週にも実施で調整国会審議備え",
+      "publishedAt": "2026-09-08T05:44:38+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de48893"
+      ]
+    },
+    {
+      "editionId": "2026-09-08-06",
+      "title": "ロシアと北朝鮮を結ぶ初の車両用の橋が完成",
+      "publishedAt": "2026-09-08T05:38:59+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de48892"
+      ]
+    },
+    {
+      "editionId": "2026-09-08-06",
+      "title": "管制指示違反3アウトで羽田の利用禁止国交省が小型機に新規則",
+      "publishedAt": "2026-09-08T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV971S5KV97UTIL007M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-08-06",
+      "title": "加速するai性能の向上気になる研究者と市民のギャップ",
+      "publishedAt": "2026-09-08T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV971JS4V97ULFA02RM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-08-06",
+      "title": "岐阜洋菓子店3人死亡の放火疑い事件死亡役員が関与証言",
+      "publishedAt": "2026-09-08T04:35:36+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de48888"
+      ]
+    },
+    {
+      "editionId": "2026-09-08-06",
+      "title": "続・リモコンの片隅から",
+      "publishedAt": "2026-09-08T02:00:51+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260908/ddm/018/200/006000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-08-06",
+      "title": "英ジャガー4000人削減へ全従業員の1割米関税など影響",
+      "publishedAt": "2026-09-07T23:07:48+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260907/k00/00m/020/312000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-08-06",
+      "title": "vtuberの名前を一発入力できるvtuber変換辞書で騒動boothで一時販売停止も復活当初の判断に誤り",
+      "publishedAt": "2026-09-07T22:57:56+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/07/2000001237"
+      ]
+    },
+    {
+      "editionId": "2026-09-08-06",
+      "title": "clubrebaseクラブ野球選手権初優勝日本選手権へ",
+      "publishedAt": "2026-09-07T21:49:28+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260907/k00/00m/050/292000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-08-06",
+      "title": "内閣改造・党人事16日にも首相臨時国会へ早期の体制固め",
+      "publishedAt": "2026-09-07T21:04:33+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV973JGYV97UQIP014M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-08-06",
+      "title": "ヘボいロボット大集合技術力が低いロボット相撲大会ヘボコン開催ハイテクは減点",
+      "publishedAt": "2026-09-07T20:02:39+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/07/2000001235"
+      ]
+    },
+    {
+      "editionId": "2026-09-08-06",
+      "title": "首の痛みスマホ使用時の前かがみの姿勢に気を付けて生活習慣も要因に",
+      "publishedAt": "2026-09-07T19:49:30+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/07/2000001234"
+      ]
     }
   ],
-  "updatedAt": "2026-09-07T23:45:16.264473+09:00"
+  "updatedAt": "2026-09-08T08:05:54.080645+09:00"
 }
