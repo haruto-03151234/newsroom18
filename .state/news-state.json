@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-08T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-08-06",
+  "lastCompletedEnd": "2026-09-08T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-08-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -7306,7 +7306,92 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/07/2000001234"
       ]
+    },
+    {
+      "editionId": "2026-09-08-12",
+      "title": "東京都気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-08T11:21:17+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260908022118_0_VPCJ50_270000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260908022210_0_VPFJ50_230000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260908023607_0_VPFJ50_110000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260908023633_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260908023928_0_VPFJ50_280000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260908024155_0_VPFJ50_380000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-08-12",
+      "title": "半年ぶりに1ドル152円台後半日銀の利上げ加速観測で円高進む",
+      "publishedAt": "2026-09-08T11:52:57+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV980BFTV98ULFA003M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-08-12",
+      "title": "トランプ大統領ボンバルディア機販売禁止カナダをけん制",
+      "publishedAt": "2026-09-08T11:50:17+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de48956"
+      ]
+    },
+    {
+      "editionId": "2026-09-08-12",
+      "title": "nec量子コンピュータの実機開発を中止か実用化への課題重く報道",
+      "publishedAt": "2026-09-08T11:13:56+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/08/2000001250"
+      ]
+    },
+    {
+      "editionId": "2026-09-08-12",
+      "title": "堀江謙一さん88歳で太平洋ひとりぼっち挑戦へヨットで来春",
+      "publishedAt": "2026-09-08T11:12:16+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV971QDKV97PTIL00ZM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-08-12",
+      "title": "死んだカモと一心不乱の6年イグ・ノーベル賞受賞者の研究者魂",
+      "publishedAt": "2026-09-08T10:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV942D72V94UHMC007M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-08-12",
+      "title": "カブス鈴木誠也2四球もノーヒットチームは逆転負け",
+      "publishedAt": "2026-09-08T10:29:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de48934"
+      ]
+    },
+    {
+      "editionId": "2026-09-08-12",
+      "title": "仏モンサンミシェルと厳島神社がある廿日市市が観光で交流",
+      "publishedAt": "2026-09-08T10:21:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de48933"
+      ]
+    },
+    {
+      "editionId": "2026-09-08-12",
+      "title": "東京科学大に不正アクセス個人情報漏えいか東工大・医科歯科大統合当時の学生・教職員情報も",
+      "publishedAt": "2026-09-08T10:02:59+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/08/2000001244"
+      ]
+    },
+    {
+      "editionId": "2026-09-08-12",
+      "title": "くら寿司ちいかわグッズ不正で警察と相談厳正に対処メルカリと連携も",
+      "publishedAt": "2026-09-08T09:35:24+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/08/2000001240"
+      ]
     }
   ],
-  "updatedAt": "2026-09-08T08:05:54.080645+09:00"
+  "updatedAt": "2026-09-08T16:36:28.186827+09:00"
 }
