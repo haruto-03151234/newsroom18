@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-08T18:00:00+09:00",
-  "lastCompletedEdition": "2026-09-08-18",
+  "lastCompletedEnd": "2026-09-09T06:00:00+09:00",
+  "lastCompletedEdition": "2026-09-09-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -7522,7 +7522,108 @@
       "urls": [
         "https://mainichi.jp/articles/20260908/dde/012/200/003000c"
       ]
+    },
+    {
+      "editionId": "2026-09-09-06",
+      "title": "近畿地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-09T05:35:06+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260908203507_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260908204719_0_VPFJ50_100000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260908204734_0_VPFJ50_210000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260908205720_0_VPCJ50_270000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260908205733_0_VPFJ50_290000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260908205817_0_VPFJ50_240000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-06",
+      "title": "曳山のぶつかり合いに大歓声無形文化遺産やま行事秋田",
+      "publishedAt": "2026-09-09T05:45:15+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260908/k00/00m/310/230000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-06",
+      "title": "韓国の美容医療アプリ日本ユーザー約4万8000人の個人情報流出",
+      "publishedAt": "2026-09-09T05:34:46+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49197"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-06",
+      "title": "ネパール土石流発生から2週間温暖化への対応求める声も",
+      "publishedAt": "2026-09-09T05:31:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de49138"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-06",
+      "title": "23年のハマスの越境テロuaeが事前にネタニヤフ氏に警告か",
+      "publishedAt": "2026-09-09T05:30:05+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260908/k00/00m/030/291000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-06",
+      "title": "純烈の弟分・モナキがann0のパーソナリティーに就任夢みたい",
+      "publishedAt": "2026-09-09T05:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV98419TV98UCVL00XM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-06",
+      "title": "米ロ首脳電話会談米大統領ウクライナでの戦闘早期終結に意欲",
+      "publishedAt": "2026-09-09T05:19:30+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49200"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-06",
+      "title": "万博工事であらわになった関係竹中工務店元所長の背任容疑の内幕",
+      "publishedAt": "2026-09-09T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV97471BV97PTIL00GM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-06",
+      "title": "バレー推し深津英臣3連勝に祐希が助けてくれた場面が多かったのかな",
+      "publishedAt": "2026-09-09T00:03:21+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260908/k00/00m/050/307000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-06",
+      "title": "相次ぐ豪雨の背景は大気中の水蒸気増加過去と同じ気圧配置でも",
+      "publishedAt": "2026-09-08T22:18:28+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9841Y4V98UTIL02QM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-06",
+      "title": "ペンギンを返してsuica新キャラ候補3案公開でsnsに戸惑いの声一般投票は8日から",
+      "publishedAt": "2026-09-08T19:20:13+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/08/2000001290"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-06",
+      "title": "幻のちいかわコラボ第3弾皿捨てちゃうのくら寿司に聞いてみた",
+      "publishedAt": "2026-09-08T18:44:41+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/08/2000001286"
+      ]
     }
   ],
-  "updatedAt": "2026-09-08T22:17:39.114419+09:00"
+  "updatedAt": "2026-09-09T08:02:04.333104+09:00"
 }
