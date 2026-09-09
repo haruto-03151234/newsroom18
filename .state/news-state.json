@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-09T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-09-12",
+  "lastCompletedEnd": "2026-09-09T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-09-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -7723,7 +7723,124 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20260909de49219"
       ]
+    },
+    {
+      "editionId": "2026-09-09-18",
+      "title": "千葉県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-09T16:57:25+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260909075726_0_VPFJ50_240000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260909075944_0_VPFJ50_080000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260909075948_0_VPFJ50_200000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260909080030_0_VPFJ50_140000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260909080506_0_VPFJ50_120000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260909081244_0_VPFJ50_190000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-18",
+      "title": "輸入小麦の政府売渡価格の改定について",
+      "publishedAt": "2026-09-09T16:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousan/boeki/260909.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-18",
+      "title": "第4回日米農業統計専門家による定期対話の開催について",
+      "publishedAt": "2026-09-09T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/tokei/kikaku/260909.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-18",
+      "title": "ルフィ事件で実行役の無期懲役確定へ狛江の90歳女性死亡最高裁",
+      "publishedAt": "2026-09-09T17:50:07+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV992SCQV99UTIL01FM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-18",
+      "title": "還暦霧ケ峰三菱電機エアコン唯一の生き残り新商品で狙う長寿",
+      "publishedAt": "2026-09-09T17:40:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV992PP9V99ULFA01SM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-18",
+      "title": "国際学力調査読解力中心に格差拡大かsns生成ai不適切使用で",
+      "publishedAt": "2026-09-09T17:39:47+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260908de49087"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-18",
+      "title": "柏崎刈羽原発東電に安全性向上の取り組み求める政府",
+      "publishedAt": "2026-09-09T16:37:28+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49323"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-18",
+      "title": "動画編集もaiにやってもらう時代言葉で指示するai編集ツールpalmierproを使ってみた",
+      "publishedAt": "2026-09-09T16:29:28+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/09/2000001311"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-18",
+      "title": "プロ野球8月の月間mvp4試合連続hrのロッテ山口航輝が初受賞",
+      "publishedAt": "2026-09-09T16:26:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49318"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-18",
+      "title": "5年ぶりのpenomsystemロゴになって登場evfを搭載初の防塵・防滴仕様に",
+      "publishedAt": "2026-09-09T16:20:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/09/2000001293"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-18",
+      "title": "東京五輪銀メダリストの本多灯被告に有罪判決危険運転致傷罪で",
+      "publishedAt": "2026-09-09T15:52:30+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV990SG3V99UTIL009M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-18",
+      "title": "topics是枝裕和監督ルックバックカギは音風景大人の目アニメもヒット人気漫画を実写映画化",
+      "publishedAt": "2026-09-09T13:45:06+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260909/dde/018/200/010000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-18",
+      "title": "topics南佳孝セルフプロデュースcdブックレット遊びたりない",
+      "publishedAt": "2026-09-09T13:29:23+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260909/dde/012/200/007000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-18",
+      "title": "anthropicの研究者が退社し超知能の開発競争を猛批判来年末には制御不能になる可能性",
+      "publishedAt": "2026-09-09T12:29:01+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/09/2000001309"
+      ]
     }
   ],
-  "updatedAt": "2026-09-09T16:42:32.036404+09:00"
+  "updatedAt": "2026-09-09T22:21:53.469486+09:00"
 }
