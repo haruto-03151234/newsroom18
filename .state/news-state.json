@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-09T18:00:00+09:00",
-  "lastCompletedEdition": "2026-09-09-18",
+  "lastCompletedEnd": "2026-09-10T06:00:00+09:00",
+  "lastCompletedEdition": "2026-09-10-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -7840,7 +7840,130 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/09/2000001309"
       ]
+    },
+    {
+      "editionId": "2026-09-10-06",
+      "title": "東京都レベル4土砂災害危険警報",
+      "publishedAt": "2026-09-10T03:07:02+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260909180704_0_VXWW50_190000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260909183054_0_VXWW50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-06",
+      "title": "クマに出会わないために知っておきたい対策",
+      "publishedAt": "2026-09-10T00:00:00+09:00",
+      "urls": [
+        "https://www.gov-online.go.jp/article/202609/entry-11625.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-06",
+      "title": "クマ撃退スプレーいざというときに備える",
+      "publishedAt": "2026-09-10T00:00:00+09:00",
+      "urls": [
+        "https://www.gov-online.go.jp/article/202609/entry-11634.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-06",
+      "title": "神奈川県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-09T22:53:11+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260909135311_0_VPFJ50_140000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260909142553_0_VPFJ50_080000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260909144409_0_VPFJ50_110000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-06",
+      "title": "アメリカ共和党大会始まる中間選挙前に初開催",
+      "publishedAt": "2026-09-10T05:48:17+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49402"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-06",
+      "title": "iphone18シリーズ発表今年はpro・promaxのみなんと無印なし価格は21万9800円から更新終了",
+      "publishedAt": "2026-09-10T05:44:42+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/10/2000001336"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-06",
+      "title": "apple既存iphoneを値上げ17は14万2800円15万9800円からairや17eも",
+      "publishedAt": "2026-09-10T05:31:39+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/10/2000001340"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-06",
+      "title": "国連本部で日本寄贈の平和の鐘鳴らす式典",
+      "publishedAt": "2026-09-10T05:23:25+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260910de49412"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-06",
+      "title": "有村治子氏を要職起用へ高市首相が評価消費減税担当相の新設案も",
+      "publishedAt": "2026-09-10T05:00:13+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260909/k00/00m/010/288000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-06",
+      "title": "突然の自死鉄道会社や大家から賠償請求遺族が直面する困難を支援",
+      "publishedAt": "2026-09-10T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9813RZV98PPTB001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-06",
+      "title": "タワマン宅配駐車場不足を嘆く業者仕事にならない行政も対策",
+      "publishedAt": "2026-09-10T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV990HDRV99OXIE04QM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-06",
+      "title": "視聴室",
+      "publishedAt": "2026-09-10T02:01:15+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260910/ddm/018/200/011000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-06",
+      "title": "プロ野球結果首位ソフトバンクが3位の日本ハムに2連勝",
+      "publishedAt": "2026-09-10T00:47:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49391"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-06",
+      "title": "ラスカー賞に睡眠研究の筑波大・柳沢正史教授ら中外製薬3人も",
+      "publishedAt": "2026-09-09T23:56:41+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260908/k00/00m/040/066000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-06",
+      "title": "中国へai規制緩めるトランプ政権狂気じみている憂う元当局者",
+      "publishedAt": "2026-09-09T22:15:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV974S61V97BQBQ0SXM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-09-09T22:21:53.469486+09:00"
+  "updatedAt": "2026-09-10T07:48:43.075429+09:00"
 }
