@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-09T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-09-06",
+  "lastCompletedEnd": "2026-09-09T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-09-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -7623,7 +7623,107 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/08/2000001286"
       ]
+    },
+    {
+      "editionId": "2026-09-09-12",
+      "title": "岡山県レベル4土砂災害危険警報",
+      "publishedAt": "2026-09-09T11:13:16+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260909021318_0_VXWW50_330000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-12",
+      "title": "愛知県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-09T11:00:43+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260909020044_0_VPFJ50_230000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260909021714_0_VPFJ50_370000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260909022111_0_VPFJ50_140000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260909022247_0_VPFJ50_390000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260909023136_0_VPFJ50_380000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-12",
+      "title": "外国為替法令に係る情報通信技術を活用した行政の推進等に関する法律施行規則の一部を改正します令和8年9月9日",
+      "publishedAt": "2026-09-09T10:00:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/recent_revised/gaitameshourei_20260909.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-12",
+      "title": "娘の無念を晴らすため父が訴え上智大生殺害未解決30年",
+      "publishedAt": "2026-09-09T11:55:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV990R3DV99UTIL03KM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-12",
+      "title": "米軍がイランのタンカー攻撃イランは米軍基地にミサイル攻撃",
+      "publishedAt": "2026-09-09T11:45:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49247"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-12",
+      "title": "ルノワールの絵画4点フランスの美術館で盗難3分で16億円相当",
+      "publishedAt": "2026-09-09T11:40:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV990JD5V99SFVU26JM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-12",
+      "title": "pentax現行のkシリーズ終了k100dから20年新コンセプトの一眼レフ開発中",
+      "publishedAt": "2026-09-09T11:35:54+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/09/2000001304"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-12",
+      "title": "ai悪用犯罪の増加約9割が予想なりすまし対策には合言葉とsnsの公開範囲限定",
+      "publishedAt": "2026-09-09T11:02:50+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/09/2000001303"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-12",
+      "title": "一般国道トレカゼンリン一丸で制作発売さすがにマニアックすぎるだろ",
+      "publishedAt": "2026-09-09T10:54:39+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/09/2000001302"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-12",
+      "title": "お尻呼吸の研究者飛ぶ勇気をもらったコスパ・タイパの時代に",
+      "publishedAt": "2026-09-09T10:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV952CTRV95UHMC00PM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-12",
+      "title": "ドジャース大谷翔平再び先発メンバー外れる監督休養日に",
+      "publishedAt": "2026-09-09T10:14:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49237"
+      ]
+    },
+    {
+      "editionId": "2026-09-09-12",
+      "title": "スミソニアン協会トップが退任表明トランプ政権が展示批判",
+      "publishedAt": "2026-09-09T08:43:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260909de49219"
+      ]
     }
   ],
-  "updatedAt": "2026-09-09T08:02:04.333104+09:00"
+  "updatedAt": "2026-09-09T16:42:32.036404+09:00"
 }
