@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-10T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-10-12",
+  "lastCompletedEnd": "2026-09-10T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-10-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -8051,7 +8051,139 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20260910de49424"
       ]
+    },
+    {
+      "editionId": "2026-09-10-18",
+      "title": "静岡県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-10T16:07:42+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260910070743_0_VPFJ50_240000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260910075317_0_VPFJ50_230000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260910075733_0_VPFJ50_220000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-18",
+      "title": "東海地方気象解説情報落雷・突風",
+      "publishedAt": "2026-09-10T15:44:16+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260910064416_0_VPCJ50_230000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-18",
+      "title": "イラクの危険情報一部地域の危険情報のレベル引き下げ",
+      "publishedAt": "2026-09-10T15:27:55+09:00",
+      "urls": [
+        "https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T085.html",
+        "https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T086.html",
+        "https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T087.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-18",
+      "title": "令和8砂糖年度・令和8でん粉年度における価格調整制度の各種指標の決定について",
+      "publishedAt": "2026-09-10T15:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousan/chiiki/260910.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-18",
+      "title": "消費者参加型イベントにおける食品安全に関するブース出展について",
+      "publishedAt": "2026-09-10T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/seisaku/260910.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-18",
+      "title": "ai社員活用necは無人部署・denaには17体南場社長けなげと太鼓判",
+      "publishedAt": "2026-09-10T17:47:19+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/10/2000001380"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-18",
+      "title": "スーパーでおなじみ呼び込み君に新型26年越しの新曲も配信",
+      "publishedAt": "2026-09-10T17:12:07+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/10/2000001376"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-18",
+      "title": "平城京の八条大路跡を確認轍の痕跡や牛の足跡も遷都後に造営か",
+      "publishedAt": "2026-09-10T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9B2D09V9BPOMB005M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-18",
+      "title": "米同時多発テロ事件から25年を前にテロ対策訓練外務省",
+      "publishedAt": "2026-09-10T16:17:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260910de49504"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-18",
+      "title": "北朝鮮キム総書記建国記念日に愛国心や忠誠を強調",
+      "publishedAt": "2026-09-10T16:08:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260910de49517"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-18",
+      "title": "トランプ氏イランとの戦闘は中間選挙後に終結側近は長期化指摘",
+      "publishedAt": "2026-09-10T15:50:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9B23GNV9BUHBI01MM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-18",
+      "title": "アストロズ今井達也2回1安打無失点",
+      "publishedAt": "2026-09-10T15:43:21+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260910de49521"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-18",
+      "title": "topics",
+      "publishedAt": "2026-09-10T14:48:41+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260910/dde/018/200/007000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-18",
+      "title": "評青年座ハード・プロブレムai時代突く人間ドラマ評・濱田元子",
+      "publishedAt": "2026-09-10T14:04:41+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260910/dde/018/200/009000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-18",
+      "title": "ポートピア連続殺人事件完全新作ファミコン版フルリメイク新シナリオ堀井雄二総監督",
+      "publishedAt": "2026-09-10T14:00:58+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/10/2000001361"
+      ]
+    },
+    {
+      "editionId": "2026-09-10-18",
+      "title": "オープンai数学の超難問方程式証明かデータ不正使用指摘も",
+      "publishedAt": "2026-09-10T12:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV995JXBV99UHBI01CM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-09-10T16:41:28.597904+09:00"
+  "updatedAt": "2026-09-10T22:18:41.290379+09:00"
 }
