@@ -1,7 +1,27 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-10T07:48:43.075429+09:00",
+  "updatedAt": "2026-09-10T16:41:28.597904+09:00",
   "editions": [
+    {
+      "id": "2026-09-10-12",
+      "path": "data/editions/2026-09-10-12.json",
+      "dataUrl": "data/editions/2026-09-10-12.json",
+      "generatedAt": "2026-09-10T16:41:28.597904+09:00",
+      "date": "2026-09-10",
+      "time": "12:00",
+      "label": "昼12時版",
+      "coverageLabel": "09月10日 06:00〜09月10日 12:00",
+      "headline": "東京都レベル４土砂災害危険警報",
+      "articleCount": 11,
+      "categories": {
+        "国内": 3,
+        "テクノロジー": 2,
+        "経済": 1,
+        "海外": 2,
+        "社会": 2,
+        "科学": 1
+      }
+    },
     {
       "id": "2026-09-10-06",
       "path": "data/editions/2026-09-10-06.json",
