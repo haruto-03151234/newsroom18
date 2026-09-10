@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-10T18:00:00+09:00",
-  "lastCompletedEdition": "2026-09-10-18",
+  "lastCompletedEnd": "2026-09-11T06:00:00+09:00",
+  "lastCompletedEdition": "2026-09-11-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -8183,7 +8183,121 @@
       "urls": [
         "https://www.asahi.com/articles/ASV995JXBV99UHBI01CM.html"
       ]
+    },
+    {
+      "editionId": "2026-09-11-06",
+      "title": "静岡県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-11T05:04:39+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260910200440_0_VPFJ50_220000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260910202932_0_VPFJ50_240000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260910203116_0_VPFJ50_230000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-06",
+      "title": "東海地方気象解説情報落雷・突風",
+      "publishedAt": "2026-09-11T04:43:11+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260910194311_0_VPCJ50_230000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-06",
+      "title": "福島県会津で地震m32最大震度3",
+      "publishedAt": "2026-09-10T18:58:14+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260910095815_0_VXSE53_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-06",
+      "title": "iaeaの理事会イラン核問題を国連の安保理に付託する決議",
+      "publishedAt": "2026-09-11T05:39:16+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260911de49627"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-06",
+      "title": "北欧のアイスランド政府が捕鯨禁止の法案提出へ",
+      "publishedAt": "2026-09-11T05:35:39+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260911de49620"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-06",
+      "title": "磐越道部活動バス事故容疑者の鑑定留置3か月延長へ",
+      "publishedAt": "2026-09-11T05:11:46+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260910de49606"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-06",
+      "title": "日本の国力高めるには寝てない首相に睡眠の研究者が提言",
+      "publishedAt": "2026-09-11T05:00:09+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260910/k00/00m/010/069000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-06",
+      "title": "マルティネスはキューバ発日本育ち聞く耳を持ち絶対的守護神に",
+      "publishedAt": "2026-09-11T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV950FRYV95UTQP00WM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-06",
+      "title": "読む政治高市首相は参院自民に不満権限外の実力者人事が焦点に",
+      "publishedAt": "2026-09-11T04:59:04+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260910/k00/00m/010/224000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-06",
+      "title": "欧州中銀が025の追加利上げ2会合ぶりインフレを警戒",
+      "publishedAt": "2026-09-10T22:05:48+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9B3GB1V9BUHBI00PM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-06",
+      "title": "那覇空港に空自f15戦闘機が緊急着陸8月にも立ち往生",
+      "publishedAt": "2026-09-10T21:30:54+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260910/k00/00m/040/296000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-06",
+      "title": "集英社文庫日本sfの名作の出版・配信を停止上限超えて販売",
+      "publishedAt": "2026-09-10T20:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9B34MXV9BUCVL027M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-06",
+      "title": "gmoの世界ロボット運動会出場言い出しっぺは新卒1年目の社員プロジェクト統括までしていた",
+      "publishedAt": "2026-09-10T18:49:11+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/10/2000001384"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-06",
+      "title": "婚活・恋活にai活用20歳から39歳男女の3分の2模擬問答で客観的意見求める",
+      "publishedAt": "2026-09-10T18:16:59+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/10/2000001385"
+      ]
     }
   ],
-  "updatedAt": "2026-09-10T22:18:41.290379+09:00"
+  "updatedAt": "2026-09-11T07:49:44.234055+09:00"
 }
