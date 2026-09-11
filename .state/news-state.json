@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-11T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-11-12",
+  "lastCompletedEnd": "2026-09-11T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-11-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -8393,7 +8393,117 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20260910de49598"
       ]
+    },
+    {
+      "editionId": "2026-09-11-18",
+      "title": "令和7年度国産農畜水産物に含まれる有機フッ素化合物pfasの実態調査や試験研究の結果について",
+      "publishedAt": "2026-09-11T17:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/seisaku/260911.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-18",
+      "title": "火山名霧島山新燃岳火山の状況に関する解説情報",
+      "publishedAt": "2026-09-11T16:00:23+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260911070023_0_VFVO51_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260911070102_0_VFVO51_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260911070147_0_VFVO51_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260911070318_0_VFVO51_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260911070428_0_VFVO51_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260911071015_0_VFVO51_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-18",
+      "title": "越後ファーム株式会社における袋詰精米の不適正表示に対する措置について",
+      "publishedAt": "2026-09-11T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/kansa/260911.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-18",
+      "title": "ピアニストの北川暁子さんが死去ベートーベンの演奏で活躍",
+      "publishedAt": "2026-09-11T17:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9C2PCTV9CUCVL02CM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-18",
+      "title": "本物そっくりai生成レシートが経費精算の脅威にマネフォ自力で見破るのは難しい企業はどう備える",
+      "publishedAt": "2026-09-11T17:28:06+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/11/2000001409"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-18",
+      "title": "ネット利用の詐欺被害上半期1755億円昨年同期比45増",
+      "publishedAt": "2026-09-11T17:15:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9C0RC1V9CUTIL00PM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-18",
+      "title": "東大脳研究者の池谷裕二さん釣り好きの父に見た楽しいの本質",
+      "publishedAt": "2026-09-11T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9B26LBV9BBNQI005M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-18",
+      "title": "法の支配議連icc赤根所長制裁でアメリカと対話を",
+      "publishedAt": "2026-09-11T16:59:15+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260911de49688"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-18",
+      "title": "松本デジタル相246万件漏えい可能性について説明既知の脆弱性を対応前に悪用",
+      "publishedAt": "2026-09-11T16:55:52+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/11/2000001419"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-18",
+      "title": "片山財務相胴元は日本語では怖いが市場感の表れの報道も",
+      "publishedAt": "2026-09-11T16:28:48+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260911de49706"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-18",
+      "title": "ホワイトソックス村上宗隆4打数無安打チームは3連敗",
+      "publishedAt": "2026-09-11T14:28:22+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260911de49690"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-18",
+      "title": "シネマの週末・トピックス",
+      "publishedAt": "2026-09-11T13:44:52+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260911/dde/012/070/006000c",
+        "https://mainichi.jp/articles/20260911/dde/012/070/009000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-18",
+      "title": "食事量は1日1200kcal以下でも肥満な人を14日間追跡調査痩せない理由は米コロンビア大などの研究",
+      "publishedAt": "2026-09-11T12:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/11/2000001315"
+      ]
     }
   ],
-  "updatedAt": "2026-09-11T16:37:23.244480+09:00"
+  "updatedAt": "2026-09-11T22:12:41.754448+09:00"
 }
