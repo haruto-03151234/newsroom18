@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-11T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-11-06",
+  "lastCompletedEnd": "2026-09-11T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-11-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -8297,7 +8297,103 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/10/2000001385"
       ]
+    },
+    {
+      "editionId": "2026-09-11-12",
+      "title": "ガバメントソリューションサービスへの不正アクセスによる職員等の個人情報の漏えいの可能性について",
+      "publishedAt": "2026-09-11T11:45:36+09:00",
+      "urls": [
+        "https://www.digital.go.jp/news/2026-0911-01"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-12",
+      "title": "2027年国際園芸博覧会記念貨幣を発行します",
+      "publishedAt": "2026-09-11T11:30:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousan/kaki/260911.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-12",
+      "title": "生態系被害防止外来種リスト2026年改定版の公表について",
+      "publishedAt": "2026-09-11T11:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/kanbo/b_kankyo/260911.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-12",
+      "title": "かっぱ寿司配布前のコラボグッズフリマで買わないでプリキュアコラボ発表日に注意喚起",
+      "publishedAt": "2026-09-11T11:58:17+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/11/2000001398"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-12",
+      "title": "大阪府がインフル流行入り1617年シーズン以降で2番目の早さ",
+      "publishedAt": "2026-09-11T11:55:48+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9C0T2XV9CPTIL001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-12",
+      "title": "typescriptのコードを描いたスウェット発売hhkb30周年記念zozoのエンジニアが協力",
+      "publishedAt": "2026-09-11T11:48:42+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/11/2000001401"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-12",
+      "title": "大相撲夏場所優勝の若隆景が2場所連続休場7月に左太もも手術",
+      "publishedAt": "2026-09-11T11:00:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260911de49653"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-12",
+      "title": "北海道と札幌市副首都指定へ前のめり補助金に期待感疑問の声も",
+      "publishedAt": "2026-09-11T10:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9B458MV9BIIPE007M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-12",
+      "title": "anthropicai悪用レポートを公開中国ai企業の蒸留各国政府の監視・世論操作生物兵器につながり得る研究を列挙",
+      "publishedAt": "2026-09-11T08:13:19+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/11/2000001390"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-12",
+      "title": "米同時多発テロ事件から25年政治社会への影響検証する動きも",
+      "publishedAt": "2026-09-11T07:14:43+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260911de49614"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-12",
+      "title": "水星実は半径12キロ縮んでいた凹凸に隠れたしわ解明北大",
+      "publishedAt": "2026-09-11T06:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9B242PV9BUTFL005M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-11-12",
+      "title": "ベネチア国際映画祭で日本映画が注目qaで詳しく",
+      "publishedAt": "2026-09-11T05:11:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260910de49598"
+      ]
     }
   ],
-  "updatedAt": "2026-09-11T07:49:44.234055+09:00"
+  "updatedAt": "2026-09-11T16:37:23.244480+09:00"
 }
