@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-12T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-12-12",
+  "lastCompletedEnd": "2026-09-12T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-12-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -8679,7 +8679,87 @@
       "urls": [
         "https://www.asahi.com/articles/ASV9911GXV99ULFA00JM.html"
       ]
+    },
+    {
+      "editionId": "2026-09-12-18",
+      "title": "火山名十勝岳火山の状況に関する解説情報",
+      "publishedAt": "2026-09-12T16:00:04+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260912070004_0_VFVO51_016000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-12-18",
+      "title": "沖縄知事選2026反日でもわがままでもない沖縄・稲嶺元知事が語るあるべき姿",
+      "publishedAt": "2026-09-12T17:49:25+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260912/k00/00m/010/120000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-12-18",
+      "title": "維新藤田共同代表閣僚に加え副大臣・政務官の打診応じる",
+      "publishedAt": "2026-09-12T17:45:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260912de49891"
+      ]
+    },
+    {
+      "editionId": "2026-09-12-18",
+      "title": "大相撲名古屋場所で優勝の安青錦に優勝額贈呈秋場所は13日初日",
+      "publishedAt": "2026-09-12T17:29:20+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260912/k00/00m/050/117000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-12-18",
+      "title": "イランが中国の衛星画像をもとに米軍攻撃か米有力紙",
+      "publishedAt": "2026-09-12T17:08:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260912de49890"
+      ]
+    },
+    {
+      "editionId": "2026-09-12-18",
+      "title": "裁判plus司法のリアル同性婚もう待てない79歳パートナーと選んだ司法での闘い",
+      "publishedAt": "2026-09-12T17:00:12+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260911/k00/00m/040/094000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-12-18",
+      "title": "北朝鮮が日本海に向けて弾道ミサイル日米韓訓練への対抗の可能性",
+      "publishedAt": "2026-09-12T16:35:24+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9C7FJJV9CUHBI003M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-12-18",
+      "title": "岐阜ケーキ店火災現場に多くの献花死亡した店経営者らを悼む声",
+      "publishedAt": "2026-09-12T16:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9D1VWHV9DOHGB005M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-12-18",
+      "title": "パドレス松井裕樹1イニング無安打無失点チームは5連勝",
+      "publishedAt": "2026-09-12T15:46:06+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260912de49885"
+      ]
+    },
+    {
+      "editionId": "2026-09-12-18",
+      "title": "歌舞伎俳優・片岡亀蔵さん死亡火災知人を書類送検たばこ不始末か",
+      "publishedAt": "2026-09-12T15:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9D1D2YV9DUTIL001M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-09-12T16:29:53.521496+09:00"
+  "updatedAt": "2026-09-12T21:36:33.443588+09:00"
 }
