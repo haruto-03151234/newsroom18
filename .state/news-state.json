@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-12T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-12-06",
+  "lastCompletedEnd": "2026-09-12T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-12-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -8591,7 +8591,95 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/11/2000001424"
       ]
+    },
+    {
+      "editionId": "2026-09-12-12",
+      "title": "火山名十勝岳火山の状況に関する解説情報",
+      "publishedAt": "2026-09-12T09:59:56+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260912005957_0_VFVO51_016000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-12-12",
+      "title": "セルビアでボスニアの虐殺者の手厚い葬儀外交問題に発展",
+      "publishedAt": "2026-09-12T11:52:16+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260912/k00/00m/030/061000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-12-12",
+      "title": "韓国軍北朝鮮が短距離弾道ミサイル発射日米韓訓練に反発か",
+      "publishedAt": "2026-09-12T11:51:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260912de49846"
+      ]
+    },
+    {
+      "editionId": "2026-09-12-12",
+      "title": "ドジャース大谷翔平右上腕二頭筋の炎症で15日間のil入り",
+      "publishedAt": "2026-09-12T11:33:07+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260912de49868"
+      ]
+    },
+    {
+      "editionId": "2026-09-12-12",
+      "title": "ハリウッド映画もネトフリも聖地巡礼を支えるロケの裏方",
+      "publishedAt": "2026-09-12T11:30:06+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260912/k00/00m/200/014000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-12-12",
+      "title": "災害時自宅近くの道路寸断など不安6割超内閣府世論調査",
+      "publishedAt": "2026-09-12T11:30:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260912de49866"
+      ]
+    },
+    {
+      "editionId": "2026-09-12-12",
+      "title": "早くも初詣の準備千葉・成田山新勝寺で護摩札づくり始まる",
+      "publishedAt": "2026-09-12T11:15:06+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260911/k00/00m/310/339000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-12-12",
+      "title": "近づく米中間選挙米歴史家が語る郵便投票や莫大な資金が必要な理由",
+      "publishedAt": "2026-09-12T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9B21HCV9BUHBI00RM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-12-12",
+      "title": "対象と距離取るユーモアのススメ学者芸人サンキュータツオさん",
+      "publishedAt": "2026-09-12T10:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV8016DZV80UHMC00FM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-12-12",
+      "title": "壁紙diyとイマドキの超短焦点4kプロジェクターを寝室で試したら検証が止められなくなった",
+      "publishedAt": "2026-09-12T10:31:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/12/2000001428"
+      ]
+    },
+    {
+      "editionId": "2026-09-12-12",
+      "title": "先読みしドア開閉・運転のクセつかみ制御アイシンがai使い新技術",
+      "publishedAt": "2026-09-12T07:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9911GXV99ULFA00JM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-09-12T07:50:41.011870+09:00"
+  "updatedAt": "2026-09-12T16:29:53.521496+09:00"
 }
