@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-13T18:00:00+09:00",
-  "lastCompletedEdition": "2026-09-13-18",
+  "lastCompletedEnd": "2026-09-14T06:00:00+09:00",
+  "lastCompletedEdition": "2026-09-14-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -9032,7 +9032,99 @@
       "urls": [
         "https://www.asahi.com/articles/ASV9F1D6XV9FPLFA003M.html"
       ]
+    },
+    {
+      "editionId": "2026-09-14-06",
+      "title": "長野県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-09-14T05:33:20+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260913203321_0_VPFJ50_200000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260913203322_0_VPFJ50_180000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260913203323_0_VPCJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-14-06",
+      "title": "石川県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-14T05:25:26+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260913202526_0_VPFJ50_280000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260913203312_0_VPFJ50_170000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260913203515_0_VPFJ50_150000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-14-06",
+      "title": "千葉豪雨屋外での移動危険避難所開設しない判断の自治体も",
+      "publishedAt": "2026-09-14T05:45:01+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260913de50000"
+      ]
+    },
+    {
+      "editionId": "2026-09-14-06",
+      "title": "政府・与党沖縄県知事選古謝氏当選で辺野古移設推進",
+      "publishedAt": "2026-09-14T05:30:41+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260914de50006"
+      ]
+    },
+    {
+      "editionId": "2026-09-14-06",
+      "title": "韓国のパワーにねじ伏せられ日本完封負けu18アジア選手権",
+      "publishedAt": "2026-09-14T05:30:07+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260913/k00/00m/050/148000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-14-06",
+      "title": "維新中司幹事長の入閣調整今週にも自民党役員人事内閣改造",
+      "publishedAt": "2026-09-14T05:12:35+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260914de50001"
+      ]
+    },
+    {
+      "editionId": "2026-09-14-06",
+      "title": "プーチン政治の正当化識者が語る有事統制下の露下院選とは",
+      "publishedAt": "2026-09-14T05:00:13+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260912/k00/00m/030/035000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-14-06",
+      "title": "沖縄知事選2026保守系12年ぶり県政奪還国の安保政策に追い風古謝氏初当選",
+      "publishedAt": "2026-09-14T04:59:06+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260914/k00/00m/010/002000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-14-06",
+      "title": "西田有志がチーム最多の18得点バレー男子ロス五輪切符を獲得",
+      "publishedAt": "2026-09-13T23:29:19+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9F4PY8V9FUTQP00JM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-14-06",
+      "title": "中部電力の社長と会長辞任の方向浜岡原発のデータ不正問題で引責",
+      "publishedAt": "2026-09-13T20:38:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9F2H73V9FULFA002M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-14-06",
+      "title": "悠仁さま初めて東北の震災遺構に質問通して津波の威力確かめる",
+      "publishedAt": "2026-09-13T20:07:02+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9F3FM4V9FUTIL00RM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-09-13T22:37:51.557752+09:00"
+  "updatedAt": "2026-09-14T07:42:01.758804+09:00"
 }
