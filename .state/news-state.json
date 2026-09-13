@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-13T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-13-06",
+  "lastCompletedEnd": "2026-09-13T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-13-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -8831,7 +8831,103 @@
       "urls": [
         "https://www.asahi.com/articles/ASV9D3HFTV9DUHBI01DM.html"
       ]
+    },
+    {
+      "editionId": "2026-09-13-12",
+      "title": "石川県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-13T10:55:11+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260913015512_0_VPFJ50_170000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-13-12",
+      "title": "夜の公園で忍者100人令和の乱三重・伊賀で10月3日に",
+      "publishedAt": "2026-09-13T11:58:14+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260913/k00/00m/310/047000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-13-12",
+      "title": "フィリピン西部フェリー火災死者76人に捜索活動続く",
+      "publishedAt": "2026-09-13T11:48:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260913de49951"
+      ]
+    },
+    {
+      "editionId": "2026-09-13-12",
+      "title": "温泉地の子育て問題に新たなモデル保護者支える預かり施設誕生",
+      "publishedAt": "2026-09-13T11:46:21+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260913/k00/00m/310/039000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-13-12",
+      "title": "山口の温泉に卓球界のレジェンド地元出身プロとの対戦も",
+      "publishedAt": "2026-09-13T11:43:11+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260913/k00/00m/310/036000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-13-12",
+      "title": "随時更新ロシアウクライナに軍事侵攻9月13日の動き",
+      "publishedAt": "2026-09-13T11:26:10+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46990"
+      ]
+    },
+    {
+      "editionId": "2026-09-13-12",
+      "title": "大相撲秋場所きょう初日安青錦はやれることは全部やってきた",
+      "publishedAt": "2026-09-13T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9D1HR9V9DUTQP00QM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-13-12",
+      "title": "ブルージェイズ岡本和真3回出塁チームも連敗止める",
+      "publishedAt": "2026-09-13T10:22:50+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260913de49943"
+      ]
+    },
+    {
+      "editionId": "2026-09-13-12",
+      "title": "浮気を認めぬ夫と家庭内別居上野千鶴子さん夫が元気なうちに",
+      "publishedAt": "2026-09-13T10:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV954QVDV95UCVL04DM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-13-12",
+      "title": "お供えのサカキ多くは中国から国内産地はどうなっている",
+      "publishedAt": "2026-09-13T10:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV992G6TV99TLTB010M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-13-12",
+      "title": "anthropicのアモデイceoai開発のペース調整訴えるエッセイ公開アルトマン氏とマスク氏も賛同",
+      "publishedAt": "2026-09-13T08:06:11+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/13/2000001432"
+      ]
+    },
+    {
+      "editionId": "2026-09-13-12",
+      "title": "映画バックルームズが怖くなかったマンガ家基になったネット都市伝説にハマって本作の楽しみ方を理解する",
+      "publishedAt": "2026-09-13T07:16:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/13/2000001423"
+      ]
     }
   ],
-  "updatedAt": "2026-09-13T07:41:04.570380+09:00"
+  "updatedAt": "2026-09-13T16:50:06.253964+09:00"
 }
