@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-13T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-13-12",
+  "lastCompletedEnd": "2026-09-13T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-13-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -8927,7 +8927,112 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/13/2000001423"
       ]
+    },
+    {
+      "editionId": "2026-09-13-18",
+      "title": "津軽海峡で地震m45最大震度3",
+      "publishedAt": "2026-09-13T17:35:06+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260913083506_0_VXSE53_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-13-18",
+      "title": "火山名桜島降灰予報詳細",
+      "publishedAt": "2026-09-13T17:24:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260913082441_0_VFVO55_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-13-18",
+      "title": "石川県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-13T16:43:22+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260913074322_0_VPFJ50_170000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-13-18",
+      "title": "福井県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-09-13T16:16:13+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260913071613_0_VPFJ50_250000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260913074722_0_VPFJ50_180000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-13-18",
+      "title": "京都府気象解説情報落雷・突風",
+      "publishedAt": "2026-09-13T15:59:46+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260913065947_0_VPFJ50_260000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-13-18",
+      "title": "aiが世界に危険及ぼす米アンソロピック開発減速呼びかけ",
+      "publishedAt": "2026-09-13T17:59:21+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260913/k00/00m/020/091000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-13-18",
+      "title": "日本の火星衛星探査機mmxプロジェクトの研究者が講演会",
+      "publishedAt": "2026-09-13T17:54:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260913de49974"
+      ]
+    },
+    {
+      "editionId": "2026-09-13-18",
+      "title": "女子ゴルフ山下美夢有がプレーオフ制し大会初優勝",
+      "publishedAt": "2026-09-13T17:27:10+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260913de49973"
+      ]
+    },
+    {
+      "editionId": "2026-09-13-18",
+      "title": "米アンソロピックceoai開発ペース減速させる必要",
+      "publishedAt": "2026-09-13T17:24:03+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260913de49934"
+      ]
+    },
+    {
+      "editionId": "2026-09-13-18",
+      "title": "中谷一馬元衆院議員人生かけて恩返し横浜市長選に出馬表明",
+      "publishedAt": "2026-09-13T17:04:48+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260913/k00/00m/310/084000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-13-18",
+      "title": "続けるしかないアイヌ先住権訴訟の判決確定後初の特別採捕",
+      "publishedAt": "2026-09-13T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9F2CM4V9FIIPE00PM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-13-18",
+      "title": "日本のカルテット風雅第3位入賞ミュンヘン国際音楽コン",
+      "publishedAt": "2026-09-13T14:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9F0THHV9FUCVL003M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-13-18",
+      "title": "明治ミルクチョコ100歳巨大な板チョコ看板撮影会は倍率58倍",
+      "publishedAt": "2026-09-13T13:30:01+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9F1D6XV9FPLFA003M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-09-13T16:50:06.253964+09:00"
+  "updatedAt": "2026-09-13T22:37:51.557752+09:00"
 }
