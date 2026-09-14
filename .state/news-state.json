@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-14T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-14-12",
+  "lastCompletedEnd": "2026-09-14T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-14-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -9230,7 +9230,131 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/14/2000001430"
       ]
+    },
+    {
+      "editionId": "2026-09-14-18",
+      "title": "ハイチの危険情報危険レベル継続内容の更新",
+      "publishedAt": "2026-09-14T17:41:00+09:00",
+      "urls": [
+        "https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T088.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-14-18",
+      "title": "大東島地方気象解説情報落雷・突風",
+      "publishedAt": "2026-09-14T16:46:07+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260914074608_0_VPFJ50_472000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-14-18",
+      "title": "福井県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-09-14T16:43:17+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260914074318_0_VPFJ50_180000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-14-18",
+      "title": "岐阜県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-14T16:35:37+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260914073537_0_VPFJ50_230000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260914073817_0_VPFJ50_160000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260914075317_0_VPFJ50_210000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260914084425_0_VPFJ50_250000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-14-18",
+      "title": "令和8年梅雨前線豪雨令和8年8月千葉豪雨等による災害仮称における大規模災害時の災害査定の効率化の対象について第2回",
+      "publishedAt": "2026-09-14T15:30:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/kanbo/bunsyo/saigai/260914.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-14-18",
+      "title": "悠仁さま岩手の被災地の診療所に役に立っていること分かった",
+      "publishedAt": "2026-09-14T17:47:34+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9G2S51V9GUTIL00GM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-14-18",
+      "title": "活気取り戻したい桂文枝ら人力車で感謝の行進繁昌亭20周年",
+      "publishedAt": "2026-09-14T17:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9G2P92V9GUEFT007M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-14-18",
+      "title": "ai企業の数学難問証明めぐり森重文さんら警鐘一方で米学会は称賛",
+      "publishedAt": "2026-09-14T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9G21D6V9GUTFL00MM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-14-18",
+      "title": "lngの緊急融通の枠組みなど構築へ経済産業省",
+      "publishedAt": "2026-09-14T16:35:13+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260914de50123"
+      ]
+    },
+    {
+      "editionId": "2026-09-14-18",
+      "title": "森衆院議長ウクライナ訪問へ議長の訪問はロシア侵攻後初",
+      "publishedAt": "2026-09-14T16:30:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260914de50120"
+      ]
+    },
+    {
+      "editionId": "2026-09-14-18",
+      "title": "自動で耳コピアプリヤマハが無料公開音源読み込み3分でピアノ譜に",
+      "publishedAt": "2026-09-14T15:39:31+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/14/2000001452"
+      ]
+    },
+    {
+      "editionId": "2026-09-14-18",
+      "title": "パドレス松井裕樹無失点で今季初セーブチームは7連勝",
+      "publishedAt": "2026-09-14T14:43:38+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260914de50093"
+      ]
+    },
+    {
+      "editionId": "2026-09-14-18",
+      "title": "topicsクミコシャンソンティックな歌たちvol2愛する人多い曲にやりがい",
+      "publishedAt": "2026-09-14T13:33:03+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260914/dde/012/200/004000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-14-18",
+      "title": "topics",
+      "publishedAt": "2026-09-14T13:31:56+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260914/dde/012/200/001000c",
+        "https://mainichi.jp/articles/20260914/dde/012/200/003000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-14-18",
+      "title": "レベルファイブ発表会のai演出が物議不自然内容よりaiが気になる日野社長派手にしたかった",
+      "publishedAt": "2026-09-14T13:00:25+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/14/2000001440"
+      ]
     }
   ],
-  "updatedAt": "2026-09-14T17:22:04.472174+09:00"
+  "updatedAt": "2026-09-15T00:37:49.580820+09:00"
 }
