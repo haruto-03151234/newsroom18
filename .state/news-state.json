@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-14T18:00:00+09:00",
-  "lastCompletedEdition": "2026-09-14-18",
+  "lastCompletedEnd": "2026-09-15T06:00:00+09:00",
+  "lastCompletedEdition": "2026-09-15-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -9354,7 +9354,116 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/14/2000001440"
       ]
+    },
+    {
+      "editionId": "2026-09-15-06",
+      "title": "神奈川県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-15T05:32:09+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260914203210_0_VPFJ50_140000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260914203311_0_VPFJ50_120000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260914203432_0_VPFJ50_170000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260914204640_0_VPCJ50_270000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260914205416_0_VPFJ50_240000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260914205731_0_VPFJ50_280000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-06",
+      "title": "前線南下で広い範囲で激しい雨のおそれ土砂災害など警戒",
+      "publishedAt": "2026-09-15T05:57:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260914de50211"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-06",
+      "title": "白石の鼻巨石群研究成果を発表松山でシンポ夕日観賞会も",
+      "publishedAt": "2026-09-15T05:45:09+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260914/k00/00m/310/161000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-06",
+      "title": "トランプ大統領ai安全は政府が担保可能脅威論けん制",
+      "publishedAt": "2026-09-15T05:43:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50223"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-06",
+      "title": "jr北の赤字8区間維持したいが負担困難8割毎日新聞調査",
+      "publishedAt": "2026-09-15T05:15:11+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260914/k00/00m/310/212000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-06",
+      "title": "浜岡原発データ不正規制委が立ち入り検査結果取りまとめへ",
+      "publishedAt": "2026-09-15T05:14:29+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50216"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-06",
+      "title": "ドコモはなぜつながりにくい・遅いのか巻き返すカギは真の5g",
+      "publishedAt": "2026-09-15T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9C3HMZV9CULFA01KM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-06",
+      "title": "耳寄りな話・tbsラジオ",
+      "publishedAt": "2026-09-15T02:01:56+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260915/ddm/018/200/027000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-06",
+      "title": "長野県千曲市で16万円強盗容疑2070代の5人を逮捕匿流か",
+      "publishedAt": "2026-09-14T23:53:11+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9G4QF0V9GOXIE03TM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-06",
+      "title": "俳優の中村ゆりさんが直腸がんで死去44歳nhkドラマ降板後",
+      "publishedAt": "2026-09-14T23:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9G4QR1V9GUCVL04PM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-06",
+      "title": "録画した番組をgoogleドライブonedriveに保存パナソニック新型digaで",
+      "publishedAt": "2026-09-14T21:24:01+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/14/2000001465"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-06",
+      "title": "gptastraでゲーム開発ほぼソシャゲ説を唱えたい非エンジニアの挑戦は廃課金への道か",
+      "publishedAt": "2026-09-14T21:09:55+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/14/2000001436"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-06",
+      "title": "aiで効率化しても仕事が増えるだけ月時間浮かせても報告しない社員たち広がるai版静かな退職",
+      "publishedAt": "2026-09-14T19:48:23+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/14/2000001258"
+      ]
     }
   ],
-  "updatedAt": "2026-09-15T00:37:49.580820+09:00"
+  "updatedAt": "2026-09-15T08:32:57.849730+09:00"
 }
