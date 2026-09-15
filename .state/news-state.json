@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-15T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-15-06",
+  "lastCompletedEnd": "2026-09-15T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-15-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -9463,7 +9463,106 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/14/2000001258"
       ]
+    },
+    {
+      "editionId": "2026-09-15-12",
+      "title": "奄美地方鹿児島県気象解説情報落雷・突風",
+      "publishedAt": "2026-09-15T10:40:16+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260915014017_0_VPFJ50_460040.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-12",
+      "title": "千葉県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-15T10:30:33+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260915013034_0_VPFJ50_250000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260915014230_0_VPFJ50_140000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260915014550_0_VPFJ50_120000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-12",
+      "title": "東京都気象解説情報落雷・突風",
+      "publishedAt": "2026-09-15T06:13:10+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260914211310_0_VPFJ50_260000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260915013716_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-12",
+      "title": "netflixとセガが提携名作ゲームを続映像化へ第1弾はクレイジータクシー",
+      "publishedAt": "2026-09-15T11:58:03+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/15/2000001476"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-12",
+      "title": "関越道でトラックなど3台絡む事故2人死亡上り線は一時通行止め",
+      "publishedAt": "2026-09-15T11:56:47+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9H0VB7V9HUZOB001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-12",
+      "title": "こんなに早くやすやすと制圧ぼう然とする紅海要衝モカの住民",
+      "publishedAt": "2026-09-15T11:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9H0J18V9HBQBQ2F4M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-12",
+      "title": "東西線の葛西",
+      "publishedAt": "2026-09-15T11:04:49+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9H0JBGV9HUTIL00DM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-12",
+      "title": "トランプ大統領ウクライナロシアエネルギー施設攻撃せず",
+      "publishedAt": "2026-09-15T10:45:58+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50224"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-12",
+      "title": "初代switchに脆弱性qrコード読み取りで情報漏えいの恐れ深刻度高",
+      "publishedAt": "2026-09-15T10:32:52+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/15/2000001474"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-12",
+      "title": "無人タクシー東京で来年運行へgowaymo日本交通が合意",
+      "publishedAt": "2026-09-15T09:39:38+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/15/2000001472"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-12",
+      "title": "ドジャース大谷翔平15日から打撃練習再開へ",
+      "publishedAt": "2026-09-15T08:52:33+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50237"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-12",
+      "title": "フィンランド仏核抑止力構想に参加を表明",
+      "publishedAt": "2026-09-15T07:52:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50231"
+      ]
     }
   ],
-  "updatedAt": "2026-09-15T08:32:57.849730+09:00"
+  "updatedAt": "2026-09-15T17:13:35.947002+09:00"
 }
