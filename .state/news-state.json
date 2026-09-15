@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-15T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-15-12",
+  "lastCompletedEnd": "2026-09-15T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-15-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -9562,7 +9562,138 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20260915de50231"
       ]
+    },
+    {
+      "editionId": "2026-09-15-18",
+      "title": "第1回日豪食料安全保障対話について",
+      "publishedAt": "2026-09-15T17:13:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/yusyutu_kokusai/chiiki/260915.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-18",
+      "title": "大東島地方気象解説情報落雷・突風",
+      "publishedAt": "2026-09-15T16:54:09+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260915075409_0_VPFJ50_472000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-18",
+      "title": "東京都気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-09-15T16:30:38+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260915073038_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-18",
+      "title": "静岡県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-15T16:25:17+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260915072518_0_VPFJ50_120000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260915073728_0_VPFJ50_210000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260915074136_0_VPFJ50_220000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260915074643_0_VPFJ50_230000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-18",
+      "title": "株式会社新開産業における牛の個体識別番号の不適正表示に対する措置について",
+      "publishedAt": "2026-09-15T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/kansa/260915.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-18",
+      "title": "外国法人等による農地取得に関する調査の結果について",
+      "publishedAt": "2026-09-15T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/keiei/seisaku/260915.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-18",
+      "title": "タイ国籍少女に性的サービスさせた罪店の経営者に拘禁刑5年",
+      "publishedAt": "2026-09-15T17:37:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50390"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-18",
+      "title": "監視されていないときのaiはもう評価できないopenai現役研究者が個人声明",
+      "publishedAt": "2026-09-15T17:33:37+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/15/2000001500"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-18",
+      "title": "北京市でドローン所持禁止へ所有者は処分か移転snsで皮肉も",
+      "publishedAt": "2026-09-15T17:31:30+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9H2PDGV9HUHBI00QM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-18",
+      "title": "ネパールにdna型鑑定機材を供与へ茂木外相が発表",
+      "publishedAt": "2026-09-15T17:08:16+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50370"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-18",
+      "title": "ロッキーズ菅野智之5回6失点で10敗目",
+      "publishedAt": "2026-09-15T16:58:54+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50351"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-18",
+      "title": "俳優の夏帆さん結婚出演映画baus手がけた甫木元空監督と",
+      "publishedAt": "2026-09-15T16:15:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9H25YGV9HUCVL02KM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-18",
+      "title": "vaioが再び挑戦する理由ノジマが後押し独自のマルチフリップ機構が復活へ",
+      "publishedAt": "2026-09-15T15:37:31+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/11/2000001417"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-18",
+      "title": "懐かしの魔法瓶製造ラインやロボットスーツ未来技術遺産に13件",
+      "publishedAt": "2026-09-15T14:01:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9G3RC6V9GUTFL00GM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-18",
+      "title": "topicsbsフジ開局25周年記念日本遺産物語加藤雅也がはじまりを旅",
+      "publishedAt": "2026-09-15T13:37:49+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260915/dde/012/200/004000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-15-18",
+      "title": "mbsありがとう浜村淳です関西のラジオの宝生放送に幕歌の宝石箱は継続100歳まで",
+      "publishedAt": "2026-09-15T13:36:40+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260915/dde/012/200/008000c"
+      ]
     }
   ],
-  "updatedAt": "2026-09-15T17:13:35.947002+09:00"
+  "updatedAt": "2026-09-15T23:08:29.680685+09:00"
 }
