@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-15T18:00:00+09:00",
-  "lastCompletedEdition": "2026-09-15-18",
+  "lastCompletedEnd": "2026-09-16T06:00:00+09:00",
+  "lastCompletedEdition": "2026-09-16-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -9693,7 +9693,113 @@
       "urls": [
         "https://mainichi.jp/articles/20260915/dde/012/200/008000c"
       ]
+    },
+    {
+      "editionId": "2026-09-16-06",
+      "title": "東京都気象解説情報落雷・突風",
+      "publishedAt": "2026-09-16T05:31:27+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260915203128_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260915203904_0_VPFJ50_300000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-16-06",
+      "title": "関東甲信地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-16T05:23:27+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260915202328_0_VPFJ50_220000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260915203519_0_VPCJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-16-06",
+      "title": "高市首相党役員人事執行部ほぼ留任固める政権安定狙いか",
+      "publishedAt": "2026-09-16T05:59:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260915de50454"
+      ]
+    },
+    {
+      "editionId": "2026-09-16-06",
+      "title": "大相撲秋場所4日目見どころ安青錦は新小結伯乃富士と対戦",
+      "publishedAt": "2026-09-16T05:55:22+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260916de50465"
+      ]
+    },
+    {
+      "editionId": "2026-09-16-06",
+      "title": "福岡県議会金銭授受問題調査の第三者委員会17日に設置へ",
+      "publishedAt": "2026-09-16T05:40:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260916de50456"
+      ]
+    },
+    {
+      "editionId": "2026-09-16-06",
+      "title": "物価考悩んでいると戸建ても上がる首都圏で人気億戸建てとは",
+      "publishedAt": "2026-09-16T05:00:31+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260914/k00/00m/020/134000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-16-06",
+      "title": "高市流内閣改造どうなる支持率演出は不必要と言うけれど",
+      "publishedAt": "2026-09-16T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9H3F2XV9HUTFK00BM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-16-06",
+      "title": "財政難の兵庫県に時価8億3400万円の金の延べ棒匿名希望の寄付",
+      "publishedAt": "2026-09-16T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9H3WJGV9HPIHB00YM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-16-06",
+      "title": "メルツ首相国連演説を断念仕事ぶり満足10内政に集中へ",
+      "publishedAt": "2026-09-16T03:44:16+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9H652JV9HUHBI01NM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-16-06",
+      "title": "ベネチア国際映画祭ベネチア国際映画祭ガザ映画受賞イスラエル反発監督の国籍剥奪へ行動",
+      "publishedAt": "2026-09-16T02:41:57+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260916/ddm/007/200/072000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-16-06",
+      "title": "8年前の強盗未遂容疑で国際手配の韓国籍2人逮捕当日に出国",
+      "publishedAt": "2026-09-15T21:29:43+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260915/k00/00m/310/243000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-16-06",
+      "title": "メルカリポケカ最新パックの出品禁止に",
+      "publishedAt": "2026-09-15T19:45:28+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/15/2000001506"
+      ]
+    },
+    {
+      "editionId": "2026-09-16-06",
+      "title": "ドラマvivantのワンシーンに映像制作界隈がぞっとするmicrosdカードを端子むき出しで手渡し",
+      "publishedAt": "2026-09-15T18:26:03+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/15/2000001503"
+      ]
     }
   ],
-  "updatedAt": "2026-09-15T23:08:29.680685+09:00"
+  "updatedAt": "2026-09-16T08:14:55.620193+09:00"
 }
