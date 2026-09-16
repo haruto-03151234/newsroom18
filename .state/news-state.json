@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-16T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-16-06",
+  "lastCompletedEnd": "2026-09-16T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-16-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -9799,7 +9799,111 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/15/2000001503"
       ]
+    },
+    {
+      "editionId": "2026-09-16-12",
+      "title": "大東島地方気象解説情報落雷・突風",
+      "publishedAt": "2026-09-16T10:37:07+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260916013708_0_VPFJ50_472000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-16-12",
+      "title": "令和8年熊本地震に関する対応状況について9月16日",
+      "publishedAt": "2026-09-16T10:00:00+09:00",
+      "urls": [
+        "https://www.digital.go.jp/news/0346c21b-29d7-49a6-8f1a-68b0ea784bb4"
+      ]
+    },
+    {
+      "editionId": "2026-09-16-12",
+      "title": "千葉県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-16T06:31:13+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260915213113_0_VPFJ50_120000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-16-12",
+      "title": "熊本県天草・芦北地方で地震m40最大震度4",
+      "publishedAt": "2026-09-16T06:13:50+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260915211350_0_VXSE53_270000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-16-12",
+      "title": "大阪の広告会社が18億円脱税か東京国税局が社長ら告発",
+      "publishedAt": "2026-09-16T11:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9H2FWLV9HUTIL00ZM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-16-12",
+      "title": "キヤノン新デザインのフルサイズミラーレスeosr8markii発表重量は約546g",
+      "publishedAt": "2026-09-16T11:29:30+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/16/2000001530"
+      ]
+    },
+    {
+      "editionId": "2026-09-16-12",
+      "title": "metainstagramやfacebook横断の新サブスクmetaone発表ai枠拡大で月額949円から",
+      "publishedAt": "2026-09-16T11:24:39+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/16/2000001529"
+      ]
+    },
+    {
+      "editionId": "2026-09-16-12",
+      "title": "ゲームショウでリアルタイムデバッグ会来場者が見つけたバグをその場で直す野田クリスタル",
+      "publishedAt": "2026-09-16T11:13:21+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/16/2000001528"
+      ]
+    },
+    {
+      "editionId": "2026-09-16-12",
+      "title": "紅海側の物流要衝の海峡が不安定化国連安保理で対応協議",
+      "publishedAt": "2026-09-16T11:04:09+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260916de50491"
+      ]
+    },
+    {
+      "editionId": "2026-09-16-12",
+      "title": "原油輸入量2カ月連続で前年上回るコスト高で貿易赤字は1兆円超",
+      "publishedAt": "2026-09-16T11:03:10+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9J0HN5V9JULFA007M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-16-12",
+      "title": "ドジャース大谷翔平打撃練習再開継続して段階上げていく",
+      "publishedAt": "2026-09-16T10:00:53+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260916de50485"
+      ]
+    },
+    {
+      "editionId": "2026-09-16-12",
+      "title": "ヤマトリノ名乗り活動する27歳女コカイン所持疑いで逮捕",
+      "publishedAt": "2026-09-16T09:31:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260916de50483"
+      ]
+    },
+    {
+      "editionId": "2026-09-16-12",
+      "title": "縄文人最終氷期の最も寒い時期に分岐か42人のゲノムを解析",
+      "publishedAt": "2026-09-16T09:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV94349DV94UTFL012M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-09-16T08:14:55.620193+09:00"
+  "updatedAt": "2026-09-16T17:07:30.059280+09:00"
 }
