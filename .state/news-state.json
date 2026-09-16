@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-16T18:00:00+09:00",
-  "lastCompletedEdition": "2026-09-16-18",
+  "lastCompletedEnd": "2026-09-17T06:00:00+09:00",
+  "lastCompletedEdition": "2026-09-17-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -10049,7 +10049,128 @@
       "urls": [
         "https://mainichi.jp/articles/20260916/dde/012/200/005000c"
       ]
+    },
+    {
+      "editionId": "2026-09-17-06",
+      "title": "東京都気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-17T05:23:51+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260916202351_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260916204830_0_VPFJ50_220000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-06",
+      "title": "茨城県南部で地震m48最大震度3",
+      "publishedAt": "2026-09-17T00:16:46+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260916151646_0_VXSE53_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-06",
+      "title": "イエメンのホーシー派によるサウジアラビア南部への攻撃に伴う注意喚起",
+      "publishedAt": "2026-09-16T18:14:05+09:00",
+      "urls": [
+        "https://www.anzen.mofa.go.jp/info/pcspotinfo_2026C041.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-06",
+      "title": "外国為替及び外国貿易法の一部を改正する法律の施行に伴う関係政令の整備等に関する政令等について",
+      "publishedAt": "2026-09-16T18:00:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/policy/international_policy/gaitame_kawase/press_release/20260908204517.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-06",
+      "title": "300人以上が犠牲カスリーン台風から79年栃木で慰霊祭",
+      "publishedAt": "2026-09-17T05:45:08+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260916/k00/00m/310/091000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-06",
+      "title": "サウジアラビア紅海側で原油の積み出し停止報道",
+      "publishedAt": "2026-09-17T05:43:09+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50693"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-06",
+      "title": "もっと社会人野球",
+      "publishedAt": "2026-09-17T05:30:13+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260916/k00/00m/050/204000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-06",
+      "title": "eu15歳未満の子どもsnsの利用を制限する法案加盟国に提案へ",
+      "publishedAt": "2026-09-17T05:26:26+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50700"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-06",
+      "title": "銃撃事件で動き始めた旧統一教会の解散プロセス専門家2氏の評価は",
+      "publishedAt": "2026-09-17T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9C2J2HV9CUPQJ00RM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-06",
+      "title": "公平への逆風と渇望iccへの制裁が映したもの東畑開人さん",
+      "publishedAt": "2026-09-17T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9G1HXWV9GOXIE018M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-06",
+      "title": "アルツハイマー病治療薬レカネマブ皮下注射型が正式承認",
+      "publishedAt": "2026-09-17T03:28:21+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50703"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-06",
+      "title": "くらしナビ・社会保障治療の苦労笑い飛ばす神戸がんサバイバーのグランプリ",
+      "publishedAt": "2026-09-17T02:26:31+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260917/ddm/013/100/005000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-06",
+      "title": "ポスト高市留任目立つ人事の意味ベテラン議員が語る首相の思惑",
+      "publishedAt": "2026-09-16T21:50:25+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9J44MNV9JUTFK00XM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-06",
+      "title": "ntt名乗る電話転送先は警察巧妙化するニセ警察詐欺約4割が本物だと思った",
+      "publishedAt": "2026-09-16T21:02:09+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/16/2000001559"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-06",
+      "title": "salesforceで大規模障害夕方以降に落ちるなんて阿鼻叫喚paypayのフォームにも影響",
+      "publishedAt": "2026-09-16T20:27:43+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/16/2000001562"
+      ]
     }
   ],
-  "updatedAt": "2026-09-16T23:00:48.818074+09:00"
+  "updatedAt": "2026-09-17T08:19:37.317577+09:00"
 }
