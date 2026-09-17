@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-17T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-17-06",
+  "lastCompletedEnd": "2026-09-17T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-17-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -10170,7 +10170,95 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/16/2000001562"
       ]
+    },
+    {
+      "editionId": "2026-09-17-12",
+      "title": "東京都気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-17T10:42:43+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260917014244_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-12",
+      "title": "東京都気象解説情報台風第25号",
+      "publishedAt": "2026-09-17T06:42:38+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260916214239_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-12",
+      "title": "googledeepmindagiの影響を議論するdeepmindinstitute設立agiに近づいている",
+      "publishedAt": "2026-09-17T11:38:20+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/17/2000001573"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-12",
+      "title": "都立高2校の入試内申点ありなし両方で点数算出高い方で合否判定",
+      "publishedAt": "2026-09-17T11:35:30+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9K0DH4V9KOXIE03TM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-12",
+      "title": "在韓米軍巡る米韓の駆け引き日本を巻き込んだ米軍再編の可能性も",
+      "publishedAt": "2026-09-17T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV991FPRV99UHBI00VM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-12",
+      "title": "東京ゲームショウ開幕史上最長5日間30万人の来場見込む",
+      "publishedAt": "2026-09-17T10:38:23+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/17/2000001571"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-12",
+      "title": "米frb025の利上げ決定年内追加利上げに踏み切るか焦点に",
+      "publishedAt": "2026-09-17T10:29:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260916de50687"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-12",
+      "title": "お母さんあれどこに応じる負担女性に偏る見えない家事",
+      "publishedAt": "2026-09-17T10:15:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9J3FDLV9JPLFA00DM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-12",
+      "title": "ブルージェイズ岡本和真ノーヒットもチームは逆転勝ち",
+      "publishedAt": "2026-09-17T09:36:51+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50730"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-12",
+      "title": "核のごみ処分地調査常陸大宮市議は反対5賛成4表明せずも",
+      "publishedAt": "2026-09-17T09:07:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50714"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-12",
+      "title": "日本経済新聞広告冊子の部数水増し2社に数千万円過大請求",
+      "publishedAt": "2026-09-17T08:08:27+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/17/2000001566"
+      ]
     }
   ],
-  "updatedAt": "2026-09-17T08:19:37.317577+09:00"
+  "updatedAt": "2026-09-17T17:13:45.271009+09:00"
 }
