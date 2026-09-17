@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-17T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-17-12",
+  "lastCompletedEnd": "2026-09-17T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-17-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -10258,7 +10258,120 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/17/2000001566"
       ]
+    },
+    {
+      "editionId": "2026-09-17-18",
+      "title": "東京都気象解説情報台風第25号",
+      "publishedAt": "2026-09-17T16:51:22+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260917075122_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260917080137_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-18",
+      "title": "農林水産分野ghg排出削減技術海外展開パッケージを改訂し農林水産分野gx技術海外展開パッケージとして公表通称",
+      "publishedAt": "2026-09-17T13:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/kanbo/b_kankyo/260917.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-18",
+      "title": "ドローン攻撃を受けたaws中東データセンター半年の復旧作業の末に一部データは回復不能",
+      "publishedAt": "2026-09-17T17:53:31+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/17/2000001590"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-18",
+      "title": "popopoサービス終了開始から約半年",
+      "publishedAt": "2026-09-17T17:46:33+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/17/2000001591"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-18",
+      "title": "米オープンai人間の意図に沿わないai動作を早期公表へ",
+      "publishedAt": "2026-09-17T17:46:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50855"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-18",
+      "title": "ビールと水を交互に飲まないと倒れるグラス発売半強制的に酒量抑制",
+      "publishedAt": "2026-09-17T17:41:31+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9K22MVV9KUOOB00FM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-18",
+      "title": "ベッセント氏誤算一筋縄でいかぬ長期金利利上げの作用は両方向",
+      "publishedAt": "2026-09-17T17:31:50+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9K25VJV9KULFA00WM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-18",
+      "title": "エンジェルス菊池雄星5回5失点で6敗目",
+      "publishedAt": "2026-09-17T17:26:02+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50850"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-18",
+      "title": "アストロズ今井達也9回に登板し無失点",
+      "publishedAt": "2026-09-17T17:17:35+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50847"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-18",
+      "title": "迷惑ってなんだろう樫山文枝姉との別れを経て変わった死生観",
+      "publishedAt": "2026-09-17T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9J5370V9JUCVL01HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-18",
+      "title": "旅客機並みの巨大通信衛星スターリンクv3がもたらすもの",
+      "publishedAt": "2026-09-17T14:02:14+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/17/2000001579"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-18",
+      "title": "評演劇青年劇場喜劇ワタクシたちの道徳政治風刺へ果敢な挑戦評・濱田元子",
+      "publishedAt": "2026-09-17T13:58:59+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260917/dde/018/200/014000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-18",
+      "title": "topics上方伝統芸能・文化ユニット霜乃会公演aiにない愛を多彩に",
+      "publishedAt": "2026-09-17T13:58:48+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260917/dde/018/200/012000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-17-18",
+      "title": "topics田川寿美デビュー35年目地に足着けて歌の力を女人高野これからベスト盤やコンサート",
+      "publishedAt": "2026-09-17T13:56:30+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260917/dde/018/200/017000c"
+      ]
     }
   ],
-  "updatedAt": "2026-09-17T17:13:45.271009+09:00"
+  "updatedAt": "2026-09-17T23:04:42.887129+09:00"
 }
