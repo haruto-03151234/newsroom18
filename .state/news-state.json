@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-18T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-18-06",
+  "lastCompletedEnd": "2026-09-18T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-18-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -10460,7 +10460,90 @@
       "urls": [
         "https://www.asahi.com/articles/ASV9K2T3NV9KUTFL011M.html"
       ]
+    },
+    {
+      "editionId": "2026-09-18-12",
+      "title": "全般気象解説情報台風第25号",
+      "publishedAt": "2026-09-18T06:29:56+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260917212957_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260917214308_0_VPFJ50_120000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260918022909_0_VPZJ50_010000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260918024754_0_VPFJ50_140000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-18-12",
+      "title": "高市首相来週トランプ大統領と会談を調整中国で意見交換か",
+      "publishedAt": "2026-09-18T11:59:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de50983"
+      ]
+    },
+    {
+      "editionId": "2026-09-18-12",
+      "title": "メルカリ写真を撮るだけで相場価格が分かる持ち物査定ai活用",
+      "publishedAt": "2026-09-18T11:52:08+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/18/2000001611"
+      ]
+    },
+    {
+      "editionId": "2026-09-18-12",
+      "title": "ai開発競争をやめよアメリカで若者が集まりデモ",
+      "publishedAt": "2026-09-18T11:36:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de50974"
+      ]
+    },
+    {
+      "editionId": "2026-09-18-12",
+      "title": "楽天市場出店料4割値上げ物価高やエネルギーコスト上昇で",
+      "publishedAt": "2026-09-18T11:33:57+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/18/2000001608"
+      ]
+    },
+    {
+      "editionId": "2026-09-18-12",
+      "title": "カナダの脱トランプ加速戦闘機購入も見直し背中蹴られて買うな",
+      "publishedAt": "2026-09-18T11:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9J6HCGV9JUHBI007M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-18-12",
+      "title": "大阪駅前に現れた突起物snsでの賛否踏まえ市がフェンス設置へ",
+      "publishedAt": "2026-09-18T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9K46D6V9KOXIE04GM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-18-12",
+      "title": "マイクロフォーサーズ規格にgoproが賛同電子接点ないのに",
+      "publishedAt": "2026-09-18T10:34:10+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/18/2000001602"
+      ]
+    },
+    {
+      "editionId": "2026-09-18-12",
+      "title": "声は私そのものai時代まる子のおばあちゃん声優の願い",
+      "publishedAt": "2026-09-18T07:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9J1Q0DV9JUPQJ00PM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-18-12",
+      "title": "大相撲秋場所6日目見どころ綱とりの霧島は義ノ富士と対戦",
+      "publishedAt": "2026-09-18T05:48:14+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260917de50917"
+      ]
     }
   ],
-  "updatedAt": "2026-09-18T08:10:49.283564+09:00"
+  "updatedAt": "2026-09-18T16:48:03.181367+09:00"
 }
