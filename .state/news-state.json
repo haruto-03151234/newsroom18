@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-18T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-18-12",
+  "lastCompletedEnd": "2026-09-18T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-18-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -10543,7 +10543,142 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20260917de50917"
       ]
+    },
+    {
+      "editionId": "2026-09-18-18",
+      "title": "東京都気象解説情報台風第25号",
+      "publishedAt": "2026-09-18T17:08:11+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260918080811_0_VPFJ50_140000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260918080934_0_VPFJ50_080000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260918081050_0_VPFJ50_220000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260918081752_0_VPFJ50_240000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260918082937_0_VPFJ50_120000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260918083306_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-18-18",
+      "title": "令和7年産米の相対取引価格・数量について令和8年8月",
+      "publishedAt": "2026-09-18T17:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousan/kikaku/260918.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-18-18",
+      "title": "米に関するマンスリーレポート令和8年9月号の公表について",
+      "publishedAt": "2026-09-18T17:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousan/kikaku/260918_1.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-18-18",
+      "title": "高市総理ともお話ししたトゥンクトゥンクが首相官邸から飛び出して初出張します",
+      "publishedAt": "2026-09-18T16:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousan/kaki/260918_1.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-18-18",
+      "title": "ガバメントai源内ossver20の計画に関する全国オンライン説明会を開催しました",
+      "publishedAt": "2026-09-18T15:00:00+09:00",
+      "urls": [
+        "https://www.digital.go.jp/news/b6d94913-60d0-450d-ab46-8e89659f1fc6",
+        "https://www.digital.go.jp/news/e525db0b-eac1-49e2-9ef4-6d2e24208498"
+      ]
+    },
+    {
+      "editionId": "2026-09-18-18",
+      "title": "第4回日米農業統計専門家による定期対話の結果概要について",
+      "publishedAt": "2026-09-18T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/tokei/kikaku/260918.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-18-18",
+      "title": "ヒト脳オルガノイドをマウス移植で神経回路を形成",
+      "publishedAt": "2026-09-18T17:56:33+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de51067"
+      ]
+    },
+    {
+      "editionId": "2026-09-18-18",
+      "title": "東急運転手のドア閉めをaiで補助東横線にホーム監視ai導入へ",
+      "publishedAt": "2026-09-18T17:54:06+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/18/2000001637"
+      ]
+    },
+    {
+      "editionId": "2026-09-18-18",
+      "title": "浜松にのぞみ停車業務妨害容疑で書類送検新聞をai加工か",
+      "publishedAt": "2026-09-18T17:48:37+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9L2CPTV9LUTPB00HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-18-18",
+      "title": "柳条湖事件から95年記念式典に中国共産党政治局員が出席",
+      "publishedAt": "2026-09-18T17:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9L2QM6V9LUHBI015M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-18-18",
+      "title": "20年勤めた非正規職員再任用拒み訴訟市が150万円支払い和解へ",
+      "publishedAt": "2026-09-18T17:40:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9L2HMGV9LTIPE00SM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-18-18",
+      "title": "サッカー皇后杯元日に決勝15年ぶりに天皇杯と同日開催",
+      "publishedAt": "2026-09-18T17:26:53+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de51061"
+      ]
+    },
+    {
+      "editionId": "2026-09-18-18",
+      "title": "生成aiで物議のレベルファイブ東京ゲームショウ当日の様子は現地を見てきた",
+      "publishedAt": "2026-09-18T16:52:09+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/18/2000001633"
+      ]
+    },
+    {
+      "editionId": "2026-09-18-18",
+      "title": "転換点を迎える猛暑の中でのスポーツアスリートにも迫る脅威",
+      "publishedAt": "2026-09-18T16:42:30+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260916de50592"
+      ]
+    },
+    {
+      "editionId": "2026-09-18-18",
+      "title": "人生が崩壊することを印象付けたい警視庁がトクリュウ対策サイトをリニューアル",
+      "publishedAt": "2026-09-18T16:19:47+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/18/2000001631"
+      ]
+    },
+    {
+      "editionId": "2026-09-18-18",
+      "title": "シネマの週末・トピックス",
+      "publishedAt": "2026-09-18T13:14:17+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260918/dde/012/070/004000c",
+        "https://mainichi.jp/articles/20260918/dde/012/070/005000c"
+      ]
     }
   ],
-  "updatedAt": "2026-09-18T16:48:03.181367+09:00"
+  "updatedAt": "2026-09-18T22:21:58.362981+09:00"
 }
