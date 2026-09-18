@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-18T18:00:00+09:00",
-  "lastCompletedEdition": "2026-09-18-18",
+  "lastCompletedEnd": "2026-09-19T06:00:00+09:00",
+  "lastCompletedEdition": "2026-09-19-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -10678,7 +10678,107 @@
         "https://mainichi.jp/articles/20260918/dde/012/070/004000c",
         "https://mainichi.jp/articles/20260918/dde/012/070/005000c"
       ]
+    },
+    {
+      "editionId": "2026-09-19-06",
+      "title": "東海地方気象解説情報台風第25号",
+      "publishedAt": "2026-09-19T05:30:10+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260918203011_0_VPFJ50_030000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260918203014_0_VPFJ50_070000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260918203023_0_VPFJ50_040000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260918203922_0_VPZJ50_010000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260918203930_0_VPCJ50_230000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-06",
+      "title": "都市部の内水氾濫国交省の検討会年内めどに対策とりまとめ",
+      "publishedAt": "2026-09-19T05:48:58+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de51153"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-06",
+      "title": "日銀どう物価安定図るか今後の利上げも難しい判断",
+      "publishedAt": "2026-09-19T05:45:25+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260919de51165"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-06",
+      "title": "パキスタン警察施設で自爆テロか21人死亡地元メディア",
+      "publishedAt": "2026-09-19T05:25:38+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260919de51175"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-06",
+      "title": "金獅子賞のロシア映画監督スパイを意味する外国の代理人に指定",
+      "publishedAt": "2026-09-19T05:21:26+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9L6QN4V9LUHBI02LM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-06",
+      "title": "上部尿路がん抗がん剤注入が再発予防に有効国立がん研など",
+      "publishedAt": "2026-09-19T05:00:15+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260918/k00/00m/100/347000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-06",
+      "title": "特急4人死亡事故原因究明の鍵握る3地点の状況捜査のポイントは",
+      "publishedAt": "2026-09-19T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9L0D2BV9LDIFI00NM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-06",
+      "title": "ny円一時156円台後半日銀がレートチェック実施との見方",
+      "publishedAt": "2026-09-19T02:31:02+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260919/k00/00m/020/004000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-06",
+      "title": "巨人サヨナラ勝ちで投手戦ものにする泉口友汰がホームラン",
+      "publishedAt": "2026-09-18T23:00:50+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260918/k00/00m/050/421000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-06",
+      "title": "出版取次の日販米ai企業に書籍を大量販売か業界団体が説明要求",
+      "publishedAt": "2026-09-18T22:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9L4338V9LUCVL00JM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-06",
+      "title": "ニチレイ計5万件超の個人情報漏えいを確認7月のサイバー攻撃で",
+      "publishedAt": "2026-09-18T20:00:36+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/18/2000001648"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-06",
+      "title": "肖像画をchatgptに読み込ませて出力加工して納品委託先による著作権侵害で小学館サライjpが謝罪",
+      "publishedAt": "2026-09-18T19:58:54+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/18/2000001645"
+      ]
     }
   ],
-  "updatedAt": "2026-09-18T22:21:58.362981+09:00"
+  "updatedAt": "2026-09-19T07:53:32.688818+09:00"
 }
