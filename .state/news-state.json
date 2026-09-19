@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-19T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-19-12",
+  "lastCompletedEnd": "2026-09-19T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-19-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -10846,7 +10846,100 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20260919de51213"
       ]
+    },
+    {
+      "editionId": "2026-09-19-18",
+      "title": "東京都気象解説情報台風第25号",
+      "publishedAt": "2026-09-19T17:14:07+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260919081408_0_VPFJ50_220000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260919081432_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260919081944_0_VPFJ50_240000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260919084135_0_VPFJ50_090000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260919084640_0_VPFJ50_120000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260919084705_0_VPFJ50_080000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-18",
+      "title": "アキレスけん断裂のロッテ種市篤暉が来季見据え1軍練習に参加",
+      "publishedAt": "2026-09-19T17:48:06+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260919de51253"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-18",
+      "title": "撮影中のドローンが庁舎に衝突アジア大会機にライトアップ名古屋",
+      "publishedAt": "2026-09-19T17:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9M2S6FV9MUQIP03RM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-18",
+      "title": "撮影ドローンが名古屋市庁舎衝突アジア大会関連航空法違反か",
+      "publishedAt": "2026-09-19T17:35:22+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260919/k00/00m/040/151000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-18",
+      "title": "米韓外相対米投資やホルムズ対応を協議課題解消できるかは不透明",
+      "publishedAt": "2026-09-19T17:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9M2HQQV9MUHBI009M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-18",
+      "title": "米グーグルaiジェミニ他社に不正侵入7月認識も公表せず",
+      "publishedAt": "2026-09-19T17:11:16+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260919/k00/00m/030/136000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-18",
+      "title": "将棋棋士らが熊本復興支援イベント対局で使った駒など提供",
+      "publishedAt": "2026-09-19T17:01:34+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260919/k00/00m/200/126000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-18",
+      "title": "マレーシアで日本人6人拘束特殊詐欺に関与か",
+      "publishedAt": "2026-09-19T16:19:11+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260919de51244"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-18",
+      "title": "天然の応用から1兆通りの探索へ発想転換ペプチド創薬加速",
+      "publishedAt": "2026-09-19T16:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9K1JG5V9KUTFL010M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-18",
+      "title": "随時更新ロシアウクライナに軍事侵攻9月19日の動き",
+      "publishedAt": "2026-09-19T15:46:42+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de46997"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-18",
+      "title": "東京ゲームショウと生成aiゲームの祭典で商談見込むベンダーたち",
+      "publishedAt": "2026-09-19T12:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/19/2000001639"
+      ]
     }
   ],
-  "updatedAt": "2026-09-19T16:40:37.146418+09:00"
+  "updatedAt": "2026-09-19T21:51:24.585206+09:00"
 }
