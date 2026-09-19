@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-19T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-19-06",
+  "lastCompletedEnd": "2026-09-19T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-19-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -10778,7 +10778,75 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/18/2000001645"
       ]
+    },
+    {
+      "editionId": "2026-09-19-12",
+      "title": "宮崎県レベル4土砂災害危険警報",
+      "publishedAt": "2026-09-19T09:32:52+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260919003254_0_VXWW50_450000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-12",
+      "title": "東京都気象解説情報台風第25号",
+      "publishedAt": "2026-09-19T06:35:06+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260918213506_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260918214324_0_VPFJ50_110000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260918215352_0_VPFJ50_200000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260918220647_0_VPFJ50_190000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260918223117_0_VPFJ50_120000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-12",
+      "title": "ブルーインパルスが記念の展示飛行アジア大会間もなく開幕",
+      "publishedAt": "2026-09-19T11:40:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9M0P8QV9MOIPE001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-12",
+      "title": "アメリカ中間選挙の期日前投票一部の州で始まる",
+      "publishedAt": "2026-09-19T11:23:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260919de51216"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-12",
+      "title": "預託金なしおひとりさま終活支援に保険東京海上日動が全国展開",
+      "publishedAt": "2026-09-19T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9J1GLZV9JULLI006M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-12",
+      "title": "解約しても返金がないおひとりさま終身サポートの盲点相談急増",
+      "publishedAt": "2026-09-19T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9H1T6NV9HULLI00VM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-12",
+      "title": "仏大統領が警戒感ロシアの攻撃性と脅威は性質が変化",
+      "publishedAt": "2026-09-19T10:57:50+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260919de51210"
+      ]
+    },
+    {
+      "editionId": "2026-09-19-12",
+      "title": "ゼレンスキー大統領ジェット無人機の迎撃試験に成功",
+      "publishedAt": "2026-09-19T10:53:27+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260919de51213"
+      ]
     }
   ],
-  "updatedAt": "2026-09-19T07:53:32.688818+09:00"
+  "updatedAt": "2026-09-19T16:40:37.146418+09:00"
 }
