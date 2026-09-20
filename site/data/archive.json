@@ -1,7 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T17:07:45.799895+09:00",
+  "updatedAt": "2026-09-20T22:26:06.283720+09:00",
   "editions": [
+    {
+      "id": "2026-09-20-18",
+      "path": "data/editions/2026-09-20-18.json",
+      "dataUrl": "data/editions/2026-09-20-18.json",
+      "generatedAt": "2026-09-20T22:26:06.283720+09:00",
+      "date": "2026-09-20",
+      "time": "18:00",
+      "label": "夕方6時版",
+      "coverageLabel": "09月20日 12:00〜09月20日 18:00",
+      "headline": "千葉県気象解説情報（台風第２５号）",
+      "articleCount": 10,
+      "categories": {
+        "国内": 3,
+        "海外": 1,
+        "社会": 2,
+        "スポーツ": 3,
+        "エンタメ": 1
+      }
+    },
     {
       "id": "2026-09-20-12",
       "path": "data/editions/2026-09-20-12.json",

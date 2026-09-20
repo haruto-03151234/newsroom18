@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-20T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-20-12",
+  "lastCompletedEnd": "2026-09-20T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-20-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -11093,7 +11093,92 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/20/2000001640"
       ]
+    },
+    {
+      "editionId": "2026-09-20-18",
+      "title": "千葉県気象解説情報台風第25号",
+      "publishedAt": "2026-09-20T17:22:08+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260920082209_0_VPFJ50_100000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260920082521_0_VPFJ50_240000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260920083110_0_VPFJ50_090000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260920083638_0_VPFJ50_120000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260920085110_0_VPFJ50_080000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260920085120_0_VPFJ50_190000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-20-18",
+      "title": "中東情勢を受けた注意喚起9月20日",
+      "publishedAt": "2026-09-20T15:36:59+09:00",
+      "urls": [
+        "https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2026C042.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-20-18",
+      "title": "露下院選の投票日にモスクワ近郊へ大規模ドローン攻撃2人死亡",
+      "publishedAt": "2026-09-20T17:55:53+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260920/k00/00m/030/170000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-20-18",
+      "title": "両陛下アジア大会バスケットボール観戦ジブリパークも訪問",
+      "publishedAt": "2026-09-20T17:26:12+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260920de51363"
+      ]
+    },
+    {
+      "editionId": "2026-09-20-18",
+      "title": "ゴルフ国内男子44歳の内藤寛太郎がツアー初優勝プロ21年目",
+      "publishedAt": "2026-09-20T17:23:09+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260920de51365"
+      ]
+    },
+    {
+      "editionId": "2026-09-20-18",
+      "title": "人的資源使い切った被災地の嘆き入札不調への有効策は",
+      "publishedAt": "2026-09-20T17:01:18+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260919/k00/00m/040/054000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-20-18",
+      "title": "65歳以上が総人口の296に過去最高を更新総務省推計",
+      "publishedAt": "2026-09-20T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9L42R7V9LUTFK001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-20-18",
+      "title": "台風接近の影響千葉で開催の野外音楽イベント21日の開催中止",
+      "publishedAt": "2026-09-20T15:38:39+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260920de51358"
+      ]
+    },
+    {
+      "editionId": "2026-09-20-18",
+      "title": "天皇皇后両陛下ジブリパーク見学カオナシと記念撮影も",
+      "publishedAt": "2026-09-20T13:04:55+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9N140CV9NUQIP00GM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-20-18",
+      "title": "アジア大会の金メダル第1号は北條巧人生一番の勝負だと思った",
+      "publishedAt": "2026-09-20T12:32:42+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9N12RQV9NUTQP005M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-09-20T17:07:45.799895+09:00"
+  "updatedAt": "2026-09-20T22:26:06.283720+09:00"
 }
