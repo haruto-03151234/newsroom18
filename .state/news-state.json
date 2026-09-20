@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-20T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-20-06",
+  "lastCompletedEnd": "2026-09-20T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-20-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -11024,7 +11024,76 @@
       "urls": [
         "https://mainichi.jp/articles/20260919/k00/00m/020/203000c"
       ]
+    },
+    {
+      "editionId": "2026-09-20-12",
+      "title": "関東甲信地方気象解説情報台風第25号",
+      "publishedAt": "2026-09-20T06:36:23+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260919213623_0_VPFJ50_100000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260919214938_0_VPFJ50_190000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260920020010_0_VPZJ50_010000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260920022927_0_VPCJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260920023316_0_VPFJ50_120000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260920024513_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-20-12",
+      "title": "台風25号交通影響まとめ鉄道・空の便・道路・フェリー",
+      "publishedAt": "2026-09-20T11:51:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260920de51297"
+      ]
+    },
+    {
+      "editionId": "2026-09-20-12",
+      "title": "アジア大会の近代5種新種目sasukeにスタンド大いに沸く",
+      "publishedAt": "2026-09-20T11:28:06+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9N0QTYV9NUQIP00PM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-20-12",
+      "title": "相模原の高2男子生徒を殺害した疑い少年4人を再逮捕神奈川県警",
+      "publishedAt": "2026-09-20T11:18:39+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9N0G2FV9NULOB002M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-20-12",
+      "title": "ホワイトソックス村上宗隆先制タイムリーで勝利に貢献",
+      "publishedAt": "2026-09-20T09:51:33+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260920de51306"
+      ]
+    },
+    {
+      "editionId": "2026-09-20-12",
+      "title": "イラン高官協議再開の7つの条件をアメリカ政府に伝達",
+      "publishedAt": "2026-09-20T09:20:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260920de51305"
+      ]
+    },
+    {
+      "editionId": "2026-09-20-12",
+      "title": "修繕積立金が突然3倍に管理会社の利益相反を招くマンションとは",
+      "publishedAt": "2026-09-20T08:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9J1C2JV9JULFA002M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-20-12",
+      "title": "新作鬼武者にハマったマンガ家が熱弁する他とは違うパリィの魅力とは",
+      "publishedAt": "2026-09-20T07:16:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/20/2000001640"
+      ]
     }
   ],
-  "updatedAt": "2026-09-20T07:32:49.282165+09:00"
+  "updatedAt": "2026-09-20T17:07:45.799895+09:00"
 }
