@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-20T18:00:00+09:00",
-  "lastCompletedEdition": "2026-09-20-18",
+  "lastCompletedEnd": "2026-09-21T06:00:00+09:00",
+  "lastCompletedEdition": "2026-09-21-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -11178,7 +11178,99 @@
       "urls": [
         "https://www.asahi.com/articles/ASV9N12RQV9NUTQP005M.html"
       ]
+    },
+    {
+      "editionId": "2026-09-21-06",
+      "title": "関東甲信地方気象解説情報台風第25号",
+      "publishedAt": "2026-09-21T05:45:31+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260920204531_0_VPCJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-21-06",
+      "title": "神奈川県気象解説情報台風第25号",
+      "publishedAt": "2026-09-21T05:40:08+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260920204008_0_VPFJ50_030000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260920205320_0_VPFJ50_040000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260920205324_0_VPFJ50_070000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260920205748_0_VPFJ50_100000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260920205938_0_VPFJ50_140000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-21-06",
+      "title": "千葉佐倉土砂が崩れ住宅の窓割れる",
+      "publishedAt": "2026-09-21T05:57:05+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260921de51522"
+      ]
+    },
+    {
+      "editionId": "2026-09-21-06",
+      "title": "アジア大会サッカー男子日本はキルギスに大勝し準決勝進出",
+      "publishedAt": "2026-09-21T05:34:43+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260921de51456"
+      ]
+    },
+    {
+      "editionId": "2026-09-21-06",
+      "title": "ふるさと守れる人に自衛官志す17歳同級生失った能登豪雨",
+      "publishedAt": "2026-09-21T05:01:13+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260920/k00/00m/040/102000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-21-06",
+      "title": "イグ・ノーベル賞とノーベル賞の受賞者が対談研究っておもしろい",
+      "publishedAt": "2026-09-21T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9N2SXNV9NULLI003M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-21-06",
+      "title": "ロシア首都などにウクライナの大規模攻撃下院選挙狙ったか",
+      "publishedAt": "2026-09-21T04:22:03+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260921de51479"
+      ]
+    },
+    {
+      "editionId": "2026-09-21-06",
+      "title": "影山貴彦のテレビ燦長寿番組もうなずける愛車遍歴構成はシンプルでも話は自然に広がり",
+      "publishedAt": "2026-09-21T02:00:57+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260921/ddm/018/200/025000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-21-06",
+      "title": "東京・杉並の善福寺川にレベル4氾濫危険警報浸水に警戒を",
+      "publishedAt": "2026-09-21T00:13:33+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260920/k00/00m/040/272000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-21-06",
+      "title": "修正した鈴木聡美初の29秒台で日本新5大会連続メダルの原動力",
+      "publishedAt": "2026-09-20T22:30:52+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9N46HSV9NUTQP01BM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-21-06",
+      "title": "大曲の花火が関西にやってきた姫路みなと祭5万人の観客魅了",
+      "publishedAt": "2026-09-20T22:00:05+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9K1R3WV9KPIHB001M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-09-20T22:26:06.283720+09:00"
+  "updatedAt": "2026-09-21T07:46:23.845878+09:00"
 }
