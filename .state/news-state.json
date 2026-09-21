@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-21T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-21-06",
+  "lastCompletedEnd": "2026-09-21T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-21-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -11270,7 +11270,91 @@
       "urls": [
         "https://www.asahi.com/articles/ASV9K1R3WV9KPIHB001M.html"
       ]
+    },
+    {
+      "editionId": "2026-09-21-12",
+      "title": "関東甲信地方気象解説情報台風第25号",
+      "publishedAt": "2026-09-21T10:36:52+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260921013652_0_VPCJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260921021317_0_VPZJ50_010000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260921024021_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-21-12",
+      "title": "千葉県レベル4土砂災害危険警報",
+      "publishedAt": "2026-09-21T08:15:56+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260920231558_0_VXWW50_120000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260921023835_0_VXWW50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260921024345_0_VXWW50_140000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-21-12",
+      "title": "トランプ米政権icc全体への制裁を準備か今週にも発表米報道",
+      "publishedAt": "2026-09-21T11:40:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9P0Q27V9PSFVU0D5M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-21-12",
+      "title": "プロ野球ロッテー西武台風の影響で中止",
+      "publishedAt": "2026-09-21T11:00:38+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260921de51571"
+      ]
+    },
+    {
+      "editionId": "2026-09-21-12",
+      "title": "メガバンクから突然2300万円返せ高齢社会あるあるに遭遇",
+      "publishedAt": "2026-09-21T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9K343RV9KUUHB00MM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-21-12",
+      "title": "カブス鈴木誠也25号ホームランポストシーズン進出に前進",
+      "publishedAt": "2026-09-21T10:48:27+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260921de51578"
+      ]
+    },
+    {
+      "editionId": "2026-09-21-12",
+      "title": "メッツ千賀滉大8回に登板も3分の1イニングで3失点",
+      "publishedAt": "2026-09-21T10:47:01+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260921de51559"
+      ]
+    },
+    {
+      "editionId": "2026-09-21-12",
+      "title": "トランプ大統領aiforce創設を表明ai脅威論はでっちあげだ",
+      "publishedAt": "2026-09-21T09:45:19+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/21/2000001666"
+      ]
+    },
+    {
+      "editionId": "2026-09-21-12",
+      "title": "20代で大けが絶望からばあちゃんビジネスへ創業者の恩返し",
+      "publishedAt": "2026-09-21T08:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9L2VXMV9LUCVL034M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-21-12",
+      "title": "googleのgeminiも能力テスト中に実在企業3社に侵入wsj報道",
+      "publishedAt": "2026-09-21T06:50:52+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/21/2000001665"
+      ]
     }
   ],
-  "updatedAt": "2026-09-21T07:46:23.845878+09:00"
+  "updatedAt": "2026-09-21T17:24:09.166028+09:00"
 }
