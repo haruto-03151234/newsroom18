@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-21T18:00:00+09:00",
-  "lastCompletedEdition": "2026-09-21-18",
+  "lastCompletedEnd": "2026-09-22T06:00:00+09:00",
+  "lastCompletedEdition": "2026-09-22-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -11422,7 +11422,99 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20260921de51573"
       ]
+    },
+    {
+      "editionId": "2026-09-22-06",
+      "title": "東京都レベル4土砂災害危険警報",
+      "publishedAt": "2026-09-22T05:40:54+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260921204056_0_VXWW50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-22-06",
+      "title": "福島県気象解説情報台風第25号",
+      "publishedAt": "2026-09-22T05:37:04+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260921203705_0_VPFJ50_040000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260921204105_0_VPFJ50_070000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260921204813_0_VPCJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260921205040_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260921205804_0_VPFJ50_080000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-22-06",
+      "title": "中国軍制服組トップなど務めた2人が巨額賄賂などで党籍はく奪",
+      "publishedAt": "2026-09-22T05:56:57+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260922de51785"
+      ]
+    },
+    {
+      "editionId": "2026-09-22-06",
+      "title": "ホワイトハウスでの取材禁止cnnなど3社が差し止め求め提訴",
+      "publishedAt": "2026-09-22T05:49:58+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260922de51788"
+      ]
+    },
+    {
+      "editionId": "2026-09-22-06",
+      "title": "うるう秒廃止10月に正式決定地球の自転速まりうるう時を導入",
+      "publishedAt": "2026-09-22T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9J1VNMV9JUEFT00LM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-22-06",
+      "title": "大相撲秋場所10日目見どころ熱海富士が琴櫻に挑む",
+      "publishedAt": "2026-09-22T03:00:44+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260921de51747"
+      ]
+    },
+    {
+      "editionId": "2026-09-22-06",
+      "title": "続・リモコンの片隅から",
+      "publishedAt": "2026-09-22T02:00:51+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260922/ddm/018/200/007000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-22-06",
+      "title": "台風25号住宅に土砂流れ込み夫婦が巻き込まれたか横須賀",
+      "publishedAt": "2026-09-22T00:01:27+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260921/k00/00m/040/177000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-22-06",
+      "title": "台風25号20万人超に緊急安全確保神奈川県が災害派遣要請",
+      "publishedAt": "2026-09-21T23:58:36+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260921/k00/00m/040/173000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-22-06",
+      "title": "高市首相国連総会出席のため米国へ法の支配や国連改革訴えたい",
+      "publishedAt": "2026-09-21T23:36:15+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9P4SFSV9PUTFK00BM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-22-06",
+      "title": "動画まとめ台風25号関東などで大雨厳重な警戒が必要",
+      "publishedAt": "2026-09-21T21:15:42+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9P32CMV9PUEFT005M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-09-22T00:38:13.806674+09:00"
+  "updatedAt": "2026-09-22T08:42:19.657285+09:00"
 }
