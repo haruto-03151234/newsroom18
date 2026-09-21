@@ -1,7 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-21T17:24:09.166028+09:00",
+  "updatedAt": "2026-09-22T00:38:13.806674+09:00",
   "editions": [
+    {
+      "id": "2026-09-21-18",
+      "path": "data/editions/2026-09-21-18.json",
+      "dataUrl": "data/editions/2026-09-21-18.json",
+      "generatedAt": "2026-09-22T00:38:13.806674+09:00",
+      "date": "2026-09-21",
+      "time": "18:00",
+      "label": "夕方6時版",
+      "coverageLabel": "09月21日 12:00〜09月21日 18:00",
+      "headline": "千葉県レベル４土砂災害危険警報",
+      "articleCount": 8,
+      "categories": {
+        "国内": 2,
+        "社会": 1,
+        "スポーツ": 2,
+        "海外": 2,
+        "エンタメ": 1
+      }
+    },
     {
       "id": "2026-09-21-12",
       "path": "data/editions/2026-09-21-12.json",
