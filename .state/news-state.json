@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-22T18:00:00+09:00",
-  "lastCompletedEdition": "2026-09-22-18",
+  "lastCompletedEnd": "2026-09-23T06:00:00+09:00",
+  "lastCompletedEdition": "2026-09-23-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -11670,7 +11670,87 @@
       "urls": [
         "https://www.asahi.com/articles/ASV9J4HZRV9JUCVL02JM.html"
       ]
+    },
+    {
+      "editionId": "2026-09-23-06",
+      "title": "北海道地方気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-09-23T05:00:17+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260922200018_0_VPCJ50_016000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-06",
+      "title": "損壊したサウジアラビアのパイプライン操業再開と報道",
+      "publishedAt": "2026-09-23T05:59:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260923de51932"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-06",
+      "title": "中国上海で技能五輪国際大会若い技術者たちが仕事の技能競う",
+      "publishedAt": "2026-09-23T05:54:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260923de51935"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-06",
+      "title": "大相撲秋場所11日目見どころ1敗の大の里と2敗の藤ノ川が対戦",
+      "publishedAt": "2026-09-23T05:42:53+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260922de51916"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-06",
+      "title": "グリーンランドを巡る協定に署名トランプ氏の求めた領有はなし",
+      "publishedAt": "2026-09-23T04:57:56+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9Q6HRVV9QUHBI001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-06",
+      "title": "高市首相日本はiccを一貫して支持国連演説で表明へ",
+      "publishedAt": "2026-09-23T04:00:10+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260922/k00/00m/010/160000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-06",
+      "title": "高市首相米国によるicc制裁に言及しない方針国連総会で初演説",
+      "publishedAt": "2026-09-23T04:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9Q5FH1V9QUQIP04HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-06",
+      "title": "ドキュメンタリー映画ドキュメンタリー映画東京上空300メートル来月10日から米軍ヘリの実態追う",
+      "publishedAt": "2026-09-23T02:34:56+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260923/ddm/010/040/008000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-06",
+      "title": "aiを超知能に名称変更へトランプ氏開発続行を主張",
+      "publishedAt": "2026-09-23T01:36:11+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260923/k00/00m/030/005000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-06",
+      "title": "ロマンス詐欺容疑で再逮捕マチアプ利用者狙いidは転売か",
+      "publishedAt": "2026-09-23T00:15:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9Q4V51V9QOIPE008M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-09-22T22:52:39.230926+09:00"
+  "updatedAt": "2026-09-23T08:20:42.466613+09:00"
 }
