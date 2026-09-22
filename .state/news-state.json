@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-22T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-22-06",
+  "lastCompletedEnd": "2026-09-22T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-22-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -11514,7 +11514,99 @@
       "urls": [
         "https://www.asahi.com/articles/ASV9P32CMV9PUEFT005M.html"
       ]
+    },
+    {
+      "editionId": "2026-09-22-12",
+      "title": "神奈川県レベル4土砂災害危険警報",
+      "publishedAt": "2026-09-22T11:25:21+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260922022524_0_VXWW50_140000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260922024356_0_VXWW50_120000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-22-12",
+      "title": "東北地方気象解説情報台風第25号",
+      "publishedAt": "2026-09-22T05:18:18+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260921201819_0_VPCJ50_040000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260921211342_0_VPFJ50_190000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260922013245_0_VPCJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260922013917_0_VPFJ50_120000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-22-12",
+      "title": "openai数学者の独立諮問グループと連携内部モデルは100件超の未解決問題を解決",
+      "publishedAt": "2026-09-22T11:49:24+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/22/2000001671"
+      ]
+    },
+    {
+      "editionId": "2026-09-22-12",
+      "title": "冠水の千葉・佐倉市ショックで動けない帰宅できずに住民は落胆",
+      "publishedAt": "2026-09-22T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9Q0FKTV9QUDCB005M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-22-12",
+      "title": "アジア大会とアジアパラのマスコット実は不仲そっぽを向く理由",
+      "publishedAt": "2026-09-22T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9K2GHZV9KULFA016M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-22-12",
+      "title": "openaiフロンティアaiの国際標準づくりを米国主導で進めるよう提言rsiはまだ起きていない",
+      "publishedAt": "2026-09-22T10:51:09+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/22/2000001670"
+      ]
+    },
+    {
+      "editionId": "2026-09-22-12",
+      "title": "5回の大量絶滅ビッグファイブすべてスーパー噴火が関係か",
+      "publishedAt": "2026-09-22T10:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV972J27V97UHMC006M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-22-12",
+      "title": "日米韓外相北朝鮮の完全な非核化へ協力の方針改めて確認",
+      "publishedAt": "2026-09-22T10:15:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260922de51790"
+      ]
+    },
+    {
+      "editionId": "2026-09-22-12",
+      "title": "amazonmetaのaiエージェントmuseによる代理購入をブロックshopifyは全店舗で対応へ",
+      "publishedAt": "2026-09-22T09:43:43+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/22/2000001669"
+      ]
+    },
+    {
+      "editionId": "2026-09-22-12",
+      "title": "ny株式市場ナスダック株価指数約3か月半ぶりに最高値を更新",
+      "publishedAt": "2026-09-22T09:25:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260922de51819"
+      ]
+    },
+    {
+      "editionId": "2026-09-22-12",
+      "title": "大英図書館の再開発事業で着工式日本の不動産会社が参画",
+      "publishedAt": "2026-09-22T07:18:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260922de51804"
+      ]
     }
   ],
-  "updatedAt": "2026-09-22T08:42:19.657285+09:00"
+  "updatedAt": "2026-09-22T17:06:00.683454+09:00"
 }
