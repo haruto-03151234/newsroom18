@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-23T18:00:00+09:00",
-  "lastCompletedEdition": "2026-09-23-18",
+  "lastCompletedEnd": "2026-09-24T06:00:00+09:00",
+  "lastCompletedEdition": "2026-09-24-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -11914,7 +11914,105 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/23/2000001678"
       ]
+    },
+    {
+      "editionId": "2026-09-24-06",
+      "title": "上川・留萌地方気象防災速報竜巻注意",
+      "publishedAt": "2026-09-24T05:43:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260923204308_0_VPHW50_011000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260923204310_0_VPHW50_012000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-06",
+      "title": "北海道地方気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-09-24T04:45:06+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260923194506_0_VPFJ50_017000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260923200017_0_VPCJ50_016000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-06",
+      "title": "歴史資料を見て学ぶ国立公文書館日本国憲法の原本も",
+      "publishedAt": "2026-09-24T00:00:00+09:00",
+      "urls": [
+        "https://www.gov-online.go.jp/article/202410/entry-6647.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-06",
+      "title": "シールで落とし物を返却新たな仕組み開発警視庁などと連携へ",
+      "publishedAt": "2026-09-24T05:56:04+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260923de52064"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-06",
+      "title": "米ロ外相が会談米は限定的な攻撃停止への関与に意欲",
+      "publishedAt": "2026-09-24T05:51:07+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52084"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-06",
+      "title": "原発停止から40年今も続く廃炉作業元職員が語る再導入への条件",
+      "publishedAt": "2026-09-24T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9H4Q36V9HUHBI006M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-06",
+      "title": "全日空機が那覇空港に緊急着陸エンジンの異常高温を検知",
+      "publishedAt": "2026-09-24T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9R54WDV9RUTIL00GM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-06",
+      "title": "欧州で加速する原発回帰脱原発40年のイタリア新設へ法案成立",
+      "publishedAt": "2026-09-24T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9H3JCVV9HUHBI00HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-06",
+      "title": "大相撲秋場所12日目見どころ大の里と熱海富士の注目の一番",
+      "publishedAt": "2026-09-24T04:47:12+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260923de52059"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-06",
+      "title": "視聴室",
+      "publishedAt": "2026-09-24T02:01:30+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260924/ddm/018/200/014000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-06",
+      "title": "幼少期の栄養が寿命左右腹八分目裏付け理研ハエ研究",
+      "publishedAt": "2026-09-24T00:00:08+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260921/k00/00m/040/114000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-06",
+      "title": "ai米中に依存しない協力枠組みをマクロン仏大統領が提唱",
+      "publishedAt": "2026-09-23T21:55:32+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260923/k00/00m/030/143000c"
+      ]
     }
   ],
-  "updatedAt": "2026-09-23T23:03:47.794752+09:00"
+  "updatedAt": "2026-09-24T08:15:50.405400+09:00"
 }
