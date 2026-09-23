@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-23T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-23-06",
+  "lastCompletedEnd": "2026-09-23T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-23-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -11750,7 +11750,96 @@
       "urls": [
         "https://www.asahi.com/articles/ASV9Q4V51V9QOIPE008M.html"
       ]
+    },
+    {
+      "editionId": "2026-09-23-12",
+      "title": "上川・留萌地方気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-09-23T06:06:35+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260922210636_0_VPFJ50_011000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260922211151_0_VPFJ50_012000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-12",
+      "title": "大谷翔平日本時間24日復帰へ監督ラインナップに入る予定",
+      "publishedAt": "2026-09-23T11:54:47+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260923de51966"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-12",
+      "title": "高市首相法の支配に基づく国際秩序に貢献国連総会演説",
+      "publishedAt": "2026-09-23T11:48:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260923de51969"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-12",
+      "title": "日トルコ首脳会談イラン情勢めぐり意見交換経済など協力確認",
+      "publishedAt": "2026-09-23T11:32:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260923de51967"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-12",
+      "title": "appleロンドンにライブ会場applemusichallを開設空間オーディオ収録や配信設備付き",
+      "publishedAt": "2026-09-23T11:14:02+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/23/2000001677"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-12",
+      "title": "お寺で読経心身の健康に効果あり幸福感アップ呼吸や嚥下機能も",
+      "publishedAt": "2026-09-23T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9G0VYZV9GUTFL01LM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-12",
+      "title": "母が性暴力を実名で告発したいらだちから伴走へ変化した娘の心境",
+      "publishedAt": "2026-09-23T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9D2H54V9DUTIL01BM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-12",
+      "title": "ドキュメンタリー映画ドキュメンタリー映画東京上空300メートル来月10日から毎日新聞報道異例の劇場公開",
+      "publishedAt": "2026-09-23T10:47:55+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260923/ddm/010/040/020000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-12",
+      "title": "トランプ大統領国連演説でaiをsuperintelligenceに改称すると表明",
+      "publishedAt": "2026-09-23T10:36:07+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/23/2000001676"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-12",
+      "title": "microsoftxboxで新たに268人削減次期haloはactivisionが開発ninjatheoryは閉鎖案",
+      "publishedAt": "2026-09-23T09:55:58+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/23/2000001675"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-12",
+      "title": "エンジン車の脱炭素マツダがアクセルバイオ燃料研究やco2回収",
+      "publishedAt": "2026-09-23T09:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9B1STFV9BULFA00BM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-09-23T08:20:42.466613+09:00"
+  "updatedAt": "2026-09-23T17:08:12.325463+09:00"
 }
