@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-23T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-23-12",
+  "lastCompletedEnd": "2026-09-23T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-23-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -11839,7 +11839,82 @@
       "urls": [
         "https://www.asahi.com/articles/ASV9B1STFV9BULFA00BM.html"
       ]
+    },
+    {
+      "editionId": "2026-09-23-18",
+      "title": "上川・留萌地方気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-09-23T15:45:11+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260923064511_0_VPCJ50_016000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260923065137_0_VPFJ50_016000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260923065506_0_VPFJ50_015000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260923065816_0_VPFJ50_012000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-18",
+      "title": "火山名桜島降灰予報詳細",
+      "publishedAt": "2026-09-23T13:11:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260923041109_0_VFVO55_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-18",
+      "title": "エンジェルス菊池雄星6回途中2失点勝ち負けつかず",
+      "publishedAt": "2026-09-23T17:30:24+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260923de52016"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-18",
+      "title": "米イラン代表団が3時間の協議トランプ氏良い会談だった",
+      "publishedAt": "2026-09-23T17:29:54+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9Q7K4VV9QSFVU104M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-18",
+      "title": "topix銘柄選定ルール見直し企業価値高める動き広がるか",
+      "publishedAt": "2026-09-23T17:27:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260923de52006"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-18",
+      "title": "漁船とプレジャーボートが衝突1人死亡1人不明北海道紋別沖",
+      "publishedAt": "2026-09-23T17:15:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9R2J8XV9RIIPE007M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-18",
+      "title": "高市首相国民に身近な法整備で結果を消費減税法案成立に意欲",
+      "publishedAt": "2026-09-23T16:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9R2CZKV9RULFA003M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-18",
+      "title": "引用回数多い論文の数日本は4年連続で13位低迷続く",
+      "publishedAt": "2026-09-23T13:21:11+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260923de51980"
+      ]
+    },
+    {
+      "editionId": "2026-09-23-18",
+      "title": "jcom障害インターネットが使えないサポート窓口もつながりにくく",
+      "publishedAt": "2026-09-23T13:04:29+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/23/2000001678"
+      ]
     }
   ],
-  "updatedAt": "2026-09-23T17:08:12.325463+09:00"
+  "updatedAt": "2026-09-23T23:03:47.794752+09:00"
 }
