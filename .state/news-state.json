@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-24T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-24-12",
+  "lastCompletedEnd": "2026-09-24T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-24-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -12100,7 +12100,119 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/24/2000001684"
       ]
+    },
+    {
+      "editionId": "2026-09-24-18",
+      "title": "沖縄地方気象解説情報台風第26号",
+      "publishedAt": "2026-09-24T16:19:49+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260924071950_0_VPCJ50_471000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-18",
+      "title": "特定農林水産物等の名称の保護に関する法律に基づく措置命令について",
+      "publishedAt": "2026-09-24T16:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/yusyutu_kokusai/chizai/260924.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-18",
+      "title": "三菱ufjの新デジタル銀行はエムットバンク来年13月開業へ",
+      "publishedAt": "2026-09-24T17:56:12+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9S2TY4V9SULFA015M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-18",
+      "title": "火星衛星探査機mmx来月の打ち上げを前に管制室を公開",
+      "publishedAt": "2026-09-24T17:53:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52199"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-18",
+      "title": "米中のゆずれない戦いaiインフラ競争の行方は",
+      "publishedAt": "2026-09-24T17:38:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52167"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-18",
+      "title": "獣医師のミスで飼い犬に障害解決金300万円で和解さいたま地裁",
+      "publishedAt": "2026-09-24T17:34:57+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9S2PCJV9SUTIL01QM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-18",
+      "title": "楽天銀行から数百万が勝手に移動残高が0に楽天証券のシステム不具合連休中に発生",
+      "publishedAt": "2026-09-24T17:31:02+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/24/2000001708"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-18",
+      "title": "icc逮捕状のネタニヤフ首相nyの国連へ異例の超短期滞在",
+      "publishedAt": "2026-09-24T17:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9S0357V9SUHBI00RM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-18",
+      "title": "アジア大会宿泊施設への不満の声に真摯に対応組織委員会",
+      "publishedAt": "2026-09-24T17:25:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52182"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-18",
+      "title": "youtubeクリエイター向け新機能を多数発表geminiによる会話型編集動画のabテストライブ配信者のマッチングなど",
+      "publishedAt": "2026-09-24T16:54:28+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/24/2000001682"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-18",
+      "title": "openaiのaiエージェントが豪政府サイトに不正アクセス同社の通知は3カ月後首相失望した",
+      "publishedAt": "2026-09-24T14:33:35+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/24/2000001694"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-18",
+      "title": "ほとばしるフレディ魂屋根裏のトランクからメモやイラスト生涯の友フォトブック出版",
+      "publishedAt": "2026-09-24T14:08:49+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260924/dde/001/200/030000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-18",
+      "title": "topics藤原紀香次女役キャッツアイ再演進化した宙乗りに挑む",
+      "publishedAt": "2026-09-24T13:53:53+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260924/dde/018/200/010000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-18",
+      "title": "topics藤田貴大丸山隆平舞台water京都と人記憶を巡って",
+      "publishedAt": "2026-09-24T13:52:34+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260924/dde/018/200/016000c"
+      ]
     }
   ],
-  "updatedAt": "2026-09-24T16:59:33.564357+09:00"
+  "updatedAt": "2026-09-24T22:59:46.462998+09:00"
 }
