@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-24T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-24-06",
+  "lastCompletedEnd": "2026-09-24T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-24-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -12012,7 +12012,95 @@
       "urls": [
         "https://mainichi.jp/articles/20260923/k00/00m/030/143000c"
       ]
+    },
+    {
+      "editionId": "2026-09-24-12",
+      "title": "石狩・空知・後志地方気象防災速報竜巻注意",
+      "publishedAt": "2026-09-24T11:46:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260924024648_0_VPHW50_016000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-12",
+      "title": "上川・留萌地方気象防災速報竜巻注意",
+      "publishedAt": "2026-09-24T09:43:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260924004309_0_VPHW50_012000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-12",
+      "title": "国連安保理ai制御不能リスクで企業トップが国際連携訴え",
+      "publishedAt": "2026-09-24T11:42:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52118"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-12",
+      "title": "metaのザッカーバーグceoワンモアシングとしてたまごっちのようなmusecharm披露",
+      "publishedAt": "2026-09-24T11:37:24+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/24/2000001688"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-12",
+      "title": "meta重さ約100gのメガネ型vrデバイスmetavrglasses発表27年春発売",
+      "publishedAt": "2026-09-24T11:13:41+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/24/2000001687"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-12",
+      "title": "東京都の中古マンション価格28カ月ぶり下落都心で調整局面に",
+      "publishedAt": "2026-09-24T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9R2GSQV9RULFA00TM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-12",
+      "title": "dena藤浪晋太郎が戦力外に今季未勝利他球団で現役続行めざす",
+      "publishedAt": "2026-09-24T10:57:06+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9S0HFWV9SUTQP009M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-12",
+      "title": "被災からしぶとく復興とげた古代人未来の人類への私たちの責任",
+      "publishedAt": "2026-09-24T10:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9931T2V99UHMC006M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-12",
+      "title": "日フィジー外相来夏の太平洋・島サミット成功へ緊密連携",
+      "publishedAt": "2026-09-24T10:09:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52107"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-12",
+      "title": "平和評議会がガザ地区復興などに向けた計画発表実現は不透明",
+      "publishedAt": "2026-09-24T10:00:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260924de52100"
+      ]
+    },
+    {
+      "editionId": "2026-09-24-12",
+      "title": "youtube視聴者向け新機能を発表プロンプトで作るカスタムフィードaskyoutubeの買い物支援youtubemusicのaskmusicなど",
+      "publishedAt": "2026-09-24T08:10:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/24/2000001684"
+      ]
     }
   ],
-  "updatedAt": "2026-09-24T08:15:50.405400+09:00"
+  "updatedAt": "2026-09-24T16:59:33.564357+09:00"
 }
