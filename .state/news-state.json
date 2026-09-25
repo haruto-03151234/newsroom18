@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-25T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-25-06",
+  "lastCompletedEnd": "2026-09-25T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-25-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -12316,7 +12316,104 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/24/2000001705"
       ]
+    },
+    {
+      "editionId": "2026-09-25-12",
+      "title": "沖縄地方気象解説情報台風第26号",
+      "publishedAt": "2026-09-25T10:42:06+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260925014207_0_VPFJ50_473000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260925024205_0_VPCJ50_471000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-12",
+      "title": "令和8年度畜産環境シンポジウムの開催について",
+      "publishedAt": "2026-09-25T10:30:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/chikusan/c_sinko/260925.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-12",
+      "title": "ips細胞の特許2031年まで5年延長決まる京都大学",
+      "publishedAt": "2026-09-25T11:56:11+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260925de52317"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-12",
+      "title": "壮大雲龍図を特別公開元首相細川護熙さん京都・龍安寺に奉納",
+      "publishedAt": "2026-09-25T11:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9S4V03V9SPLZB006M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-12",
+      "title": "窓口での待ち時間のイライラai作成のbgmで軽減なるか東京・港区が実証実験",
+      "publishedAt": "2026-09-25T11:42:14+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/25/2000001741"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-12",
+      "title": "米中首脳の晩餐会ニクソン氏訪中時の平和の乾杯にちなんだ演出",
+      "publishedAt": "2026-09-25T11:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9T0FKRV9TSFVU0VDM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-12",
+      "title": "freeeで一時障害給料日の朝に振り込めない勤怠打てないと困惑の声すでに復旧",
+      "publishedAt": "2026-09-25T11:24:24+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/25/2000001739"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-12",
+      "title": "カブス鈴木26号ホームランチームはポストシーズン進出決定",
+      "publishedAt": "2026-09-25T11:17:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260925de52306"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-12",
+      "title": "ロシア数か月以内にnato加盟国へ軍事攻撃の危険増す報告書",
+      "publishedAt": "2026-09-25T11:16:01+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260925de52307"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-12",
+      "title": "シネマの週末・この1本ネルソンさんあなたは人を殺しましたか狂気強いる残酷な戦争",
+      "publishedAt": "2026-09-25T11:00:48+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260918/dde/012/070/008000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-12",
+      "title": "トランプ氏第2次大戦時に中国と同盟国異例発言歓迎式典で",
+      "publishedAt": "2026-09-25T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9T05JNV9TUHBI00WM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-12",
+      "title": "ラジオnikkei第225日の放送を休止台風による停電で電力確保困難に",
+      "publishedAt": "2026-09-25T10:16:32+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/25/2000001733"
+      ]
     }
   ],
-  "updatedAt": "2026-09-25T08:36:36.122062+09:00"
+  "updatedAt": "2026-09-25T17:22:56.465359+09:00"
 }
