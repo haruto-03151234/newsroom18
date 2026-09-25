@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-25T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-25-12",
+  "lastCompletedEnd": "2026-09-25T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-25-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -12413,7 +12413,138 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/25/2000001733"
       ]
+    },
+    {
+      "editionId": "2026-09-25-18",
+      "title": "日本スタートアップ大賞2026の受賞企業が決定しました",
+      "publishedAt": "2026-09-25T17:30:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/kanbo/kihyo03/260925.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-18",
+      "title": "沖縄地方気象解説情報台風第26号",
+      "publishedAt": "2026-09-25T16:37:05+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260925073706_0_VPFJ50_473000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260925074208_0_VPCJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260925080321_0_VPFJ50_471000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-18",
+      "title": "簗農林水産大臣とグレース・フー・シンガポール持続可能性・環境大臣との会談について",
+      "publishedAt": "2026-09-25T16:10:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/yusyutu_kokusai/chiiki/260925.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-18",
+      "title": "火山名諏訪之瀬島火山の状況に関する解説情報",
+      "publishedAt": "2026-09-25T16:03:49+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260925070349_0_VFVO51_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260925070437_0_VFVO51_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-18",
+      "title": "令和8年上半期の全国の税関における関税法違反事件の取締り状況",
+      "publishedAt": "2026-09-25T14:00:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/policy/customs_tariff/trade/safe_society/mitsuyu/cy2026_1/index.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-18",
+      "title": "テラドローンjaxaの有人機サブシステム開発業務を落札無人機の支援に続き",
+      "publishedAt": "2026-09-25T17:53:15+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/25/2000001768"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-18",
+      "title": "ボクシング井上拓真と那須川天心が会見27日タイトルマッチ",
+      "publishedAt": "2026-09-25T17:44:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260925de52410"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-18",
+      "title": "イラン外相米側に戦闘終結に向けた提案欧米メディア報道",
+      "publishedAt": "2026-09-25T17:25:53+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260925de52362"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-18",
+      "title": "大相撲元幕内の矢後が現役引退",
+      "publishedAt": "2026-09-25T17:25:23+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260925de52406"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-18",
+      "title": "パナソニックが市販カーナビ生産終了へ30年以上の歴史に幕スマホナビの普及など受け",
+      "publishedAt": "2026-09-25T17:11:22+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/25/2000001763"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-18",
+      "title": "生物多様性知っているは7割気候変動への危機感で関心高まる",
+      "publishedAt": "2026-09-25T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9T0JL8V9TUTFL00CM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-18",
+      "title": "七輪型コントローラー東京ゲームショウで異彩正体は学生作品遊び方は",
+      "publishedAt": "2026-09-25T15:33:03+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/25/2000001718"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-18",
+      "title": "被爆市長山下三郎さん死去96歳の元廿日市市長米国でも証言",
+      "publishedAt": "2026-09-25T15:32:03+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9T20YMV9TPTIL00TM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-18",
+      "title": "jaxa宇宙飛行士の諏訪さん来春にもスペースxの船でissへ",
+      "publishedAt": "2026-09-25T14:55:40+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9T0VL4V9TUHBI016M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-18",
+      "title": "シネマの週末・この1本",
+      "publishedAt": "2026-09-25T13:31:49+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260925/dde/012/070/006000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-25-18",
+      "title": "シネマの週末・トピックス",
+      "publishedAt": "2026-09-25T13:31:37+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260925/dde/012/070/005000c"
+      ]
     }
   ],
-  "updatedAt": "2026-09-25T17:22:56.465359+09:00"
+  "updatedAt": "2026-09-25T23:24:07.976914+09:00"
 }
