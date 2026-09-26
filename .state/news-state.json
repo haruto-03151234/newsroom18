@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-26T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-26-12",
+  "lastCompletedEnd": "2026-09-26T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-26-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -12749,7 +12749,106 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/26/2000001773"
       ]
+    },
+    {
+      "editionId": "2026-09-26-18",
+      "title": "上川・留萌地方気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-09-26T16:45:17+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260926074517_0_VPFJ50_012000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-26-18",
+      "title": "沖縄本島地方気象解説情報台風第26号",
+      "publishedAt": "2026-09-26T16:41:07+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260926074107_0_VPFJ50_460040.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260926074344_0_VPCJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260926075048_0_VPFJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260926080310_0_VPFJ50_472000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-26-18",
+      "title": "九州南部・奄美地方気象解説情報台風第26号",
+      "publishedAt": "2026-09-26T16:40:06+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260926074006_0_VPCJ50_460100.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-26-18",
+      "title": "エチオピア北部情勢に伴う注意喚起",
+      "publishedAt": "2026-09-26T14:34:11+09:00",
+      "urls": [
+        "https://www.anzen.mofa.go.jp/info/pcspotinfo_2026C043.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-26-18",
+      "title": "三重・白山高校のバスが衝突野球部員6人重軽傷遠征向かう途中で",
+      "publishedAt": "2026-09-26T17:10:39+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9V2HWSV9VONFB00DM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-26-18",
+      "title": "アジア大会で出会った祖国球場からパレスチナを思う男性の喜び",
+      "publishedAt": "2026-09-26T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9S3DN8V9SOIPE00HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-26-18",
+      "title": "アジア大会組織委事務総長がミス謝罪競技への影響はなし",
+      "publishedAt": "2026-09-26T16:50:13+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260926de52585"
+      ]
+    },
+    {
+      "editionId": "2026-09-26-18",
+      "title": "俳優いきいきまるで写真の出来栄え数少なくなった看板絵師の技",
+      "publishedAt": "2026-09-26T16:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9V10WFV9VTIPE01FM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-26-18",
+      "title": "ホワイトソックス村上宗隆1試合2hr今季日本選手の単独トップ",
+      "publishedAt": "2026-09-26T15:54:45+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260926de52565"
+      ]
+    },
+    {
+      "editionId": "2026-09-26-18",
+      "title": "女子ゴルフ米ツアー第1ラウンド西村優菜が単独首位",
+      "publishedAt": "2026-09-26T15:15:50+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260926de52579"
+      ]
+    },
+    {
+      "editionId": "2026-09-26-18",
+      "title": "ナッツを多く食べる人認知テストで高成績の傾向豪州チームが1700人以上を分析",
+      "publishedAt": "2026-09-26T12:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/26/2000001711"
+      ]
+    },
+    {
+      "editionId": "2026-09-26-18",
+      "title": "顔面に電気を流すと記憶力アップあごにパッチ電極を貼り人間で実験結果は",
+      "publishedAt": "2026-09-26T12:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/26/2000001710"
+      ]
     }
   ],
-  "updatedAt": "2026-09-26T17:09:42.805405+09:00"
+  "updatedAt": "2026-09-26T22:35:59.042167+09:00"
 }
