@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-26T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-26-06",
+  "lastCompletedEnd": "2026-09-26T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-26-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -12652,7 +12652,104 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/25/2000001771"
       ]
+    },
+    {
+      "editionId": "2026-09-26-12",
+      "title": "沖縄本島地方気象解説情報台風第26号",
+      "publishedAt": "2026-09-26T11:24:58+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260926022459_0_VPCJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260926022749_0_VPFJ50_471000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-26-12",
+      "title": "和歌山県気象解説情報落雷・突風",
+      "publishedAt": "2026-09-26T11:07:07+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260926020707_0_VPFJ50_300000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-26-12",
+      "title": "熊本県熊本地方で地震m45最大震度4",
+      "publishedAt": "2026-09-26T10:35:35+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260926013536_0_VXSE53_270000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-26-12",
+      "title": "台風26号沖縄に接近へ関東など前線で雨土砂災害に十分注意",
+      "publishedAt": "2026-09-26T11:49:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260926de52529"
+      ]
+    },
+    {
+      "editionId": "2026-09-26-12",
+      "title": "戦国武将嶋左近が高野山金剛峯寺と交渉の書状写し発見",
+      "publishedAt": "2026-09-26T11:08:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260926de52545"
+      ]
+    },
+    {
+      "editionId": "2026-09-26-12",
+      "title": "アニメを支える外国人材に逆風日本在住の声優・アニメーターが抱く不安の正体とは",
+      "publishedAt": "2026-09-26T11:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/26/2000001672"
+      ]
+    },
+    {
+      "editionId": "2026-09-26-12",
+      "title": "ネパール土石流1カ月現地で支援続ける看護師心のケア必要",
+      "publishedAt": "2026-09-26T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9T20FQV9TUTFL028M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-26-12",
+      "title": "米国大使台湾めぐり文言も立場も変えない習氏が会談で要求",
+      "publishedAt": "2026-09-26T10:51:56+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9T7KS9V9TUHBI00KM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-26-12",
+      "title": "大谷翔平大リーグのユニフォーム売り上げ4年連続1位",
+      "publishedAt": "2026-09-26T10:23:13+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260926de52535"
+      ]
+    },
+    {
+      "editionId": "2026-09-26-12",
+      "title": "元首相らを支えて90年最強の後援会が完敗した政治活動のいま",
+      "publishedAt": "2026-09-26T10:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9D0SDQV9DUOOB007M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-26-12",
+      "title": "ずっと座っている人ほど椅子には動いてほしいrazerの最新ゲーミングチェアiskurv2newgenを試す",
+      "publishedAt": "2026-09-26T08:31:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/26/2000001759"
+      ]
+    },
+    {
+      "editionId": "2026-09-26-12",
+      "title": "microsoftcopilotを刷新仕事のための新しいosとナデラceo",
+      "publishedAt": "2026-09-26T07:48:32+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/26/2000001773"
+      ]
     }
   ],
-  "updatedAt": "2026-09-26T08:39:47.722431+09:00"
+  "updatedAt": "2026-09-26T17:09:42.805405+09:00"
 }
