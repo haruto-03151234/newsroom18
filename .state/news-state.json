@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-26T18:00:00+09:00",
-  "lastCompletedEdition": "2026-09-26-18",
+  "lastCompletedEnd": "2026-09-27T06:00:00+09:00",
+  "lastCompletedEdition": "2026-09-27-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -12848,7 +12848,105 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/26/2000001710"
       ]
+    },
+    {
+      "editionId": "2026-09-27-06",
+      "title": "佐賀県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-27T05:57:19+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260926205720_0_VPFJ50_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260926205736_0_VPFJ50_410000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260926205828_0_VPFJ50_350000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-06",
+      "title": "長崎県記録的短時間大雨情報",
+      "publishedAt": "2026-09-27T05:53:36+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260926205337_0_VPOA50_420000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-06",
+      "title": "奄美地方鹿児島県気象解説情報台風第26号",
+      "publishedAt": "2026-09-27T05:33:52+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260926203352_0_VPFJ50_460040.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-06",
+      "title": "タイで大雨続き首都バンコクでも浸水被害広がる",
+      "publishedAt": "2026-09-27T05:42:31+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260926de52623"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-06",
+      "title": "福岡県筑後地方に線状降水帯直前予測",
+      "publishedAt": "2026-09-27T05:41:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260927de52642"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-06",
+      "title": "ゆるやかな糖質制限のススメ健康の常識・非常識",
+      "publishedAt": "2026-09-27T05:30:11+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260925/k00/00m/100/119000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-06",
+      "title": "大相撲秋場所千秋楽見どころ大の里と安青錦の相星決戦",
+      "publishedAt": "2026-09-27T05:08:59+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260926de52628"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-06",
+      "title": "トランプ氏イラン新提案を拒否中間選挙後に攻撃再開の報道も",
+      "publishedAt": "2026-09-27T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9V61R9V9VUHBI02YM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-06",
+      "title": "松尾貴史のちょっと違和感",
+      "publishedAt": "2026-09-27T02:32:36+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260927/ddm/012/070/007000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-06",
+      "title": "日米首脳が電話協議高市首相日米は最も信頼し合える同盟国",
+      "publishedAt": "2026-09-26T22:50:17+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260926/k00/00m/010/177000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-06",
+      "title": "群馬女性殺害事件長女の元夫を公開手配長男への殺人未遂容疑で",
+      "publishedAt": "2026-09-26T18:15:21+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9V05DYV9VUHNB001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-06",
+      "title": "台風25号で相次いだ土砂崩れ地形が影響か専門家の調査に同行",
+      "publishedAt": "2026-09-26T18:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9V21YJV9VUTFL003M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-09-26T22:35:59.042167+09:00"
+  "updatedAt": "2026-09-27T08:13:07.601396+09:00"
 }
