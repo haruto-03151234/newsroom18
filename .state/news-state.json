@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-27T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-27-06",
+  "lastCompletedEnd": "2026-09-27T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-27-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -12946,7 +12946,91 @@
       "urls": [
         "https://www.asahi.com/articles/ASV9V21YJV9VUTFL003M.html"
       ]
+    },
+    {
+      "editionId": "2026-09-27-12",
+      "title": "宮崎県気象防災速報竜巻注意",
+      "publishedAt": "2026-09-27T11:43:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260927024309_0_VPHW50_440000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260927024311_0_VPHW50_430000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260927024313_0_VPHW50_450000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-12",
+      "title": "長崎県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-27T11:36:51+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260927023651_0_VPFJ50_420000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260927023748_0_VPFJ50_410000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260927025509_0_VPFJ50_450000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-12",
+      "title": "イラン外相トランプ大統領の反応認識も仲介国待ち対応判断",
+      "publishedAt": "2026-09-27T11:40:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260927de52673"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-12",
+      "title": "試練乗り越え産業ケアマネにかける60歳からのセカンドキャリア",
+      "publishedAt": "2026-09-27T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9L1GD8V9LULLI00CM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-12",
+      "title": "スキー誘発で雪崩登山者死亡スキーヤーを書類送検予見可能か",
+      "publishedAt": "2026-09-27T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9C2PC3V9CUOOB001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-12",
+      "title": "岩屋前外相らが北京に到着経済交流通じて日中関係改善を",
+      "publishedAt": "2026-09-27T10:31:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260927de52664"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-12",
+      "title": "ドジャース大谷翔平2試合ぶり安打チームは100勝に王手",
+      "publishedAt": "2026-09-27T09:42:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260927de52659"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-12",
+      "title": "イーロン・マスク氏のドキュメンタリー映画muskの予告編広告youtubeとmetaが一時拒否から一転承認xは応じず",
+      "publishedAt": "2026-09-27T07:59:53+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/27/2000001775"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-12",
+      "title": "映画sekiroにホロリときたマンガ家賛否両論の原作ゲーム改変が悪くないと思った理由とは",
+      "publishedAt": "2026-09-27T07:16:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/27/2000001769"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-12",
+      "title": "高病原性鳥インフルの様相に異変感染野鳥が毎年発生期間も長期化",
+      "publishedAt": "2026-09-27T06:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9S24Y8V9SUTFL012M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-09-27T08:13:07.601396+09:00"
+  "updatedAt": "2026-09-27T17:45:59.964414+09:00"
 }
