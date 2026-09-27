@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-27T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-27-12",
+  "lastCompletedEnd": "2026-09-27T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-27-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -13030,7 +13030,75 @@
       "urls": [
         "https://www.asahi.com/articles/ASV9S24Y8V9SUTFL012M.html"
       ]
+    },
+    {
+      "editionId": "2026-09-27-18",
+      "title": "全般気象解説情報台風第26号",
+      "publishedAt": "2026-09-27T16:46:49+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260927074649_0_VPFJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260927075217_0_VPFJ50_472000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260927075518_0_VPCJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260927075829_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-18",
+      "title": "奄美地方鹿児島県気象解説情報台風第26号",
+      "publishedAt": "2026-09-27T16:45:45+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260927074545_0_VPCJ50_460100.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260927074735_0_VPFJ50_460040.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-18",
+      "title": "男子ゴルフ国内ツアー大西魁斗が4年ぶり通算2勝目",
+      "publishedAt": "2026-09-27T17:52:52+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260927de52708"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-18",
+      "title": "浜田青陵賞向井佑介・京大准教授が受賞シンポで仏塔の伝来を語る",
+      "publishedAt": "2026-09-27T17:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9W2F4CV9WUCVL042M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-18",
+      "title": "大相撲秋場所十両は幕内経験者の北の若優勝決定戦制し初優勝",
+      "publishedAt": "2026-09-27T17:16:56+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260927de52704"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-18",
+      "title": "女子ゴルフ国内ツアー桑木志帆が逆転優勝で今季3勝目",
+      "publishedAt": "2026-09-27T16:31:24+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260927de52701"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-18",
+      "title": "台風被害のjr内房線代行バス足りず取りやめ他路線は28日開始",
+      "publishedAt": "2026-09-27T13:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9W11TTV9WUDCB00QM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-27-18",
+      "title": "snsでつながる中国版トー横誰か気付いて若者たちのsos",
+      "publishedAt": "2026-09-27T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9T436VV9TUHBI023M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-09-27T17:45:59.964414+09:00"
+  "updatedAt": "2026-09-27T23:32:23.354119+09:00"
 }
