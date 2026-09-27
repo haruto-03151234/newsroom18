@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-27T18:00:00+09:00",
-  "lastCompletedEdition": "2026-09-27-18",
+  "lastCompletedEnd": "2026-09-28T06:00:00+09:00",
+  "lastCompletedEdition": "2026-09-28-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -13098,7 +13098,106 @@
       "urls": [
         "https://www.asahi.com/articles/ASV9T436VV9TUHBI023M.html"
       ]
+    },
+    {
+      "editionId": "2026-09-28-06",
+      "title": "佐賀県レベル4土砂災害危険警報",
+      "publishedAt": "2026-09-28T05:51:12+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260927205114_0_VXWW50_410000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-06",
+      "title": "関東甲信地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-28T05:50:18+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260927205019_0_VPCJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-06",
+      "title": "大阪府気象解説情報落雷・突風",
+      "publishedAt": "2026-09-28T05:50:13+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260927205014_0_VPFJ50_300000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260927205016_0_VPFJ50_290000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260927205212_0_VPFJ50_280000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260927205222_0_VPFJ50_270000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-06",
+      "title": "台風25号の記録的大雨から1週間千葉と神奈川で13人が死亡",
+      "publishedAt": "2026-09-28T05:46:44+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260928de52757"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-06",
+      "title": "緊迫する中東情勢",
+      "publishedAt": "2026-09-28T05:00:24+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260927/k00/00m/030/012000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-06",
+      "title": "プロ韓国に惜敗も社会人野球の価値見せられた日本代表監督",
+      "publishedAt": "2026-09-28T05:00:10+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260928/k00/00m/050/001000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-06",
+      "title": "東電の外部資本提携協議が想定より遅れ原発リスクなど交渉の鍵に",
+      "publishedAt": "2026-09-28T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9V30SGV9VULFA021M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-06",
+      "title": "ともに・共生社会へ注目の動画認知症家族と学んで新薬開発支援グループが配信",
+      "publishedAt": "2026-09-28T02:24:04+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260928/ddm/010/040/020000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-06",
+      "title": "アジア大会陸上女子100mハードル福部真子が金中島ひとみが銀",
+      "publishedAt": "2026-09-28T00:40:53+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260927de52722"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-06",
+      "title": "横浜の集合住宅で男性が腹刺され死亡建物の中で人が口論と通報",
+      "publishedAt": "2026-09-27T23:35:17+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9W4QFPV9WULOB00JM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-06",
+      "title": "対中改善首相力を入れる必要57必要ない35",
+      "publishedAt": "2026-09-27T21:35:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9W2R0VV9WUZPS002M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-06",
+      "title": "日本学術会議法人化前に元会長らがシンポジウムで講演",
+      "publishedAt": "2026-09-27T21:33:10+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260927de52725"
+      ]
     }
   ],
-  "updatedAt": "2026-09-27T23:32:23.354119+09:00"
+  "updatedAt": "2026-09-28T08:27:06.394666+09:00"
 }
