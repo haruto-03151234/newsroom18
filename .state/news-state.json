@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-28T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-28-06",
+  "lastCompletedEnd": "2026-09-28T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-28-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -13197,7 +13197,128 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20260927de52725"
       ]
+    },
+    {
+      "editionId": "2026-09-28-12",
+      "title": "渡島・檜山地方気象防災速報竜巻注意",
+      "publishedAt": "2026-09-28T11:43:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260928024310_0_VPHW50_017000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-12",
+      "title": "火山名口永良部島火山の状況に関する解説情報",
+      "publishedAt": "2026-09-28T11:11:19+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260928021119_0_VFVO51_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-12",
+      "title": "熊本県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-28T11:10:32+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260928021033_0_VPFJ50_430000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260928021145_0_VPFJ50_410000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-12",
+      "title": "大東島地方気象解説情報台風第26号",
+      "publishedAt": "2026-09-28T11:09:46+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260928020946_0_VPFJ50_472000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-12",
+      "title": "九州北部地方山口県を含む気象解説情報落雷・突風",
+      "publishedAt": "2026-09-28T11:00:19+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260928020020_0_VPCJ50_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-12",
+      "title": "国立大にまたサイバー攻撃佐賀大でランサムウェア被害nasのファイルが暗号化",
+      "publishedAt": "2026-09-28T11:53:46+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/28/2000001792"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-12",
+      "title": "ボージョレ・ヌーボー熱波の影響で1か月早く羽田空港に到着",
+      "publishedAt": "2026-09-28T11:27:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260928de52792"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-12",
+      "title": "女子ゴルフ西村優菜がアメリカツアー初優勝",
+      "publishedAt": "2026-09-28T11:19:45+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260928de52766"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-12",
+      "title": "初心者でもはまる米国発ピックルボールコート不足も人気は沸騰",
+      "publishedAt": "2026-09-28T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9T04SDV9TUQIP00VM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-12",
+      "title": "トランプ氏とヘグセス氏が求める見せかけの強さ元米宇宙軍大佐",
+      "publishedAt": "2026-09-28T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9S4QTRV9SUHBI00TM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-12",
+      "title": "スマホ注文なのに客用wi",
+      "publishedAt": "2026-09-28T10:59:42+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/28/2000001592"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-12",
+      "title": "ドジャース大谷翔平2試合連続ヒット佐木朗希は1回無失点",
+      "publishedAt": "2026-09-28T10:59:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260928de52769"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-12",
+      "title": "オズモールに海外から不正アクセス45万人分のメアド流出の可能性",
+      "publishedAt": "2026-09-28T10:47:36+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/28/2000001786"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-12",
+      "title": "トレンドpinchout女性芸人の賞レースthew終了チャンスとネタ確かな広がり",
+      "publishedAt": "2026-09-28T10:33:15+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260928/ddm/014/200/013000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-12",
+      "title": "雪解けが遅い年ほど高山帯の紅葉は鮮やか国環研などが画像から解析",
+      "publishedAt": "2026-09-28T08:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9M0J4GV9MOXIE01MM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-09-28T08:27:06.394666+09:00"
+  "updatedAt": "2026-09-28T18:10:39.312415+09:00"
 }
