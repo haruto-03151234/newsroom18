@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-28T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-28-12",
+  "lastCompletedEnd": "2026-09-28T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-28-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -13318,7 +13318,122 @@
       "urls": [
         "https://www.asahi.com/articles/ASV9M0J4GV9MOXIE01MM.html"
       ]
+    },
+    {
+      "editionId": "2026-09-28-18",
+      "title": "渡島・檜山地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-28T16:38:11+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260928073812_0_VPFJ50_440000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260928075603_0_VPFJ50_017000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260928080620_0_VPFJ50_015000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-18",
+      "title": "山梨県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-09-28T16:32:27+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260928073228_0_VPFJ50_190000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260928074325_0_VPFJ50_160000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-18",
+      "title": "全般気象解説情報台風第26号",
+      "publishedAt": "2026-09-28T16:30:20+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260928073021_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-18",
+      "title": "採石場で土砂に生き埋め1人死亡1人重傷か兵庫の家島諸島",
+      "publishedAt": "2026-09-28T17:45:09+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9X2QQTV9XPEFT00XM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-18",
+      "title": "神姫バス特定技能の中国籍運転士がデビュー人材不足打開へ",
+      "publishedAt": "2026-09-28T17:40:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9X22J1V9XPIHB002M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-18",
+      "title": "横浜市長選の構図ほぼ固まる前市長が立候補表明事実上の選挙戦へ",
+      "publishedAt": "2026-09-28T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9X2D16V9XOXIE01RM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-18",
+      "title": "クリスタ素材非公開セルシスに詳しく聞いた英国政府とは無関係決済事業者は",
+      "publishedAt": "2026-09-28T16:55:34+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/28/2000001791"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-18",
+      "title": "sharepointのコード生成不備を突く脆弱性実際の攻撃で悪用米cisaが警告",
+      "publishedAt": "2026-09-28T16:27:18+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/28/2000001810"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-18",
+      "title": "ankerの回収対象モバイルバッテリーで発火事故25年度も7件消費者庁が注意喚起",
+      "publishedAt": "2026-09-28T16:26:51+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/28/2000001812"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-18",
+      "title": "中国も貿易摩擦休戦延長発表米は関税引き下げリスト公表",
+      "publishedAt": "2026-09-28T16:15:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260928de52866"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-18",
+      "title": "随時更新ロシアウクライナに軍事侵攻9月28日の動き",
+      "publishedAt": "2026-09-28T15:18:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260828de47016"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-18",
+      "title": "ブルージェイズ岡本和真hr33本92打点でチームトップ成績",
+      "publishedAt": "2026-09-28T14:50:23+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260928de52777"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-18",
+      "title": "西のハコから",
+      "publishedAt": "2026-09-28T13:40:11+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260928/dde/012/200/005000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-28-18",
+      "title": "トーク芯の強い女性丁寧に新感線髑髏城の七人で極楽太夫柚香光",
+      "publishedAt": "2026-09-28T13:37:50+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260928/dde/012/200/006000c"
+      ]
     }
   ],
-  "updatedAt": "2026-09-28T18:10:39.312415+09:00"
+  "updatedAt": "2026-09-29T02:19:07.632002+09:00"
 }
