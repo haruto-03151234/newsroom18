@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-28T18:00:00+09:00",
-  "lastCompletedEdition": "2026-09-28-18",
+  "lastCompletedEnd": "2026-09-29T06:00:00+09:00",
+  "lastCompletedEdition": "2026-09-29-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -13433,7 +13433,144 @@
       "urls": [
         "https://mainichi.jp/articles/20260928/dde/012/200/006000c"
       ]
+    },
+    {
+      "editionId": "2026-09-29-06",
+      "title": "東京都気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-09-29T05:41:32+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260928204133_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-06",
+      "title": "和歌山県気象解説情報落雷・突風",
+      "publishedAt": "2026-09-29T05:28:17+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260928202817_0_VPFJ50_300000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-06",
+      "title": "近畿地方気象解説情報落雷・突風",
+      "publishedAt": "2026-09-29T05:27:14+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260928202714_0_VPCJ50_270000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-06",
+      "title": "茨城県南部で地震m49最大震度4",
+      "publishedAt": "2026-09-29T04:54:14+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260928195414_0_VXSE53_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-06",
+      "title": "大東島地方気象解説情報台風第26号",
+      "publishedAt": "2026-09-29T04:08:32+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260928190833_0_VPFJ50_472000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260928192422_0_VPCJ50_471000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-06",
+      "title": "ボリビアにおける緊急事態宣言の延長及び燃料不足等に伴う注意喚起",
+      "publishedAt": "2026-09-28T18:53:21+09:00",
+      "urls": [
+        "https://www.anzen.mofa.go.jp/info/pcspotinfo_2026C045.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-06",
+      "title": "内戦状態のミャンマー軍空爆で市民ら33人死亡か",
+      "publishedAt": "2026-09-29T05:59:26+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260929de52957"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-06",
+      "title": "水に浮くベッドタオルでつないだ100歳の命まだ残る台風の爪痕",
+      "publishedAt": "2026-09-29T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9X35RNV9XOXIE001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-06",
+      "title": "横浜市長選の構図は出馬表明の山中前市長前回支援の各党は離れる",
+      "publishedAt": "2026-09-29T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9X2Q00V9XULOB00XM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-06",
+      "title": "倉本聰さん死去",
+      "publishedAt": "2026-09-29T02:28:59+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260929/ddm/041/200/100000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-06",
+      "title": "ジャニーズ事務所性被害旧ジャニーズ東山社長退任へ被害補償最後の一人まで",
+      "publishedAt": "2026-09-29T02:24:35+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260929/ddm/041/040/041000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-06",
+      "title": "耳寄りな話・tbsラジオ",
+      "publishedAt": "2026-09-29T02:01:41+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260929/ddm/018/200/014000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-06",
+      "title": "プロ野球パ・リーグ2位西武が敗れる3位日本ハムは快勝",
+      "publishedAt": "2026-09-28T23:23:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260928de52950"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-06",
+      "title": "excel40年続く原則を変更へ1個のセルで複数の値を扱う新機能",
+      "publishedAt": "2026-09-28T19:17:12+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/28/2000001820"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-06",
+      "title": "カカクコムkddiとの資本提携を解消tobで資本構造が変化業務提携は継続",
+      "publishedAt": "2026-09-28T19:13:03+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/28/2000001821"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-06",
+      "title": "ノーベル賞の研究成果を新たな治療法開発に阪大が拠点設置へ",
+      "publishedAt": "2026-09-28T18:40:02+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260928de52895"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-06",
+      "title": "レゾナックからなぜ独立クラサスが29日に東証上場国内2例目",
+      "publishedAt": "2026-09-28T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9X1HK2V9XULFA024M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-09-29T02:19:07.632002+09:00"
+  "updatedAt": "2026-09-29T09:40:54.259621+09:00"
 }
