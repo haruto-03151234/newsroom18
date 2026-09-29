@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-29T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-29-12",
+  "lastCompletedEnd": "2026-09-29T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-29-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -13674,7 +13674,127 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20260929de52961"
       ]
+    },
+    {
+      "editionId": "2026-09-29-18",
+      "title": "東京都気象解説情報台風第26号",
+      "publishedAt": "2026-09-29T16:42:11+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260929074211_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-18",
+      "title": "火山名北海道駒ヶ岳火山の状況に関する解説情報臨時",
+      "publishedAt": "2026-09-29T16:01:03+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260929070104_0_VFVO51_016000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-18",
+      "title": "ポルトガルからの家きん肉等の輸入一時停止措置の解除について",
+      "publishedAt": "2026-09-29T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/douei/260929.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-18",
+      "title": "横浜グリーンエクスポで展示するグリーン技術を公募します",
+      "publishedAt": "2026-09-29T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousan/kaki/260929.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-18",
+      "title": "ミャンマー国軍が市場を空爆49人死亡武装勢力戦争犯罪非難",
+      "publishedAt": "2026-09-29T17:57:33+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9Y21Q2V9YUHBI01HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-18",
+      "title": "ips心筋細胞シート承認後初の手術実施大阪けいさつ病院",
+      "publishedAt": "2026-09-29T17:43:04+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260929de53038"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-18",
+      "title": "サッカー日本代表エクアドル戦へ調整開始",
+      "publishedAt": "2026-09-29T17:37:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260929de53116"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-18",
+      "title": "iij新人エンジニア向け研修教材を無料公開web技術の基礎から生成ai活用まで20講義超",
+      "publishedAt": "2026-09-29T17:07:49+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/29/2000001854"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-18",
+      "title": "v2目前の阪神ファンチケット買えない来季は抽選制に一本化",
+      "publishedAt": "2026-09-29T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9Y1TKJV9YOXIE006M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-18",
+      "title": "京都・嵐山竹あかりが照らす月灯路今秋も",
+      "publishedAt": "2026-09-29T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9Y031DV9YPQIP015M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-18",
+      "title": "野球日本代表コーチ陣決定ヘッドは田口氏",
+      "publishedAt": "2026-09-29T16:59:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260929de53124"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-18",
+      "title": "台風で休止していたラジオnikkei第2再開時短・減力放送で",
+      "publishedAt": "2026-09-29T16:52:04+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/29/2000001835"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-18",
+      "title": "旭化成ホームズの社内システムが地震で全停止したらどうする同社グループが本当にやった災害訓練",
+      "publishedAt": "2026-09-29T14:47:52+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/29/2000001787"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-18",
+      "title": "特集ワイド",
+      "publishedAt": "2026-09-29T14:09:54+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260929/dde/018/200/014000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-18",
+      "title": "戦争人間でいられない映画ネルソンさんに父重ね日本兵家族会黒井代表",
+      "publishedAt": "2026-09-29T13:41:11+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260929/dde/007/200/027000c"
+      ]
     }
   ],
-  "updatedAt": "2026-09-29T18:19:34.856804+09:00"
+  "updatedAt": "2026-09-30T00:20:06.594856+09:00"
 }
