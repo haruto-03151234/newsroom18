@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-29T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-29-06",
+  "lastCompletedEnd": "2026-09-29T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-29-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -13570,7 +13570,111 @@
       "urls": [
         "https://www.asahi.com/articles/ASV9X1HK2V9XULFA024M.html"
       ]
+    },
+    {
+      "editionId": "2026-09-29-12",
+      "title": "農林水産省共通申請サービスをemaff申請20へリニューアル令和8年10月から運用スタート",
+      "publishedAt": "2026-09-29T11:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/kanbo/joho/260929.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-12",
+      "title": "簗農林水産大臣等の国内出張について",
+      "publishedAt": "2026-09-29T11:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/kanbo/tiho/260929.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-12",
+      "title": "日本の観光・食の魅力発信イベントにおける日本産食材のプロモーションの実施について",
+      "publishedAt": "2026-09-29T10:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/yusyutu_kokusai/kaitaku/260929.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-12",
+      "title": "10月は食品ロス削減月間10月30日は食品ロス削減の日",
+      "publishedAt": "2026-09-29T10:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/shokuhin/recycle/260929_1.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-12",
+      "title": "ホンダのカーシェアhondaeverygo終了へ開始から10年弱",
+      "publishedAt": "2026-09-29T11:28:43+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/29/2000001831"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-12",
+      "title": "なぜアジアは格闘技が強くて盛んなのか五輪金メダルの6割占める",
+      "publishedAt": "2026-09-29T11:28:09+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9Y032GV9YUTQP01NM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-12",
+      "title": "yahooきっず終了へ29年の歴史に幕プニキは6年前に終了",
+      "publishedAt": "2026-09-29T11:16:46+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/29/2000001825"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-12",
+      "title": "meta企業向けai事業metaenterpriseplatformを開始責任者としてmongodbのceo引き抜き",
+      "publishedAt": "2026-09-29T11:05:46+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/29/2000001829"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-12",
+      "title": "タブレット式電子投票19市町村が実施・予定過去のブーム超える",
+      "publishedAt": "2026-09-29T09:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9R0TT1V9RUEFT004M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-12",
+      "title": "北朝鮮外務次官国連演説でわが国は核保有国だと主張",
+      "publishedAt": "2026-09-29T08:46:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260929de52988"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-12",
+      "title": "スペースx大型宇宙船初の地球周回軌道投入に成功",
+      "publishedAt": "2026-09-29T07:16:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260929de52969"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-12",
+      "title": "アミノ酸豊富な卵平飼いとケージ飼いどっち同じえさでも違いが",
+      "publishedAt": "2026-09-29T07:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9T40ZZV9TUTFL019M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-29-12",
+      "title": "南北境界線付近で韓国軍将兵負傷北朝鮮の地雷の可能性高い",
+      "publishedAt": "2026-09-29T06:46:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260929de52961"
+      ]
     }
   ],
-  "updatedAt": "2026-09-29T09:40:54.259621+09:00"
+  "updatedAt": "2026-09-29T18:19:34.856804+09:00"
 }
