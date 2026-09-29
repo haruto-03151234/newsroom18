@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-29T18:00:00+09:00",
-  "lastCompletedEdition": "2026-09-29-18",
+  "lastCompletedEnd": "2026-09-30T06:00:00+09:00",
+  "lastCompletedEdition": "2026-09-30-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -13794,7 +13794,111 @@
       "urls": [
         "https://mainichi.jp/articles/20260929/dde/007/200/027000c"
       ]
+    },
+    {
+      "editionId": "2026-09-30-06",
+      "title": "東京都気象解説情報台風第26号",
+      "publishedAt": "2026-09-30T05:36:12+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260929203612_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-06",
+      "title": "経済プラス",
+      "publishedAt": "2026-09-30T05:30:13+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260929/k00/00m/020/088000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-06",
+      "title": "手塚治虫の幻の作品がヒット正面から問う在日コリアン差別",
+      "publishedAt": "2026-09-30T05:30:12+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260928/k00/00m/200/120000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-06",
+      "title": "アメリカ・イラン間接協議双方とも妥協しない姿勢",
+      "publishedAt": "2026-09-30T05:12:25+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53236"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-06",
+      "title": "世界で摘発スマホ農場増す脅威民主主義を脅かす可能性も",
+      "publishedAt": "2026-09-30T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9X02DPV9XUTIL00RM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-06",
+      "title": "法廷で語られたぬいぐるみ悪用殺害認めた被告が使ったタグ",
+      "publishedAt": "2026-09-30T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9W1475V9WUJHB00QM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-06",
+      "title": "英首相eu離脱は恩恵より弊害の方が大きかった",
+      "publishedAt": "2026-09-30T04:59:12+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53235"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-06",
+      "title": "アジア大会サッカー女子なでしこジャパンが韓国破り決勝へ",
+      "publishedAt": "2026-09-30T03:56:50+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260929de53223"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-06",
+      "title": "nhk連続テレビ小説",
+      "publishedAt": "2026-09-30T02:01:51+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260930/ddm/041/200/018000c"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-06",
+      "title": "iccの年次会合米国からオランダ開催に変更赤根氏の制裁影響か",
+      "publishedAt": "2026-09-29T22:50:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9Y0JKMV9YUHBI00QM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-06",
+      "title": "チケット販売サイトイープラスに不正アクセス個人情報1463件漏えい口座情報や住所なども一部流出",
+      "publishedAt": "2026-09-29T19:44:24+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/29/2000001861"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-06",
+      "title": "anthropicipo目論見書でaiによる人類存亡リスクを警告海外報道",
+      "publishedAt": "2026-09-29T19:18:11+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/29/2000001860"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-06",
+      "title": "さくらインターネットsiteworkxyzドメインを値上げへ27年2月から",
+      "publishedAt": "2026-09-29T19:01:54+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/29/2000001858"
+      ]
     }
   ],
-  "updatedAt": "2026-09-30T00:20:06.594856+09:00"
+  "updatedAt": "2026-09-30T08:59:07.119002+09:00"
 }
