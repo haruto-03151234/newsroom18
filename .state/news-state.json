@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-30T12:00:00+09:00",
-  "lastCompletedEdition": "2026-09-30-12",
+  "lastCompletedEnd": "2026-09-30T18:00:00+09:00",
+  "lastCompletedEdition": "2026-09-30-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -13970,7 +13970,151 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20260930de53234"
       ]
+    },
+    {
+      "editionId": "2026-09-30-18",
+      "title": "第14回食品産業もったいない大賞の受賞者決定",
+      "publishedAt": "2026-09-30T17:06:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/shokuhin/recycle/260929.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-18",
+      "title": "令和8年8月の米穀流通の動向集荷販売民間在庫",
+      "publishedAt": "2026-09-30T17:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousan/kikaku/260930.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-18",
+      "title": "東京都気象解説情報台風第26号",
+      "publishedAt": "2026-09-30T16:35:21+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260930073521_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-18",
+      "title": "火山名北海道駒ヶ岳火山の状況に関する解説情報臨時",
+      "publishedAt": "2026-09-30T16:00:10+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260930070010_0_VFVO51_016000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-18",
+      "title": "津波予報",
+      "publishedAt": "2026-09-30T14:08:17+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260930050818_0_VTSE41_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-18",
+      "title": "アルゼンチン北部地域産牛肉及び牛肉製品の輸入に係る家畜衛生条件の合意について",
+      "publishedAt": "2026-09-30T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/douei/260930.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-18",
+      "title": "歴史的風致維持向上計画第2期の認定について",
+      "publishedAt": "2026-09-30T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousin/noukei/260930.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-18",
+      "title": "野菜の生育状況及び価格見通し令和8年10月について",
+      "publishedAt": "2026-09-30T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousan/engei/260930.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-18",
+      "title": "サッカー女子準決勝は998人集客苦しむアジア大会の複合的背景",
+      "publishedAt": "2026-09-30T17:52:52+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9Z2GLPV9ZUTQP001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-18",
+      "title": "フードデリバリーmenuきょう午後8時にサービス終了公式x心より感謝",
+      "publishedAt": "2026-09-30T17:49:05+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/30/2000001899"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-18",
+      "title": "集英社のブロガー管理システムに不正アクセス2835人分の個人情報漏えい結婚状況や子の有無も",
+      "publishedAt": "2026-09-30T17:43:49+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/30/2000001898"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-18",
+      "title": "米軍が撤収したイラクに残る難題親イラン武装組織を統制できるか",
+      "publishedAt": "2026-09-30T17:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9Z2522V9ZUHBI01MM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-18",
+      "title": "楽天モバイルのauローミング縮小マップ公開ほぼ半減エリアもさらに順次縮小へ",
+      "publishedAt": "2026-09-30T16:58:26+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/30/2000001885"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-18",
+      "title": "大リーグポストシーズン開幕村上宗隆が勝利に貢献",
+      "publishedAt": "2026-09-30T16:37:45+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53261"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-18",
+      "title": "ロッテ中村奨吾が今シーズンで退団に現役続行を希望",
+      "publishedAt": "2026-09-30T16:10:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53391"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-18",
+      "title": "中国の製造業の景況感指数pmi3か月ぶりに50上回る",
+      "publishedAt": "2026-09-30T15:45:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53385"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-18",
+      "title": "真摯に反省相次ぐトラブル名古屋市長が謝罪アジア大会",
+      "publishedAt": "2026-09-30T14:35:42+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9Z1RN4V9ZOIPE005M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-18",
+      "title": "topics",
+      "publishedAt": "2026-09-30T13:45:59+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20260930/dde/012/200/006000c"
+      ]
     }
   ],
-  "updatedAt": "2026-09-30T18:10:08.811745+09:00"
+  "updatedAt": "2026-10-01T00:35:37.064718+09:00"
 }
