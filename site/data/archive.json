@@ -1,7 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-30T08:59:07.119002+09:00",
+  "updatedAt": "2026-09-30T18:10:08.811745+09:00",
   "editions": [
+    {
+      "id": "2026-09-30-12",
+      "path": "data/editions/2026-09-30-12.json",
+      "dataUrl": "data/editions/2026-09-30-12.json",
+      "generatedAt": "2026-09-30T18:10:08.811745+09:00",
+      "date": "2026-09-30",
+      "time": "12:00",
+      "label": "昼12時版",
+      "coverageLabel": "09月30日 06:00〜09月30日 12:00",
+      "headline": "クオカードのLINEキャンペーンシステムに不正アクセス 当選情報など流出の恐れ",
+      "articleCount": 9,
+      "categories": {
+        "テクノロジー": 2,
+        "海外": 3,
+        "国内": 1,
+        "経済": 1,
+        "社会": 2
+      }
+    },
     {
       "id": "2026-09-30-06",
       "path": "data/editions/2026-09-30-06.json",

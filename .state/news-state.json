@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-30T06:00:00+09:00",
-  "lastCompletedEdition": "2026-09-30-06",
+  "lastCompletedEnd": "2026-09-30T12:00:00+09:00",
+  "lastCompletedEdition": "2026-09-30-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -13898,7 +13898,79 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/29/2000001858"
       ]
+    },
+    {
+      "editionId": "2026-09-30-12",
+      "title": "クオカードのlineキャンペーンシステムに不正アクセス当選情報など流出の恐れ",
+      "publishedAt": "2026-09-30T11:51:39+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/30/2000001878"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-12",
+      "title": "郵便局アプリに不正アクセス氏名や送り先住所など漏えい19人分・69件",
+      "publishedAt": "2026-09-30T11:44:12+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/30/2000001881"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-12",
+      "title": "米トランプ大統領北朝鮮のキム総書記との関係良好と強調",
+      "publishedAt": "2026-09-30T11:38:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53273"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-12",
+      "title": "比例のみ45減野党に大打撃の試算新方式でも与党優位は変わらず",
+      "publishedAt": "2026-09-30T11:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9Y3R21V9YUTFK00GM.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-12",
+      "title": "ナビダイヤル10月から通話料値上げ携帯発信は1分33円44円に",
+      "publishedAt": "2026-09-30T11:19:08+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/30/2000001879"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-12",
+      "title": "女性抑圧の背景に家父長制文化韓国サッカー協会性接待を考える",
+      "publishedAt": "2026-09-30T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9122K8V91UHBI014M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-12",
+      "title": "国連で核廃絶会議事務総長冷戦終結後最も危険な局面",
+      "publishedAt": "2026-09-30T09:19:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53243"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-12",
+      "title": "バレー男子の高橋塁選手がゲイ公表なぜスポーツ界では難しいのか",
+      "publishedAt": "2026-09-30T07:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9Y439TV9YUTIL022M.html"
+      ]
+    },
+    {
+      "editionId": "2026-09-30-12",
+      "title": "エストニア防衛企業への放火は破壊工作ロシアは関与否定",
+      "publishedAt": "2026-09-30T04:31:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53234"
+      ]
     }
   ],
-  "updatedAt": "2026-09-30T08:59:07.119002+09:00"
+  "updatedAt": "2026-09-30T18:10:08.811745+09:00"
 }
