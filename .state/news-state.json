@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-01T06:00:00+09:00",
-  "lastCompletedEdition": "2026-10-01-06",
+  "lastCompletedEnd": "2026-10-01T12:00:00+09:00",
+  "lastCompletedEdition": "2026-10-01-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -14219,7 +14219,71 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2609/30/2000001906"
       ]
+    },
+    {
+      "editionId": "2026-10-01-12",
+      "title": "インドネシア・ハラール認証義務化に関する事業者向けウェビナーの開催について",
+      "publishedAt": "2026-10-01T10:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/yusyutu_kokusai/kisei/261001.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-01-12",
+      "title": "bmw管理職20削減ドイツ自動車大手で人員削減相次ぐ",
+      "publishedAt": "2026-10-01T11:49:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261001de53565"
+      ]
+    },
+    {
+      "editionId": "2026-10-01-12",
+      "title": "米国防総省マスク氏らを招き将来の戦闘について検討へ",
+      "publishedAt": "2026-10-01T11:32:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261001de53555"
+      ]
+    },
+    {
+      "editionId": "2026-10-01-12",
+      "title": "素材と完成動画を見せるだけ型を覚えたaiに動画編集をどこまで託せるかgpt",
+      "publishedAt": "2026-10-01T10:28:35+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/01/2000001910"
+      ]
+    },
+    {
+      "editionId": "2026-10-01-12",
+      "title": "googleの謎キーボードに今年も新作ベルトコンベヤーでキーが流れてくるくるくるバージョン",
+      "publishedAt": "2026-10-01T10:01:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/01/2000001907"
+      ]
+    },
+    {
+      "editionId": "2026-10-01-12",
+      "title": "何者ランサムウェア集団を攻撃するサイバー犯罪集団shinyhuntersfbi捜査官の個人情報窃取も主張",
+      "publishedAt": "2026-10-01T08:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/01/2000001847"
+      ]
+    },
+    {
+      "editionId": "2026-10-01-12",
+      "title": "臨時国会改憲議論も焦点迫る首相の目標与党内に隔たりも",
+      "publishedAt": "2026-10-01T06:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9Z3SJ6V9ZUTFK006M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-01-12",
+      "title": "tbsテレビドラマvivant監督をパワハラで処分",
+      "publishedAt": "2026-10-01T05:05:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261001de53513"
+      ]
     }
   ],
-  "updatedAt": "2026-10-01T09:13:38.823578+09:00"
+  "updatedAt": "2026-10-01T18:37:35.273726+09:00"
 }
