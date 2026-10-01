@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-09-30T18:00:00+09:00",
-  "lastCompletedEdition": "2026-09-30-18",
+  "lastCompletedEnd": "2026-10-01T06:00:00+09:00",
+  "lastCompletedEdition": "2026-10-01-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -14114,7 +14114,112 @@
       "urls": [
         "https://mainichi.jp/articles/20260930/dde/012/200/006000c"
       ]
+    },
+    {
+      "editionId": "2026-10-01-06",
+      "title": "東京都気象解説情報台風第26号",
+      "publishedAt": "2026-10-01T04:02:22+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20260930190223_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20260930193759_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-01-06",
+      "title": "令和8年熊本地震に関する対応状況について9月30日",
+      "publishedAt": "2026-09-30T20:05:14+09:00",
+      "urls": [
+        "https://www.digital.go.jp/news/8ee2e00d-6a81-452a-9191-7796fba0ae77"
+      ]
+    },
+    {
+      "editionId": "2026-10-01-06",
+      "title": "三島由紀夫米出版社にあてた手紙多数発見自身の作品売り込む",
+      "publishedAt": "2026-10-01T05:35:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261001de53497"
+      ]
+    },
+    {
+      "editionId": "2026-10-01-06",
+      "title": "値上げの秋物価高対応は高市政権の足をすくうか世論に変化の兆し",
+      "publishedAt": "2026-10-01T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9Y1V8BV9YUZPS004M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-01-06",
+      "title": "沖縄宜野湾女性殺害事件首や周辺に複数の刺し傷",
+      "publishedAt": "2026-10-01T03:16:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261001de53508"
+      ]
+    },
+    {
+      "editionId": "2026-10-01-06",
+      "title": "声の権利",
+      "publishedAt": "2026-10-01T02:38:27+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261001/ddm/041/040/079000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-01-06",
+      "title": "視聴室",
+      "publishedAt": "2026-10-01T02:03:10+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261001/ddm/018/200/009000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-01-06",
+      "title": "ウクライナ4州併合4年プーチン氏大ロシアに復帰と正当化",
+      "publishedAt": "2026-10-01T02:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9Z5FTTV9ZUHBI01JM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-01-06",
+      "title": "アジア大会サッカー男子日本pk戦でウズベキスタン破り決勝へ",
+      "publishedAt": "2026-10-01T00:49:38+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261001de53496"
+      ]
+    },
+    {
+      "editionId": "2026-10-01-06",
+      "title": "イスラエル行き航空機が緊急着陸パイロットが同僚刺し墜落試み",
+      "publishedAt": "2026-09-30T22:55:25+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9Z4HRWV9ZUHBI01FM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-01-06",
+      "title": "アンケート結果をダウンロードしたら他社の従業員情報がベネフィット・ワン1万3460人分漏えい",
+      "publishedAt": "2026-09-30T21:08:20+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/30/2000001908"
+      ]
+    },
+    {
+      "editionId": "2026-10-01-06",
+      "title": "linevoomきょうサービス終了約5年の歴史に幕",
+      "publishedAt": "2026-09-30T19:55:49+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/30/2000001905"
+      ]
+    },
+    {
+      "editionId": "2026-10-01-06",
+      "title": "セイコーマート会員のほぼ半数に当たる情報漏えい約57万人分",
+      "publishedAt": "2026-09-30T19:54:46+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/30/2000001906"
+      ]
     }
   ],
-  "updatedAt": "2026-10-01T00:35:37.064718+09:00"
+  "updatedAt": "2026-10-01T09:13:38.823578+09:00"
 }
