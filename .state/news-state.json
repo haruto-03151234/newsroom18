@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-03T06:00:00+09:00",
-  "lastCompletedEdition": "2026-10-03-06",
+  "lastCompletedEnd": "2026-10-03T12:00:00+09:00",
+  "lastCompletedEdition": "2026-10-03-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -14847,7 +14847,79 @@
       "urls": [
         "https://www.asahi.com/articles/ASVB13TZ3VB1UTFL00KM.html"
       ]
+    },
+    {
+      "editionId": "2026-10-03-12",
+      "title": "国連で拉致問題めぐり日本と北朝鮮が応酬",
+      "publishedAt": "2026-10-03T11:22:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261003de54031"
+      ]
+    },
+    {
+      "editionId": "2026-10-03-12",
+      "title": "老舗のパラマウントとワーナーの社名が買収で消失へ",
+      "publishedAt": "2026-10-03T11:17:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261003de54032"
+      ]
+    },
+    {
+      "editionId": "2026-10-03-12",
+      "title": "台風27号あす以降小笠原近海に高波に警戒今後の情報に注意",
+      "publishedAt": "2026-10-03T11:10:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261003de54005"
+      ]
+    },
+    {
+      "editionId": "2026-10-03-12",
+      "title": "科学雑誌newton45周年で記念フェス科学好き2千人超集まる",
+      "publishedAt": "2026-10-03T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB22C68VB2UTFL009M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-03-12",
+      "title": "アバハウス全顧客の情報漏えいか会員・受注dbに不正アクセス不審な返金メール届いた報告で判明",
+      "publishedAt": "2026-10-03T10:45:11+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/03/2000001981"
+      ]
+    },
+    {
+      "editionId": "2026-10-03-12",
+      "title": "metaaiエージェントmuseとつながる自作ガジェット向けsdkをオープンソースで公開raspberrypiなどに対応",
+      "publishedAt": "2026-10-03T10:41:21+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/03/2000001984"
+      ]
+    },
+    {
+      "editionId": "2026-10-03-12",
+      "title": "靴のムーンスター顧客情報漏えいの可能性氏名や住所注文情報など",
+      "publishedAt": "2026-10-03T10:03:31+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/03/2000001982"
+      ]
+    },
+    {
+      "editionId": "2026-10-03-12",
+      "title": "相次ぐプールの溺水事故ベンチャーがカメラ不要の監視システム開発",
+      "publishedAt": "2026-10-03T10:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9X10KDV9XOXIE038M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-03-12",
+      "title": "茨城県日立市の小川市長3期目限りで引退へ来春の選挙に出馬せず",
+      "publishedAt": "2026-10-03T07:11:34+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB27D8LVB2UJHB00JM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-03T09:02:32.511082+09:00"
+  "updatedAt": "2026-10-03T17:44:36.940357+09:00"
 }
