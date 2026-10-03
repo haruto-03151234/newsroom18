@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-03T18:00:00+09:00",
-  "lastCompletedEdition": "2026-10-03-18",
+  "lastCompletedEnd": "2026-10-04T06:00:00+09:00",
+  "lastCompletedEdition": "2026-10-04-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -15000,7 +15000,89 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2610/03/2000001935"
       ]
+    },
+    {
+      "editionId": "2026-10-04-06",
+      "title": "東京都気象解説情報台風第27号",
+      "publishedAt": "2026-10-04T04:51:41+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261003195142_0_VPZJ50_010000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261003200733_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-04-06",
+      "title": "北海道第2の都市を見守る旭川駅30年ぶり初任地の変貌に駅長は",
+      "publishedAt": "2026-10-04T05:45:09+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261003/k00/00m/310/034000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-04-06",
+      "title": "サザン関口和之氏の著作権管理会社5億8000万円余の申告漏れ",
+      "publishedAt": "2026-10-04T05:11:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261003de54104"
+      ]
+    },
+    {
+      "editionId": "2026-10-04-06",
+      "title": "ロシアウクライナ駐在外交官らに報復攻撃巻き添えを警告",
+      "publishedAt": "2026-10-04T05:06:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261004de54144"
+      ]
+    },
+    {
+      "editionId": "2026-10-04-06",
+      "title": "若きリーダーワーナー・ディアンズが飛躍誓うラグビーw杯へ",
+      "publishedAt": "2026-10-04T05:04:57+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261002de53948"
+      ]
+    },
+    {
+      "editionId": "2026-10-04-06",
+      "title": "読む政治",
+      "publishedAt": "2026-10-04T05:01:12+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261002/k00/00m/010/294000c",
+        "https://mainichi.jp/articles/20261002/k00/00m/010/295000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-04-06",
+      "title": "サザン関口氏の会社5億円超の申告漏れ損金計上めぐり国税局指摘",
+      "publishedAt": "2026-10-04T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB33SLCVB3UTIL01NM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-04-06",
+      "title": "ニュースto5日にスタート村上信五さんら会見で意気込み語る",
+      "publishedAt": "2026-10-04T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB32QPTVB3UCVL02JM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-04-06",
+      "title": "aiで英語不要中国で揺れる教育大学は授業再編snsで論争",
+      "publishedAt": "2026-10-04T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9Y11LBV9YUPQJ002M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-04-06",
+      "title": "松尾貴史のちょっと違和感",
+      "publishedAt": "2026-10-04T02:25:29+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261004/ddm/012/070/012000c"
+      ]
     }
   ],
-  "updatedAt": "2026-10-03T23:07:38.716859+09:00"
+  "updatedAt": "2026-10-04T08:25:00.449792+09:00"
 }
