@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-03T12:00:00+09:00",
-  "lastCompletedEdition": "2026-10-03-12",
+  "lastCompletedEnd": "2026-10-03T18:00:00+09:00",
+  "lastCompletedEdition": "2026-10-03-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -14919,7 +14919,88 @@
       "urls": [
         "https://www.asahi.com/articles/ASVB27D8LVB2UJHB00JM.html"
       ]
+    },
+    {
+      "editionId": "2026-10-03-18",
+      "title": "東京都気象解説情報台風第27号",
+      "publishedAt": "2026-10-03T16:53:21+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261003075322_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261003075910_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-03-18",
+      "title": "火山名北海道駒ヶ岳火山の状況に関する解説情報",
+      "publishedAt": "2026-10-03T16:00:09+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261003070009_0_VFVO51_016000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-03-18",
+      "title": "amazonデータセンター批判に反論10億ドル超の地域支援策も発表",
+      "publishedAt": "2026-10-03T17:52:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/03/2000001985"
+      ]
+    },
+    {
+      "editionId": "2026-10-03-18",
+      "title": "フランスで高校生が教育環境の改善訴えデモ約5000人拘束",
+      "publishedAt": "2026-10-03T17:51:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261003de54065"
+      ]
+    },
+    {
+      "editionId": "2026-10-03-18",
+      "title": "人口水増し市長40万人死守忖度否定識者実態以上に重視",
+      "publishedAt": "2026-10-03T17:44:53+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB32J5YVB3PUZB002M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-03-18",
+      "title": "天皇ご一家アジア大会の馬術競技を観戦障害を飛ぶコツなど尋ねる",
+      "publishedAt": "2026-10-03T17:23:12+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB32QVRVB3UQIP00SM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-03-18",
+      "title": "女子ゴルフ米ツアー第2r山下美夢有と畑岡奈紗首位と3打差7位",
+      "publishedAt": "2026-10-03T16:48:33+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261003de54059"
+      ]
+    },
+    {
+      "editionId": "2026-10-03-18",
+      "title": "法隆寺の金堂壁画限定公開始まる奈良",
+      "publishedAt": "2026-10-03T16:20:47+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261003de54056"
+      ]
+    },
+    {
+      "editionId": "2026-10-03-18",
+      "title": "公明・岡本代表中道の政治実現党大会で再出発誓うも深まる混迷",
+      "publishedAt": "2026-10-03T14:31:23+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB311ZQVB3UTFK012M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-03-18",
+      "title": "貧乏な子どもが稼げる大人になる条件とは米ハーバード大などがfacebook7000万アカウント超から分析2022年にnature掲載",
+      "publishedAt": "2026-10-03T12:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/03/2000001935"
+      ]
     }
   ],
-  "updatedAt": "2026-10-03T17:44:36.940357+09:00"
+  "updatedAt": "2026-10-03T23:07:38.716859+09:00"
 }
