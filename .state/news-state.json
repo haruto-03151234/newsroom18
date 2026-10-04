@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-04T18:00:00+09:00",
-  "lastCompletedEdition": "2026-10-04-18",
+  "lastCompletedEnd": "2026-10-05T06:00:00+09:00",
+  "lastCompletedEdition": "2026-10-05-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -15227,7 +15227,99 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261004de54215"
       ]
+    },
+    {
+      "editionId": "2026-10-05-06",
+      "title": "東京都気象解説情報台風第27号",
+      "publishedAt": "2026-10-05T05:21:37+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261004202137_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-06",
+      "title": "上川・留萌地方気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-10-05T05:01:43+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261004200144_0_VPFJ50_017000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261004200424_0_VPFJ50_015000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261004200739_0_VPFJ50_016000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261004201036_0_VPFJ50_012000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261004201316_0_VPFJ50_011000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-06",
+      "title": "日本新記録でロス五輪に吉田響選手の誓い悔しさをバネに",
+      "publishedAt": "2026-10-05T05:45:08+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261003/k00/00m/310/058000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-06",
+      "title": "打撃練習が変わる大リーグを席巻するトラジェクトアークとは",
+      "publishedAt": "2026-10-05T05:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB41W3SVB4PTQP00TM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-06",
+      "title": "柔道世界選手権女子48キロ古賀若菜が初の金メダル",
+      "publishedAt": "2026-10-05T05:17:37+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261005de54396"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-06",
+      "title": "介護漂流何でも屋状態のケアマネ介護保険外サービス拡大で変化は",
+      "publishedAt": "2026-10-05T05:00:22+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261003/k00/00m/100/061000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-06",
+      "title": "力みのない台湾のかけそば陽春麺シンプルな味わいに市民が列",
+      "publishedAt": "2026-10-05T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9S2W60V9SUHBI020M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-06",
+      "title": "ノーベル賞5日は生理学・医学賞の発表日",
+      "publishedAt": "2026-10-05T04:49:04+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261004de54368"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-06",
+      "title": "影山貴彦のテレビ燦ファミリーヒストリーに感動生き別れた肉親の消息を執念の取材力で",
+      "publishedAt": "2026-10-05T02:00:42+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261005/ddm/018/200/033000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-06",
+      "title": "競馬凱旋門賞日本馬は11着と14着初優勝ならず",
+      "publishedAt": "2026-10-05T00:41:53+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261005de54386"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-06",
+      "title": "沖縄に怒りと不信繰り返される米兵の犯罪地位協定の改定も進まず",
+      "publishedAt": "2026-10-04T21:59:58+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB43V4ZVB4TPOB004M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-04T23:36:05.765312+09:00"
+  "updatedAt": "2026-10-05T08:39:24.099346+09:00"
 }
