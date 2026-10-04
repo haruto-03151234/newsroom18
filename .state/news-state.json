@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-04T06:00:00+09:00",
-  "lastCompletedEdition": "2026-10-04-06",
+  "lastCompletedEnd": "2026-10-04T12:00:00+09:00",
+  "lastCompletedEdition": "2026-10-04-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -15082,7 +15082,79 @@
       "urls": [
         "https://mainichi.jp/articles/20261004/ddm/012/070/012000c"
       ]
+    },
+    {
+      "editionId": "2026-10-04-12",
+      "title": "個人向けgeminiのモデル選択が厳格化無料ユーザーが使えるのはflash",
+      "publishedAt": "2026-10-04T11:27:25+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/04/2000001987"
+      ]
+    },
+    {
+      "editionId": "2026-10-04-12",
+      "title": "随時更新ロシアウクライナに軍事侵攻10月4日の動き",
+      "publishedAt": "2026-10-04T11:06:40+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53292"
+      ]
+    },
+    {
+      "editionId": "2026-10-04-12",
+      "title": "プラモの世界は理想郷に業界名物社長が説く模型出戻りの勧め",
+      "publishedAt": "2026-10-04T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASV9X351SV9XULLI007M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-04-12",
+      "title": "サウジアラビアと隣国イエメンの反政府勢力フーシ派対立続く",
+      "publishedAt": "2026-10-04T09:18:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261004de54153"
+      ]
+    },
+    {
+      "editionId": "2026-10-04-12",
+      "title": "福岡市長選混戦模様最多12人が立候補表明背景に県議会問題も",
+      "publishedAt": "2026-10-04T09:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB335LPVB3TIPE01PM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-04-12",
+      "title": "耳たぶが伸びる脳をなでられる学生たちが挑む錯覚の世界とは",
+      "publishedAt": "2026-10-04T09:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB11RKGVB1PTIL004M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-04-12",
+      "title": "openaiの文化は壊れている安全性報告書を統括した従業員が退社し寄稿",
+      "publishedAt": "2026-10-04T08:05:47+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/04/2000001986"
+      ]
+    },
+    {
+      "editionId": "2026-10-04-12",
+      "title": "再び浮上したクレカ表現規制問題クリスタやpixivfanboxの騒動からマンガ家が感じた不安と焦り",
+      "publishedAt": "2026-10-04T07:16:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/04/2000001978"
+      ]
+    },
+    {
+      "editionId": "2026-10-04-12",
+      "title": "米大統領選挙勝利で5000ドル支給重ねて主張選挙戦激しく",
+      "publishedAt": "2026-10-04T06:40:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261004de54158"
+      ]
     }
   ],
-  "updatedAt": "2026-10-04T08:25:00.449792+09:00"
+  "updatedAt": "2026-10-04T18:09:44.962987+09:00"
 }
