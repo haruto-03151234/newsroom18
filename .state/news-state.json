@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-04T12:00:00+09:00",
-  "lastCompletedEdition": "2026-10-04-12",
+  "lastCompletedEnd": "2026-10-04T18:00:00+09:00",
+  "lastCompletedEdition": "2026-10-04-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -15154,7 +15154,80 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261004de54158"
       ]
+    },
+    {
+      "editionId": "2026-10-04-18",
+      "title": "全般気象解説情報台風第27号",
+      "publishedAt": "2026-10-04T16:32:10+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261004073210_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261004074512_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-04-18",
+      "title": "高知県気象解説情報落雷・突風",
+      "publishedAt": "2026-10-04T16:03:55+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261004070355_0_VPFJ50_390000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-04-18",
+      "title": "火山名北海道駒ヶ岳火山の状況に関する解説情報",
+      "publishedAt": "2026-10-04T16:00:53+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261004070053_0_VFVO51_016000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-04-18",
+      "title": "ソフトバンクgの孫氏ai進化で人間同士が戦うぜいたくはない",
+      "publishedAt": "2026-10-04T17:52:38+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB42ST1VB4PLFA002M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-04-18",
+      "title": "日経にサイバー攻撃なりすましメールを取材先などに9千件不正送信",
+      "publishedAt": "2026-10-04T17:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB42PT2VB4ULLI001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-04-18",
+      "title": "被害女性の兄両親は娘を亡くし憔悴強盗殺人容疑で米海兵隊逮捕",
+      "publishedAt": "2026-10-04T17:17:23+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB37QNYVB3TPOB001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-04-18",
+      "title": "阪神リーグ連覇を記念して大阪のデパートでセール始まる",
+      "publishedAt": "2026-10-04T14:46:22+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261004de54232"
+      ]
+    },
+    {
+      "editionId": "2026-10-04-18",
+      "title": "ホワイトソックス地区シリーズで先勝村上が先制ホームラン",
+      "publishedAt": "2026-10-04T14:12:20+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261004de54148"
+      ]
+    },
+    {
+      "editionId": "2026-10-04-18",
+      "title": "北朝鮮メディア3日に発射の中距離ミサイルは1000キロ飛行",
+      "publishedAt": "2026-10-04T13:17:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261004de54215"
+      ]
     }
   ],
-  "updatedAt": "2026-10-04T18:09:44.962987+09:00"
+  "updatedAt": "2026-10-04T23:36:05.765312+09:00"
 }
