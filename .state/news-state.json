@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-05T12:00:00+09:00",
-  "lastCompletedEdition": "2026-10-05-12",
+  "lastCompletedEnd": "2026-10-05T18:00:00+09:00",
+  "lastCompletedEdition": "2026-10-05-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -15393,7 +15393,122 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261004de54374"
       ]
+    },
+    {
+      "editionId": "2026-10-05-18",
+      "title": "東京都気象解説情報台風第27号",
+      "publishedAt": "2026-10-05T16:30:10+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261005073010_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261005074511_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-18",
+      "title": "火山名桜島火山の状況に関する解説情報",
+      "publishedAt": "2026-10-05T16:00:14+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261005070014_0_VFVO51_016000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261005070040_0_VFVO51_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261005070046_0_VFVO51_016000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-18",
+      "title": "研修先で生徒水死暁星学園の危機管理不十分さ深刻調査委指摘",
+      "publishedAt": "2026-10-05T17:55:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB52S25VB5OXIE01JM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-18",
+      "title": "トヨタが燃料電池バスsoraの新型を発売いすゞと共同開発",
+      "publishedAt": "2026-10-05T17:10:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB52G35VB5ULFA00PM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-18",
+      "title": "ドジャース地区シリーズ第2戦敗れ1勝1敗に大谷翔平は1安打",
+      "publishedAt": "2026-10-05T17:02:13+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261005de54450"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-18",
+      "title": "火星の海32億年前まで存在か生命の痕跡さがす手がかりに",
+      "publishedAt": "2026-10-05T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB51TTHVB5UTFL001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-18",
+      "title": "大起水産アプリに不正アクセス17万人の個人情報漏えいか大阪の回転寿司チェーン",
+      "publishedAt": "2026-10-05T16:41:05+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/05/2000002008"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-18",
+      "title": "nbaクリッパーズ八村と河村プレシーズンマッチで見せ場作る",
+      "publishedAt": "2026-10-05T16:12:55+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261005de54643"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-18",
+      "title": "英の空軍基地から米軍爆撃機が撤収新たな脅威のため米紙",
+      "publishedAt": "2026-10-05T15:51:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261005de54633"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-18",
+      "title": "パチンコ店の入場抽選アプリ777conpassに不正アクセス行動エリアやプロフ写真など流出か",
+      "publishedAt": "2026-10-05T14:24:53+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/05/2000002003"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-18",
+      "title": "大阪公立大システム障害で1週間近く休講に出願期間中で入試にも影響",
+      "publishedAt": "2026-10-05T13:50:34+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/05/2000002001"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-18",
+      "title": "トーク寺山ワールド観客と共にミュージカル獅子thelionbeat主演新原泰佑",
+      "publishedAt": "2026-10-05T13:28:37+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261005/dde/012/200/008000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-18",
+      "title": "悲しくとも笑う忌野清志郎不遇時代にも焦点ドキュメンタリー映画",
+      "publishedAt": "2026-10-05T13:28:23+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261005/dde/012/200/005000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-18",
+      "title": "楽しめる介護レク桂米之助がdvd",
+      "publishedAt": "2026-10-05T13:24:47+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261005/dde/012/200/002000c"
+      ]
     }
   ],
-  "updatedAt": "2026-10-05T18:50:35.781806+09:00"
+  "updatedAt": "2026-10-06T02:50:16.199678+09:00"
 }
