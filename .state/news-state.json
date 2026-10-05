@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-05T06:00:00+09:00",
-  "lastCompletedEdition": "2026-10-05-06",
+  "lastCompletedEnd": "2026-10-05T12:00:00+09:00",
+  "lastCompletedEdition": "2026-10-05-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -15319,7 +15319,81 @@
       "urls": [
         "https://www.asahi.com/articles/ASVB43V4ZVB4TPOB004M.html"
       ]
+    },
+    {
+      "editionId": "2026-10-05-12",
+      "title": "全般気象解説情報台風第27号",
+      "publishedAt": "2026-10-05T05:00:17+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261004200017_0_VPZJ50_010000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261005012519_0_VPZJ50_010000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261005013521_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-12",
+      "title": "北海道地方気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-10-05T04:58:40+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261004195840_0_VPCJ50_016000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-12",
+      "title": "日本交通不正アクセスで停止していた電話でタクシー配車再開へ約3カ月ぶり",
+      "publishedAt": "2026-10-05T11:15:16+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/05/2000001995"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-12",
+      "title": "日経社員のgoogleworkspaceに不正ログイン1646人分の個人情報漏えいか",
+      "publishedAt": "2026-10-05T10:46:38+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/05/2000001994"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-12",
+      "title": "ドコモ一部のユーザー情報をgoogleに無断送信1万6000件でrcsの同意画面出ず",
+      "publishedAt": "2026-10-05T10:06:13+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/05/2000001993"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-12",
+      "title": "ブラジル大統領選挙10月25日に決選投票へ",
+      "publishedAt": "2026-10-05T09:49:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261005de54416"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-12",
+      "title": "楽しく充実した16日間出会いや交流未来へアジア大会が閉幕",
+      "publishedAt": "2026-10-05T07:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB445HMVB4OIPE008M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-12",
+      "title": "ドイツウクライナにロシア軍の無人機攻撃対策など支援",
+      "publishedAt": "2026-10-05T06:50:57+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261005de54400"
+      ]
+    },
+    {
+      "editionId": "2026-10-05-12",
+      "title": "イラン米は核問題提示間接協議に具体的な進展みられず",
+      "publishedAt": "2026-10-05T06:38:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261004de54374"
+      ]
     }
   ],
-  "updatedAt": "2026-10-05T08:39:24.099346+09:00"
+  "updatedAt": "2026-10-05T18:50:35.781806+09:00"
 }
