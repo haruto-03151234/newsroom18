@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-06T06:00:00+09:00",
-  "lastCompletedEdition": "2026-10-06-06",
+  "lastCompletedEnd": "2026-10-06T12:00:00+09:00",
+  "lastCompletedEdition": "2026-10-06-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -15604,7 +15604,79 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2610/05/2000002017"
       ]
+    },
+    {
+      "editionId": "2026-10-06-12",
+      "title": "ドジャース大谷翔平ハンク・アーロン賞6年連続最終候補に",
+      "publishedAt": "2026-10-06T11:46:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261006de55017"
+      ]
+    },
+    {
+      "editionId": "2026-10-06-12",
+      "title": "ミスターマックス最大173万人分の会員情報流出不正アクセスで",
+      "publishedAt": "2026-10-06T11:44:03+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/06/2000002030"
+      ]
+    },
+    {
+      "editionId": "2026-10-06-12",
+      "title": "ロシア外務省日本の追加制裁を批判し対抗措置の構え",
+      "publishedAt": "2026-10-06T11:43:49+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261006de54962"
+      ]
+    },
+    {
+      "editionId": "2026-10-06-12",
+      "title": "ネパール土石流被災地での捜索・救助が原則打ち切り",
+      "publishedAt": "2026-10-06T11:31:08+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261006de54940"
+      ]
+    },
+    {
+      "editionId": "2026-10-06-12",
+      "title": "lineヤフーポケカ手数料0円で攻勢ヤフオクとヤフマトレカ取扱高は前年比約2倍",
+      "publishedAt": "2026-10-06T11:15:10+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/06/2000002028"
+      ]
+    },
+    {
+      "editionId": "2026-10-06-12",
+      "title": "補給線が数日から数週間に元米海軍大佐が語る湾岸基地損傷の影響",
+      "publishedAt": "2026-10-06T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB22JT2VB2UHBI012M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-06-12",
+      "title": "10年物国債の利率31に上昇30年ぶりの高水準財政に影響",
+      "publishedAt": "2026-10-06T10:50:43+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB60GTBVB6ULFA025M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-06-12",
+      "title": "新卒就活offerbox学生の氏名などを利用企業が開発者ツール経由で閲覧可能に最大31万人",
+      "publishedAt": "2026-10-06T10:26:08+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/06/2000002026"
+      ]
+    },
+    {
+      "editionId": "2026-10-06-12",
+      "title": "雑誌ビッグイシュー日本版創業者の佐野章二さん死去84歳",
+      "publishedAt": "2026-10-06T10:05:41+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB605FLVB6OXIE002M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-06T10:34:30.704751+09:00"
+  "updatedAt": "2026-10-06T18:38:36.398229+09:00"
 }
