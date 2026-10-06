@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-06T12:00:00+09:00",
-  "lastCompletedEdition": "2026-10-06-12",
+  "lastCompletedEnd": "2026-10-06T18:00:00+09:00",
+  "lastCompletedEdition": "2026-10-06-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -15676,7 +15676,136 @@
       "urls": [
         "https://www.asahi.com/articles/ASVB605FLVB6OXIE002M.html"
       ]
+    },
+    {
+      "editionId": "2026-10-06-18",
+      "title": "イエメンのホーシー派によるサウジアラビアへの攻撃に伴う注意喚起10月5日時点",
+      "publishedAt": "2026-10-06T16:32:40+09:00",
+      "urls": [
+        "https://www.anzen.mofa.go.jp/info/pcspotinfo_2026C047.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-06-18",
+      "title": "令和7年度農薬の使用に伴う事故及び被害の発生状況について",
+      "publishedAt": "2026-10-06T16:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/nouyaku/261006.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-06-18",
+      "title": "特定農林水産物等の名称の保護に関する法律に基づく措置命令について",
+      "publishedAt": "2026-10-06T15:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/yusyutu_kokusai/chizai/261006.html",
+        "https://www.maff.go.jp/j/press/yusyutu_kokusai/chizai/261006_1.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-06-18",
+      "title": "株式会社パナックスにおける牛の個体識別番号の不適正表示に対する措置について",
+      "publishedAt": "2026-10-06T14:36:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/kansa/261006.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-06-18",
+      "title": "マラウイの危険情報危険レベル継続内容の更新",
+      "publishedAt": "2026-10-06T12:22:00+09:00",
+      "urls": [
+        "https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T091.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-06-18",
+      "title": "関税・外国為替等審議会関税分科会令和8年10月6日開催配付資料",
+      "publishedAt": "2026-10-06T12:00:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_customs/material/kana20261006.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-06-18",
+      "title": "イタリアの国際指揮者コンクール小林雄太さんが2位に入賞",
+      "publishedAt": "2026-10-06T17:47:26+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB62HC5VB6UCVL02VM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-06-18",
+      "title": "検察なめんな公判弁護側一人有罪にしてもトカゲの尻尾切り",
+      "publishedAt": "2026-10-06T17:40:54+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB62R1MVB6PTIL00JM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-06-18",
+      "title": "日本開催の米ツアー前に松山会見喜びかみしめいいプレーを",
+      "publishedAt": "2026-10-06T17:31:44+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261006de55288"
+      ]
+    },
+    {
+      "editionId": "2026-10-06-18",
+      "title": "ピアニスト反田恭平氏スピード違反で在宅起訴144kmで運転か",
+      "publishedAt": "2026-10-06T17:27:54+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB62QQPVB6UTIL00ZM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-06-18",
+      "title": "appstoreでのアプリ配信にiphoneduo用のスクショが必須にappleが27年4月から",
+      "publishedAt": "2026-10-06T17:25:59+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/06/2000002052"
+      ]
+    },
+    {
+      "editionId": "2026-10-06-18",
+      "title": "nhl歴代最多得点のオベチキン今季限りでの引退表明",
+      "publishedAt": "2026-10-06T17:09:52+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261006de55187"
+      ]
+    },
+    {
+      "editionId": "2026-10-06-18",
+      "title": "note3q累計営業益67倍にaiで効率化人員減でも増収人件費率3割削減",
+      "publishedAt": "2026-10-06T16:51:12+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/06/2000002051"
+      ]
+    },
+    {
+      "editionId": "2026-10-06-18",
+      "title": "関文科相東大総長選の判断丁寧に説明していくことが重要",
+      "publishedAt": "2026-10-06T14:33:33+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261006de55167"
+      ]
+    },
+    {
+      "editionId": "2026-10-06-18",
+      "title": "宮下兼史鷹が初代漫談王にmbsラジオ",
+      "publishedAt": "2026-10-06T14:20:58+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261006/dde/012/200/005000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-06-18",
+      "title": "肌に感触残ってる毒蝮三太夫の戦争体験風化するよでも伝えたい",
+      "publishedAt": "2026-10-06T14:19:28+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261006/dde/012/200/006000c"
+      ]
     }
   ],
-  "updatedAt": "2026-10-06T18:38:36.398229+09:00"
+  "updatedAt": "2026-10-07T00:40:17.775329+09:00"
 }
