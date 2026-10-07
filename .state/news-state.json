@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-07T12:00:00+09:00",
-  "lastCompletedEdition": "2026-10-07-12",
+  "lastCompletedEnd": "2026-10-07T18:00:00+09:00",
+  "lastCompletedEdition": "2026-10-07-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -15965,7 +15965,135 @@
       "urls": [
         "https://www.asahi.com/articles/ASVB53H0YVB5PLZB00CM.html"
       ]
+    },
+    {
+      "editionId": "2026-10-07-18",
+      "title": "南海トラフ地震関連解説情報",
+      "publishedAt": "2026-10-07T17:00:02+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261007080003_0_VYSE52_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-07-18",
+      "title": "火山名北海道駒ヶ岳火山の状況に関する解説情報",
+      "publishedAt": "2026-10-07T16:00:04+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261007070004_0_VFVO51_016000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-07-18",
+      "title": "令和8年度全国優良経営体表彰受賞者の発表について",
+      "publishedAt": "2026-10-07T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/keiei/keiei/261007.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-07-18",
+      "title": "令和8年度病害虫発生予報第8号の発表について",
+      "publishedAt": "2026-10-07T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/syokubo/261007.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-07-18",
+      "title": "fdeが開発したaiエージェントの7割は使われず単なるコンサルティングが販売されるガートナー予測",
+      "publishedAt": "2026-10-07T17:24:32+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/07/2000002098"
+      ]
+    },
+    {
+      "editionId": "2026-10-07-18",
+      "title": "損保ジャパン約6万件漏えいか大和証券・シチズンと同じ委託先への不正アクセスで",
+      "publishedAt": "2026-10-07T17:22:36+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/07/2000002099"
+      ]
+    },
+    {
+      "editionId": "2026-10-07-18",
+      "title": "札束ブーケ販売の疑い7人逮捕人気の贈り物にガーナ当局ノー",
+      "publishedAt": "2026-10-07T16:54:07+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB72H4KVB7UHBI00KM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-07-18",
+      "title": "ドジャース山本由伸が好投リーグ優勝決定シリーズ進出に王手",
+      "publishedAt": "2026-10-07T16:48:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261007de55630"
+      ]
+    },
+    {
+      "editionId": "2026-10-07-18",
+      "title": "米バンス副大統領イランはウラン濃縮能力削減に応じるべき",
+      "publishedAt": "2026-10-07T16:47:36+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261007de55829"
+      ]
+    },
+    {
+      "editionId": "2026-10-07-18",
+      "title": "メッシアルゼンチン代表の引退試合で1得点2アシスト",
+      "publishedAt": "2026-10-07T16:02:46+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261007de55854"
+      ]
+    },
+    {
+      "editionId": "2026-10-07-18",
+      "title": "エース山本由伸が大舞台に強いわけ敵地マウンドで7回10奪三振",
+      "publishedAt": "2026-10-07T16:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB71G2DVB7UTQP009M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-07-18",
+      "title": "マツコ・デラックスさんが一日署長わきあがる何かと署員の期待",
+      "publishedAt": "2026-10-07T15:50:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB67WBHVB6UTIL00MM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-07-18",
+      "title": "釜山映画祭開幕日韓コラボが存在感",
+      "publishedAt": "2026-10-07T13:55:52+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261007/dde/041/200/012000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-07-18",
+      "title": "特薦盤",
+      "publishedAt": "2026-10-07T13:30:55+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261007/dde/012/070/003000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-07-18",
+      "title": "あらしのよるに真山隼人が浪曲に",
+      "publishedAt": "2026-10-07T13:29:30+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261007/dde/012/200/005000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-07-18",
+      "title": "eスポーツもカロリーを消費する運動と比較した値はチェコの研究者などが調査",
+      "publishedAt": "2026-10-07T12:12:22+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/07/2000002050"
+      ]
     }
   ],
-  "updatedAt": "2026-10-07T18:34:41.921971+09:00"
+  "updatedAt": "2026-10-08T01:04:02.368663+09:00"
 }
