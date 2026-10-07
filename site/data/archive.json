@@ -1,7 +1,27 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-07T09:12:37.799599+09:00",
+  "updatedAt": "2026-10-07T18:34:41.921971+09:00",
   "editions": [
+    {
+      "id": "2026-10-07-12",
+      "path": "data/editions/2026-10-07-12.json",
+      "dataUrl": "data/editions/2026-10-07-12.json",
+      "generatedAt": "2026-10-07T18:34:41.921971+09:00",
+      "date": "2026-10-07",
+      "time": "12:00",
+      "label": "昼12時版",
+      "coverageLabel": "10月07日 06:00〜10月07日 12:00",
+      "headline": "Google、「Nano Banana 2.1」公開 APIの画像出力料金は「Nano Banana 2」の約半額に",
+      "articleCount": 9,
+      "categories": {
+        "テクノロジー": 2,
+        "海外": 3,
+        "スポーツ": 1,
+        "経済": 1,
+        "科学": 1,
+        "社会": 1
+      }
+    },
     {
       "id": "2026-10-07-06",
       "path": "data/editions/2026-10-07-06.json",
