@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-07T18:00:00+09:00",
-  "lastCompletedEdition": "2026-10-07-18",
+  "lastCompletedEnd": "2026-10-08T06:00:00+09:00",
+  "lastCompletedEdition": "2026-10-08-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -16093,7 +16093,119 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2610/07/2000002050"
       ]
+    },
+    {
+      "editionId": "2026-10-08-06",
+      "title": "千葉県北東部で地震m48最大震度4",
+      "publishedAt": "2026-10-08T04:17:55+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261007191755_0_VXSE53_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-06",
+      "title": "愛媛県における豚熱の患畜の確認国内106例目及び農林水産省豚熱・アフリカ豚熱防疫対策本部の持ち回り開催について",
+      "publishedAt": "2026-10-07T21:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/douei/261007.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-06",
+      "title": "読む政治高市首相レクチャー受けない歴代と比べ官僚との面会激減",
+      "publishedAt": "2026-10-08T05:57:37+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261007/k00/00m/010/021000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-06",
+      "title": "国際ハッカー集団ドイツ当局約4000の企業など攻撃",
+      "publishedAt": "2026-10-08T05:47:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56224"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-06",
+      "title": "ノーベル賞きょうは文学賞の発表村上春樹さんの受賞に期待も",
+      "publishedAt": "2026-10-08T05:44:07+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261007de55972"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-06",
+      "title": "読む政治",
+      "publishedAt": "2026-10-08T05:00:19+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261007/k00/00m/010/020000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-06",
+      "title": "バンドスコアを模倣し無断公開賠償責任は最高裁で9日判決",
+      "publishedAt": "2026-10-08T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB62FGTVB6UTIL013M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-06",
+      "title": "詐取金9千万円を暗号資産に交換かマネロン請け負う相対屋逮捕",
+      "publishedAt": "2026-10-08T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB73T1MVB7UTIL03JM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-06",
+      "title": "釜山国際映画祭",
+      "publishedAt": "2026-10-08T02:03:52+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261008/ddm/041/200/037000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-06",
+      "title": "伝説の教授昔の学者肌研究一筋各地で喜びの声",
+      "publishedAt": "2026-10-07T22:39:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261007de56145"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-06",
+      "title": "高市首相ノーベル化学賞の硤合氏に電話で祝意日本人として誇り",
+      "publishedAt": "2026-10-07T22:20:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB746N9VB7UTFK019M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-06",
+      "title": "idcfクラウドへのランサム攻撃495の企業・自治体に影響一部には復元難しいとの通達も",
+      "publishedAt": "2026-10-07T22:09:04+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/07/2000002107"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-06",
+      "title": "富山県立大にまた不正アクセス学生のmicrosoft365アカウントから1092件の迷惑メール送信は8月末",
+      "publishedAt": "2026-10-07T20:28:35+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/07/2000002105"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-06",
+      "title": "idcfクラウドへの不正アクセスランサムウェア攻撃と明らかに運営会社が回答",
+      "publishedAt": "2026-10-07T20:08:01+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/07/2000002106"
+      ]
     }
   ],
-  "updatedAt": "2026-10-08T01:04:02.368663+09:00"
+  "updatedAt": "2026-10-08T09:31:00.358409+09:00"
 }
