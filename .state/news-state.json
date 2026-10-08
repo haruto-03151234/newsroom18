@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-08T06:00:00+09:00",
-  "lastCompletedEdition": "2026-10-08-06",
+  "lastCompletedEnd": "2026-10-08T12:00:00+09:00",
+  "lastCompletedEdition": "2026-10-08-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -16205,7 +16205,95 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2610/07/2000002106"
       ]
+    },
+    {
+      "editionId": "2026-10-08-12",
+      "title": "火山名ベヨネース列岩噴火予報",
+      "publishedAt": "2026-10-08T11:00:06+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261008020006_0_VFVO50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-12",
+      "title": "茨城県北部で地震m40最大震度3",
+      "publishedAt": "2026-10-08T07:17:52+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261007221752_0_VXSE53_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-12",
+      "title": "idcfクラウド障害で止まったmtクラウド版googleクラウドのバックアップでさくらのクラウドに移行へ",
+      "publishedAt": "2026-10-08T11:33:10+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/08/2000002120"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-12",
+      "title": "女性はスパイに向かないは誤りだったciaの女たち著者",
+      "publishedAt": "2026-10-08T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB57GWNVB5UHBI00JM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-12",
+      "title": "プロ野球中日の新監督に工藤公康氏就任へ",
+      "publishedAt": "2026-10-08T10:49:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56275"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-12",
+      "title": "トランプ大統領ロシア研究所職員死亡生物兵器否定的見方",
+      "publishedAt": "2026-10-08T10:34:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56250"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-12",
+      "title": "ロシアによるウクライナ大規模攻撃の死者25人に増加",
+      "publishedAt": "2026-10-08T10:27:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56248"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-12",
+      "title": "googleプロンプトでゲームを作って遊べるplaygroundを米国で公開unitysparkも年内投入",
+      "publishedAt": "2026-10-08T10:22:19+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/08/2000002117"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-12",
+      "title": "工藤公康氏が中日の新監督にソフトバンクを5度日本一に導いた名将",
+      "publishedAt": "2026-10-08T09:46:46+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB802JLVB8UTQP004M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-12",
+      "title": "漏えい相次ぐ中保護委が対策を緊急例示強い多要素認証やedr導入不要な個人データの消去など",
+      "publishedAt": "2026-10-08T09:09:53+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/08/2000002115"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-12",
+      "title": "lineを埋め尽くすおめでとう硤合さんノーベル賞受賞に歓喜",
+      "publishedAt": "2026-10-08T06:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB74GVMVB7UTIL02VM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-08T09:31:00.358409+09:00"
+  "updatedAt": "2026-10-08T18:45:14.360305+09:00"
 }
