@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-08T12:00:00+09:00",
-  "lastCompletedEdition": "2026-10-08-12",
+  "lastCompletedEnd": "2026-10-08T18:00:00+09:00",
+  "lastCompletedEdition": "2026-10-08-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -16293,7 +16293,119 @@
       "urls": [
         "https://www.asahi.com/articles/ASVB74GVMVB7UTIL02VM.html"
       ]
+    },
+    {
+      "editionId": "2026-10-08-18",
+      "title": "森下農林水産大臣政務官の海外出張韓国について",
+      "publishedAt": "2026-10-08T17:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/yusyutu_kokusai/kaitaku/261008_1.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-18",
+      "title": "火山名全国の活火山火山の状況に関する解説情報",
+      "publishedAt": "2026-10-08T16:00:08+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261008070008_0_VFVO51_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-18",
+      "title": "再任用拒まれた非正規職員と小郡市の和解が成立解決金は150万円",
+      "publishedAt": "2026-10-08T17:50:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB82PPFVB8TIPE00HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-18",
+      "title": "立ち話が宝の山に8人の声を聞き分けられたai文字起こしklangの実力",
+      "publishedAt": "2026-10-08T17:44:40+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/08/2000002130"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-18",
+      "title": "阪神リーグ優勝経済効果1051億円次は3連覇早くも期待",
+      "publishedAt": "2026-10-08T17:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB73Q17VB7PLFA001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-18",
+      "title": "事故で運動まひの患者に脳の神経再生促す国内初の治療北大",
+      "publishedAt": "2026-10-08T17:26:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56643"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-18",
+      "title": "ノーベル化学賞に東京理科大学名誉教授",
+      "publishedAt": "2026-10-08T17:12:58+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261006de55098"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-18",
+      "title": "sbi証券google・appleパスキー乗っ取り被害確認されていない注意喚起は他社事案",
+      "publishedAt": "2026-10-08T17:10:34+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/08/2000002137"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-18",
+      "title": "台湾蔡英文前総統が訪米中国念頭に連携呼びかけ",
+      "publishedAt": "2026-10-08T16:36:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56607"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-18",
+      "title": "大谷翔平が示した原点回帰の1点打てなくても貢献できることがある",
+      "publishedAt": "2026-10-08T16:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB81Q5YVB8UTQP00JM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-18",
+      "title": "ライバル社に不正アクセス顧客名簿入手し営業活動容疑の光回線代理店従業員を逮捕",
+      "publishedAt": "2026-10-08T14:52:40+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/08/2000002129"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-18",
+      "title": "評演劇横山拓也追熟しない果実ナイボーひりつく世界見つめて評・濱田元子",
+      "publishedAt": "2026-10-08T13:32:57+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261008/dde/018/200/016000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-18",
+      "title": "まだ見ぬものを作りたい新作現代劇スリーゴーストで17年ぶり舞台出演堺雅人",
+      "publishedAt": "2026-10-08T13:30:47+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261008/dde/018/200/018000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-08-18",
+      "title": "役の履歴書",
+      "publishedAt": "2026-10-08T13:03:20+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261008/dde/014/200/003000c"
+      ]
     }
   ],
-  "updatedAt": "2026-10-08T18:45:14.360305+09:00"
+  "updatedAt": "2026-10-09T01:06:30.342861+09:00"
 }
