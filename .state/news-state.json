@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-09T12:00:00+09:00",
-  "lastCompletedEdition": "2026-10-09-12",
+  "lastCompletedEnd": "2026-10-09T18:00:00+09:00",
+  "lastCompletedEdition": "2026-10-09-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -16557,7 +16557,130 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261008de56895"
       ]
+    },
+    {
+      "editionId": "2026-10-09-18",
+      "title": "サウジアラビアの危険情報一部地域の危険レベル引上げ",
+      "publishedAt": "2026-10-09T16:50:02+09:00",
+      "urls": [
+        "https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T092.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-18",
+      "title": "火山名霧島山新燃岳火山の状況に関する解説情報",
+      "publishedAt": "2026-10-09T16:01:18+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261009070118_0_VFVO51_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261009070211_0_VFVO51_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261009070248_0_VFVO51_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261009070326_0_VFVO51_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-18",
+      "title": "ドイツ国内における日本産米の試験販売について",
+      "publishedAt": "2026-10-09T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/yusyutu_kokusai/kaitaku/261009.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-18",
+      "title": "家畜伝染病予防法第51条第6項に基づく店舗名称等の公表について",
+      "publishedAt": "2026-10-09T13:30:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/douei/261009.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-18",
+      "title": "jr東日本えきねっとビューカードなどで漏えいかメルアドなど最大609万件idcfへの不正アクセスで追記あり",
+      "publishedAt": "2026-10-09T17:58:28+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/09/2000002171"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-18",
+      "title": "フィギュア島田麻央グランプリシリーズを前に練習を公開",
+      "publishedAt": "2026-10-09T17:47:58+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de57266"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-18",
+      "title": "アメリカ運転免許証などの情報1億5000万件以上が漏えいか",
+      "publishedAt": "2026-10-09T17:10:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de57294"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-18",
+      "title": "今年のノーベル賞光遺伝学使い視機能が一部回復網膜色素変性症",
+      "publishedAt": "2026-10-09T17:01:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB83H7KVB8UTFL008M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-18",
+      "title": "阪神佐藤の三冠王にバースさん確信していた胸張っていい",
+      "publishedAt": "2026-10-09T17:00:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de57200"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-18",
+      "title": "今の私たちで歴史を超えるske48の3人が語る未来",
+      "publishedAt": "2026-10-09T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB7220TVB7PTIL010M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-18",
+      "title": "サイバー攻撃を受けた大阪公立大が授業再開臨時ネットワークを構築",
+      "publishedAt": "2026-10-09T16:13:03+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB92CQJVB9PTIL007M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-18",
+      "title": "スカイチケットに不正アクセス計1467万件の個人情報流出ハッシュ化されたパスワードも",
+      "publishedAt": "2026-10-09T14:48:36+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/09/2000002168"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-18",
+      "title": "米国防総省にも不正アクセス個人情報300万人分が平文で漏えいか発覚までに9カ月",
+      "publishedAt": "2026-10-09T14:32:32+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/09/2000002158"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-18",
+      "title": "芦田愛菜さん・堺雅人さん初の紅白司会",
+      "publishedAt": "2026-10-09T14:24:00+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261009/dde/041/200/021000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-18",
+      "title": "シネマの週末・この1本",
+      "publishedAt": "2026-10-09T13:44:05+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261009/dde/012/070/008000c"
+      ]
     }
   ],
-  "updatedAt": "2026-10-09T18:50:26.350262+09:00"
+  "updatedAt": "2026-10-10T00:48:19.209775+09:00"
 }
