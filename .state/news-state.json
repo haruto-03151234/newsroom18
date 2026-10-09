@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-09T06:00:00+09:00",
-  "lastCompletedEdition": "2026-10-09-06",
+  "lastCompletedEnd": "2026-10-09T12:00:00+09:00",
+  "lastCompletedEdition": "2026-10-09-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -16485,7 +16485,79 @@
       "urls": [
         "https://www.asahi.com/articles/ASVB83JZVVB8UTFK00DM.html"
       ]
+    },
+    {
+      "editionId": "2026-10-09-12",
+      "title": "アメリカ司法省中国関係企業のサイバー攻撃阻止警察庁も協力",
+      "publishedAt": "2026-10-09T11:56:56+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de57046"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-12",
+      "title": "島根に続き福井も県予選なし高校ラグビー部員不足でチーム作れず",
+      "publishedAt": "2026-10-09T11:54:33+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB90SZDVB9UTQP00KM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-12",
+      "title": "ロシアicc赤根所長らの身柄引き渡しをオランダなどに要請",
+      "publishedAt": "2026-10-09T11:51:03+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de56946"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-12",
+      "title": "トランプ大統領マスク氏やフアン氏ら6人に米国家科学賞と国家技術革新賞を授与",
+      "publishedAt": "2026-10-09T11:33:07+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/09/2000002159"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-12",
+      "title": "芥川龍之介の署名が残る謎の洋書片山広子と100年越し再会か",
+      "publishedAt": "2026-10-09T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB84DB4VB8UCVL04BM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-12",
+      "title": "トランプ米大統領aiという言葉を使う者は敵政府サイトaigovはsigov表記に",
+      "publishedAt": "2026-10-09T10:59:24+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/09/2000002157"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-12",
+      "title": "急増する不正アクセスにjpcertが注意喚起寄せられた情報から判明した攻撃傾向とは",
+      "publishedAt": "2026-10-09T10:41:43+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/09/2000002156"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-12",
+      "title": "nhk紅白歌合戦司会に芦田愛菜さん堺雅人さん二宮和也さん",
+      "publishedAt": "2026-10-09T08:15:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB87KSJVB8UCVL002M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-12",
+      "title": "紅白歌合戦司会に芦田愛菜さん堺雅人さん二宮和也さん",
+      "publishedAt": "2026-10-09T06:00:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56895"
+      ]
     }
   ],
-  "updatedAt": "2026-10-09T09:45:08.247834+09:00"
+  "updatedAt": "2026-10-09T18:50:26.350262+09:00"
 }
