@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-08T18:00:00+09:00",
-  "lastCompletedEdition": "2026-10-08-18",
+  "lastCompletedEnd": "2026-10-09T06:00:00+09:00",
+  "lastCompletedEdition": "2026-10-09-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -16405,7 +16405,87 @@
       "urls": [
         "https://mainichi.jp/articles/20261008/dde/014/200/003000c"
       ]
+    },
+    {
+      "editionId": "2026-10-09-06",
+      "title": "鹿児島県奄美地方を除く気象解説情報落雷・突風",
+      "publishedAt": "2026-10-09T04:50:20+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261008195021_0_VPFJ50_460100.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-06",
+      "title": "魚沼の新米大盛りで新日本プロレス選手が黄金色の稲刈り",
+      "publishedAt": "2026-10-09T05:45:09+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261008/k00/00m/310/066000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-06",
+      "title": "企業への不正アクセス相次いで明らかに",
+      "publishedAt": "2026-10-09T05:38:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de56931"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-06",
+      "title": "変容する米国イスラエル離れ顕著に変化する米世論超党派支援に陰り",
+      "publishedAt": "2026-10-09T05:32:12+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261007/k00/00m/030/046000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-06",
+      "title": "変容する米国",
+      "publishedAt": "2026-10-09T05:31:17+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261007/k00/00m/030/036000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-06",
+      "title": "声優などの団体声の生成aiガイドライン初作成事前許諾を",
+      "publishedAt": "2026-10-09T05:13:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de56922"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-06",
+      "title": "阪神佐藤輝明が三冠王4年ぶり史上9人目村上宗隆以来",
+      "publishedAt": "2026-10-08T23:54:55+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261008de56508"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-06",
+      "title": "外務省前で車2台の衝突事故うち1台はロシア大使館車両4人けが",
+      "publishedAt": "2026-10-08T22:35:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB84DW9VB8UTIL01QM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-06",
+      "title": "前人未到調べる価値あるノーベル化学賞の硤合さんインタビュー",
+      "publishedAt": "2026-10-08T20:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB83H0QVB8UTFL01PM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-09-06",
+      "title": "国会改革はまずai活用を議論野党側は首相の国会出席減少を警戒",
+      "publishedAt": "2026-10-08T20:15:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB83JZVVB8UTFK00DM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-09T01:06:30.342861+09:00"
+  "updatedAt": "2026-10-09T09:45:08.247834+09:00"
 }
