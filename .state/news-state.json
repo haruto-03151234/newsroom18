@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-10T18:00:00+09:00",
-  "lastCompletedEdition": "2026-10-10-18",
+  "lastCompletedEnd": "2026-10-11T06:00:00+09:00",
+  "lastCompletedEdition": "2026-10-11-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -16969,7 +16969,103 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2610/10/2000002038"
       ]
+    },
+    {
+      "editionId": "2026-10-11-06",
+      "title": "沖縄本島地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-10-11T04:19:21+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261010191922_0_VPFJ50_471000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-06",
+      "title": "群馬県における豚熱の患畜の確認国内107例目及び農林水産省豚熱・アフリカ豚熱防疫対策本部の持ち回り開催について",
+      "publishedAt": "2026-10-10T22:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/douei/261010.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-06",
+      "title": "森下農林水産大臣政務官の海外出張韓国結果概要について",
+      "publishedAt": "2026-10-10T19:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/yusyutu_kokusai/kaitaku/261010.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-06",
+      "title": "アルツハイマー病の原因物質減らすマウスで実験成功東大など",
+      "publishedAt": "2026-10-11T05:50:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261011de57813"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-06",
+      "title": "絶品絶命全国一心世相を四文字に高校生が挑戦",
+      "publishedAt": "2026-10-11T05:45:10+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261009/k00/00m/310/194000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-06",
+      "title": "トランプ氏の独り相撲で変動する燃料価格見えない一貫性",
+      "publishedAt": "2026-10-11T05:30:12+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261010/k00/00m/020/225000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-06",
+      "title": "ノーベル平和賞ピレイ氏iccの存続に緊張と不安危機感示す",
+      "publishedAt": "2026-10-11T05:09:17+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261011de57808"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-06",
+      "title": "リアルタイムディープフェイク使う詐欺犯録画したエンジニアの証言",
+      "publishedAt": "2026-10-11T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB52VPPVB5PTIL00MM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-06",
+      "title": "松尾貴史のちょっと違和感",
+      "publishedAt": "2026-10-11T03:52:53+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261011/ddm/012/070/017000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-06",
+      "title": "バイクの男性対向車線に投げ出され死亡ひき逃げ容疑で男を逮捕",
+      "publishedAt": "2026-10-11T00:22:38+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBB51TXVBBPTIL007M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-06",
+      "title": "茂木外相icc赤根氏や米ルビオ氏と電話協議組織への制裁で議論",
+      "publishedAt": "2026-10-10T23:22:43+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBB4PWMVBBUTFK00JM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-06",
+      "title": "ノーベル化学賞そ合さん東京理科大が栄誉教授授与決定",
+      "publishedAt": "2026-10-10T21:04:58+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261010de57761"
+      ]
     }
   ],
-  "updatedAt": "2026-10-11T00:01:26.188460+09:00"
+  "updatedAt": "2026-10-11T08:56:16.717035+09:00"
 }
