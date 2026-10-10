@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-10T12:00:00+09:00",
-  "lastCompletedEdition": "2026-10-10-12",
+  "lastCompletedEnd": "2026-10-10T18:00:00+09:00",
+  "lastCompletedEdition": "2026-10-10-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -16881,7 +16881,95 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2610/10/2000002188"
       ]
+    },
+    {
+      "editionId": "2026-10-10-18",
+      "title": "奄美地方鹿児島県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-10-10T16:06:24+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261010070625_0_VPFJ50_460040.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-18",
+      "title": "鹿児島県奄美地方を除く気象解説情報落雷・突風",
+      "publishedAt": "2026-10-10T16:04:50+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261010070450_0_VPFJ50_460100.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-18",
+      "title": "九州南部・奄美地方気象解説情報落雷・突風",
+      "publishedAt": "2026-10-10T16:03:22+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261010070323_0_VPCJ50_460100.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-18",
+      "title": "将棋の西山朋佳白玲が女性初の棋士資格棋士になる意思明言せず",
+      "publishedAt": "2026-10-10T17:32:02+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBB2FGKVBBUCVL033M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-18",
+      "title": "台湾総統中国が現状変更防衛力強化強調し連携呼びかけ",
+      "publishedAt": "2026-10-10T17:05:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261010de57680"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-18",
+      "title": "声優らの団体が声のai利用ガイドラインビジネスの慣行に",
+      "publishedAt": "2026-10-10T16:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBB0SH3VBBUCVL001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-18",
+      "title": "ピアニストの反田恭平氏が謝罪文首都高スピード違反で在宅起訴",
+      "publishedAt": "2026-10-10T15:43:50+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBB21ZWVBBUTIL002M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-18",
+      "title": "韓国ソウルで日韓交流のイベント友好ムード演出",
+      "publishedAt": "2026-10-10T15:40:07+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261010de57655"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-18",
+      "title": "ロシア外交評論家ウクライナへの軍事攻撃は一段と激化の見方",
+      "publishedAt": "2026-10-10T13:54:26+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261010de57618"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-18",
+      "title": "日本人の大腸がん約半数に腸内細菌の毒素が関与40歳以下の発症は7割東大・阪大が200人を全ゲノム解析",
+      "publishedAt": "2026-10-10T12:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/10/2000002035"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-18",
+      "title": "男は狩り女は採集はどこまで本当約8割で女性も狩り乳児連れの例も過去100年の狩猟採集社会を調査",
+      "publishedAt": "2026-10-10T12:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/10/2000002038"
+      ]
     }
   ],
-  "updatedAt": "2026-10-10T18:14:48.836220+09:00"
+  "updatedAt": "2026-10-11T00:01:26.188460+09:00"
 }
