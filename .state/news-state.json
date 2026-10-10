@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-10T06:00:00+09:00",
-  "lastCompletedEdition": "2026-10-10-06",
+  "lastCompletedEnd": "2026-10-10T12:00:00+09:00",
+  "lastCompletedEdition": "2026-10-10-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -16801,7 +16801,87 @@
       "urls": [
         "https://www.asahi.com/articles/ASVB93HNMVB9ULZU00BM.html"
       ]
+    },
+    {
+      "editionId": "2026-10-10-12",
+      "title": "奄美地方鹿児島県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-10-10T11:12:35+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261010021236_0_VPFJ50_460040.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-12",
+      "title": "ドジャース第1戦はスクーバル山本は第2戦で先発へ",
+      "publishedAt": "2026-10-10T11:55:57+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261010de57592"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-12",
+      "title": "米トランプ政権icc国際刑事裁判所を制裁対象に詳しく",
+      "publishedAt": "2026-10-10T11:47:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261009de57527"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-12",
+      "title": "物価高での消費減税瞬間的に楽になるだけ貧困支援者が危ぶむ分断",
+      "publishedAt": "2026-10-10T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB83RG3VB8ULFA003M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-12",
+      "title": "8がけ社会でも熱量高く対話で当たり前を問い直す山崎亮さん",
+      "publishedAt": "2026-10-10T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB44DRGVB4OIPE015M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-12",
+      "title": "ホワイトソックス最終第5戦へ監督すべてを懸ける",
+      "publishedAt": "2026-10-10T10:45:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261010de57573"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-12",
+      "title": "棒高跳び・日体大の小林美月選手が一日署長闇バイトなどに注意訴え",
+      "publishedAt": "2026-10-10T10:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB9438RVB9ULOB011M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-12",
+      "title": "コミューン不正アクセスでlineヤフーsansanパナソニックでも会員情報漏えいの可能性",
+      "publishedAt": "2026-10-10T09:02:14+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/10/2000002190"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-12",
+      "title": "openai安全性研究者3人を解雇本人らは安全性を優先したためと主張同社は機密情報の扱いに関する規定違反と説明",
+      "publishedAt": "2026-10-10T08:28:02+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/10/2000002189"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-12",
+      "title": "ココナラ会員の履歴書など2294件漏えいスキルマーケットに不正アクセス",
+      "publishedAt": "2026-10-10T08:13:39+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/10/2000002188"
+      ]
     }
   ],
-  "updatedAt": "2026-10-10T09:22:24.132150+09:00"
+  "updatedAt": "2026-10-10T18:14:48.836220+09:00"
 }
