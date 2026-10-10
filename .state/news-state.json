@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-09T18:00:00+09:00",
-  "lastCompletedEdition": "2026-10-09-18",
+  "lastCompletedEnd": "2026-10-10T06:00:00+09:00",
+  "lastCompletedEdition": "2026-10-10-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -16680,7 +16680,128 @@
       "urls": [
         "https://mainichi.jp/articles/20261009/dde/012/070/008000c"
       ]
+    },
+    {
+      "editionId": "2026-10-10-06",
+      "title": "鹿児島県奄美地方を除く気象解説情報落雷・突風",
+      "publishedAt": "2026-10-10T05:03:11+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261009200311_0_VPFJ50_460100.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261009200808_0_VPFJ50_460040.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-06",
+      "title": "九州南部・奄美地方気象解説情報落雷・突風",
+      "publishedAt": "2026-10-10T04:51:18+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261009195119_0_VPCJ50_460100.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-06",
+      "title": "イエメンのホーシー派によるサウジアラビアへの攻撃に伴う注意喚起10月9日時点",
+      "publishedAt": "2026-10-09T19:13:10+09:00",
+      "urls": [
+        "https://www.anzen.mofa.go.jp/info/pcspotinfo_2026C048.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-06",
+      "title": "令和8年梅雨前線豪雨から台風第25号までの一連の気象現象による災害仮称における大規模災害時の災害査定の効率化の対象について",
+      "publishedAt": "2026-10-09T18:15:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/kanbo/bunsyo/saigai/261009.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-06",
+      "title": "貿易摩擦の中国とeuが協議eu中国からの輸出抑制へ",
+      "publishedAt": "2026-10-10T05:36:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261010de57546"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-06",
+      "title": "サッカーw杯北中米大会でひぼう中傷する投稿24万件fifa",
+      "publishedAt": "2026-10-10T05:26:54+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261010de57539"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-06",
+      "title": "nhk紅白歌合戦",
+      "publishedAt": "2026-10-10T02:01:41+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261010/ddm/041/200/056000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-06",
+      "title": "視聴室",
+      "publishedAt": "2026-10-10T02:01:15+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261010/ddm/018/200/039000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-06",
+      "title": "宿泊予約管理システム手間いらず最大445万人情報漏えいか",
+      "publishedAt": "2026-10-10T01:18:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261010de57536"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-06",
+      "title": "高市首相日本の立場と相容れず深く懸念米国のicc制裁で投稿",
+      "publishedAt": "2026-10-10T00:04:49+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB94WTLVB9UTFK01TM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-06",
+      "title": "随時更新個人情報の漏洩の恐れ公表した主な企業一覧",
+      "publishedAt": "2026-10-09T21:40:40+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-06",
+      "title": "お前たちのクラウドはわれわれのものidcfクラウドの管理画面に出た攻撃者のメッセージ内容に運営元は",
+      "publishedAt": "2026-10-09T21:17:21+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/09/2000002184"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-06",
+      "title": "ヤマハ・スズキも漏えいか交流サイト基盤コミューン不正アクセス計30万会員に影響の恐れ",
+      "publishedAt": "2026-10-09T20:51:33+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/09/2000002178"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-06",
+      "title": "newspicksメアド323万件やクレカ情報の一部362万件漏えいか訂正あり",
+      "publishedAt": "2026-10-09T20:13:47+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/09/2000002175"
+      ]
+    },
+    {
+      "editionId": "2026-10-10-06",
+      "title": "宇都宮市の繁華街オリオン通り付近で建物火災続く消火活動",
+      "publishedAt": "2026-10-09T20:07:37+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB93HNMVB9ULZU00BM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-10T00:48:19.209775+09:00"
+  "updatedAt": "2026-10-10T09:22:24.132150+09:00"
 }
