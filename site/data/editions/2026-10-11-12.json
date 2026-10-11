@@ -1,0 +1,688 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-10-11T18:31:26.282113+09:00",
+  "summary": "対象時間帯の5配信元のニュースを9本に整理しました。うち重要ニュースは1本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-10-11-12",
+    "date": "2026-10-11",
+    "slot": "12:00",
+    "label": "昼12時版"
+  },
+  "coverage": {
+    "from": "2026-10-11T06:00:00+09:00",
+    "to": "2026-10-11T12:00:00+09:00",
+    "start": "2026-10-11T06:00:00+09:00",
+    "end": "2026-10-11T12:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "10月11日 06:00〜10月11日 12:00"
+  },
+  "stats": {
+    "articleCount": 9,
+    "categoryCounts": {
+      "経済": 2,
+      "海外": 2,
+      "エンタメ": 2,
+      "国内": 1,
+      "社会": 1,
+      "スポーツ": 1
+    },
+    "sourceCount": 10,
+    "publisherCount": 5,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 1,
+      "maff": 1,
+      "mainichi": 1,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 1,
+      "brief": 8
+    },
+    "feedFailureCount": 3
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories",
+    "UN News"
+  ],
+  "articles": [
+    {
+      "id": "ea023c0d36eb3625",
+      "slug": "2026-10-11-12-ea023c0d",
+      "publishedAt": "2026-10-11T08:00:00+09:00",
+      "updatedAt": "2026-10-11T18:31:26.282113+09:00",
+      "title": "千葉県における野生イノシシの豚熱感染事例について",
+      "dek": "10月11日 08:00更新。プレスリリース (1)千葉県は10月9日(金曜日)、同県鴨川市において発見・回収した野生イノシシの死体についてPCR検査を実施し、同検査により陽性が確認されました。",
+      "summary": "プレスリリース (1)千葉県は10月9日(金曜日)、同県鴨川市において発見・回収した野生イノシシの死体についてPCR検査を実施し、同検査により陽性が確認されました。(2)そのことを受けて実施した農研機構動物衛生研究部門(注)での精密検査の結果を踏まえ、豚熱野外株陽性であると判定しました。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "千葉県における野生イノシシの豚熱感染事例について"
+      ],
+      "facts": [
+        "プレスリリース (1)千葉県は10月9日(金曜日)、同県鴨川市において発見・回収した野生イノシシの死体についてPCR検査を実施し、同検査により陽性が確認されました。",
+        "(2)そのことを受けて実施した農研機構動物衛生研究部門(注)での精密検査の結果を踏まえ、豚熱野外株陽性であると判定しました。",
+        "(県内初の確認事例) (注)国立研究開発法人農業・食品産業技術総合研究機構動物衛生研究部門:国内唯一の動物衛生に関する研究機関 千葉県と連携して、次の措置について万全を期します。",
+        "(1)千葉県は既に豚熱経口ワクチンの散布推奨地域に指定されており、経口ワクチン散布が実施されていますが、今回の事例を踏まえ追加で経口ワクチン散布を実施します。",
+        "(2)野生イノシシにおける感染状況の把握をより一層進めるため、千葉県において野生イノシシのサーベイランス及び捕獲を強化します。",
+        "(3)県内養豚農家に対し、ワクチンの適時・適切な接種を指導するとともに、ワクチン接種だけではなく、飼養衛生管理の再点検や早期通報について改めて指導します。",
+        "(1)豚熱は、豚、いのししの病気であり、人に感染することはありません。",
+        "消費・安全局動物衛生課 担当者:野生動物対策班 代表:03-3502-8111(内線4583) ダイヤルイン:03-6744-2106。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [
+        "(2)現場及び周辺地域での取材は、本病のまん延を引き起こすおそれがあることなどから厳に慎むよう御協力をお願いいたします。",
+        "(3)今後とも、迅速で正確な情報提供に努めますので、生産者等の関係者や消費者は根拠のない噂などにより混乱することがないよう、御協力をお願いいたします。"
+      ],
+      "body": [
+        "プレスリリース (1)千葉県は10月9日(金曜日)、同県鴨川市において発見・回収した野生イノシシの死体についてPCR検査を実施し、同検査により陽性が確認されました。(2)そのことを受けて実施した農研機構動物衛生研究部門(注)での精密検査の結果を踏まえ、豚熱野外株陽性であると判定しました。",
+        "(2)現場及び周辺地域での取材は、本病のまん延を引き起こすおそれがあることなどから厳に慎むよう御協力をお願いいたします。",
+        "(3)今後とも、迅速で正確な情報提供に努めますので、生産者等の関係者や消費者は根拠のない噂などにより混乱することがないよう、御協力をお願いいたします。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "プレスリリース (1)千葉県は10月9日(金曜日)、同県鴨川市において発見・回収した野生イノシシの死体についてPCR検査を実施し、同検査により陽性が確認されました。",
+            "(2)そのことを受けて実施した農研機構動物衛生研究部門(注)での精密検査の結果を踏まえ、豚熱野外株陽性であると判定しました。",
+            "(県内初の確認事例) (注)国立研究開発法人農業・食品産業技術総合研究機構動物衛生研究部門:国内唯一の動物衛生に関する研究機関 千葉県と連携して、次の措置について万全を期します。",
+            "(1)千葉県は既に豚熱経口ワクチンの散布推奨地域に指定されており、経口ワクチン散布が実施されていますが、今回の事例を踏まえ追加で経口ワクチン散布を実施します。",
+            "(2)野生イノシシにおける感染状況の把握をより一層進めるため、千葉県において野生イノシシのサーベイランス及び捕獲を強化します。",
+            "(3)県内養豚農家に対し、ワクチンの適時・適切な接種を指導するとともに、ワクチン接種だけではなく、飼養衛生管理の再点検や早期通報について改めて指導します。",
+            "(1)豚熱は、豚、いのししの病気であり、人に感染することはありません。",
+            "消費・安全局動物衛生課 担当者:野生動物対策班 代表:03-3502-8111(内線4583) ダイヤルイン:03-6744-2106。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "(2)現場及び周辺地域での取材は、本病のまん延を引き起こすおそれがあることなどから厳に慎むよう御協力をお願いいたします。",
+            "(3)今後とも、迅速で正確な情報提供に努めますので、生産者等の関係者や消費者は根拠のない噂などにより混乱することがないよう、御協力をお願いいたします。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-11T08:00:00+09:00",
+          "text": "農林水産省 報道発表資料の公開情報を確認",
+          "source": "農林水産省 報道発表資料"
+        },
+        {
+          "at": "2026-10-11T18:31:26.282113+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "農林水産省 報道発表資料",
+          "publisherId": "maff",
+          "links": [
+            {
+              "title": "千葉県における野生イノシシの豚熱感染事例について",
+              "url": "https://www.maff.go.jp/j/press/syouan/douei/261011.html",
+              "publishedAt": "2026-10-11T08:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-11T08:00:00+09:00",
+          "keyPoints": [
+            "農林水産省 報道発表資料の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "e1f7fcd60489528b",
+      "slug": "2026-10-11-12-e1f7fcd6",
+      "publishedAt": "2026-10-11T11:59:00+09:00",
+      "updatedAt": "2026-10-11T18:31:26.282113+09:00",
+      "title": "サウジ首都空港に攻撃 12人死亡 米国務長官は攻撃を強く非難",
+      "dek": "サウジアラビアの首都リヤドの国際空港が10日、攻撃を受けて12人が死亡、300人以上がけがをし、アメリカのルビオ国務長官は、犠牲者にアメリカ人が含まれるとしたうえで非難しました。",
+      "summary": "サウジアラビアの首都リヤドの国際空港が10日、攻撃を受けて12人が死亡、300人以上がけがをし、アメリカのルビオ国務長官は、犠牲者にアメリカ人が含まれるとしたうえで非難しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "サウジアラビアの首都リヤドの国際空港が10日、攻撃を受けて12人が死亡、300人以上がけがをし、アメリカのルビオ国務長官は、犠牲者にアメリカ人が含まれるとしたうえで非難しました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "サウジアラビアの首都リヤドの国際空港が10日、攻撃を受けて12人が死亡、300人以上がけがをし、アメリカのルビオ国務長官は、犠牲者にアメリカ人が含まれるとしたうえで非難しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "サウジアラビアの首都リヤドの国際空港が10日、攻撃を受けて12人が死亡、300人以上がけがをし、アメリカのルビオ国務長官は、犠牲者にアメリカ人が含まれるとしたうえで非難しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-11T11:59:00+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
+        },
+        {
+          "at": "2026-10-11T18:31:26.282113+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "サウジ首都空港に攻撃 12人死亡 米国務長官は攻撃を強く非難",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261011de57816",
+              "publishedAt": "2026-10-11T11:59:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-11T11:59:00+09:00",
+          "keyPoints": [
+            "サウジアラビアの首都リヤドの国際空港が10日、攻撃を受けて12人が死亡、300人以上がけがをし、アメリカのルビオ国務長官は、犠牲者にアメリカ人が含まれるとしたうえで非難しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "b8384ec6a04adec5",
+      "slug": "2026-10-11-12-b8384ec6",
+      "publishedAt": "2026-10-11T11:11:28+09:00",
+      "updatedAt": "2026-10-11T18:31:26.282113+09:00",
+      "title": "ドキュメンタリー映画:毎日新聞報道を基に製作の映画公開 「東京上空300メートル」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-11T11:11:28+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-10-11T18:31:26.282113+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "ドキュメンタリー映画:毎日新聞報道を基に製作の映画公開 「東京上空300メートル」",
+              "url": "https://mainichi.jp/articles/20261011/ddm/041/040/115000c",
+              "publishedAt": "2026-10-11T11:11:28+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-11T11:11:28+09:00",
+          "keyPoints": [
+            "ドキュメンタリー映画:毎日新聞報道を基に製作の映画公開 「東京上空300メートル」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "0f0aecbda27c3d18",
+      "slug": "2026-10-11-12-0f0aecbd",
+      "publishedAt": "2026-10-11T11:00:00+09:00",
+      "updatedAt": "2026-10-11T18:31:26.282113+09:00",
+      "title": "消費減税「生活に密着した店ほど影響大」 外食団体トップが語る危惧",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-11T11:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-11T18:31:26.282113+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "消費減税「生活に密着した店ほど影響大」 外食団体トップが語る危惧",
+              "url": "https://www.asahi.com/articles/ASVB96HGKVB9ULFA00VM.html",
+              "publishedAt": "2026-10-11T11:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-11T11:00:00+09:00",
+          "keyPoints": [
+            "消費減税「生活に密着した店ほど影響大」 外食団体トップが語る危惧"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "d47b5673b68c6212",
+      "slug": "2026-10-11-12-d47b5673",
+      "publishedAt": "2026-10-11T10:15:00+09:00",
+      "updatedAt": "2026-10-11T18:31:26.282113+09:00",
+      "title": "トランプ大統領 死刑執行ライブ配信めぐり「私が決める」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-11T10:15:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-11T18:31:26.282113+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "トランプ大統領 死刑執行ライブ配信めぐり「私が決める」",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261011de57837",
+              "publishedAt": "2026-10-11T10:15:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-11T10:15:00+09:00",
+          "keyPoints": [
+            "トランプ大統領 死刑執行ライブ配信めぐり「私が決める」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "f8f4a4b21ccb5eb8",
+      "slug": "2026-10-11-12-f8f4a4b2",
+      "publishedAt": "2026-10-11T08:00:00+09:00",
+      "updatedAt": "2026-10-11T18:31:26.282113+09:00",
+      "title": "4年ぶり横須賀拠点以外の米空母が寄港へ 日米共同演習にも参加調整",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-11T08:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-11T18:31:26.282113+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "4年ぶり横須賀拠点以外の米空母が寄港へ 日米共同演習にも参加調整",
+              "url": "https://www.asahi.com/articles/ASVBB3VQCVBBULOB00TM.html",
+              "publishedAt": "2026-10-11T08:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-11T08:00:00+09:00",
+          "keyPoints": [
+            "4年ぶり横須賀拠点以外の米空母が寄港へ 日米共同演習にも参加調整"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "28f7748c4589a636",
+      "slug": "2026-10-11-12-28f7748c",
+      "publishedAt": "2026-10-11T07:15:00+09:00",
+      "updatedAt": "2026-10-11T18:31:26.282113+09:00",
+      "title": "新作映画「バイオハザード」公開で原作ゲームも大盛り上がり？ 劇場でマンガ家が頷いた、その理由とは",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-11T07:15:00+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-11T18:31:26.282113+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "新作映画「バイオハザード」公開で原作ゲームも大盛り上がり？ 劇場でマンガ家が頷いた、その理由とは",
+              "url": "https://www.itmedia.co.jp/news/article/2610/11/2000002191",
+              "publishedAt": "2026-10-11T07:15:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-11T07:15:00+09:00",
+          "keyPoints": [
+            "新作映画「バイオハザード」公開で原作ゲームも大盛り上がり？ 劇場でマンガ家が頷いた、その理由とは"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "cd38abcf82706ca1",
+      "slug": "2026-10-11-12-cd38abcf",
+      "publishedAt": "2026-10-11T07:00:00+09:00",
+      "updatedAt": "2026-10-11T18:31:26.282113+09:00",
+      "title": "熊本地震で落ちかけた高速、復旧になぜ2年 橋脚が移動→桁架け替え",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-11T07:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-11T18:31:26.282113+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "熊本地震で落ちかけた高速、復旧になぜ2年 橋脚が移動→桁架け替え",
+              "url": "https://www.asahi.com/articles/ASVB90W04VB9TIPE01MM.html",
+              "publishedAt": "2026-10-11T07:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-11T07:00:00+09:00",
+          "keyPoints": [
+            "熊本地震で落ちかけた高速、復旧になぜ2年 橋脚が移動→桁架け替え"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "4f83902498187402",
+      "slug": "2026-10-11-12-4f839024",
+      "publishedAt": "2026-10-11T05:37:13+09:00",
+      "updatedAt": "2026-10-11T18:31:26.282113+09:00",
+      "title": "CSファーストステージ セ・リーグ第2戦の見どころは",
+      "dek": "プロ野球、セ・リーグのクライマックスシリーズファーストステージは、DeNAが初戦で巨人に競り勝って第2戦を迎えます。",
+      "summary": "プロ野球、セ・リーグのクライマックスシリーズファーストステージは、DeNAが初戦で巨人に競り勝って第2戦を迎えます。 DeNAが勝てばファイナルステージ進出が決まります。 プロ野球のクライマックスシリーズのファーストステージは11日、第2戦が行われ、パ・リーグはファイナルステージ進出に王手をかけた2位の西武が3位・日本ハムと対戦します。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "プロ野球、セ・リーグのクライマックスシリーズファーストステージは、DeNAが初戦で巨人に競り勝って第2戦を迎えます。",
+        "DeNAが勝てばファイナルステージ進出が決まります。",
+        "プロ野球のクライマックスシリーズのファーストステージは11日、第2戦が行われ、パ・リーグはファイナルステージ進出に王手をかけた2位の西武が3位・日本ハムと対戦します。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "プロ野球、セ・リーグのクライマックスシリーズファーストステージは、DeNAが初戦で巨人に競り勝って第2戦を迎えます。 DeNAが勝てばファイナルステージ進出が決まります。 プロ野球のクライマックスシリーズのファーストステージは11日、第2戦が行われ、パ・リーグはファイナルステージ進出に王手をかけた2位の西武が3位・日本ハムと対戦します。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "プロ野球、セ・リーグのクライマックスシリーズファーストステージは、DeNAが初戦で巨人に競り勝って第2戦を迎えます。",
+            "DeNAが勝てばファイナルステージ進出が決まります。",
+            "プロ野球のクライマックスシリーズのファーストステージは11日、第2戦が行われ、パ・リーグはファイナルステージ進出に王手をかけた2位の西武が3位・日本ハムと対戦します。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-11T05:38:06+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-10-11T18:31:26.282113+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "CSファーストステージ セ・リーグ第2戦の見どころは",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261011de57806",
+              "publishedAt": "2026-10-11T05:37:13+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "CSファーストステージ パ・リーグ第2戦の見どころは",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261011de57807",
+              "publishedAt": "2026-10-11T05:38:06+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-11T05:38:06+09:00",
+          "keyPoints": [
+            "プロ野球、セ・リーグのクライマックスシリーズファーストステージは、DeNAが初戦で巨人に競り勝って第2戦を迎えます。DeNAが勝てばファイナルステージ進出が決まります。",
+            "プロ野球のクライマックスシリーズのファーストステージは11日、第2戦が行われ、パ・リーグはファイナルステージ進出に王手をかけた2位の西武が3位・日本ハムと対戦します。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 2,
+      "freshSourceCount": 2,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    }
+  ]
+}

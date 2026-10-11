@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-11T06:00:00+09:00",
-  "lastCompletedEdition": "2026-10-11-06",
+  "lastCompletedEnd": "2026-10-11T12:00:00+09:00",
+  "lastCompletedEdition": "2026-10-11-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -17065,7 +17065,80 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261010de57761"
       ]
+    },
+    {
+      "editionId": "2026-10-11-12",
+      "title": "千葉県における野生イノシシの豚熱感染事例について",
+      "publishedAt": "2026-10-11T08:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/douei/261011.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-12",
+      "title": "サウジ首都空港に攻撃12人死亡米国務長官は攻撃を強く非難",
+      "publishedAt": "2026-10-11T11:59:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261011de57816"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-12",
+      "title": "ドキュメンタリー映画毎日新聞報道を基に製作の映画公開東京上空300メートル",
+      "publishedAt": "2026-10-11T11:11:28+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261011/ddm/041/040/115000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-12",
+      "title": "消費減税生活に密着した店ほど影響大外食団体トップが語る危惧",
+      "publishedAt": "2026-10-11T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB96HGKVB9ULFA00VM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-12",
+      "title": "トランプ大統領死刑執行ライブ配信めぐり私が決める",
+      "publishedAt": "2026-10-11T10:15:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261011de57837"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-12",
+      "title": "4年ぶり横須賀拠点以外の米空母が寄港へ日米共同演習にも参加調整",
+      "publishedAt": "2026-10-11T08:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBB3VQCVBBULOB00TM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-12",
+      "title": "新作映画バイオハザード公開で原作ゲームも大盛り上がり劇場でマンガ家が頷いたその理由とは",
+      "publishedAt": "2026-10-11T07:15:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/11/2000002191"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-12",
+      "title": "熊本地震で落ちかけた高速復旧になぜ2年橋脚が移動桁架け替え",
+      "publishedAt": "2026-10-11T07:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB90W04VB9TIPE01MM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-12",
+      "title": "csファーストステージセ・リーグ第2戦の見どころは",
+      "publishedAt": "2026-10-11T05:37:13+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261011de57806",
+        "https://news.web.nhk/newsweb/na/nd-20261011de57807"
+      ]
     }
   ],
-  "updatedAt": "2026-10-11T08:56:16.717035+09:00"
+  "updatedAt": "2026-10-11T18:31:26.282113+09:00"
 }
