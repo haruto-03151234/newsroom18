@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-11T12:00:00+09:00",
-  "lastCompletedEdition": "2026-10-11-12",
+  "lastCompletedEnd": "2026-10-11T18:00:00+09:00",
+  "lastCompletedEdition": "2026-10-11-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -17138,7 +17138,87 @@
         "https://news.web.nhk/newsweb/na/nd-20261011de57806",
         "https://news.web.nhk/newsweb/na/nd-20261011de57807"
       ]
+    },
+    {
+      "editionId": "2026-10-11-18",
+      "title": "沖縄本島地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-10-11T16:08:49+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261011070849_0_VPFJ50_471000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-18",
+      "title": "伊藤龍之介投入で流れ乗った相手も認める存在感で明治大が勝利",
+      "publishedAt": "2026-10-11T17:59:13+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBC2V8SVBCUTQP01LM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-18",
+      "title": "石破前首相簗農相発言を批判全国民の代表者との認識ない",
+      "publishedAt": "2026-10-11T17:44:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261011de57884"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-18",
+      "title": "茂木氏米兵事件に遺憾の意米に伝達赤根氏とicc改革議論",
+      "publishedAt": "2026-10-11T17:37:20+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261011/k00/00m/010/126000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-18",
+      "title": "米iccを制裁対象に指定非難や撤回を求める声相次ぐ",
+      "publishedAt": "2026-10-11T17:22:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261011de57845"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-18",
+      "title": "女子ゴルフ国内ツアー岩井明愛が2年ぶりの優勝",
+      "publishedAt": "2026-10-11T17:19:01+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261011de57929"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-18",
+      "title": "深層サイエンス今年のノーベル賞はどんな研究が受賞自然科学3賞を振り返る",
+      "publishedAt": "2026-10-11T17:00:21+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261010/k00/00m/040/142000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-18",
+      "title": "より良い社会の実現に佳子さまがガールズメッセ式典に出席",
+      "publishedAt": "2026-10-11T16:57:01+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261011/k00/00m/040/097000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-18",
+      "title": "ストリーミングは稼げないは本当か配信支援会社トップの見方は",
+      "publishedAt": "2026-10-11T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB8410KVB8UCVL00WM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-11-18",
+      "title": "火の消し忘れも検知川重が犬型aiロボを開発28年度に販売へ",
+      "publishedAt": "2026-10-11T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB82RH4VB8PLZU001M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-11T18:31:26.282113+09:00"
+  "updatedAt": "2026-10-12T00:19:02.170087+09:00"
 }
