@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-12T06:00:00+09:00",
-  "lastCompletedEdition": "2026-10-12-06",
+  "lastCompletedEnd": "2026-10-12T12:00:00+09:00",
+  "lastCompletedEdition": "2026-10-12-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -17299,7 +17299,71 @@
       "urls": [
         "https://www.asahi.com/articles/ASVBC2GXZVBCPLZB004M.html"
       ]
+    },
+    {
+      "editionId": "2026-10-12-12",
+      "title": "移民乗せたイエメン行きの船がジブチ沖で転覆139人死亡",
+      "publishedAt": "2026-10-12T11:57:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261012de58100"
+      ]
+    },
+    {
+      "editionId": "2026-10-12-12",
+      "title": "ずぶぬれの高齢男性に覚えた違和感25歳女性置いておけない",
+      "publishedAt": "2026-10-12T11:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB81JNNVB8UTNB00QM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-12-12",
+      "title": "サウジアラビア首都の国際空港に攻撃相次ぐ緊張の高まり懸念",
+      "publishedAt": "2026-10-12T11:29:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261011de58042"
+      ]
+    },
+    {
+      "editionId": "2026-10-12-12",
+      "title": "microsoftのナデラceosiモデルは内部リスクとして扱うべきとxに投稿統制はモデルの外に置くよう提言",
+      "publishedAt": "2026-10-12T10:26:23+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/12/2000002195"
+      ]
+    },
+    {
+      "editionId": "2026-10-12-12",
+      "title": "ゆるキャンなぜ静岡に聖地続誘客に熱原作者の思い",
+      "publishedAt": "2026-10-12T09:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB9427GVB9UTPB00GM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-12-12",
+      "title": "anthropicのai未解決殺人事件で警察に虚偽の情報提供米政権は通知と是正は義務と警告",
+      "publishedAt": "2026-10-12T08:59:36+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/12/2000002192"
+      ]
+    },
+    {
+      "editionId": "2026-10-12-12",
+      "title": "原潜導入へ研究着手案是非の議論へ官邸の意向政府内に慎重論も",
+      "publishedAt": "2026-10-12T08:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBC41F3VBCUTFK008M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-12-12",
+      "title": "シカゴマラソン赤崎暁が9位大迫傑が14位",
+      "publishedAt": "2026-10-12T04:58:21+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261012de58056"
+      ]
     }
   ],
-  "updatedAt": "2026-10-12T09:02:44.904838+09:00"
+  "updatedAt": "2026-10-12T19:01:42.763278+09:00"
 }

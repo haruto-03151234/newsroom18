@@ -5,327 +5,87 @@
     "tagline": "事実をつなぎ、背景まで伝える。",
     "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
   },
-  "generatedAt": "2026-10-12T09:02:44.904838+09:00",
-  "summary": "対象時間帯の4配信元のニュースを10本に整理しました。うち重要ニュースは1本です。",
+  "generatedAt": "2026-10-12T19:01:42.763278+09:00",
+  "summary": "対象時間帯の3配信元の主なニュースを8本に整理しました。",
   "generationMode": "structured",
   "edition": {
-    "id": "2026-10-12-06",
+    "id": "2026-10-12-12",
     "date": "2026-10-12",
-    "slot": "06:00",
-    "label": "朝6時版"
+    "slot": "12:00",
+    "label": "昼12時版"
   },
   "coverage": {
-    "from": "2026-10-11T18:00:00+09:00",
-    "to": "2026-10-12T06:00:00+09:00",
-    "start": "2026-10-11T18:00:00+09:00",
-    "end": "2026-10-12T06:00:00+09:00",
+    "from": "2026-10-12T06:00:00+09:00",
+    "to": "2026-10-12T12:00:00+09:00",
+    "start": "2026-10-12T06:00:00+09:00",
+    "end": "2026-10-12T12:00:00+09:00",
     "timezone": "Asia/Tokyo",
-    "label": "10月11日 18:00〜10月12日 06:00"
+    "label": "10月12日 06:00〜10月12日 12:00"
   },
   "stats": {
-    "articleCount": 10,
+    "articleCount": 8,
     "categoryCounts": {
-      "国内": 2,
-      "スポーツ": 1,
-      "科学": 1,
-      "海外": 1,
-      "テクノロジー": 1,
+      "海外": 2,
       "社会": 1,
-      "エンタメ": 3
+      "テクノロジー": 2,
+      "エンタメ": 1,
+      "国内": 1,
+      "スポーツ": 1
     },
-    "sourceCount": 11,
-    "publisherCount": 4,
+    "sourceCount": 8,
+    "publisherCount": 3,
     "publisherCounts": {
       "asahi": 3,
-      "jma": 1,
-      "mainichi": 3,
+      "itmedia": 2,
       "nhk": 3
     },
     "articleTypeCounts": {
-      "feature": 1,
-      "brief": 9
+      "brief": 8
     },
-    "feedFailureCount": 3
+    "feedFailureCount": 2
   },
   "feedFailures": [
     "経済産業省 ニュースリリース",
-    "CISA Cybersecurity Advisories",
-    "UN News"
+    "CISA Cybersecurity Advisories"
   ],
   "articles": [
     {
-      "id": "e88febf1e82e2020",
-      "slug": "2026-10-12-06-e88febf1",
-      "publishedAt": "2026-10-12T04:49:10+09:00",
-      "updatedAt": "2026-10-12T09:02:44.904838+09:00",
-      "title": "沖縄本島地方気象解説情報（大雨・落雷・突風）",
-      "dek": "10月12日 04:49更新。本島中南部、本島北部では、12日は雨雲の発達の程度によっては警報級の大雨となるおそれがあります。",
-      "summary": "本島中南部、本島北部では、12日は雨雲の発達の程度によっては警報級の大雨となるおそれがあります。土砂災害や低い土地の浸水、河川の増水に十分注意してください。また、沖縄本島地方では13日にかけて落雷や竜巻などの激しい突風に十分注意してください。",
-      "whyItMatters": "",
-      "articleType": "feature",
-      "deskLens": "event",
-      "eventKeys": [
-        "沖縄本島地方気象解説情報大雨落雷突風"
-      ],
-      "facts": [
-        "[気象概況] 東シナ海から南西諸島付近は気圧の谷となっています。",
-        "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど、安全確保に努めてください。"
-      ],
-      "impactPoints": [
-        "土砂災害や低い土地の浸水、河川の増水に十分注意してください。",
-        "また、沖縄本島地方では13日にかけて落雷や竜巻などの激しい突風に十分注意してください。",
-        "沖縄本島地方では、気圧の谷の影響で大気の状態が非常に不安定となっています。"
-      ],
-      "background": "",
-      "watchPoints": [
-        "本島中南部、本島北部では、12日は雨雲の発達の程度によっては警報級の大雨となるおそれがあります。",
-        "[補足事項] 今後発表する防災気象情報に留意してください。"
-      ],
-      "body": [
-        "本島中南部、本島北部では、12日は雨雲の発達の程度によっては警報級の大雨となるおそれがあります。土砂災害や低い土地の浸水、河川の増水に十分注意してください。また、沖縄本島地方では13日にかけて落雷や竜巻などの激しい突風に十分注意してください。",
-        "沖縄本島地方では、気圧の谷の影響で大気の状態が非常に不安定となっています。",
-        "[補足事項] 今後発表する防災気象情報に留意してください。"
-      ],
-      "sections": [
-        {
-          "heading": "確認できた事実",
-          "paragraphs": [
-            "[気象概況] 東シナ海から南西諸島付近は気圧の谷となっています。",
-            "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど、安全確保に努めてください。"
-          ]
-        },
-        {
-          "heading": "影響・対象地域",
-          "paragraphs": [
-            "土砂災害や低い土地の浸水、河川の増水に十分注意してください。",
-            "また、沖縄本島地方では13日にかけて落雷や竜巻などの激しい突風に十分注意してください。",
-            "沖縄本島地方では、気圧の谷の影響で大気の状態が非常に不安定となっています。"
-          ]
-        },
-        {
-          "heading": "次に注目",
-          "paragraphs": [
-            "本島中南部、本島北部では、12日は雨雲の発達の程度によっては警報級の大雨となるおそれがあります。",
-            "[補足事項] 今後発表する防災気象情報に留意してください。"
-          ]
-        }
-      ],
-      "updates": [
-        {
-          "at": "2026-10-12T04:49:10+09:00",
-          "text": "気象庁 防災情報（気象）の公開情報を確認",
-          "source": "気象庁 防災情報（気象）"
-        },
-        {
-          "at": "2026-10-12T09:02:44.904838+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "国内",
-      "importance": 5,
-      "sources": [
-        {
-          "name": "気象庁 防災情報（気象）",
-          "publisherId": "jma",
-          "links": [
-            {
-              "title": "沖縄本島地方気象解説情報（大雨・落雷・突風）",
-              "url": "https://www.data.jma.go.jp/developer/xml/data/20261011194910_0_VPFJ50_471000.xml",
-              "publishedAt": "2026-10-12T04:49:10+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-10-12T04:49:10+09:00",
-          "keyPoints": [
-            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
-          ],
-          "type": "一次情報",
-          "isPrimary": true
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "国内"
-      ]
-    },
-    {
-      "id": "5b90ea87406c5608",
-      "slug": "2026-10-12-06-5b90ea87",
-      "publishedAt": "2026-10-12T05:10:07+09:00",
-      "updatedAt": "2026-10-12T09:02:44.904838+09:00",
-      "title": "巨人一筋20年の坂本勇人 来季も現役続行の見通し",
-      "dek": "プロ野球、巨人一筋20年で、通算2474本のヒットをマークしている坂本勇人選手が、来シーズンも現役を続ける見通しであることが、球団関係者への取材でわかりました。",
-      "summary": "プロ野球、巨人一筋20年で、通算2474本のヒットをマークしている坂本勇人選手が、来シーズンも現役を続ける見通しであることが、球団関係者への取材でわかりました。",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [
-        "プロ野球、巨人一筋20年で、通算2474本のヒットをマークしている坂本勇人選手が、来シーズンも現役を続ける見通しであることが、球団関係者への取材でわかりました。"
-      ],
-      "body": [
-        "プロ野球、巨人一筋20年で、通算2474本のヒットをマークしている坂本勇人選手が、来シーズンも現役を続ける見通しであることが、球団関係者への取材でわかりました。"
-      ],
-      "sections": [
-        {
-          "heading": "次に注目",
-          "paragraphs": [
-            "プロ野球、巨人一筋20年で、通算2474本のヒットをマークしている坂本勇人選手が、来シーズンも現役を続ける見通しであることが、球団関係者への取材でわかりました。"
-          ]
-        }
-      ],
-      "updates": [
-        {
-          "at": "2026-10-12T05:10:07+09:00",
-          "text": "NHK ONE 主要ニュースの公開情報を確認",
-          "source": "NHK ONE 主要ニュース"
-        },
-        {
-          "at": "2026-10-12T09:02:44.904838+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "スポーツ",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "NHK ONE 主要ニュース",
-          "publisherId": "nhk",
-          "links": [
-            {
-              "title": "巨人一筋20年の坂本勇人 来季も現役続行の見通し",
-              "url": "https://news.web.nhk/newsweb/na/nd-20261012de58051",
-              "publishedAt": "2026-10-12T05:10:07+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-10-12T05:10:07+09:00",
-          "keyPoints": [
-            "プロ野球、巨人一筋20年で、通算2474本のヒットをマークしている坂本勇人選手が、来シーズンも現役を続ける見通しであることが、球団関係者への取材でわかりました。"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "スポーツ"
-      ]
-    },
-    {
-      "id": "f813106c65b3f82a",
-      "slug": "2026-10-12-06-f813106c",
-      "publishedAt": "2026-10-12T05:00:00+09:00",
-      "updatedAt": "2026-10-12T09:02:44.904838+09:00",
-      "title": "人より牛が多い町に全国から高校生 「宇宙版シリコンバレー目指す」",
-      "dek": "",
-      "summary": "",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [],
-      "sections": [],
-      "updates": [
-        {
-          "at": "2026-10-12T05:00:00+09:00",
-          "text": "朝日新聞 最新ニュースの公開情報を確認",
-          "source": "朝日新聞 最新ニュース"
-        },
-        {
-          "at": "2026-10-12T09:02:44.904838+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "科学",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "朝日新聞 最新ニュース",
-          "publisherId": "asahi",
-          "links": [
-            {
-              "title": "人より牛が多い町に全国から高校生 「宇宙版シリコンバレー目指す」",
-              "url": "https://www.asahi.com/articles/ASVBB4FTNVBBIIPE00KM.html",
-              "publishedAt": "2026-10-12T05:00:00+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-10-12T05:00:00+09:00",
-          "keyPoints": [
-            "人より牛が多い町に全国から高校生 「宇宙版シリコンバレー目指す」"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "科学"
-      ]
-    },
-    {
-      "id": "1961c794790600e6",
-      "slug": "2026-10-12-06-1961c794",
-      "publishedAt": "2026-10-12T04:50:03+09:00",
-      "updatedAt": "2026-10-12T09:02:44.904838+09:00",
-      "title": "“ガザ停戦”から１年経過 イスラエル軍の攻撃で死者相次ぐ",
-      "dek": "パレスチナのガザ地区ではイスラエル軍の無人機による攻撃で1人が死亡したほかイスラエル軍の発砲で妊婦を含む8人がけがをしたと伝えられ、イスラエルとイスラム組織ハマスの停戦合意の発効から1年がたったあとも…。",
-      "summary": "パレスチナのガザ地区ではイスラエル軍の無人機による攻撃で1人が死亡したほかイスラエル軍の発砲で妊婦を含む8人がけがをしたと伝えられ、イスラエルとイスラム組織ハマスの停戦合意の発効から1年がたったあとも…。",
+      "id": "4c31cc1928f555fe",
+      "slug": "2026-10-12-12-4c31cc19",
+      "publishedAt": "2026-10-12T11:57:00+09:00",
+      "updatedAt": "2026-10-12T19:01:42.763278+09:00",
+      "title": "移民乗せたイエメン行きの船がジブチ沖で転覆 139人死亡",
+      "dek": "アフリカ東部のジブチ沖で移民を乗せた船が転覆し、少なくとも139人が死亡したほか84人が行方不明になっていて、地元当局が救助活動を続けています。",
+      "summary": "アフリカ東部のジブチ沖で移民を乗せた船が転覆し、少なくとも139人が死亡したほか84人が行方不明になっていて、地元当局が救助活動を続けています。",
       "whyItMatters": "",
       "articleType": "brief",
       "deskLens": "",
       "eventKeys": [],
       "facts": [
-        "パレスチナのガザ地区ではイスラエル軍の無人機による攻撃で1人が死亡したほかイスラエル軍の発砲で妊婦を含む8人がけがをしたと伝えられ、イスラエルとイスラム組織ハマスの停戦合意の発効から1年がたったあとも…。"
+        "アフリカ東部のジブチ沖で移民を乗せた船が転覆し、少なくとも139人が死亡したほか84人が行方不明になっていて、地元当局が救助活動を続けています。"
       ],
       "impactPoints": [],
       "background": "",
       "watchPoints": [],
       "body": [
-        "パレスチナのガザ地区ではイスラエル軍の無人機による攻撃で1人が死亡したほかイスラエル軍の発砲で妊婦を含む8人がけがをしたと伝えられ、イスラエルとイスラム組織ハマスの停戦合意の発効から1年がたったあとも…。"
+        "アフリカ東部のジブチ沖で移民を乗せた船が転覆し、少なくとも139人が死亡したほか84人が行方不明になっていて、地元当局が救助活動を続けています。"
       ],
       "sections": [
         {
           "heading": "確認できた事実",
           "paragraphs": [
-            "パレスチナのガザ地区ではイスラエル軍の無人機による攻撃で1人が死亡したほかイスラエル軍の発砲で妊婦を含む8人がけがをしたと伝えられ、イスラエルとイスラム組織ハマスの停戦合意の発効から1年がたったあとも…。"
+            "アフリカ東部のジブチ沖で移民を乗せた船が転覆し、少なくとも139人が死亡したほか84人が行方不明になっていて、地元当局が救助活動を続けています。"
           ]
         }
       ],
       "updates": [
         {
-          "at": "2026-10-12T04:50:03+09:00",
+          "at": "2026-10-12T11:57:00+09:00",
           "text": "NHK ONE 国際の公開情報を確認",
           "source": "NHK ONE 国際"
         },
         {
-          "at": "2026-10-12T09:02:44.904838+09:00",
+          "at": "2026-10-12T19:01:42.763278+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
@@ -338,16 +98,16 @@
           "publisherId": "nhk",
           "links": [
             {
-              "title": "“ガザ停戦”から１年経過 イスラエル軍の攻撃で死者相次ぐ",
-              "url": "https://news.web.nhk/newsweb/na/nd-20261011de58041",
-              "publishedAt": "2026-10-12T04:50:03+09:00",
+              "title": "移民乗せたイエメン行きの船がジブチ沖で転覆 139人死亡",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261012de58100",
+              "publishedAt": "2026-10-12T11:57:00+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-10-12T04:50:03+09:00",
+          "publishedAt": "2026-10-12T11:57:00+09:00",
           "keyPoints": [
-            "パレスチナのガザ地区ではイスラエル軍の無人機による攻撃で1人が死亡したほかイスラエル軍の発砲で妊婦を含む8人がけがをしたと伝えられ、イスラエルとイスラム組織ハマスの停戦合意の発効から1年がたったあとも…。"
+            "アフリカ東部のジブチ沖で移民を乗せた船が転覆し、少なくとも139人が死亡したほか84人が行方不明になっていて、地元当局が救助活動を続けています。"
           ],
           "type": "報道",
           "isPrimary": false
@@ -363,84 +123,11 @@
       ]
     },
     {
-      "id": "4f8fc3a2a5150b45",
-      "slug": "2026-10-12-06-4f8fc3a2",
-      "publishedAt": "2026-10-12T04:47:32+09:00",
-      "updatedAt": "2026-10-12T09:02:44.904838+09:00",
-      "title": "生成AIの安全性評価するシステム開発",
-      "dek": "AIの進歩に伴い、AIが悪用されたり、人や社会に有害な情報が持ち出されたりすることを防ぐため、AIの安全性を評価するシステムを国の研究機関が開発しました。",
-      "summary": "AIの進歩に伴い、AIが悪用されたり、人や社会に有害な情報が持ち出されたりすることを防ぐため、AIの安全性を評価するシステムを国の研究機関が開発しました。",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [
-        "AIの進歩に伴い、AIが悪用されたり、人や社会に有害な情報が持ち出されたりすることを防ぐため、AIの安全性を評価するシステムを国の研究機関が開発しました。"
-      ],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [
-        "AIの進歩に伴い、AIが悪用されたり、人や社会に有害な情報が持ち出されたりすることを防ぐため、AIの安全性を評価するシステムを国の研究機関が開発しました。"
-      ],
-      "sections": [
-        {
-          "heading": "確認できた事実",
-          "paragraphs": [
-            "AIの進歩に伴い、AIが悪用されたり、人や社会に有害な情報が持ち出されたりすることを防ぐため、AIの安全性を評価するシステムを国の研究機関が開発しました。"
-          ]
-        }
-      ],
-      "updates": [
-        {
-          "at": "2026-10-12T04:47:32+09:00",
-          "text": "NHK ONE 科学・文化の公開情報を確認",
-          "source": "NHK ONE 科学・文化"
-        },
-        {
-          "at": "2026-10-12T09:02:44.904838+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "テクノロジー",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "NHK ONE 科学・文化",
-          "publisherId": "nhk",
-          "links": [
-            {
-              "title": "生成AIの安全性評価するシステム開発",
-              "url": "https://news.web.nhk/newsweb/na/nd-20261011de58038",
-              "publishedAt": "2026-10-12T04:47:32+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-10-12T04:47:32+09:00",
-          "keyPoints": [
-            "AIの進歩に伴い、AIが悪用されたり、人や社会に有害な情報が持ち出されたりすることを防ぐため、AIの安全性を評価するシステムを国の研究機関が開発しました。"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "テクノロジー"
-      ]
-    },
-    {
-      "id": "975ed6f7f25a2462",
-      "slug": "2026-10-12-06-975ed6f7",
-      "publishedAt": "2026-10-12T04:00:00+09:00",
-      "updatedAt": "2026-10-12T09:02:44.904838+09:00",
-      "title": "「情けなかった」万博 高村薫さんが見た日本の国力と希望 閉幕1年",
+      "id": "8e89ebc4443bf803",
+      "slug": "2026-10-12-12-8e89ebc4",
+      "publishedAt": "2026-10-12T11:30:00+09:00",
+      "updatedAt": "2026-10-12T19:01:42.763278+09:00",
+      "title": "ずぶぬれの高齢男性に覚えた違和感 25歳女性「置いておけない」",
       "dek": "",
       "summary": "",
       "whyItMatters": "",
@@ -455,12 +142,12 @@
       "sections": [],
       "updates": [
         {
-          "at": "2026-10-12T04:00:00+09:00",
+          "at": "2026-10-12T11:30:00+09:00",
           "text": "朝日新聞 最新ニュースの公開情報を確認",
           "source": "朝日新聞 最新ニュース"
         },
         {
-          "at": "2026-10-12T09:02:44.904838+09:00",
+          "at": "2026-10-12T19:01:42.763278+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
@@ -473,16 +160,16 @@
           "publisherId": "asahi",
           "links": [
             {
-              "title": "「情けなかった」万博 高村薫さんが見た日本の国力と希望 閉幕1年",
-              "url": "https://www.asahi.com/articles/ASVB90TRHVB9PQIP01YM.html",
-              "publishedAt": "2026-10-12T04:00:00+09:00",
+              "title": "ずぶぬれの高齢男性に覚えた違和感 25歳女性「置いておけない」",
+              "url": "https://www.asahi.com/articles/ASVB81JNNVB8UTNB00QM.html",
+              "publishedAt": "2026-10-12T11:30:00+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-10-12T04:00:00+09:00",
+          "publishedAt": "2026-10-12T11:30:00+09:00",
           "keyPoints": [
-            "「情けなかった」万博 高村薫さんが見た日本の国力と希望 閉幕1年"
+            "ずぶぬれの高齢男性に覚えた違和感 25歳女性「置いておけない」"
           ],
           "type": "報道",
           "isPrimary": false
@@ -498,123 +185,64 @@
       ]
     },
     {
-      "id": "830d78b0092ac3ef",
-      "slug": "2026-10-12-06-830d78b0",
-      "publishedAt": "2026-10-12T02:02:02+09:00",
-      "updatedAt": "2026-10-12T09:02:44.904838+09:00",
-      "title": "視聴室:新番組・いろはの恋は時代をかける",
-      "dek": "",
-      "summary": "",
+      "id": "c4a9d353098c1697",
+      "slug": "2026-10-12-12-c4a9d353",
+      "publishedAt": "2026-10-12T11:29:00+09:00",
+      "updatedAt": "2026-10-12T19:01:42.763278+09:00",
+      "title": "サウジアラビア 首都の国際空港に攻撃相次ぐ 緊張の高まり懸念",
+      "dek": "イエメンの反政府勢力フーシ派と対立するサウジアラビアの当局は、首都リヤドの国際空港が11日に攻撃を受け、1人が死亡したと発表しました。",
+      "summary": "イエメンの反政府勢力フーシ派と対立するサウジアラビアの当局は、首都リヤドの国際空港が11日に攻撃を受け、1人が死亡したと発表しました。",
       "whyItMatters": "",
       "articleType": "brief",
       "deskLens": "",
       "eventKeys": [],
-      "facts": [],
+      "facts": [
+        "イエメンの反政府勢力フーシ派と対立するサウジアラビアの当局は、首都リヤドの国際空港が11日に攻撃を受け、1人が死亡したと発表しました。"
+      ],
       "impactPoints": [],
       "background": "",
       "watchPoints": [],
-      "body": [],
-      "sections": [],
+      "body": [
+        "イエメンの反政府勢力フーシ派と対立するサウジアラビアの当局は、首都リヤドの国際空港が11日に攻撃を受け、1人が死亡したと発表しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "イエメンの反政府勢力フーシ派と対立するサウジアラビアの当局は、首都リヤドの国際空港が11日に攻撃を受け、1人が死亡したと発表しました。"
+          ]
+        }
+      ],
       "updates": [
         {
-          "at": "2026-10-12T02:02:08+09:00",
-          "text": "毎日新聞 エンタメの公開情報を確認",
-          "source": "毎日新聞 エンタメ"
+          "at": "2026-10-12T11:29:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
         },
         {
-          "at": "2026-10-12T09:02:44.904838+09:00",
+          "at": "2026-10-12T19:01:42.763278+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
       ],
-      "category": "エンタメ",
+      "category": "海外",
       "importance": 3,
       "sources": [
         {
-          "name": "毎日新聞 エンタメ",
-          "publisherId": "mainichi",
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
           "links": [
             {
-              "title": "視聴室:新番組・救命病棟24時",
-              "url": "https://mainichi.jp/articles/20261012/ddm/018/200/033000c",
-              "publishedAt": "2026-10-12T02:02:02+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            },
-            {
-              "title": "視聴室:新番組・いろはの恋は時代をかける",
-              "url": "https://mainichi.jp/articles/20261012/ddm/018/200/036000c",
-              "publishedAt": "2026-10-12T02:02:08+09:00",
+              "title": "サウジアラビア 首都の国際空港に攻撃相次ぐ 緊張の高まり懸念",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261011de58042",
+              "publishedAt": "2026-10-12T11:29:00+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-10-12T02:02:08+09:00",
+          "publishedAt": "2026-10-12T11:29:00+09:00",
           "keyPoints": [
-            "視聴室:新番組・救命病棟24時",
-            "視聴室:新番組・いろはの恋は時代をかける"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 2,
-      "freshSourceCount": 2,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "id": "1889040c2ade6cd0",
-      "slug": "2026-10-12-06-1889040c",
-      "publishedAt": "2026-10-12T02:01:49+09:00",
-      "updatedAt": "2026-10-12T09:02:44.904838+09:00",
-      "title": "影山貴彦のテレビ燦々:ありがとう倉本聰さん 人間味あふれ、紡ぐ言葉に魂が宿る",
-      "dek": "",
-      "summary": "",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [],
-      "sections": [],
-      "updates": [
-        {
-          "at": "2026-10-12T02:01:49+09:00",
-          "text": "毎日新聞 エンタメの公開情報を確認",
-          "source": "毎日新聞 エンタメ"
-        },
-        {
-          "at": "2026-10-12T09:02:44.904838+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "エンタメ",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "毎日新聞 エンタメ",
-          "publisherId": "mainichi",
-          "links": [
-            {
-              "title": "影山貴彦のテレビ燦々:ありがとう倉本聰さん 人間味あふれ、紡ぐ言葉に魂が宿る",
-              "url": "https://mainichi.jp/articles/20261012/ddm/018/200/028000c",
-              "publishedAt": "2026-10-12T02:01:49+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-10-12T02:01:49+09:00",
-          "keyPoints": [
-            "影山貴彦のテレビ燦々:ありがとう倉本聰さん 人間味あふれ、紡ぐ言葉に魂が宿る"
+            "イエメンの反政府勢力フーシ派と対立するサウジアラビアの当局は、首都リヤドの国際空港が11日に攻撃を受け、1人が死亡したと発表しました。"
           ],
           "type": "報道",
           "isPrimary": false
@@ -626,15 +254,15 @@
       "continuationOrigins": [],
       "publisherCount": 1,
       "tags": [
-        "エンタメ"
+        "海外"
       ]
     },
     {
-      "id": "f74dcfa0383150b2",
-      "slug": "2026-10-12-06-f74dcfa0",
-      "publishedAt": "2026-10-12T02:01:15+09:00",
-      "updatedAt": "2026-10-12T09:02:44.904838+09:00",
-      "title": "“耳寄り”な話・ＴＢＳラジオ:「お笑いの日」テレビと沸かせます",
+      "id": "2505242c23caa479",
+      "slug": "2026-10-12-12-2505242c",
+      "publishedAt": "2026-10-12T10:26:23+09:00",
+      "updatedAt": "2026-10-12T19:01:42.763278+09:00",
+      "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言",
       "dek": "",
       "summary": "",
       "whyItMatters": "",
@@ -649,34 +277,34 @@
       "sections": [],
       "updates": [
         {
-          "at": "2026-10-12T02:01:15+09:00",
-          "text": "毎日新聞 エンタメの公開情報を確認",
-          "source": "毎日新聞 エンタメ"
+          "at": "2026-10-12T10:26:23+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
         },
         {
-          "at": "2026-10-12T09:02:44.904838+09:00",
+          "at": "2026-10-12T19:01:42.763278+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
       ],
-      "category": "エンタメ",
+      "category": "テクノロジー",
       "importance": 3,
       "sources": [
         {
-          "name": "毎日新聞 エンタメ",
-          "publisherId": "mainichi",
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
           "links": [
             {
-              "title": "“耳寄り”な話・ＴＢＳラジオ:「お笑いの日」テレビと沸かせます",
-              "url": "https://mainichi.jp/articles/20261012/ddm/018/200/032000c",
-              "publishedAt": "2026-10-12T02:01:15+09:00",
+              "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言",
+              "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002195",
+              "publishedAt": "2026-10-12T10:26:23+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-10-12T02:01:15+09:00",
+          "publishedAt": "2026-10-12T10:26:23+09:00",
           "keyPoints": [
-            "“耳寄り”な話・ＴＢＳラジオ:「お笑いの日」テレビと沸かせます"
+            "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言"
           ],
           "type": "報道",
           "isPrimary": false
@@ -688,15 +316,15 @@
       "continuationOrigins": [],
       "publisherCount": 1,
       "tags": [
-        "エンタメ"
+        "テクノロジー"
       ]
     },
     {
-      "id": "f0eb3258a31df90b",
-      "slug": "2026-10-12-06-f0eb3258",
-      "publishedAt": "2026-10-11T19:30:00+09:00",
-      "updatedAt": "2026-10-12T09:02:44.904838+09:00",
-      "title": "10年ぶりの選挙戦 滋賀・草津市長選に4人が立候補 18日投開票",
+      "id": "832acfd8184dc630",
+      "slug": "2026-10-12-12-832acfd8",
+      "publishedAt": "2026-10-12T09:00:00+09:00",
+      "updatedAt": "2026-10-12T19:01:42.763278+09:00",
+      "title": "『ゆるキャン△』なぜ静岡に「聖地」続々？ 誘客に熱 原作者の思い",
       "dek": "",
       "summary": "",
       "whyItMatters": "",
@@ -711,12 +339,136 @@
       "sections": [],
       "updates": [
         {
-          "at": "2026-10-11T19:30:00+09:00",
+          "at": "2026-10-12T09:00:00+09:00",
           "text": "朝日新聞 最新ニュースの公開情報を確認",
           "source": "朝日新聞 最新ニュース"
         },
         {
-          "at": "2026-10-12T09:02:44.904838+09:00",
+          "at": "2026-10-12T19:01:42.763278+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "『ゆるキャン△』なぜ静岡に「聖地」続々？ 誘客に熱 原作者の思い",
+              "url": "https://www.asahi.com/articles/ASVB9427GVB9UTPB00GM.html",
+              "publishedAt": "2026-10-12T09:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-12T09:00:00+09:00",
+          "keyPoints": [
+            "『ゆるキャン△』なぜ静岡に「聖地」続々？ 誘客に熱 原作者の思い"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "69e36c32c17c37f3",
+      "slug": "2026-10-12-12-69e36c32",
+      "publishedAt": "2026-10-12T08:59:36+09:00",
+      "updatedAt": "2026-10-12T19:01:42.763278+09:00",
+      "title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-12T08:59:36+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-12T19:01:42.763278+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告",
+              "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002192",
+              "publishedAt": "2026-10-12T08:59:36+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-12T08:59:36+09:00",
+          "keyPoints": [
+            "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "d7a18102ddc8afb5",
+      "slug": "2026-10-12-12-d7a18102",
+      "publishedAt": "2026-10-12T08:00:00+09:00",
+      "updatedAt": "2026-10-12T19:01:42.763278+09:00",
+      "title": "原潜導入へ研究着手案 是非の議論へ、官邸の意向？ 政府内に慎重論も",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-12T08:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-12T19:01:42.763278+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
@@ -729,16 +481,16 @@
           "publisherId": "asahi",
           "links": [
             {
-              "title": "10年ぶりの選挙戦 滋賀・草津市長選に4人が立候補 18日投開票",
-              "url": "https://www.asahi.com/articles/ASVBC2GXZVBCPLZB004M.html",
-              "publishedAt": "2026-10-11T19:30:00+09:00",
+              "title": "原潜導入へ研究着手案 是非の議論へ、官邸の意向？政府内に慎重論も",
+              "url": "https://www.asahi.com/articles/ASVBC41F3VBCUTFK008M.html",
+              "publishedAt": "2026-10-12T08:00:00+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-10-11T19:30:00+09:00",
+          "publishedAt": "2026-10-12T08:00:00+09:00",
           "keyPoints": [
-            "10年ぶりの選挙戦 滋賀・草津市長選に4人が立候補 18日投開票"
+            "原潜導入へ研究着手案 是非の議論へ、官邸の意向？ 政府内に慎重論も"
           ],
           "type": "報道",
           "isPrimary": false
@@ -751,6 +503,79 @@
       "publisherCount": 1,
       "tags": [
         "国内"
+      ]
+    },
+    {
+      "id": "4a6cb260934161e1",
+      "slug": "2026-10-12-12-4a6cb260",
+      "publishedAt": "2026-10-12T04:58:21+09:00",
+      "updatedAt": "2026-10-12T19:01:42.763278+09:00",
+      "title": "シカゴマラソン 赤崎暁が9位 大迫傑が14位",
+      "dek": "アメリカで行われたシカゴマラソンで、赤崎暁選手が日本勢トップの9位に入り、日本記録を持つ大迫傑選手は14位でした。",
+      "summary": "アメリカで行われたシカゴマラソンで、赤崎暁選手が日本勢トップの9位に入り、日本記録を持つ大迫傑選手は14位でした。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "アメリカで行われたシカゴマラソンで、赤崎暁選手が日本勢トップの9位に入り、日本記録を持つ大迫傑選手は14位でした。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "アメリカで行われたシカゴマラソンで、赤崎暁選手が日本勢トップの9位に入り、日本記録を持つ大迫傑選手は14位でした。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "アメリカで行われたシカゴマラソンで、赤崎暁選手が日本勢トップの9位に入り、日本記録を持つ大迫傑選手は14位でした。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-12T04:58:21+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-10-12T19:01:42.763278+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "シカゴマラソン 赤崎暁が9位 大迫傑が14位",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261012de58056",
+              "publishedAt": "2026-10-12T04:58:21+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-12T04:58:21+09:00",
+          "keyPoints": [
+            "アメリカで行われたシカゴマラソンで、赤崎暁選手が日本勢トップの9位に入り、日本記録を持つ大迫傑選手は14位でした。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
       ]
     }
   ]

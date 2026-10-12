@@ -1,0 +1,582 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-10-12T19:01:42.763278+09:00",
+  "summary": "対象時間帯の3配信元の主なニュースを8本に整理しました。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-10-12-12",
+    "date": "2026-10-12",
+    "slot": "12:00",
+    "label": "昼12時版"
+  },
+  "coverage": {
+    "from": "2026-10-12T06:00:00+09:00",
+    "to": "2026-10-12T12:00:00+09:00",
+    "start": "2026-10-12T06:00:00+09:00",
+    "end": "2026-10-12T12:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "10月12日 06:00〜10月12日 12:00"
+  },
+  "stats": {
+    "articleCount": 8,
+    "categoryCounts": {
+      "海外": 2,
+      "社会": 1,
+      "テクノロジー": 2,
+      "エンタメ": 1,
+      "国内": 1,
+      "スポーツ": 1
+    },
+    "sourceCount": 8,
+    "publisherCount": 3,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 2,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "brief": 8
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories"
+  ],
+  "articles": [
+    {
+      "id": "4c31cc1928f555fe",
+      "slug": "2026-10-12-12-4c31cc19",
+      "publishedAt": "2026-10-12T11:57:00+09:00",
+      "updatedAt": "2026-10-12T19:01:42.763278+09:00",
+      "title": "移民乗せたイエメン行きの船がジブチ沖で転覆 139人死亡",
+      "dek": "アフリカ東部のジブチ沖で移民を乗せた船が転覆し、少なくとも139人が死亡したほか84人が行方不明になっていて、地元当局が救助活動を続けています。",
+      "summary": "アフリカ東部のジブチ沖で移民を乗せた船が転覆し、少なくとも139人が死亡したほか84人が行方不明になっていて、地元当局が救助活動を続けています。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "アフリカ東部のジブチ沖で移民を乗せた船が転覆し、少なくとも139人が死亡したほか84人が行方不明になっていて、地元当局が救助活動を続けています。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "アフリカ東部のジブチ沖で移民を乗せた船が転覆し、少なくとも139人が死亡したほか84人が行方不明になっていて、地元当局が救助活動を続けています。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "アフリカ東部のジブチ沖で移民を乗せた船が転覆し、少なくとも139人が死亡したほか84人が行方不明になっていて、地元当局が救助活動を続けています。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-12T11:57:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-12T19:01:42.763278+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "移民乗せたイエメン行きの船がジブチ沖で転覆 139人死亡",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261012de58100",
+              "publishedAt": "2026-10-12T11:57:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-12T11:57:00+09:00",
+          "keyPoints": [
+            "アフリカ東部のジブチ沖で移民を乗せた船が転覆し、少なくとも139人が死亡したほか84人が行方不明になっていて、地元当局が救助活動を続けています。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "8e89ebc4443bf803",
+      "slug": "2026-10-12-12-8e89ebc4",
+      "publishedAt": "2026-10-12T11:30:00+09:00",
+      "updatedAt": "2026-10-12T19:01:42.763278+09:00",
+      "title": "ずぶぬれの高齢男性に覚えた違和感 25歳女性「置いておけない」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-12T11:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-12T19:01:42.763278+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "ずぶぬれの高齢男性に覚えた違和感 25歳女性「置いておけない」",
+              "url": "https://www.asahi.com/articles/ASVB81JNNVB8UTNB00QM.html",
+              "publishedAt": "2026-10-12T11:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-12T11:30:00+09:00",
+          "keyPoints": [
+            "ずぶぬれの高齢男性に覚えた違和感 25歳女性「置いておけない」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "c4a9d353098c1697",
+      "slug": "2026-10-12-12-c4a9d353",
+      "publishedAt": "2026-10-12T11:29:00+09:00",
+      "updatedAt": "2026-10-12T19:01:42.763278+09:00",
+      "title": "サウジアラビア 首都の国際空港に攻撃相次ぐ 緊張の高まり懸念",
+      "dek": "イエメンの反政府勢力フーシ派と対立するサウジアラビアの当局は、首都リヤドの国際空港が11日に攻撃を受け、1人が死亡したと発表しました。",
+      "summary": "イエメンの反政府勢力フーシ派と対立するサウジアラビアの当局は、首都リヤドの国際空港が11日に攻撃を受け、1人が死亡したと発表しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "イエメンの反政府勢力フーシ派と対立するサウジアラビアの当局は、首都リヤドの国際空港が11日に攻撃を受け、1人が死亡したと発表しました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "イエメンの反政府勢力フーシ派と対立するサウジアラビアの当局は、首都リヤドの国際空港が11日に攻撃を受け、1人が死亡したと発表しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "イエメンの反政府勢力フーシ派と対立するサウジアラビアの当局は、首都リヤドの国際空港が11日に攻撃を受け、1人が死亡したと発表しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-12T11:29:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-12T19:01:42.763278+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "サウジアラビア 首都の国際空港に攻撃相次ぐ 緊張の高まり懸念",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261011de58042",
+              "publishedAt": "2026-10-12T11:29:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-12T11:29:00+09:00",
+          "keyPoints": [
+            "イエメンの反政府勢力フーシ派と対立するサウジアラビアの当局は、首都リヤドの国際空港が11日に攻撃を受け、1人が死亡したと発表しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "2505242c23caa479",
+      "slug": "2026-10-12-12-2505242c",
+      "publishedAt": "2026-10-12T10:26:23+09:00",
+      "updatedAt": "2026-10-12T19:01:42.763278+09:00",
+      "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-12T10:26:23+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-12T19:01:42.763278+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言",
+              "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002195",
+              "publishedAt": "2026-10-12T10:26:23+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-12T10:26:23+09:00",
+          "keyPoints": [
+            "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "832acfd8184dc630",
+      "slug": "2026-10-12-12-832acfd8",
+      "publishedAt": "2026-10-12T09:00:00+09:00",
+      "updatedAt": "2026-10-12T19:01:42.763278+09:00",
+      "title": "『ゆるキャン△』なぜ静岡に「聖地」続々？ 誘客に熱 原作者の思い",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-12T09:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-12T19:01:42.763278+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "『ゆるキャン△』なぜ静岡に「聖地」続々？ 誘客に熱 原作者の思い",
+              "url": "https://www.asahi.com/articles/ASVB9427GVB9UTPB00GM.html",
+              "publishedAt": "2026-10-12T09:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-12T09:00:00+09:00",
+          "keyPoints": [
+            "『ゆるキャン△』なぜ静岡に「聖地」続々？ 誘客に熱 原作者の思い"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "69e36c32c17c37f3",
+      "slug": "2026-10-12-12-69e36c32",
+      "publishedAt": "2026-10-12T08:59:36+09:00",
+      "updatedAt": "2026-10-12T19:01:42.763278+09:00",
+      "title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-12T08:59:36+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-12T19:01:42.763278+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告",
+              "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002192",
+              "publishedAt": "2026-10-12T08:59:36+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-12T08:59:36+09:00",
+          "keyPoints": [
+            "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "d7a18102ddc8afb5",
+      "slug": "2026-10-12-12-d7a18102",
+      "publishedAt": "2026-10-12T08:00:00+09:00",
+      "updatedAt": "2026-10-12T19:01:42.763278+09:00",
+      "title": "原潜導入へ研究着手案 是非の議論へ、官邸の意向？ 政府内に慎重論も",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-12T08:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-12T19:01:42.763278+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "原潜導入へ研究着手案 是非の議論へ、官邸の意向？政府内に慎重論も",
+              "url": "https://www.asahi.com/articles/ASVBC41F3VBCUTFK008M.html",
+              "publishedAt": "2026-10-12T08:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-12T08:00:00+09:00",
+          "keyPoints": [
+            "原潜導入へ研究着手案 是非の議論へ、官邸の意向？ 政府内に慎重論も"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "4a6cb260934161e1",
+      "slug": "2026-10-12-12-4a6cb260",
+      "publishedAt": "2026-10-12T04:58:21+09:00",
+      "updatedAt": "2026-10-12T19:01:42.763278+09:00",
+      "title": "シカゴマラソン 赤崎暁が9位 大迫傑が14位",
+      "dek": "アメリカで行われたシカゴマラソンで、赤崎暁選手が日本勢トップの9位に入り、日本記録を持つ大迫傑選手は14位でした。",
+      "summary": "アメリカで行われたシカゴマラソンで、赤崎暁選手が日本勢トップの9位に入り、日本記録を持つ大迫傑選手は14位でした。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "アメリカで行われたシカゴマラソンで、赤崎暁選手が日本勢トップの9位に入り、日本記録を持つ大迫傑選手は14位でした。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "アメリカで行われたシカゴマラソンで、赤崎暁選手が日本勢トップの9位に入り、日本記録を持つ大迫傑選手は14位でした。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "アメリカで行われたシカゴマラソンで、赤崎暁選手が日本勢トップの9位に入り、日本記録を持つ大迫傑選手は14位でした。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-12T04:58:21+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-10-12T19:01:42.763278+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "シカゴマラソン 赤崎暁が9位 大迫傑が14位",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261012de58056",
+              "publishedAt": "2026-10-12T04:58:21+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-12T04:58:21+09:00",
+          "keyPoints": [
+            "アメリカで行われたシカゴマラソンで、赤崎暁選手が日本勢トップの9位に入り、日本記録を持つ大迫傑選手は14位でした。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    }
+  ]
+}
