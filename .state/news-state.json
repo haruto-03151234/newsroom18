@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-12T12:00:00+09:00",
-  "lastCompletedEdition": "2026-10-12-12",
+  "lastCompletedEnd": "2026-10-12T18:00:00+09:00",
+  "lastCompletedEdition": "2026-10-12-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -17363,7 +17363,122 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261012de58056"
       ]
+    },
+    {
+      "editionId": "2026-10-12-18",
+      "title": "熊本県気象解説情報落雷・突風",
+      "publishedAt": "2026-10-12T16:08:22+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261012070823_0_VPFJ50_420000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261012070913_0_VPFJ50_410000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261012071004_0_VPFJ50_350000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261012071036_0_VPFJ50_430000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-12-18",
+      "title": "沖縄本島地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-10-12T16:07:14+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261012070714_0_VPFJ50_471000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-12-18",
+      "title": "九州北部地方山口県を含む気象解説情報落雷・突風",
+      "publishedAt": "2026-10-12T16:05:59+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261012070559_0_VPCJ50_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-12-18",
+      "title": "臓器移植だけじゃない知ることからはじまる移植医療",
+      "publishedAt": "2026-10-12T11:00:00+09:00",
+      "urls": [
+        "https://www.gov-online.go.jp/article/202610/radio-3776.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-12-18",
+      "title": "連休最終日九州などで真夏日に14日以降は北日本などで荒天も",
+      "publishedAt": "2026-10-12T17:51:40+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261011de58040"
+      ]
+    },
+    {
+      "editionId": "2026-10-12-18",
+      "title": "初めての一眼にフルサイズを選びたいでも高くて重いのは嫌eosr8markiiはそういう人のためのミラーレスだった",
+      "publishedAt": "2026-10-12T17:22:35+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/12/2000002196"
+      ]
+    },
+    {
+      "editionId": "2026-10-12-18",
+      "title": "愛子さま青森で国民スポーツ大会の軟式野球を観戦",
+      "publishedAt": "2026-10-12T17:22:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261012de58183"
+      ]
+    },
+    {
+      "editionId": "2026-10-12-18",
+      "title": "日本ハムがcs最終ステージへ僕たちはカモから難関に挑む",
+      "publishedAt": "2026-10-12T17:21:03+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBD2GFBVBDUTQP00JM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-12-18",
+      "title": "財源食べつくし思いつかぬ自民ラスボスが減税反対の理由",
+      "publishedAt": "2026-10-12T17:20:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB946XVVB9ULFA01JM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-12-18",
+      "title": "アイドルも連ドラ主演も朝日奈央さんがファンに伝えたい本心",
+      "publishedAt": "2026-10-12T17:00:16+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261009/k00/00m/200/386000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-12-18",
+      "title": "ポッドキャストnyから見た世界米国社会のコントラストと国際政治の舞台裏",
+      "publishedAt": "2026-10-12T17:00:10+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261009/k00/00m/030/098000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-12-18",
+      "title": "駅伝365出雲駅伝で健闘8位の日大5区長沢なんでこんなタイムが",
+      "publishedAt": "2026-10-12T16:41:01+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261012/k00/00m/050/060000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-12-18",
+      "title": "apec首脳会議前に中国と香港間の新たな出入境施設が完成",
+      "publishedAt": "2026-10-12T15:19:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261012de58151"
+      ]
+    },
+    {
+      "editionId": "2026-10-12-18",
+      "title": "靴の中敷きの下にコカインか密輸容疑マレーシア国籍5人逮捕",
+      "publishedAt": "2026-10-12T13:15:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBD14QYVBDUTIL003M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-12T19:01:42.763278+09:00"
+  "updatedAt": "2026-10-13T03:33:24.354166+09:00"
 }
