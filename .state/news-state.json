@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-13T06:00:00+09:00",
-  "lastCompletedEdition": "2026-10-13-06",
+  "lastCompletedEnd": "2026-10-13T12:00:00+09:00",
+  "lastCompletedEdition": "2026-10-13-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -17546,7 +17546,84 @@
       "urls": [
         "https://www.asahi.com/articles/ASVBD3J9XVBDUCVL02ZM.html"
       ]
+    },
+    {
+      "editionId": "2026-10-13-12",
+      "title": "石川県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-10-13T10:06:09+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261013010609_0_VPFJ50_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261013015609_0_VPCJ50_150000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261013020011_0_VPFJ50_170000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261013020018_0_VPFJ50_160000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261013020312_0_VPFJ50_150000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261013022509_0_VPFJ50_180000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-12",
+      "title": "anthropic自己複製aiの兆しを指摘55ドルのtvボックス15台で26bモデルが稼働",
+      "publishedAt": "2026-10-13T11:31:26+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/13/2000002204"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-12",
+      "title": "トランプ大統領アジア訪問で北朝鮮キム総書記と会うかも",
+      "publishedAt": "2026-10-13T11:02:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261013de58372"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-12",
+      "title": "民主党オマル下院議員宅を捜索トランプ政権批判",
+      "publishedAt": "2026-10-13T10:00:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261013de58335"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-12",
+      "title": "トランプ大統領がコロンブス再評価先住民に反発も",
+      "publishedAt": "2026-10-13T09:57:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261013de58347"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-12",
+      "title": "microsoft第3世代aiチップmaia300を2027年に投入gpu比で電力効率4割向上自社サービスの主力推論基盤に",
+      "publishedAt": "2026-10-13T09:24:59+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/13/2000002200"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-12",
+      "title": "サンゴ礁再生万博が結んだ日本とサウジの研究与論島で小さな一歩",
+      "publishedAt": "2026-10-13T08:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB705DRVB7UQIP01LM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-12",
+      "title": "meta同社最大のaiモデルmusewonder発表記憶力と粘り強さを強化aiエージェントmuseにも搭載へ",
+      "publishedAt": "2026-10-13T07:06:29+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/13/2000002197"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-12",
+      "title": "ai元年万博のレガシーは屈強な万博民落合陽一さんが語る",
+      "publishedAt": "2026-10-13T06:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBC7L3SVBCPLFA001M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-13T11:17:15.149694+09:00"
+  "updatedAt": "2026-10-13T18:54:35.068313+09:00"
 }
