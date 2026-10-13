@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-13T12:00:00+09:00",
-  "lastCompletedEdition": "2026-10-13-12",
+  "lastCompletedEnd": "2026-10-13T18:00:00+09:00",
+  "lastCompletedEdition": "2026-10-13-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -17623,7 +17623,131 @@
       "urls": [
         "https://www.asahi.com/articles/ASVBC7L3SVBCPLFA001M.html"
       ]
+    },
+    {
+      "editionId": "2026-10-13-18",
+      "title": "渡島・檜山地方気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-10-13T16:17:17+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261013071718_0_VPFJ50_017000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-18",
+      "title": "秋田県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-10-13T16:10:20+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261013071021_0_VPFJ50_350000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261013071236_0_VPFJ50_050000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261013071400_0_VPFJ50_430000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261013071634_0_VPFJ50_420000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261013071828_0_VPFJ50_410000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-18",
+      "title": "令和8年産の水田における作付状況について",
+      "publishedAt": "2026-10-13T16:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousan/s_taisaku/261013.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-18",
+      "title": "令和8年度第65回農林水産祭天皇杯等の選賞について",
+      "publishedAt": "2026-10-13T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/kanbo/bunsyo/261013.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-18",
+      "title": "韓国インチョンで切りつけ事件8人けがうち1人心肺停止",
+      "publishedAt": "2026-10-13T17:56:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261013de58547"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-18",
+      "title": "アンソロピック大阪にaiデータセンター建設へnttと協議",
+      "publishedAt": "2026-10-13T17:50:35+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBF2SX2VBFULFA00NM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-18",
+      "title": "西山朋佳女流王将が勝ってタイに棋士資格の権利行使言及せず",
+      "publishedAt": "2026-10-13T17:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBF2RFLVBFUCVL01RM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-18",
+      "title": "tdkがceatec出展映像を網膜に直接投影するミラースマートグラスに鮮明な映像",
+      "publishedAt": "2026-10-13T17:42:38+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/13/2000002222"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-18",
+      "title": "バスケbリーグの業績が大幅伸長a東京は売上高92億円で過去最高",
+      "publishedAt": "2026-10-13T17:26:23+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBF2FNQVBFUTQP01TM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-18",
+      "title": "北朝鮮戦術弾道ミサイルの発射実験を実施した",
+      "publishedAt": "2026-10-13T16:51:44+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261013de58337"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-18",
+      "title": "aiが出力した実在しない判例を書籍に掲載回収・絶版へ琉球大教授が謝罪研究者としてあるまじき失態",
+      "publishedAt": "2026-10-13T16:35:32+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/13/2000002213"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-18",
+      "title": "大リーグア・リーグ優勝決定シリーズ開幕ガーディアンズ先勝",
+      "publishedAt": "2026-10-13T16:33:55+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261013de58542"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-18",
+      "title": "フランスのスーパー数百店舗で冷蔵設備にサイバー攻撃温度が最高50度に上昇し食品大量廃棄に",
+      "publishedAt": "2026-10-13T15:12:13+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/13/2000002201"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-18",
+      "title": "フォーカス朝日奈央ドラマ妻を引退します鮎川穂奈未役いい時間頑張れる",
+      "publishedAt": "2026-10-13T13:55:41+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261013/dde/012/200/004000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-18",
+      "title": "倉本先生の思い出碓井広義元上智大教授面白いだけじゃもったいない人",
+      "publishedAt": "2026-10-13T13:53:45+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261013/dde/012/200/002000c"
+      ]
     }
   ],
-  "updatedAt": "2026-10-13T18:54:35.068313+09:00"
+  "updatedAt": "2026-10-14T01:42:21.199690+09:00"
 }
