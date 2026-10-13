@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-12T18:00:00+09:00",
-  "lastCompletedEdition": "2026-10-12-18",
+  "lastCompletedEnd": "2026-10-13T06:00:00+09:00",
+  "lastCompletedEdition": "2026-10-13-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -17478,7 +17478,75 @@
       "urls": [
         "https://www.asahi.com/articles/ASVBD14QYVBDUTIL003M.html"
       ]
+    },
+    {
+      "editionId": "2026-10-13-06",
+      "title": "山口県気象解説情報落雷・突風",
+      "publishedAt": "2026-10-13T05:03:16+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261012200317_0_VPCJ50_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261012200754_0_VPFJ50_350000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261012200808_0_VPFJ50_430000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261012201128_0_VPFJ50_410000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261012201136_0_VPFJ50_420000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-06",
+      "title": "沖縄本島地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-10-13T04:35:26+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261012193527_0_VPFJ50_471000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-06",
+      "title": "英基地のテロ計画疑い首相イラン革命防衛隊の可能性高い",
+      "publishedAt": "2026-10-13T05:54:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261013de58326"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-06",
+      "title": "きょうから予算委消費税経済政策簗農相発言で論戦",
+      "publishedAt": "2026-10-13T05:01:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261012de58277"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-06",
+      "title": "プロ野球パ・リーグcs日本ハムがファイナルステージ進出",
+      "publishedAt": "2026-10-12T23:47:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261012de58196"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-06",
+      "title": "布団太鼓が人と接触中学生ら5人重軽傷神戸・垂水の秋祭り",
+      "publishedAt": "2026-10-12T21:53:01+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBD41FCVBDPIHB005M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-06",
+      "title": "愛知・豊田1歳女児死亡祖母宅に帰省中意識がないと通報",
+      "publishedAt": "2026-10-12T21:36:13+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBD32GQVBDOIPE005M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-13-06",
+      "title": "s6の注目株21歳の小窪碧四段が優勝将棋・加古川青流戦",
+      "publishedAt": "2026-10-12T20:20:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBD3J9XVBDUCVL02ZM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-13T03:33:24.354166+09:00"
+  "updatedAt": "2026-10-13T11:17:15.149694+09:00"
 }
