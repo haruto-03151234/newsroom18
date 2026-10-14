@@ -1,0 +1,961 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-10-15T08:31:14.867954+09:00",
+  "summary": "対象時間帯の5配信元のニュースを13本に整理しました。うち重要ニュースは1本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-10-15-06",
+    "date": "2026-10-15",
+    "slot": "06:00",
+    "label": "朝6時版"
+  },
+  "coverage": {
+    "from": "2026-10-14T18:00:00+09:00",
+    "to": "2026-10-15T06:00:00+09:00",
+    "start": "2026-10-14T18:00:00+09:00",
+    "end": "2026-10-15T06:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "10月14日 18:00〜10月15日 06:00"
+  },
+  "stats": {
+    "articleCount": 13,
+    "categoryCounts": {
+      "国内": 2,
+      "海外": 2,
+      "エンタメ": 2,
+      "社会": 3,
+      "科学": 1,
+      "経済": 1,
+      "テクノロジー": 2
+    },
+    "sourceCount": 14,
+    "publisherCount": 5,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 3,
+      "jma": 1,
+      "mainichi": 3,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 1,
+      "brief": 12
+    },
+    "feedFailureCount": 3
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories",
+    "農林水産省 報道発表資料"
+  ],
+  "articles": [
+    {
+      "id": "b3bc4514d263391a",
+      "slug": "2026-10-15-06-b3bc4514",
+      "publishedAt": "2026-10-15T05:23:03+09:00",
+      "updatedAt": "2026-10-15T08:31:14.867954+09:00",
+      "title": "青森県気象解説情報（落雷・突風・降ひょう）",
+      "dek": "10月15日 05:23〜10月15日 05:23更新。青森県では、15日は気圧の谷や上空の寒気の影響により、16日は、低気圧や前線の影響により、大気の状態が非常に不安定となる見込みです。",
+      "summary": "青森県では、15日は気圧の谷や上空の寒気の影響により、16日は、低気圧や前線の影響により、大気の状態が非常に不安定となる見込みです。15日昼前から16日昼前にかけて、竜巻などの激しい突風や落雷、降ひょう、急な強い雨に注意してください。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "青森県気象解説情報落雷突風降ひょう"
+      ],
+      "facts": [
+        "[気象概況] 15日は、気圧の谷が北日本を通過し、上空約5500メートルに、氷点下21度以下の寒気が流れ込むでしょう。",
+        "このため、東北地方では、16日にかけて、大気の状態が非常に不安定となるでしょう。",
+        "発達した積乱雲の近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。"
+      ],
+      "impactPoints": [
+        "15日昼前から16日昼前にかけて、竜巻などの激しい突風や落雷、降ひょう、急な強い雨に注意してください。",
+        "[防災事項] 青森県では、15日昼前から16日昼前にかけて、竜巻などの激しい突風や落雷、急な強い雨に注意してください。",
+        "また、降ひょうによる農作物や農業施設等への被害に注意してください。",
+        "[防災事項] 秋田県では、15日昼前から16日昼前にかけて、竜巻などの激しい突風や落雷、急な強い雨に注意してください。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "青森県では、15日は気圧の谷や上空の寒気の影響により、16日は、低気圧や前線の影響により、大気の状態が非常に不安定となる見込みです。",
+        "また、16日は、低気圧や前線が北日本を通過し、暖かく湿った空気が流れ込む見込みです。",
+        "青森県では、積乱雲が発達し、雷の発生する所がある見込みです。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "次の「青森県気象解説情報(落雷・突風・降ひょう)」は、15日16時30分頃に発表する予定です。",
+        "秋田県では、15日は気圧の谷や上空の寒気の影響により、16日は、低気圧や前線の影響により、大気の状態が非常に不安定となる見込みです。"
+      ],
+      "body": [
+        "青森県では、15日は気圧の谷や上空の寒気の影響により、16日は、低気圧や前線の影響により、大気の状態が非常に不安定となる見込みです。15日昼前から16日昼前にかけて、竜巻などの激しい突風や落雷、降ひょう、急な強い雨に注意してください。",
+        "[防災事項] 青森県では、15日昼前から16日昼前にかけて、竜巻などの激しい突風や落雷、急な強い雨に注意してください。",
+        "また、降ひょうによる農作物や農業施設等への被害に注意してください。",
+        "[防災事項] 秋田県では、15日昼前から16日昼前にかけて、竜巻などの激しい突風や落雷、急な強い雨に注意してください。",
+        "また、16日は、低気圧や前線が北日本を通過し、暖かく湿った空気が流れ込む見込みです。",
+        "青森県では、積乱雲が発達し、雷の発生する所がある見込みです。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "次の「青森県気象解説情報(落雷・突風・降ひょう)」は、15日16時30分頃に発表する予定です。",
+        "秋田県では、15日は気圧の谷や上空の寒気の影響により、16日は、低気圧や前線の影響により、大気の状態が非常に不安定となる見込みです。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "[気象概況] 15日は、気圧の谷が北日本を通過し、上空約5500メートルに、氷点下21度以下の寒気が流れ込むでしょう。",
+            "このため、東北地方では、16日にかけて、大気の状態が非常に不安定となるでしょう。",
+            "発達した積乱雲の近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "15日昼前から16日昼前にかけて、竜巻などの激しい突風や落雷、降ひょう、急な強い雨に注意してください。",
+            "[防災事項] 青森県では、15日昼前から16日昼前にかけて、竜巻などの激しい突風や落雷、急な強い雨に注意してください。",
+            "また、降ひょうによる農作物や農業施設等への被害に注意してください。",
+            "[防災事項] 秋田県では、15日昼前から16日昼前にかけて、竜巻などの激しい突風や落雷、急な強い雨に注意してください。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "青森県では、15日は気圧の谷や上空の寒気の影響により、16日は、低気圧や前線の影響により、大気の状態が非常に不安定となる見込みです。",
+            "また、16日は、低気圧や前線が北日本を通過し、暖かく湿った空気が流れ込む見込みです。",
+            "青森県では、積乱雲が発達し、雷の発生する所がある見込みです。",
+            "[補足事項] 今後発表する防災気象情報に留意してください。",
+            "次の「青森県気象解説情報(落雷・突風・降ひょう)」は、15日16時30分頃に発表する予定です。",
+            "秋田県では、15日は気圧の谷や上空の寒気の影響により、16日は、低気圧や前線の影響により、大気の状態が非常に不安定となる見込みです。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-15T05:23:11+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-10-15T08:31:14.867954+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "青森県気象解説情報（落雷・突風・降ひょう）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261014202304_0_VPFJ50_020000.xml",
+              "publishedAt": "2026-10-15T05:23:03+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "秋田県気象解説情報（落雷・突風・降ひょう）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261014202312_0_VPFJ50_050000.xml",
+              "publishedAt": "2026-10-15T05:23:11+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-15T05:23:11+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 2,
+      "freshSourceCount": 2,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "e75a716e8d8ccbcd",
+      "slug": "2026-10-15-06-e75a716e",
+      "publishedAt": "2026-10-15T05:58:22+09:00",
+      "updatedAt": "2026-10-15T08:31:14.867954+09:00",
+      "title": "拉致被害者帰国から24年 曽我ひとみさん“他被害国と連携を”",
+      "dek": "北朝鮮に拉致された被害者のうち5人が帰国して、15日で24年となるのにあわせて、曽我ひとみさんがNHKのインタビューに応じ、ほかの被害者が帰国できていない現状について「人間なので限界がある」と述べ、危…。",
+      "summary": "北朝鮮に拉致された被害者のうち5人が帰国して、15日で24年となるのにあわせて、曽我ひとみさんがNHKのインタビューに応じ、ほかの被害者が帰国できていない現状について「人間なので限界がある」と述べ、危…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [
+        "北朝鮮に拉致された被害者のうち5人が帰国して、15日で24年となるのにあわせて、曽我ひとみさんがNHKのインタビューに応じ、ほかの被害者が帰国できていない現状について「人間なので限界がある」と述べ、危…。"
+      ],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "北朝鮮に拉致された被害者のうち5人が帰国して、15日で24年となるのにあわせて、曽我ひとみさんがNHKのインタビューに応じ、ほかの被害者が帰国できていない現状について「人間なので限界がある」と述べ、危…。"
+      ],
+      "sections": [
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "北朝鮮に拉致された被害者のうち5人が帰国して、15日で24年となるのにあわせて、曽我ひとみさんがNHKのインタビューに応じ、ほかの被害者が帰国できていない現状について「人間なので限界がある」と述べ、危…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-15T05:58:22+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-15T08:31:14.867954+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "拉致被害者帰国から24年 曽我ひとみさん“他被害国と連携を”",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261014de59435",
+              "publishedAt": "2026-10-15T05:58:22+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-15T05:58:22+09:00",
+          "keyPoints": [
+            "北朝鮮に拉致された被害者のうち5人が帰国して、15日で24年となるのにあわせて、曽我ひとみさんがNHKのインタビューに応じ、ほかの被害者が帰国できていない現状について「人間なので限界がある」と述べ、危…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "92f80cdeba7c4d23",
+      "slug": "2026-10-15-06-92f80cde",
+      "publishedAt": "2026-10-15T05:45:10+09:00",
+      "updatedAt": "2026-10-15T08:31:14.867954+09:00",
+      "title": "シーズンでも「出荷できるカキない」鳥羽の漁師町で広がるため息",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-15T05:45:10+09:00",
+          "text": "毎日新聞 ニュース速報の公開情報を確認",
+          "source": "毎日新聞 ニュース速報"
+        },
+        {
+          "at": "2026-10-15T08:31:14.867954+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 ニュース速報",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "シーズンでも「出荷できるカキない」鳥羽の漁師町で広がるため息",
+              "url": "https://mainichi.jp/articles/20261014/k00/00m/310/139000c",
+              "publishedAt": "2026-10-15T05:45:10+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-15T05:45:10+09:00",
+          "keyPoints": [
+            "シーズンでも「出荷できるカキない」鳥羽の漁師町で広がるため息"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "d29f724bc4c75026",
+      "slug": "2026-10-15-06-d29f724b",
+      "publishedAt": "2026-10-15T05:40:43+09:00",
+      "updatedAt": "2026-10-15T08:31:14.867954+09:00",
+      "title": "秋の園遊会 招待者決まる 宮部みゆきさんや吉田鋼太郎さんなど",
+      "dek": "今月29日に開かれる秋の園遊会に、小説家の宮部みゆきさんや、俳優の吉田鋼太郎さんなど、1700人余りが招待されました。",
+      "summary": "今月29日に開かれる秋の園遊会に、小説家の宮部みゆきさんや、俳優の吉田鋼太郎さんなど、1700人余りが招待されました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "今月29日に開かれる秋の園遊会に、小説家の宮部みゆきさんや、俳優の吉田鋼太郎さんなど、1700人余りが招待されました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "今月29日に開かれる秋の園遊会に、小説家の宮部みゆきさんや、俳優の吉田鋼太郎さんなど、1700人余りが招待されました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "今月29日に開かれる秋の園遊会に、小説家の宮部みゆきさんや、俳優の吉田鋼太郎さんなど、1700人余りが招待されました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-15T05:40:43+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
+        },
+        {
+          "at": "2026-10-15T08:31:14.867954+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "秋の園遊会 招待者決まる 宮部みゆきさんや吉田鋼太郎さんなど",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261015de59522",
+              "publishedAt": "2026-10-15T05:40:43+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-15T05:40:43+09:00",
+          "keyPoints": [
+            "今月29日に開かれる秋の園遊会に、小説家の宮部みゆきさんや、俳優の吉田鋼太郎さんなど、1700人余りが招待されました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "0cb9f0c27b3b7f61",
+      "slug": "2026-10-15-06-0cb9f0c2",
+      "publishedAt": "2026-10-15T05:00:00+09:00",
+      "updatedAt": "2026-10-15T08:31:14.867954+09:00",
+      "title": "国本梨紗さんが考える新聞の価値 若者には暮らしに直結するテーマを",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-15T05:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-15T08:31:14.867954+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "国本梨紗さんが考える新聞の価値 若者には暮らしに直結するテーマを",
+              "url": "https://www.asahi.com/articles/ASVB62J9KVB6UTIL016M.html",
+              "publishedAt": "2026-10-15T05:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-15T05:00:00+09:00",
+          "keyPoints": [
+            "国本梨紗さんが考える新聞の価値 若者には暮らしに直結するテーマを"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "b0e20e1041ee7aaf",
+      "slug": "2026-10-15-06-b0e20e10",
+      "publishedAt": "2026-10-15T05:00:00+09:00",
+      "updatedAt": "2026-10-15T08:31:14.867954+09:00",
+      "title": "考古学者の白石太一郎さん死去 古墳時代研究の第一人者 87歳",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-15T05:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-15T08:31:14.867954+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "考古学者の白石太一郎さん死去 古墳時代研究の第一人者 87歳",
+              "url": "https://www.asahi.com/articles/ASVBG2WD9VBGUCVL00RM.html",
+              "publishedAt": "2026-10-15T05:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-15T05:00:00+09:00",
+          "keyPoints": [
+            "考古学者の白石太一郎さん死去 古墳時代研究の第一人者 87歳"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    },
+    {
+      "id": "bc21765210ffa123",
+      "slug": "2026-10-15-06-bc217652",
+      "publishedAt": "2026-10-15T05:00:00+09:00",
+      "updatedAt": "2026-10-15T08:31:14.867954+09:00",
+      "title": "LINEヤフー前会長、起業の背景にあった新聞 もし経営するなら？",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-15T05:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-15T08:31:14.867954+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "LINEヤフー前会長、起業の背景にあった新聞 もし経営するなら？",
+              "url": "https://www.asahi.com/articles/ASVB62VNLVB6UTIL01WM.html",
+              "publishedAt": "2026-10-15T05:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-15T05:00:00+09:00",
+          "keyPoints": [
+            "LINEヤフー前会長、起業の背景にあった新聞 もし経営するなら？"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "b823d204e4bab521",
+      "slug": "2026-10-15-06-b823d204",
+      "publishedAt": "2026-10-15T04:52:09+09:00",
+      "updatedAt": "2026-10-15T08:31:14.867954+09:00",
+      "title": "北海道新聞記者の拘束受けて状況などの確認急ぐ 日本政府",
+      "dek": "ロシアの治安機関が北海道新聞の記者を拘束したと発表したことを受けて、日本政府は、速やかな情報提供などをロシア側に申し入れました。",
+      "summary": "ロシアの治安機関が北海道新聞の記者を拘束したと発表したことを受けて、日本政府は、速やかな情報提供などをロシア側に申し入れました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "ロシアの治安機関が北海道新聞の記者を拘束したと発表したことを受けて、日本政府は、速やかな情報提供などをロシア側に申し入れました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "ロシアの治安機関が北海道新聞の記者を拘束したと発表したことを受けて、日本政府は、速やかな情報提供などをロシア側に申し入れました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "ロシアの治安機関が北海道新聞の記者を拘束したと発表したことを受けて、日本政府は、速やかな情報提供などをロシア側に申し入れました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-15T04:52:09+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
+        },
+        {
+          "at": "2026-10-15T08:31:14.867954+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "北海道新聞記者の拘束受けて状況などの確認急ぐ 日本政府",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261015de59523",
+              "publishedAt": "2026-10-15T04:52:09+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-15T04:52:09+09:00",
+          "keyPoints": [
+            "ロシアの治安機関が北海道新聞の記者を拘束したと発表したことを受けて、日本政府は、速やかな情報提供などをロシア側に申し入れました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "7eeffd32484ddb67",
+      "slug": "2026-10-15-06-7eeffd32",
+      "publishedAt": "2026-10-15T02:00:33+09:00",
+      "updatedAt": "2026-10-15T08:31:14.867954+09:00",
+      "title": "視聴室:天狗の台所 Season3",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-15T02:00:33+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-10-15T08:31:14.867954+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "視聴室:天狗の台所 Season3",
+              "url": "https://mainichi.jp/articles/20261015/ddm/018/200/015000c",
+              "publishedAt": "2026-10-15T02:00:33+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-15T02:00:33+09:00",
+          "keyPoints": [
+            "視聴室:天狗の台所 Season3"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "8180dc5bef0056b4",
+      "slug": "2026-10-15-06-8180dc5b",
+      "publishedAt": "2026-10-14T23:59:28+09:00",
+      "updatedAt": "2026-10-15T08:31:14.867954+09:00",
+      "title": "静岡県、土木事務所職員逮捕で謝罪 入札予定価格漏らした疑い",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-14T23:59:28+09:00",
+          "text": "毎日新聞 ニュース速報の公開情報を確認",
+          "source": "毎日新聞 ニュース速報"
+        },
+        {
+          "at": "2026-10-15T08:31:14.867954+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 ニュース速報",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "静岡県、土木事務所職員逮捕で謝罪 入札予定価格漏らした疑い",
+              "url": "https://mainichi.jp/articles/20261014/k00/00m/310/325000c",
+              "publishedAt": "2026-10-14T23:59:28+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-14T23:59:28+09:00",
+          "keyPoints": [
+            "静岡県、土木事務所職員逮捕で謝罪 入札予定価格漏らした疑い"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "86a3503bfac1e6b0",
+      "slug": "2026-10-15-06-86a3503b",
+      "publishedAt": "2026-10-14T20:43:11+09:00",
+      "updatedAt": "2026-10-15T08:31:14.867954+09:00",
+      "title": "Google、待望の新AIモデル「Gemini 4 Argon」一般提供を開始 推論の継続力を強化 一部ベンチでトップに",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-14T20:43:11+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-15T08:31:14.867954+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "Google、待望の新AIモデル「Gemini 4 Argon」一般提供を開始 推論の継続力を強化 一部ベンチでトップに",
+              "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002265",
+              "publishedAt": "2026-10-14T20:43:11+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-14T20:43:11+09:00",
+          "keyPoints": [
+            "Google、待望の新AIモデル「Gemini 4 Argon」一般提供を開始 推論の継続力を強化 一部ベンチでトップに"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "99ab559a8f9f32f2",
+      "slug": "2026-10-15-06-99ab559a",
+      "publishedAt": "2026-10-14T19:43:31+09:00",
+      "updatedAt": "2026-10-15T08:31:14.867954+09:00",
+      "title": "デジハリ大、「Claude」を全学導入へ──国内初、“回数気にせず”使い放題に",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-14T19:43:31+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-15T08:31:14.867954+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "デジハリ大、「Claude」を全学導入へ──国内初、“回数気にせず”使い放題に",
+              "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002278",
+              "publishedAt": "2026-10-14T19:43:31+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-14T19:43:31+09:00",
+          "keyPoints": [
+            "デジハリ大、「Claude」を全学導入へ──国内初、“回数気にせず”使い放題に"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "4815a1ab87eb33e9",
+      "slug": "2026-10-15-06-4815a1ab",
+      "publishedAt": "2026-10-14T18:37:59+09:00",
+      "updatedAt": "2026-10-15T08:31:14.867954+09:00",
+      "title": "小中学校の校務に“自前運用”の国産LLM NTT西と茨木市が全国初の実証",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-14T18:37:59+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-15T08:31:14.867954+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "小中学校の校務に“自前運用”の国産LLM NTT西と茨木市が全国初の実証",
+              "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002276",
+              "publishedAt": "2026-10-14T18:37:59+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-14T18:37:59+09:00",
+          "keyPoints": [
+            "小中学校の校務に“自前運用”の国産LLM NTT西と茨木市が全国初の実証"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    }
+  ]
+}
