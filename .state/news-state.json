@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-14T06:00:00+09:00",
-  "lastCompletedEdition": "2026-10-14-06",
+  "lastCompletedEnd": "2026-10-14T12:00:00+09:00",
+  "lastCompletedEdition": "2026-10-14-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -17853,7 +17853,114 @@
       "urls": [
         "https://www.asahi.com/articles/ASVBF3JH3VBFUCVL00KM.html"
       ]
+    },
+    {
+      "editionId": "2026-10-14-12",
+      "title": "11月29日はノウフクの日",
+      "publishedAt": "2026-10-14T10:30:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousin/kouryu/261014.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-12",
+      "title": "石狩・空知・後志地方気象防災速報竜巻注意",
+      "publishedAt": "2026-10-14T06:22:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261013212259_0_VPHW50_016000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-12",
+      "title": "渡島・檜山地方気象防災速報竜巻注意",
+      "publishedAt": "2026-10-14T06:16:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261013211656_0_VPHW50_017000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-12",
+      "title": "千葉県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-10-14T05:34:14+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261013203414_0_VPFJ50_160000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261013210107_0_VPFJ50_190000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261014005617_0_VPFJ50_120000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261014014445_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-12",
+      "title": "ニッスイ子会社来週中に通常稼働へシステム障害で入出荷が停止",
+      "publishedAt": "2026-10-14T11:37:20+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBG0RMZVBGULFA003M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-12",
+      "title": "東京・羽村市公共施設を3割減へ小学校は72人口減を見据え",
+      "publishedAt": "2026-10-14T11:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBB2T42VBBOXIE026M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-12",
+      "title": "ニッスイの物流会社全拠点で来週通常稼働へ",
+      "publishedAt": "2026-10-14T11:26:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261014de59006"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-12",
+      "title": "ヤフオクなどポケカ空箱出品禁止中身入れ替え未開封を装う悪用対策",
+      "publishedAt": "2026-10-14T11:16:26+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/14/2000002247"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-12",
+      "title": "paypay証券障害から復旧日本株・etfの取引を再開原因はみずほ証券の受発注システム",
+      "publishedAt": "2026-10-14T11:13:59+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/14/2000002246"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-12",
+      "title": "ローマ教皇の手術成功肺腺がん確認",
+      "publishedAt": "2026-10-14T10:16:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261014de58969"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-12",
+      "title": "googleplayaistudioで作った自作アプリを自分の端末で実行可能にaiでゲームを探す機能も",
+      "publishedAt": "2026-10-14T09:24:42+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/14/2000002240"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-12",
+      "title": "戦国時代の神社の棟札を能登で発見閉校活用した収蔵庫の整理中",
+      "publishedAt": "2026-10-14T07:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBF2PSSVBFPJLB010M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-12",
+      "title": "きょうからcsファイナルステージパ・リーグ第1戦見どころは",
+      "publishedAt": "2026-10-14T06:22:25+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261013de58887"
+      ]
     }
   ],
-  "updatedAt": "2026-10-14T09:00:07.113490+09:00"
+  "updatedAt": "2026-10-14T17:14:49.113830+09:00"
 }
