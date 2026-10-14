@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-14T12:00:00+09:00",
-  "lastCompletedEdition": "2026-10-14-12",
+  "lastCompletedEnd": "2026-10-14T18:00:00+09:00",
+  "lastCompletedEdition": "2026-10-14-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -17960,7 +17960,104 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261013de58887"
       ]
+    },
+    {
+      "editionId": "2026-10-14-18",
+      "title": "サウジアラビアの危険情報一部地域の危険レベル引上げ",
+      "publishedAt": "2026-10-14T16:16:24+09:00",
+      "urls": [
+        "https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T095.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-18",
+      "title": "秋田県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-10-14T16:09:03+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261014070904_0_VPFJ50_020000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261014070908_0_VPFJ50_050000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-18",
+      "title": "サイゼリヤ平均6値上げへ社長不本意だがせざるを得ない",
+      "publishedAt": "2026-10-14T17:53:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBG26CQVBGULFA005M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-18",
+      "title": "大樹生命元社員を逮捕顧客から500万円詐取した疑い埼玉県警",
+      "publishedAt": "2026-10-14T17:49:06+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBG2JSDVBGUTNB009M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-18",
+      "title": "aiがスマート家電乗っ取り増殖アンソロピックが研究成果で警告",
+      "publishedAt": "2026-10-14T17:30:35+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBG2RC5VBGUHBI01MM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-18",
+      "title": "化粧品販売アエナ約81万人分の個人情報流出か氏名やクレカ下4ケタ・有効期限など",
+      "publishedAt": "2026-10-14T16:38:46+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/14/2000002268"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-18",
+      "title": "随時更新ロシアウクライナに軍事侵攻10月14日の動き",
+      "publishedAt": "2026-10-14T15:41:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53320"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-18",
+      "title": "露やイランなど外国勢力の脅威過去10年間で4倍増と英mi5長官ai悪用も警告",
+      "publishedAt": "2026-10-14T15:14:48+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/14/2000002259"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-18",
+      "title": "ア・リーグ優勝決定シリーズ第2戦はレイズが勝ち1勝1敗に",
+      "publishedAt": "2026-10-14T15:03:06+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261014de59173"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-18",
+      "title": "デンマークの880万人分流出原因はパスワード123456ハッカー侵入は難しくなかった現地報道",
+      "publishedAt": "2026-10-14T14:58:28+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/14/2000002257"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-18",
+      "title": "中国9月消費者物価指数前月比やや拡大も3か月連続1下回る",
+      "publishedAt": "2026-10-14T14:35:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261014de59167"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-18",
+      "title": "歌舞伎平成中村座浅草4年ぶり勘九郎助六で粋評・小玉祥子",
+      "publishedAt": "2026-10-14T13:06:22+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261014/dde/012/200/006000c"
+      ]
     }
   ],
-  "updatedAt": "2026-10-14T17:14:49.113830+09:00"
+  "updatedAt": "2026-10-14T23:18:51.194666+09:00"
 }
