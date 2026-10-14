@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-13T18:00:00+09:00",
-  "lastCompletedEdition": "2026-10-13-18",
+  "lastCompletedEnd": "2026-10-14T06:00:00+09:00",
+  "lastCompletedEdition": "2026-10-14-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -17747,7 +17747,113 @@
       "urls": [
         "https://mainichi.jp/articles/20261013/dde/012/200/002000c"
       ]
+    },
+    {
+      "editionId": "2026-10-14-06",
+      "title": "渡島・檜山地方気象防災速報竜巻注意",
+      "publishedAt": "2026-10-14T05:52:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261013205258_0_VPHW50_017000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-06",
+      "title": "石川県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-10-14T05:34:17+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261013203418_0_VPCJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261013203827_0_VPFJ50_150000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261013204414_0_VPFJ50_170000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-06",
+      "title": "フランスの高校生教育環境悪化に抗議し再び大規模集会",
+      "publishedAt": "2026-10-14T05:36:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261014de58939"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-06",
+      "title": "ホワイトハウスの新しい報道官初会見はわずか15分で終了",
+      "publishedAt": "2026-10-14T05:36:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261014de58937"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-06",
+      "title": "読む政治首相の委員会出席原則不要論も国会改革論議野党は警戒",
+      "publishedAt": "2026-10-14T05:30:13+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261013/k00/00m/010/333000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-06",
+      "title": "簗農相与党から続投困難の声も高市首相説明踏まえ判断へ",
+      "publishedAt": "2026-10-14T05:05:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261014de58923"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-06",
+      "title": "読む政治首相を支える経済ブレーン4人衆政権の推進力か扇動者か",
+      "publishedAt": "2026-10-14T05:01:15+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261013/k00/00m/020/025000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-06",
+      "title": "縮小社会に生きるじわじわと勢力を拡大する野生生物人口減の里山に募る危機感",
+      "publishedAt": "2026-10-14T05:00:25+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261006/k00/00m/310/146000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-06",
+      "title": "男性のみから性別問わずに書記官らの夜間業務最高裁",
+      "publishedAt": "2026-10-14T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB13CLTVB1UTIL01HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-06",
+      "title": "米gettyimagesが破産申請へai画像の台頭で経営悪化報道写真軸に年内の再建目指す",
+      "publishedAt": "2026-10-13T22:44:29+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/13/2000002234"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-06",
+      "title": "キャッシュレスサービスidare約13万人の個人情報漏えい残高や取引履歴なども",
+      "publishedAt": "2026-10-13T22:25:15+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/13/2000002233"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-06",
+      "title": "簗氏答弁の対応はあり得ない栃木県選管が説明バス送迎問題で",
+      "publishedAt": "2026-10-13T21:42:49+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBF2H12VBFUQIP00PM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-14-06",
+      "title": "漫画家のわたなべまさこさん死去97歳ガラスの城などで人気",
+      "publishedAt": "2026-10-13T20:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBF3JH3VBFUCVL00KM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-14T01:42:21.199690+09:00"
+  "updatedAt": "2026-10-14T09:00:07.113490+09:00"
 }

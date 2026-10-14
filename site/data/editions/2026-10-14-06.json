@@ -1,0 +1,1023 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-10-14T09:00:07.113490+09:00",
+  "summary": "対象時間帯の5配信元のニュースを13本に整理しました。うち重要ニュースは2本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-10-14-06",
+    "date": "2026-10-14",
+    "slot": "06:00",
+    "label": "朝6時版"
+  },
+  "coverage": {
+    "from": "2026-10-13T18:00:00+09:00",
+    "to": "2026-10-14T06:00:00+09:00",
+    "start": "2026-10-13T18:00:00+09:00",
+    "end": "2026-10-14T06:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "10月13日 18:00〜10月14日 06:00"
+  },
+  "stats": {
+    "articleCount": 13,
+    "categoryCounts": {
+      "国内": 5,
+      "海外": 2,
+      "経済": 1,
+      "科学": 1,
+      "社会": 1,
+      "テクノロジー": 2,
+      "エンタメ": 1
+    },
+    "sourceCount": 15,
+    "publisherCount": 5,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 2,
+      "jma": 2,
+      "mainichi": 3,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 2,
+      "brief": 11
+    },
+    "feedFailureCount": 3
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories",
+    "農林水産省 報道発表資料"
+  ],
+  "articles": [
+    {
+      "id": "bed5925ff1921b7e",
+      "slug": "2026-10-14-06-bed5925f",
+      "publishedAt": "2026-10-14T05:52:00+09:00",
+      "updatedAt": "2026-10-14T09:00:07.113490+09:00",
+      "title": "渡島・檜山地方気象防災速報（竜巻注意）",
+      "dek": "10月14日 05:52更新。檜山地方は、竜巻などの激しい突風が発生しやすい気象状況になっています。",
+      "summary": "檜山地方は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。落雷、ひょう、急な強い雨にも注意してください。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "渡島檜山地方気象防災速報竜巻注意"
+      ],
+      "facts": [
+        "雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。",
+        "竜巻注意情報: 渡島・檜山地方。",
+        "竜巻注意情報: 檜山地方。",
+        "竜巻注意情報: 檜山北部。",
+        "竜巻注意情報: 檜山南部。",
+        "竜巻注意情報: 檜山奥尻島。",
+        "竜巻注意情報: 八雲町熊石。",
+        "竜巻注意情報: 江差町。",
+        "竜巻注意情報: 上ノ国町。"
+      ],
+      "impactPoints": [
+        "檜山地方は、竜巻などの激しい突風が発生しやすい気象状況になっています。",
+        "空の様子に注意してください。",
+        "落雷、ひょう、急な強い雨にも注意してください。"
+      ],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "檜山地方は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。落雷、ひょう、急な強い雨にも注意してください。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。",
+            "竜巻注意情報: 渡島・檜山地方。",
+            "竜巻注意情報: 檜山地方。",
+            "竜巻注意情報: 檜山北部。",
+            "竜巻注意情報: 檜山南部。",
+            "竜巻注意情報: 檜山奥尻島。",
+            "竜巻注意情報: 八雲町熊石。",
+            "竜巻注意情報: 江差町。",
+            "竜巻注意情報: 上ノ国町。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "檜山地方は、竜巻などの激しい突風が発生しやすい気象状況になっています。",
+            "空の様子に注意してください。",
+            "落雷、ひょう、急な強い雨にも注意してください。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-14T05:52:00+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-10-14T09:00:07.113490+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "渡島・檜山地方気象防災速報（竜巻注意）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261013205258_0_VPHW50_017000.xml",
+              "publishedAt": "2026-10-14T05:52:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-14T05:52:00+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "6bfe713fca3bf8a6",
+      "slug": "2026-10-14-06-6bfe713f",
+      "publishedAt": "2026-10-14T05:34:17+09:00",
+      "updatedAt": "2026-10-14T09:00:07.113490+09:00",
+      "title": "石川県気象解説情報（落雷・突風・降ひょう）",
+      "dek": "10月14日 05:34〜10月14日 05:44更新。石川県では、14日昼過ぎにかけて、落雷や竜巻などの激しい突風、降ひょうに注意してください。",
+      "summary": "石川県では、14日昼過ぎにかけて、落雷や竜巻などの激しい突風、降ひょうに注意してください。[気象概況] 前線を伴った低気圧が発達しながら日本海を北東へ進んでおり、北陸地方を寒冷前線が通過しています。前線に向かって暖かく湿った空気が流れ込むため、石川県では、雷を伴った激しい雨が降り、大気の非常に不安定な状態が続く見込みです。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "石川県気象解説情報落雷突風降ひょう"
+      ],
+      "facts": [
+        "[気象概況] 前線を伴った低気圧が発達しながら日本海を北東へ進んでおり、北陸地方を寒冷前線が通過しています。",
+        "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど安全確保に努めてください。",
+        "関東甲信地方では、14日昼前から夜のはじめ頃にかけて、大気の状態が非常に不安定となるでしょう。",
+        "[気象概況] 日本海に低気圧があって、寒冷前線が西日本にのびています。"
+      ],
+      "impactPoints": [
+        "石川県では、14日昼過ぎにかけて、落雷や竜巻などの激しい突風、降ひょうに注意してください。",
+        "[防災事項] 石川県では、14日昼過ぎにかけて、落雷や竜巻などの激しい突風、降ひょうに注意してください。",
+        "これで「石川県気象解説情報(落雷・突風・降ひょう)」を、終了します。",
+        "[お知らせ] 令和6年能登半島地震で揺れの大きかった珠洲市は土砂災害の警報等を、令和8年8月27日からの大雨での河川の堤防損傷等を鑑み、羽咋市では大雨警報等を通常より引き下げた暫定基準で運用しています。",
+        "落雷や竜巻などの激しい突風、急な強い雨、降ひょうに注意してください。",
+        "関東甲信地方では、前線に向かって流れ込む暖かく湿った空気の影響で、14日昼前から夜のはじめ頃にかけて大気の状態が非常に不安定となるでしょう。",
+        "[防災事項] 関東甲信地方では、14日昼前から夜のはじめ頃にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "「関東甲信地方気象解説情報(落雷・突風・降ひょう)」は、本号限りです。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "前線に向かって暖かく湿った空気が流れ込むため、石川県では、雷を伴った激しい雨が降り、大気の非常に不安定な状態が続く見込みです。",
+        "ひょうの降るおそれもありますので、農作物や農業施設の管理にも注意してください。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "14日夜にかけて、低気圧が日本海を北東へ進み、寒冷前線が関東甲信地方を通過する見込みです。",
+        "また、降ひょうのおそれもありますので、農作物や農業施設の管理にも注意してください。",
+        "前線に向かって暖かく湿った空気が流れ込むため、新潟県では、大気の非常に不安定な状態が続く見込みです。"
+      ],
+      "body": [
+        "石川県では、14日昼過ぎにかけて、落雷や竜巻などの激しい突風、降ひょうに注意してください。[気象概況] 前線を伴った低気圧が発達しながら日本海を北東へ進んでおり、北陸地方を寒冷前線が通過しています。前線に向かって暖かく湿った空気が流れ込むため、石川県では、雷を伴った激しい雨が降り、大気の非常に不安定な状態が続く見込みです。",
+        "[防災事項] 石川県では、14日昼過ぎにかけて、落雷や竜巻などの激しい突風、降ひょうに注意してください。",
+        "これで「石川県気象解説情報(落雷・突風・降ひょう)」を、終了します。",
+        "[お知らせ] 令和6年能登半島地震で揺れの大きかった珠洲市は土砂災害の警報等を、令和8年8月27日からの大雨での河川の堤防損傷等を鑑み、羽咋市では大雨警報等を通常より引き下げた暫定基準で運用しています。",
+        "落雷や竜巻などの激しい突風、急な強い雨、降ひょうに注意してください。",
+        "関東甲信地方では、前線に向かって流れ込む暖かく湿った空気の影響で、14日昼前から夜のはじめ頃にかけて大気の状態が非常に不安定となるでしょう。",
+        "[防災事項] 関東甲信地方では、14日昼前から夜のはじめ頃にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "「関東甲信地方気象解説情報(落雷・突風・降ひょう)」は、本号限りです。",
+        "ひょうの降るおそれもありますので、農作物や農業施設の管理にも注意してください。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "14日夜にかけて、低気圧が日本海を北東へ進み、寒冷前線が関東甲信地方を通過する見込みです。",
+        "また、降ひょうのおそれもありますので、農作物や農業施設の管理にも注意してください。",
+        "前線に向かって暖かく湿った空気が流れ込むため、新潟県では、大気の非常に不安定な状態が続く見込みです。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "[気象概況] 前線を伴った低気圧が発達しながら日本海を北東へ進んでおり、北陸地方を寒冷前線が通過しています。",
+            "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど安全確保に努めてください。",
+            "関東甲信地方では、14日昼前から夜のはじめ頃にかけて、大気の状態が非常に不安定となるでしょう。",
+            "[気象概況] 日本海に低気圧があって、寒冷前線が西日本にのびています。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "石川県では、14日昼過ぎにかけて、落雷や竜巻などの激しい突風、降ひょうに注意してください。",
+            "[防災事項] 石川県では、14日昼過ぎにかけて、落雷や竜巻などの激しい突風、降ひょうに注意してください。",
+            "これで「石川県気象解説情報(落雷・突風・降ひょう)」を、終了します。",
+            "[お知らせ] 令和6年能登半島地震で揺れの大きかった珠洲市は土砂災害の警報等を、令和8年8月27日からの大雨での河川の堤防損傷等を鑑み、羽咋市では大雨警報等を通常より引き下げた暫定基準で運用しています。",
+            "落雷や竜巻などの激しい突風、急な強い雨、降ひょうに注意してください。",
+            "関東甲信地方では、前線に向かって流れ込む暖かく湿った空気の影響で、14日昼前から夜のはじめ頃にかけて大気の状態が非常に不安定となるでしょう。",
+            "[防災事項] 関東甲信地方では、14日昼前から夜のはじめ頃にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+            "「関東甲信地方気象解説情報(落雷・突風・降ひょう)」は、本号限りです。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "前線に向かって暖かく湿った空気が流れ込むため、石川県では、雷を伴った激しい雨が降り、大気の非常に不安定な状態が続く見込みです。",
+            "ひょうの降るおそれもありますので、農作物や農業施設の管理にも注意してください。",
+            "[補足事項] 今後発表する防災気象情報に留意してください。",
+            "14日夜にかけて、低気圧が日本海を北東へ進み、寒冷前線が関東甲信地方を通過する見込みです。",
+            "また、降ひょうのおそれもありますので、農作物や農業施設の管理にも注意してください。",
+            "前線に向かって暖かく湿った空気が流れ込むため、新潟県では、大気の非常に不安定な状態が続く見込みです。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-14T05:44:14+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-10-14T09:00:07.113490+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "関東甲信地方気象解説情報（落雷・突風・降ひょう）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261013203418_0_VPCJ50_130000.xml",
+              "publishedAt": "2026-10-14T05:34:17+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "新潟県気象解説情報（落雷・突風・降ひょう）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261013203827_0_VPFJ50_150000.xml",
+              "publishedAt": "2026-10-14T05:38:26+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "石川県気象解説情報（落雷・突風・降ひょう）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261013204414_0_VPFJ50_170000.xml",
+              "publishedAt": "2026-10-14T05:44:14+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-14T05:44:14+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 3,
+      "freshSourceCount": 3,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "0ae336c9b70728f1",
+      "slug": "2026-10-14-06-0ae336c9",
+      "publishedAt": "2026-10-14T05:36:00+09:00",
+      "updatedAt": "2026-10-14T09:00:07.113490+09:00",
+      "title": "フランスの高校生 教育環境悪化に抗議し再び大規模集会",
+      "dek": "フランスで先月から高校生たちが教育環境の悪化を主張して抗議活動を続けるなか、13日にも政府の対応が不十分だとして各地で大規模な集会を開き、一部で混乱も起きています。",
+      "summary": "フランスで先月から高校生たちが教育環境の悪化を主張して抗議活動を続けるなか、13日にも政府の対応が不十分だとして各地で大規模な集会を開き、一部で混乱も起きています。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "フランスで先月から高校生たちが教育環境の悪化を主張して抗議活動を続けるなか、13日にも政府の対応が不十分だとして各地で大規模な集会を開き、一部で混乱も起きています。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "フランスで先月から高校生たちが教育環境の悪化を主張して抗議活動を続けるなか、13日にも政府の対応が不十分だとして各地で大規模な集会を開き、一部で混乱も起きています。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "フランスで先月から高校生たちが教育環境の悪化を主張して抗議活動を続けるなか、13日にも政府の対応が不十分だとして各地で大規模な集会を開き、一部で混乱も起きています。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-14T05:36:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-14T09:00:07.113490+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "フランスの高校生 教育環境悪化に抗議し再び大規模集会",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261014de58939",
+              "publishedAt": "2026-10-14T05:36:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-14T05:36:00+09:00",
+          "keyPoints": [
+            "フランスで先月から高校生たちが教育環境の悪化を主張して抗議活動を続けるなか、13日にも政府の対応が不十分だとして各地で大規模な集会を開き、一部で混乱も起きています。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "8a57a4a279ac0e04",
+      "slug": "2026-10-14-06-8a57a4a2",
+      "publishedAt": "2026-10-14T05:36:00+09:00",
+      "updatedAt": "2026-10-14T09:00:07.113490+09:00",
+      "title": "ホワイトハウスの新しい報道官 初会見はわずか15分で終了",
+      "dek": "アメリカのトランプ大統領がホワイトハウスの新しい報道官に任命した、ザカリア氏が初めて記者会見を開きました。",
+      "summary": "アメリカのトランプ大統領がホワイトハウスの新しい報道官に任命した、ザカリア氏が初めて記者会見を開きました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "アメリカのトランプ大統領がホワイトハウスの新しい報道官に任命した、ザカリア氏が初めて記者会見を開きました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "アメリカのトランプ大統領がホワイトハウスの新しい報道官に任命した、ザカリア氏が初めて記者会見を開きました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "アメリカのトランプ大統領がホワイトハウスの新しい報道官に任命した、ザカリア氏が初めて記者会見を開きました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-14T05:36:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-14T09:00:07.113490+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "ホワイトハウスの新しい報道官 初会見はわずか15分で終了",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261014de58937",
+              "publishedAt": "2026-10-14T05:36:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-14T05:36:00+09:00",
+          "keyPoints": [
+            "アメリカのトランプ大統領がホワイトハウスの新しい報道官に任命した、ザカリア氏が初めて記者会見を開きました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "5cc9da4bba3364c8",
+      "slug": "2026-10-14-06-5cc9da4b",
+      "publishedAt": "2026-10-14T05:30:13+09:00",
+      "updatedAt": "2026-10-14T09:00:07.113490+09:00",
+      "title": "読む政治:首相の委員会出席「原則不要」論も 国会改革論議、野党は警戒",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-14T05:30:13+09:00",
+          "text": "毎日新聞 ニュース速報の公開情報を確認",
+          "source": "毎日新聞 ニュース速報"
+        },
+        {
+          "at": "2026-10-14T09:00:07.113490+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 ニュース速報",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "読む政治:首相の委員会出席「原則不要」論も 国会改革論議、野党は警戒",
+              "url": "https://mainichi.jp/articles/20261013/k00/00m/010/333000c",
+              "publishedAt": "2026-10-14T05:30:13+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-14T05:30:13+09:00",
+          "keyPoints": [
+            "読む政治:首相の委員会出席「原則不要」論も 国会改革論議、野党は警戒"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "3ffe938182b10158",
+      "slug": "2026-10-14-06-3ffe9381",
+      "publishedAt": "2026-10-14T05:05:00+09:00",
+      "updatedAt": "2026-10-14T09:00:07.113490+09:00",
+      "title": "簗農相 与党から続投困難の声も 高市首相 説明踏まえ判断へ",
+      "dek": "道路予算に関する発言で批判が相次いでいる簗農林水産大臣について、野党側は、選挙期間中にシャトルバスで有権者を無料で送迎していたことも問題視し、追及を強めています。",
+      "summary": "道路予算に関する発言で批判が相次いでいる簗農林水産大臣について、野党側は、選挙期間中にシャトルバスで有権者を無料で送迎していたことも問題視し、追及を強めています。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "道路予算に関する発言で批判が相次いでいる簗農林水産大臣について、野党側は、選挙期間中にシャトルバスで有権者を無料で送迎していたことも問題視し、追及を強めています。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "道路予算に関する発言で批判が相次いでいる簗農林水産大臣について、野党側は、選挙期間中にシャトルバスで有権者を無料で送迎していたことも問題視し、追及を強めています。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "道路予算に関する発言で批判が相次いでいる簗農林水産大臣について、野党側は、選挙期間中にシャトルバスで有権者を無料で送迎していたことも問題視し、追及を強めています。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-14T05:05:00+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
+        },
+        {
+          "at": "2026-10-14T09:00:07.113490+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "簗農相 与党から続投困難の声も 高市首相 説明踏まえ判断へ",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261014de58923",
+              "publishedAt": "2026-10-14T05:05:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-14T05:05:00+09:00",
+          "keyPoints": [
+            "道路予算に関する発言で批判が相次いでいる簗農林水産大臣について、野党側は、選挙期間中にシャトルバスで有権者を無料で送迎していたことも問題視し、追及を強めています。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "028a84105fd67db1",
+      "slug": "2026-10-14-06-028a8410",
+      "publishedAt": "2026-10-14T05:01:15+09:00",
+      "updatedAt": "2026-10-14T09:00:07.113490+09:00",
+      "title": "読む政治:首相を支える「経済ブレーン4人衆」 政権の推進力か、扇動者か",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-14T05:01:15+09:00",
+          "text": "毎日新聞 ニュース速報の公開情報を確認",
+          "source": "毎日新聞 ニュース速報"
+        },
+        {
+          "at": "2026-10-14T09:00:07.113490+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 ニュース速報",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "読む政治:首相を支える「経済ブレーン4人衆」 政権の推進力か、扇動者か",
+              "url": "https://mainichi.jp/articles/20261013/k00/00m/020/025000c",
+              "publishedAt": "2026-10-14T05:01:15+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-14T05:01:15+09:00",
+          "keyPoints": [
+            "読む政治:首相を支える「経済ブレーン4人衆」 政権の推進力か、扇動者か"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "c1e28c4482973df5",
+      "slug": "2026-10-14-06-c1e28c44",
+      "publishedAt": "2026-10-14T05:00:25+09:00",
+      "updatedAt": "2026-10-14T09:00:07.113490+09:00",
+      "title": "縮小社会に生きる:じわじわと勢力を拡大する野生生物 人口減の里山に募る危機感",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-14T05:00:25+09:00",
+          "text": "毎日新聞 ニュース速報の公開情報を確認",
+          "source": "毎日新聞 ニュース速報"
+        },
+        {
+          "at": "2026-10-14T09:00:07.113490+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 ニュース速報",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "縮小社会に生きる:じわじわと勢力を拡大する野生生物 人口減の里山に募る危機感",
+              "url": "https://mainichi.jp/articles/20261006/k00/00m/310/146000c",
+              "publishedAt": "2026-10-14T05:00:25+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-14T05:00:25+09:00",
+          "keyPoints": [
+            "縮小社会に生きる:じわじわと勢力を拡大する野生生物 人口減の里山に募る危機感"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    },
+    {
+      "id": "0defc8af6b67374b",
+      "slug": "2026-10-14-06-0defc8af",
+      "publishedAt": "2026-10-14T05:00:00+09:00",
+      "updatedAt": "2026-10-14T09:00:07.113490+09:00",
+      "title": "「男性のみ」から「性別問わず」に 書記官らの夜間業務 最高裁",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-14T05:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-14T09:00:07.113490+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "「男性のみ」から「性別問わず」に 書記官らの夜間業務 最高裁",
+              "url": "https://www.asahi.com/articles/ASVB13CLTVB1UTIL01HM.html",
+              "publishedAt": "2026-10-14T05:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-14T05:00:00+09:00",
+          "keyPoints": [
+            "「男性のみ」から「性別問わず」に 書記官らの夜間業務 最高裁"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "c1e65a918f077f9d",
+      "slug": "2026-10-14-06-c1e65a91",
+      "publishedAt": "2026-10-13T22:44:29+09:00",
+      "updatedAt": "2026-10-14T09:00:07.113490+09:00",
+      "title": "米Getty Imagesが破産申請へ AI画像の台頭で経営悪化、「報道写真」軸に年内の再建目指す",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-13T22:44:29+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-14T09:00:07.113490+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "米Getty Imagesが破産申請へ AI画像の台頭で経営悪化、「報道写真」軸に年内の再建目指す",
+              "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002234",
+              "publishedAt": "2026-10-13T22:44:29+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-13T22:44:29+09:00",
+          "keyPoints": [
+            "米Getty Imagesが破産申請へ AI画像の台頭で経営悪化、「報道写真」軸に年内の再建目指す"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "bdb55a05c4d79501",
+      "slug": "2026-10-14-06-bdb55a05",
+      "publishedAt": "2026-10-13T22:25:15+09:00",
+      "updatedAt": "2026-10-14T09:00:07.113490+09:00",
+      "title": "キャッシュレスサービス「IDARE」、約13万人の個人情報漏えい 残高や取引履歴なども",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-13T22:25:15+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-14T09:00:07.113490+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "キャッシュレスサービス「IDARE」、約13万人の個人情報漏えい 残高や取引履歴なども",
+              "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002233",
+              "publishedAt": "2026-10-13T22:25:15+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-13T22:25:15+09:00",
+          "keyPoints": [
+            "キャッシュレスサービス「IDARE」、約13万人の個人情報漏えい 残高や取引履歴なども"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "042ae403330eff6c",
+      "slug": "2026-10-14-06-042ae403",
+      "publishedAt": "2026-10-13T21:42:49+09:00",
+      "updatedAt": "2026-10-14T09:00:07.113490+09:00",
+      "title": "簗氏答弁の対応は「あり得ない」 栃木県選管が説明、バス送迎問題で",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-13T21:42:49+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-14T09:00:07.113490+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "簗氏答弁の対応は「あり得ない」 栃木県選管が説明、バス送迎問題で",
+              "url": "https://www.asahi.com/articles/ASVBF2H12VBFUQIP00PM.html",
+              "publishedAt": "2026-10-13T21:42:49+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-13T21:42:49+09:00",
+          "keyPoints": [
+            "簗氏答弁の対応は「あり得ない」 栃木県選管が説明、バス送迎問題で"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "46d8c67871614e6c",
+      "slug": "2026-10-14-06-46d8c678",
+      "publishedAt": "2026-10-13T20:30:00+09:00",
+      "updatedAt": "2026-10-14T09:00:07.113490+09:00",
+      "title": "漫画家のわたなべまさこさん死去、97歳 「ガラスの城」などで人気",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-13T20:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-14T09:00:07.113490+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "漫画家のわたなべまさこさん死去、97歳 「ガラスの城」などで人気",
+              "url": "https://www.asahi.com/articles/ASVBF3JH3VBFUCVL00KM.html",
+              "publishedAt": "2026-10-13T20:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-13T20:30:00+09:00",
+          "keyPoints": [
+            "漫画家のわたなべまさこさん死去、97歳 「ガラスの城」などで人気"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    }
+  ]
+}
