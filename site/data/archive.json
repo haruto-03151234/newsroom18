@@ -1,7 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-15T22:55:09.017478+09:00",
+  "updatedAt": "2026-10-16T08:22:04.123544+09:00",
   "editions": [
+    {
+      "id": "2026-10-16-06",
+      "path": "data/editions/2026-10-16-06.json",
+      "dataUrl": "data/editions/2026-10-16-06.json",
+      "generatedAt": "2026-10-16T08:22:04.123544+09:00",
+      "date": "2026-10-16",
+      "time": "06:00",
+      "label": "朝6時版",
+      "coverageLabel": "10月15日 18:00〜10月16日 06:00",
+      "headline": "青森県気象防災速報（竜巻注意）",
+      "articleCount": 12,
+      "categories": {
+        "国内": 5,
+        "経済": 1,
+        "海外": 3,
+        "社会": 2,
+        "科学": 1
+      }
+    },
     {
       "id": "2026-10-15-18",
       "path": "data/editions/2026-10-15-18.json",

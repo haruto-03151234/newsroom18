@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-15T18:00:00+09:00",
-  "lastCompletedEdition": "2026-10-15-18",
+  "lastCompletedEnd": "2026-10-16T06:00:00+09:00",
+  "lastCompletedEdition": "2026-10-16-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -18341,7 +18341,106 @@
       "urls": [
         "https://mainichi.jp/articles/20261015/dde/014/200/005000c"
       ]
+    },
+    {
+      "editionId": "2026-10-16-06",
+      "title": "青森県気象防災速報竜巻注意",
+      "publishedAt": "2026-10-16T05:22:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261015202259_0_VPHW50_020000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-16-06",
+      "title": "東北地方気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-10-16T05:00:28+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261015200028_0_VPCJ50_040000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261015200642_0_VPFJ50_020000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261015200643_0_VPFJ50_050000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261015200645_0_VPFJ50_060000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-16-06",
+      "title": "片山大臣と韓国のイ・ヒョンイル副総理兼財政経済部長官との面会令和8年10月15日木",
+      "publishedAt": "2026-10-15T23:25:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261013104336.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-16-06",
+      "title": "アメリカ年末商戦売り上げ予測は4増インフレで節約志向も",
+      "publishedAt": "2026-10-16T05:48:06+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60164"
+      ]
+    },
+    {
+      "editionId": "2026-10-16-06",
+      "title": "散歩ついでに地域見守りわんわんパトロール隊出発式大阪",
+      "publishedAt": "2026-10-16T05:45:11+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261015/k00/00m/310/259000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-16-06",
+      "title": "g20閉幕世界経済やaiリスク議論も共同声明なし",
+      "publishedAt": "2026-10-16T05:34:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60163"
+      ]
+    },
+    {
+      "editionId": "2026-10-16-06",
+      "title": "無期懲役かそれとも無罪か王将社長射殺きょう判決",
+      "publishedAt": "2026-10-16T05:30:13+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261015/k00/00m/040/088000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-16-06",
+      "title": "フーシがイエメン南部の大統領宮殿を攻撃4人死亡か閣僚は無事",
+      "publishedAt": "2026-10-16T05:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBH6CYNVBHUHBI02CM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-16-06",
+      "title": "与党消費税早期審議入りを野党高市首相の任命責任追及",
+      "publishedAt": "2026-10-16T05:22:35+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261016de60159"
+      ]
+    },
+    {
+      "editionId": "2026-10-16-06",
+      "title": "定員割れ公立高から東大へ講演で語った担任との学習シート",
+      "publishedAt": "2026-10-16T05:15:13+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261015/k00/00m/310/125000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-16-06",
+      "title": "うるう秒廃止来年5月からうるう時導入を決議国際度量衡総会",
+      "publishedAt": "2026-10-16T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB71PSXVB7UTFL002M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-16-06",
+      "title": "王将社長射殺事件きょう判決有罪か無罪か焦点はたばこの吸い殻",
+      "publishedAt": "2026-10-16T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBH25YVVBHOXIE05ZM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-15T22:55:09.017478+09:00"
+  "updatedAt": "2026-10-16T08:22:04.123544+09:00"
 }

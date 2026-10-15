@@ -1,0 +1,988 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-10-16T08:22:04.123544+09:00",
+  "summary": "対象時間帯の5配信元のニュースを12本に整理しました。うち重要ニュースは3本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-10-16-06",
+    "date": "2026-10-16",
+    "slot": "06:00",
+    "label": "朝6時版"
+  },
+  "coverage": {
+    "from": "2026-10-15T18:00:00+09:00",
+    "to": "2026-10-16T06:00:00+09:00",
+    "start": "2026-10-15T18:00:00+09:00",
+    "end": "2026-10-16T06:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "10月15日 18:00〜10月16日 06:00"
+  },
+  "stats": {
+    "articleCount": 12,
+    "categoryCounts": {
+      "国内": 5,
+      "経済": 1,
+      "海外": 3,
+      "社会": 2,
+      "科学": 1
+    },
+    "sourceCount": 15,
+    "publisherCount": 5,
+    "publisherCounts": {
+      "asahi": 3,
+      "jma": 2,
+      "mainichi": 3,
+      "mof": 1,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 2,
+      "brief": 10
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories"
+  ],
+  "articles": [
+    {
+      "id": "618e2064da21f6dd",
+      "slug": "2026-10-16-06-618e2064",
+      "publishedAt": "2026-10-16T05:22:00+09:00",
+      "updatedAt": "2026-10-16T08:22:04.123544+09:00",
+      "title": "青森県気象防災速報（竜巻注意）",
+      "dek": "10月16日 05:22更新。津軽は、竜巻などの激しい突風が発生しやすい気象状況になっています。",
+      "summary": "津軽は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。落雷、ひょう、急な強い雨にも注意してください。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "青森県気象防災速報竜巻注意"
+      ],
+      "facts": [
+        "雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。",
+        "竜巻注意情報: 青森県。",
+        "竜巻注意情報: 津軽。",
+        "竜巻注意情報: 東青津軽。",
+        "竜巻注意情報: 北五津軽。",
+        "竜巻注意情報: 西津軽。",
+        "竜巻注意情報: 中南津軽。",
+        "竜巻注意情報: 青森市。",
+        "竜巻注意情報: 弘前市。"
+      ],
+      "impactPoints": [
+        "津軽は、竜巻などの激しい突風が発生しやすい気象状況になっています。",
+        "空の様子に注意してください。",
+        "落雷、ひょう、急な強い雨にも注意してください。"
+      ],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "津軽は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。落雷、ひょう、急な強い雨にも注意してください。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。",
+            "竜巻注意情報: 青森県。",
+            "竜巻注意情報: 津軽。",
+            "竜巻注意情報: 東青津軽。",
+            "竜巻注意情報: 北五津軽。",
+            "竜巻注意情報: 西津軽。",
+            "竜巻注意情報: 中南津軽。",
+            "竜巻注意情報: 青森市。",
+            "竜巻注意情報: 弘前市。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "津軽は、竜巻などの激しい突風が発生しやすい気象状況になっています。",
+            "空の様子に注意してください。",
+            "落雷、ひょう、急な強い雨にも注意してください。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-16T05:22:00+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-10-16T08:22:04.123544+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "青森県気象防災速報（竜巻注意）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261015202259_0_VPHW50_020000.xml",
+              "publishedAt": "2026-10-16T05:22:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-16T05:22:00+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "ecea6b093adf2964",
+      "slug": "2026-10-16-06-ecea6b09",
+      "publishedAt": "2026-10-16T05:00:28+09:00",
+      "updatedAt": "2026-10-16T08:22:04.123544+09:00",
+      "title": "東北地方気象解説情報（落雷・突風・降ひょう）",
+      "dek": "10月16日 05:00〜10月16日 05:06更新。東北日本海側を中心に、低気圧や気圧の谷の影響により、大気の状態が非常に不安定となっています。",
+      "summary": "東北日本海側を中心に、低気圧や気圧の谷の影響により、大気の状態が非常に不安定となっています。16日夕方にかけて、竜巻などの激しい突風や落雷、降ひょう、急な強い雨に注意してください。[気象概況] 低気圧が日本海にあって、東へ進んでいます。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "東北地方気象解説情報落雷突風降ひょう"
+      ],
+      "facts": [
+        "[気象概況] 低気圧が日本海にあって、東へ進んでいます。",
+        "発達した積乱雲の近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。"
+      ],
+      "impactPoints": [
+        "東北日本海側を中心に、低気圧や気圧の谷の影響により、大気の状態が非常に不安定となっています。",
+        "16日夕方にかけて、竜巻などの激しい突風や落雷、降ひょう、急な強い雨に注意してください。",
+        "低気圧や気圧の谷に向かって暖かく湿った空気が流れ込み、上空の寒気の影響も加わるため、16日夕方にかけて大気の非常に不安定な状態が続くでしょう。",
+        "[防災事項] 東北日本海側を中心に、16日夕方にかけて、竜巻などの激しい突風や落雷、急な強い雨に注意してください。",
+        "また、降ひょうによる農作物や農業施設等への被害に注意してください。",
+        "これで、「東北地方気象解説情報(落雷・突風・降ひょう)」は終了します。",
+        "秋田県では、低気圧や気圧の谷の影響により、大気の状態が非常に不安定となっています。",
+        "16日昼過ぎにかけて、竜巻などの激しい突風や落雷、降ひょう、急な強い雨に注意してください。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "低気圧は津軽海峡付近を通って、16日夜には日本の東に進み、気圧の谷が東北地方を通過する見込みです。",
+        "このため、東北地方では、積乱雲が発達し、雷の発生する所がある見込みです。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "このため、秋田県では、積乱雲が発達し、雷の発生する所がある見込みです。",
+        "このため、青森県では、積乱雲が発達し、雷の発生する所がある見込みです。",
+        "このため、山形県では、積乱雲が発達し、雷の発生する所がある見込みです。"
+      ],
+      "body": [
+        "東北日本海側を中心に、低気圧や気圧の谷の影響により、大気の状態が非常に不安定となっています。16日夕方にかけて、竜巻などの激しい突風や落雷、降ひょう、急な強い雨に注意してください。[気象概況] 低気圧が日本海にあって、東へ進んでいます。",
+        "低気圧や気圧の谷に向かって暖かく湿った空気が流れ込み、上空の寒気の影響も加わるため、16日夕方にかけて大気の非常に不安定な状態が続くでしょう。",
+        "[防災事項] 東北日本海側を中心に、16日夕方にかけて、竜巻などの激しい突風や落雷、急な強い雨に注意してください。",
+        "また、降ひょうによる農作物や農業施設等への被害に注意してください。",
+        "これで、「東北地方気象解説情報(落雷・突風・降ひょう)」は終了します。",
+        "秋田県では、低気圧や気圧の谷の影響により、大気の状態が非常に不安定となっています。",
+        "16日昼過ぎにかけて、竜巻などの激しい突風や落雷、降ひょう、急な強い雨に注意してください。",
+        "低気圧は津軽海峡付近を通って、16日夜には日本の東に進み、気圧の谷が東北地方を通過する見込みです。",
+        "このため、東北地方では、積乱雲が発達し、雷の発生する所がある見込みです。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "このため、秋田県では、積乱雲が発達し、雷の発生する所がある見込みです。",
+        "このため、青森県では、積乱雲が発達し、雷の発生する所がある見込みです。",
+        "このため、山形県では、積乱雲が発達し、雷の発生する所がある見込みです。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "[気象概況] 低気圧が日本海にあって、東へ進んでいます。",
+            "発達した積乱雲の近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "東北日本海側を中心に、低気圧や気圧の谷の影響により、大気の状態が非常に不安定となっています。",
+            "16日夕方にかけて、竜巻などの激しい突風や落雷、降ひょう、急な強い雨に注意してください。",
+            "低気圧や気圧の谷に向かって暖かく湿った空気が流れ込み、上空の寒気の影響も加わるため、16日夕方にかけて大気の非常に不安定な状態が続くでしょう。",
+            "[防災事項] 東北日本海側を中心に、16日夕方にかけて、竜巻などの激しい突風や落雷、急な強い雨に注意してください。",
+            "また、降ひょうによる農作物や農業施設等への被害に注意してください。",
+            "これで、「東北地方気象解説情報(落雷・突風・降ひょう)」は終了します。",
+            "秋田県では、低気圧や気圧の谷の影響により、大気の状態が非常に不安定となっています。",
+            "16日昼過ぎにかけて、竜巻などの激しい突風や落雷、降ひょう、急な強い雨に注意してください。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "低気圧は津軽海峡付近を通って、16日夜には日本の東に進み、気圧の谷が東北地方を通過する見込みです。",
+            "このため、東北地方では、積乱雲が発達し、雷の発生する所がある見込みです。",
+            "[補足事項] 今後発表する防災気象情報に留意してください。",
+            "このため、秋田県では、積乱雲が発達し、雷の発生する所がある見込みです。",
+            "このため、青森県では、積乱雲が発達し、雷の発生する所がある見込みです。",
+            "このため、山形県では、積乱雲が発達し、雷の発生する所がある見込みです。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-16T05:06:45+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-10-16T08:22:04.123544+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "東北地方気象解説情報（落雷・突風・降ひょう）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261015200028_0_VPCJ50_040000.xml",
+              "publishedAt": "2026-10-16T05:00:28+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "青森県気象解説情報（落雷・突風・降ひょう）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261015200642_0_VPFJ50_020000.xml",
+              "publishedAt": "2026-10-16T05:06:41+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "秋田県気象解説情報（落雷・突風・降ひょう）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261015200643_0_VPFJ50_050000.xml",
+              "publishedAt": "2026-10-16T05:06:42+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "山形県気象解説情報（落雷・突風・降ひょう）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261015200645_0_VPFJ50_060000.xml",
+              "publishedAt": "2026-10-16T05:06:45+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-16T05:06:45+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 4,
+      "freshSourceCount": 4,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "7d2abf420ffe75b7",
+      "slug": "2026-10-16-06-7d2abf42",
+      "publishedAt": "2026-10-15T23:25:00+09:00",
+      "updatedAt": "2026-10-16T08:22:04.123544+09:00",
+      "title": "片山大臣と韓国のイ・ヒョンイル副総理兼財政経済部長官との面会（令和8年10月15日（木））",
+      "dek": "03-3581-4111。",
+      "summary": "令和 8 年 10 月 15 日（木）（現地時間）、片山大臣は、タイ・バンコクにおいて、韓国のイ・ヒョンイル副総理兼財政経済部長官と面会し、 日韓通貨スワップの更新に合意するとともに、 今後の二国間の協力等について、率直な意見交換を行いました。 03-3581-4111。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "03-3581-4111。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [
+        "令和 8 年 10 月 15 日（木）（現地時間）、片山大臣は、タイ・バンコクにおいて、韓国のイ・ヒョンイル副総理兼財政経済部長官と面会し、 日韓通貨スワップの更新に合意するとともに、 今後の二国間の協力等について、率直な意見交換を行いました。"
+      ],
+      "body": [
+        "令和 8 年 10 月 15 日（木）（現地時間）、片山大臣は、タイ・バンコクにおいて、韓国のイ・ヒョンイル副総理兼財政経済部長官と面会し、 日韓通貨スワップの更新に合意するとともに、 今後の二国間の協力等について、率直な意見交換を行いました。 03-3581-4111。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "03-3581-4111。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "令和 8 年 10 月 15 日（木）（現地時間）、片山大臣は、タイ・バンコクにおいて、韓国のイ・ヒョンイル副総理兼財政経済部長官と面会し、 日韓通貨スワップの更新に合意するとともに、 今後の二国間の協力等について、率直な意見交換を行いました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-15T23:25:00+09:00",
+          "text": "財務省 政策・経済発表の公開情報を確認",
+          "source": "財務省 政策・経済発表"
+        },
+        {
+          "at": "2026-10-16T08:22:04.123544+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "財務省 政策・経済発表",
+          "publisherId": "mof",
+          "links": [
+            {
+              "title": "片山大臣と韓国のイ・ヒョンイル副総理兼財政経済部長官との面会（令和8年10月15日（木））",
+              "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261013104336.html",
+              "publishedAt": "2026-10-15T23:25:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-15T23:25:00+09:00",
+          "keyPoints": [
+            "財務省 政策・経済発表の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "f2d5f3335baa2bc6",
+      "slug": "2026-10-16-06-f2d5f333",
+      "publishedAt": "2026-10-16T05:48:06+09:00",
+      "updatedAt": "2026-10-16T08:22:04.123544+09:00",
+      "title": "アメリカ年末商戦売り上げ予測は4％増 インフレで節約志向も",
+      "dek": "毎年恒例となっているアメリカの年末商戦について、小売業の業界団体は、2026年の売り上げが2025年と比べて4％あまり増加するという予測を発表しました。",
+      "summary": "毎年恒例となっているアメリカの年末商戦について、小売業の業界団体は、2026年の売り上げが2025年と比べて4％あまり増加するという予測を発表しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "毎年恒例となっているアメリカの年末商戦について、小売業の業界団体は、2026年の売り上げが2025年と比べて4％あまり増加するという予測を発表しました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "毎年恒例となっているアメリカの年末商戦について、小売業の業界団体は、2026年の売り上げが2025年と比べて4％あまり増加するという予測を発表しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "毎年恒例となっているアメリカの年末商戦について、小売業の業界団体は、2026年の売り上げが2025年と比べて4％あまり増加するという予測を発表しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-16T05:48:06+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-16T08:22:04.123544+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "アメリカ年末商戦売り上げ予測は4％増 インフレで節約志向も",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261016de60164",
+              "publishedAt": "2026-10-16T05:48:06+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-16T05:48:06+09:00",
+          "keyPoints": [
+            "毎年恒例となっているアメリカの年末商戦について、小売業の業界団体は、2026年の売り上げが2025年と比べて4％あまり増加するという予測を発表しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "6251a2e38e5174e0",
+      "slug": "2026-10-16-06-6251a2e3",
+      "publishedAt": "2026-10-16T05:45:11+09:00",
+      "updatedAt": "2026-10-16T08:22:04.123544+09:00",
+      "title": "散歩ついでに地域見守り 「わんわんパトロール隊」出発式 大阪",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-16T05:45:11+09:00",
+          "text": "毎日新聞 ニュース速報の公開情報を確認",
+          "source": "毎日新聞 ニュース速報"
+        },
+        {
+          "at": "2026-10-16T08:22:04.123544+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 ニュース速報",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "散歩ついでに地域見守り 「わんわんパトロール隊」出発式 大阪",
+              "url": "https://mainichi.jp/articles/20261015/k00/00m/310/259000c",
+              "publishedAt": "2026-10-16T05:45:11+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-16T05:45:11+09:00",
+          "keyPoints": [
+            "散歩ついでに地域見守り 「わんわんパトロール隊」出発式 大阪"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "82541e948faa29f5",
+      "slug": "2026-10-16-06-82541e94",
+      "publishedAt": "2026-10-16T05:34:00+09:00",
+      "updatedAt": "2026-10-16T08:22:04.123544+09:00",
+      "title": "G20閉幕 世界経済やAIリスク議論も共同声明なし",
+      "dek": "インフレや金利上昇が世界経済を下振れさせるリスクや高性能のAIが悪用された場合の影響を懸念する意見が相次ぎまし…。",
+      "summary": "タイで開かれていたG20＝主要20か国の財務相・中央銀行総裁会議は15日閉幕しました。 インフレや金利上昇が世界経済を下振れさせるリスクや高性能のAIが悪用された場合の影響を懸念する意見が相次ぎまし…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "タイで開かれていたG20＝主要20か国の財務相・中央銀行総裁会議は15日閉幕しました。"
+      ],
+      "impactPoints": [
+        "インフレや金利上昇が世界経済を下振れさせるリスクや高性能のAIが悪用された場合の影響を懸念する意見が相次ぎまし…。"
+      ],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "タイで開かれていたG20＝主要20か国の財務相・中央銀行総裁会議は15日閉幕しました。 インフレや金利上昇が世界経済を下振れさせるリスクや高性能のAIが悪用された場合の影響を懸念する意見が相次ぎまし…。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "タイで開かれていたG20＝主要20か国の財務相・中央銀行総裁会議は15日閉幕しました。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "インフレや金利上昇が世界経済を下振れさせるリスクや高性能のAIが悪用された場合の影響を懸念する意見が相次ぎまし…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-16T05:34:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-16T08:22:04.123544+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "G20閉幕 世界経済やAIリスク議論も共同声明なし",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261016de60163",
+              "publishedAt": "2026-10-16T05:34:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-16T05:34:00+09:00",
+          "keyPoints": [
+            "タイで開かれていたG20＝主要20か国の財務相・中央銀行総裁会議は15日閉幕しました。インフレや金利上昇が世界経済を下振れさせるリスクや高性能のAIが悪用された場合の影響を懸念する意見が相次ぎまし…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "048024f97c84315b",
+      "slug": "2026-10-16-06-048024f9",
+      "publishedAt": "2026-10-16T05:30:13+09:00",
+      "updatedAt": "2026-10-16T08:22:04.123544+09:00",
+      "title": "「無期懲役」か、それとも「無罪」か 王将社長射殺 きょう判決",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-16T05:30:13+09:00",
+          "text": "毎日新聞 ニュース速報の公開情報を確認",
+          "source": "毎日新聞 ニュース速報"
+        },
+        {
+          "at": "2026-10-16T08:22:04.123544+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 ニュース速報",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "「無期懲役」か、それとも「無罪」か 王将社長射殺 きょう判決",
+              "url": "https://mainichi.jp/articles/20261015/k00/00m/040/088000c",
+              "publishedAt": "2026-10-16T05:30:13+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-16T05:30:13+09:00",
+          "keyPoints": [
+            "「無期懲役」か、それとも「無罪」か 王将社長射殺 きょう判決"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "4796f5bc4eb2fba7",
+      "slug": "2026-10-16-06-4796f5bc",
+      "publishedAt": "2026-10-16T05:30:00+09:00",
+      "updatedAt": "2026-10-16T08:22:04.123544+09:00",
+      "title": "フーシがイエメン南部の大統領宮殿を攻撃、4人死亡か 閣僚は無事",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-16T05:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-16T08:22:04.123544+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "フーシがイエメン南部の大統領宮殿を攻撃、4人死亡か 閣僚は無事",
+              "url": "https://www.asahi.com/articles/ASVBH6CYNVBHUHBI02CM.html",
+              "publishedAt": "2026-10-16T05:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-16T05:30:00+09:00",
+          "keyPoints": [
+            "フーシがイエメン南部の大統領宮殿を攻撃、4人死亡か 閣僚は無事"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "fb110d08345683e3",
+      "slug": "2026-10-16-06-fb110d08",
+      "publishedAt": "2026-10-16T05:22:35+09:00",
+      "updatedAt": "2026-10-16T08:22:04.123544+09:00",
+      "title": "与党“消費税早期審議入りを”野党“高市首相の任命責任追及”",
+      "dek": "農林水産大臣が交代する中、与党側は、食料品の消費税減税関連法案を早期に審議入りさせるなど国会運営への影響を最小限にとどめたい考えです。",
+      "summary": "農林水産大臣が交代する中、与党側は、食料品の消費税減税関連法案を早期に審議入りさせるなど国会運営への影響を最小限にとどめたい考えです。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [
+        "農林水産大臣が交代する中、与党側は、食料品の消費税減税関連法案を早期に審議入りさせるなど国会運営への影響を最小限にとどめたい考えです。"
+      ],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "農林水産大臣が交代する中、与党側は、食料品の消費税減税関連法案を早期に審議入りさせるなど国会運営への影響を最小限にとどめたい考えです。"
+      ],
+      "sections": [
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "農林水産大臣が交代する中、与党側は、食料品の消費税減税関連法案を早期に審議入りさせるなど国会運営への影響を最小限にとどめたい考えです。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-16T05:22:35+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
+        },
+        {
+          "at": "2026-10-16T08:22:04.123544+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "与党“消費税早期審議入りを”野党“高市首相の任命責任追及”",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261016de60159",
+              "publishedAt": "2026-10-16T05:22:35+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-16T05:22:35+09:00",
+          "keyPoints": [
+            "農林水産大臣が交代する中、与党側は、食料品の消費税減税関連法案を早期に審議入りさせるなど国会運営への影響を最小限にとどめたい考えです。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "f857347126b079bb",
+      "slug": "2026-10-16-06-f8573471",
+      "publishedAt": "2026-10-16T05:15:13+09:00",
+      "updatedAt": "2026-10-16T08:22:04.123544+09:00",
+      "title": "定員割れ公立高から東大へ 講演で語った担任との「学習シート」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-16T05:15:13+09:00",
+          "text": "毎日新聞 ニュース速報の公開情報を確認",
+          "source": "毎日新聞 ニュース速報"
+        },
+        {
+          "at": "2026-10-16T08:22:04.123544+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 ニュース速報",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "定員割れ公立高から東大へ 講演で語った担任との「学習シート」",
+              "url": "https://mainichi.jp/articles/20261015/k00/00m/310/125000c",
+              "publishedAt": "2026-10-16T05:15:13+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-16T05:15:13+09:00",
+          "keyPoints": [
+            "定員割れ公立高から東大へ 講演で語った担任との「学習シート」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "c28152a885312a94",
+      "slug": "2026-10-16-06-c28152a8",
+      "publishedAt": "2026-10-16T05:00:00+09:00",
+      "updatedAt": "2026-10-16T08:22:04.123544+09:00",
+      "title": "うるう秒廃止、来年5月から「うるう時」導入を決議 国際度量衡総会",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-16T05:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-16T08:22:04.123544+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "うるう秒廃止、来年5月から「うるう時」導入を決議 国際度量衡総会",
+              "url": "https://www.asahi.com/articles/ASVB71PSXVB7UTFL002M.html",
+              "publishedAt": "2026-10-16T05:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-16T05:00:00+09:00",
+          "keyPoints": [
+            "うるう秒廃止、来年5月から「うるう時」導入を決議 国際度量衡総会"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    },
+    {
+      "id": "cdb4742215a19e5e",
+      "slug": "2026-10-16-06-cdb47422",
+      "publishedAt": "2026-10-16T05:00:00+09:00",
+      "updatedAt": "2026-10-16T08:22:04.123544+09:00",
+      "title": "王将社長射殺事件、きょう判決 有罪か無罪か、焦点はたばこの吸い殻",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-16T05:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-16T08:22:04.123544+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "王将社長射殺事件、きょう判決 有罪か無罪か、焦点はたばこの吸い殻",
+              "url": "https://www.asahi.com/articles/ASVBH25YVVBHOXIE05ZM.html",
+              "publishedAt": "2026-10-16T05:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-16T05:00:00+09:00",
+          "keyPoints": [
+            "王将社長射殺事件、きょう判決 有罪か無罪か、焦点はたばこの吸い殻"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    }
+  ]
+}
