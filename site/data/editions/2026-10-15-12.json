@@ -1,0 +1,648 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-10-15T16:52:13.905884+09:00",
+  "summary": "対象時間帯の3配信元の主なニュースを9本に整理しました。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-10-15-12",
+    "date": "2026-10-15",
+    "slot": "12:00",
+    "label": "昼12時版"
+  },
+  "coverage": {
+    "from": "2026-10-15T06:00:00+09:00",
+    "to": "2026-10-15T12:00:00+09:00",
+    "start": "2026-10-15T06:00:00+09:00",
+    "end": "2026-10-15T12:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "10月15日 06:00〜10月15日 12:00"
+  },
+  "stats": {
+    "articleCount": 9,
+    "categoryCounts": {
+      "海外": 2,
+      "スポーツ": 1,
+      "科学": 1,
+      "テクノロジー": 2,
+      "社会": 1,
+      "国内": 1,
+      "エンタメ": 1
+    },
+    "sourceCount": 9,
+    "publisherCount": 3,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 3,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "brief": 9
+    },
+    "feedFailureCount": 3
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories",
+    "農林水産省 報道発表資料"
+  ],
+  "articles": [
+    {
+      "id": "983eb6553738b425",
+      "slug": "2026-10-15-12-983eb655",
+      "publishedAt": "2026-10-15T11:49:27+09:00",
+      "updatedAt": "2026-10-15T16:52:13.905884+09:00",
+      "title": "G20財務相・中央銀行総裁会議開幕 世界経済やAIへの対応を議論",
+      "dek": "G20＝主要20か国の財務相・中央銀行総裁会議がタイで始まりました。",
+      "summary": "G20＝主要20か国の財務相・中央銀行総裁会議がタイで始まりました。 各国でインフレ懸念が高まり金利の上昇傾向も続く中で世界経済を安定的に成長させるための対策や高性能のAIモデルが金融システムにもたらす…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "G20＝主要20か国の財務相・中央銀行総裁会議がタイで始まりました。",
+        "各国でインフレ懸念が高まり金利の上昇傾向も続く中で世界経済を安定的に成長させるための対策や高性能のAIモデルが金融システムにもたらす…。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "G20＝主要20か国の財務相・中央銀行総裁会議がタイで始まりました。 各国でインフレ懸念が高まり金利の上昇傾向も続く中で世界経済を安定的に成長させるための対策や高性能のAIモデルが金融システムにもたらす…。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "G20＝主要20か国の財務相・中央銀行総裁会議がタイで始まりました。",
+            "各国でインフレ懸念が高まり金利の上昇傾向も続く中で世界経済を安定的に成長させるための対策や高性能のAIモデルが金融システムにもたらす…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-15T11:49:27+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-15T16:52:13.905884+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "G20財務相・中央銀行総裁会議開幕 世界経済やAIへの対応を議論",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261015de59525",
+              "publishedAt": "2026-10-15T11:49:27+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-15T11:49:27+09:00",
+          "keyPoints": [
+            "G20＝主要20か国の財務相・中央銀行総裁会議がタイで始まりました。各国でインフレ懸念が高まり金利の上昇傾向も続く中で世界経済を安定的に成長させるための対策や高性能のAIモデルが金融システムにもたらす…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "db2c8f0007e9ebac",
+      "slug": "2026-10-15-12-db2c8f00",
+      "publishedAt": "2026-10-15T11:20:39+09:00",
+      "updatedAt": "2026-10-15T16:52:13.905884+09:00",
+      "title": "中日新監督の工藤公康氏が会見 再建へ「意識を変えることはできる」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-15T11:20:39+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-15T16:52:13.905884+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "中日新監督の工藤公康氏が会見 再建へ「意識を変えることはできる」",
+              "url": "https://www.asahi.com/articles/ASVBH0J8ZVBHUTQP005M.html",
+              "publishedAt": "2026-10-15T11:20:39+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-15T11:20:39+09:00",
+          "keyPoints": [
+            "中日新監督の工藤公康氏が会見 再建へ「意識を変えることはできる」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "aa08985c0d44bd81",
+      "slug": "2026-10-15-12-aa08985c",
+      "publishedAt": "2026-10-15T11:16:16+09:00",
+      "updatedAt": "2026-10-15T16:52:13.905884+09:00",
+      "title": "メドレーの産婦人科向けシステムに不正アクセス、患者の個人情報漏えいか 最大787の医療機関が対象",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-15T11:16:16+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-15T16:52:13.905884+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "メドレーの産婦人科向けシステムに不正アクセス、患者の個人情報漏えいか 最大787の医療機関が対象",
+              "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002293",
+              "publishedAt": "2026-10-15T11:16:16+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-15T11:16:16+09:00",
+          "keyPoints": [
+            "メドレーの産婦人科向けシステムに不正アクセス、患者の個人情報漏えいか 最大787の医療機関が対象"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    },
+    {
+      "id": "9051265ef89cc501",
+      "slug": "2026-10-15-12-9051265e",
+      "publishedAt": "2026-10-15T11:16:08+09:00",
+      "updatedAt": "2026-10-15T16:52:13.905884+09:00",
+      "title": "ネットフリックスがレイオフ 従業員1000人削減へ 2022年以来の規模",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-15T11:16:08+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-15T16:52:13.905884+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "ネットフリックスがレイオフ 従業員1000人削減へ 2022年以来の規模",
+              "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002291",
+              "publishedAt": "2026-10-15T11:16:08+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-15T11:16:08+09:00",
+          "keyPoints": [
+            "ネットフリックスがレイオフ 従業員1000人削減へ 2022年以来の規模"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "a14f13efe39f2f74",
+      "slug": "2026-10-15-12-a14f13ef",
+      "publishedAt": "2026-10-15T11:04:00+09:00",
+      "updatedAt": "2026-10-15T16:52:13.905884+09:00",
+      "title": "北朝鮮が潜水艦から発射する2種類の巡航ミサイルの発射実験",
+      "dek": "北朝鮮の国営メディアは、ミサイル総局が14日、日本海で潜水艦から発射する2種類の巡航ミサイルの発射実験を行ったと伝えました。",
+      "summary": "北朝鮮の国営メディアは、ミサイル総局が14日、日本海で潜水艦から発射する2種類の巡航ミサイルの発射実験を行ったと伝えました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "北朝鮮の国営メディアは、ミサイル総局が14日、日本海で潜水艦から発射する2種類の巡航ミサイルの発射実験を行ったと伝えました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "北朝鮮の国営メディアは、ミサイル総局が14日、日本海で潜水艦から発射する2種類の巡航ミサイルの発射実験を行ったと伝えました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "北朝鮮の国営メディアは、ミサイル総局が14日、日本海で潜水艦から発射する2種類の巡航ミサイルの発射実験を行ったと伝えました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-15T11:04:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-15T16:52:13.905884+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "北朝鮮が潜水艦から発射する2種類の巡航ミサイルの発射実験",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261015de59586",
+              "publishedAt": "2026-10-15T11:04:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-15T11:04:00+09:00",
+          "keyPoints": [
+            "北朝鮮の国営メディアは、ミサイル総局が14日、日本海で潜水艦から発射する2種類の巡航ミサイルの発射実験を行ったと伝えました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "1dfc9331d99a8719",
+      "slug": "2026-10-15-12-1dfc9331",
+      "publishedAt": "2026-10-15T11:00:00+09:00",
+      "updatedAt": "2026-10-15T16:52:13.905884+09:00",
+      "title": "孤独のグルメ作者の漫画「遥かな町へ」、鳥取のかばん会社が映画化",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-15T11:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-15T16:52:13.905884+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "孤独のグルメ作者の漫画「遥かな町へ」、鳥取のかばん会社が映画化",
+              "url": "https://www.asahi.com/articles/ASVB930Z7VB9PUUB00BM.html",
+              "publishedAt": "2026-10-15T11:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-15T11:00:00+09:00",
+          "keyPoints": [
+            "孤独のグルメ作者の漫画「遥かな町へ」、鳥取のかばん会社が映画化"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "89ab5b40ed8189ac",
+      "slug": "2026-10-15-12-89ab5b40",
+      "publishedAt": "2026-10-15T10:55:34+09:00",
+      "updatedAt": "2026-10-15T16:52:13.905884+09:00",
+      "title": "相次ぐサイバー攻撃に「AI悪用の可能性」……初来日のAnthropic共同創業者が言及 悪用どう抑止",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-15T10:55:34+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-15T16:52:13.905884+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "相次ぐサイバー攻撃に「AI悪用の可能性」……初来日のAnthropic共同創業者が言及 悪用どう抑止",
+              "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002286",
+              "publishedAt": "2026-10-15T10:55:34+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-15T10:55:34+09:00",
+          "keyPoints": [
+            "相次ぐサイバー攻撃に「AI悪用の可能性」……初来日のAnthropic共同創業者が言及 悪用どう抑止"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "29824d915ef217aa",
+      "slug": "2026-10-15-12-29824d91",
+      "publishedAt": "2026-10-15T10:28:00+09:00",
+      "updatedAt": "2026-10-15T16:52:13.905884+09:00",
+      "title": "高市政権の「潮目」の可能性 牧原出・東大教授が読む簗氏辞任の影響",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-15T10:28:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-15T16:52:13.905884+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "高市政権の「潮目」の可能性 牧原出・東大教授が読む簗氏辞任の影響",
+              "url": "https://www.asahi.com/articles/ASVBG4F1MVBGUTIL01JM.html",
+              "publishedAt": "2026-10-15T10:28:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-15T10:28:00+09:00",
+          "keyPoints": [
+            "高市政権の「潮目」の可能性 牧原出・東大教授が読む簗氏辞任の影響"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "4ada76be93062597",
+      "slug": "2026-10-15-12-4ada76be",
+      "publishedAt": "2026-10-15T05:18:53+09:00",
+      "updatedAt": "2026-10-15T16:52:13.905884+09:00",
+      "title": "漫画家が出版社を提訴 “出版権は消滅”確認を求める",
+      "dek": "漫画家の女性が、都内の出版社と結んだ作品の出版契約について「期間が事実上無期限なのに印税が支払われず、一方的な内容だ」として、出版権がすでに消滅していることの確認を求める異例の訴えを起こしたことがわか…。",
+      "summary": "漫画家の女性が、都内の出版社と結んだ作品の出版契約について「期間が事実上無期限なのに印税が支払われず、一方的な内容だ」として、出版権がすでに消滅していることの確認を求める異例の訴えを起こしたことがわか…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "漫画家の女性が、都内の出版社と結んだ作品の出版契約について「期間が事実上無期限なのに印税が支払われず、一方的な内容だ」として、出版権がすでに消滅していることの確認を求める異例の訴えを起こしたことがわか…。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "漫画家の女性が、都内の出版社と結んだ作品の出版契約について「期間が事実上無期限なのに印税が支払われず、一方的な内容だ」として、出版権がすでに消滅していることの確認を求める異例の訴えを起こしたことがわか…。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "漫画家の女性が、都内の出版社と結んだ作品の出版契約について「期間が事実上無期限なのに印税が支払われず、一方的な内容だ」として、出版権がすでに消滅していることの確認を求める異例の訴えを起こしたことがわか…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-15T05:18:53+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
+        },
+        {
+          "at": "2026-10-15T16:52:13.905884+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "漫画家が出版社を提訴 “出版権は消滅”確認を求める",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261014de59459",
+              "publishedAt": "2026-10-15T05:18:53+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-15T05:18:53+09:00",
+          "keyPoints": [
+            "漫画家の女性が、都内の出版社と結んだ作品の出版契約について「期間が事実上無期限なのに印税が支払われず、一方的な内容だ」として、出版権がすでに消滅していることの確認を求める異例の訴えを起こしたことがわか…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    }
+  ]
+}

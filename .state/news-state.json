@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-15T06:00:00+09:00",
-  "lastCompletedEdition": "2026-10-15-06",
+  "lastCompletedEnd": "2026-10-15T12:00:00+09:00",
+  "lastCompletedEdition": "2026-10-15-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -18162,7 +18162,79 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2610/14/2000002276"
       ]
+    },
+    {
+      "editionId": "2026-10-15-12",
+      "title": "g20財務相・中央銀行総裁会議開幕世界経済やaiへの対応を議論",
+      "publishedAt": "2026-10-15T11:49:27+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261015de59525"
+      ]
+    },
+    {
+      "editionId": "2026-10-15-12",
+      "title": "中日新監督の工藤公康氏が会見再建へ意識を変えることはできる",
+      "publishedAt": "2026-10-15T11:20:39+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBH0J8ZVBHUTQP005M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-15-12",
+      "title": "メドレーの産婦人科向けシステムに不正アクセス患者の個人情報漏えいか最大787の医療機関が対象",
+      "publishedAt": "2026-10-15T11:16:16+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/15/2000002293"
+      ]
+    },
+    {
+      "editionId": "2026-10-15-12",
+      "title": "ネットフリックスがレイオフ従業員1000人削減へ2022年以来の規模",
+      "publishedAt": "2026-10-15T11:16:08+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/15/2000002291"
+      ]
+    },
+    {
+      "editionId": "2026-10-15-12",
+      "title": "北朝鮮が潜水艦から発射する2種類の巡航ミサイルの発射実験",
+      "publishedAt": "2026-10-15T11:04:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261015de59586"
+      ]
+    },
+    {
+      "editionId": "2026-10-15-12",
+      "title": "孤独のグルメ作者の漫画遥かな町へ鳥取のかばん会社が映画化",
+      "publishedAt": "2026-10-15T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB930Z7VB9PUUB00BM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-15-12",
+      "title": "相次ぐサイバー攻撃にai悪用の可能性初来日のanthropic共同創業者が言及悪用どう抑止",
+      "publishedAt": "2026-10-15T10:55:34+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/15/2000002286"
+      ]
+    },
+    {
+      "editionId": "2026-10-15-12",
+      "title": "高市政権の潮目の可能性牧原出・東大教授が読む簗氏辞任の影響",
+      "publishedAt": "2026-10-15T10:28:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBG4F1MVBGUTIL01JM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-15-12",
+      "title": "漫画家が出版社を提訴出版権は消滅確認を求める",
+      "publishedAt": "2026-10-15T05:18:53+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261014de59459"
+      ]
     }
   ],
-  "updatedAt": "2026-10-15T08:31:14.867954+09:00"
+  "updatedAt": "2026-10-15T16:52:13.905884+09:00"
 }
