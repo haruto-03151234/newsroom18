@@ -1,0 +1,1083 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-10-16T22:43:50.314528+09:00",
+  "summary": "対象時間帯の6配信元のニュースを14本に整理しました。うち重要ニュースは3本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-10-16-18",
+    "date": "2026-10-16",
+    "slot": "18:00",
+    "label": "夕方6時版"
+  },
+  "coverage": {
+    "from": "2026-10-16T12:00:00+09:00",
+    "to": "2026-10-16T18:00:00+09:00",
+    "start": "2026-10-16T12:00:00+09:00",
+    "end": "2026-10-16T18:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "10月16日 12:00〜10月16日 18:00"
+  },
+  "stats": {
+    "articleCount": 14,
+    "categoryCounts": {
+      "経済": 2,
+      "国内": 2,
+      "スポーツ": 2,
+      "テクノロジー": 2,
+      "科学": 1,
+      "海外": 2,
+      "社会": 1,
+      "エンタメ": 2
+    },
+    "sourceCount": 18,
+    "publisherCount": 6,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 3,
+      "jma": 1,
+      "maff": 2,
+      "mainichi": 2,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 3,
+      "brief": 11
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories"
+  ],
+  "articles": [
+    {
+      "id": "7e1fb87bdb548f65",
+      "slug": "2026-10-16-18-7e1fb87b",
+      "publishedAt": "2026-10-16T17:00:00+09:00",
+      "updatedAt": "2026-10-16T22:43:50.314528+09:00",
+      "title": "令和8年産米の相対取引価格・数量について（令和8年9月）",
+      "dek": "10月16日 17:00更新。プレスリリース 〇 令和8年産米の令和8年9月の相対取引価格は、対前年同月▲15,602円(▲42%)、対前々年同月▲1,407円(▲6%)の全銘柄平均21,293円/玄米60kg。",
+      "summary": "プレスリリース 〇 令和8年産米の令和8年9月の相対取引価格は、対前年同月▲15,602円(▲42%)、対前々年同月▲1,407円(▲6%)の全銘柄平均21,293円/玄米60kg。令和8年9月の相対取引価格は、全銘柄平均価格で21,293円/玄米60kg、相対取引数量は、全銘柄合計で5.4万トンとなっています。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "令和8年産米の相対取引価格数量について令和8年9月"
+      ],
+      "facts": [
+        "プレスリリース 〇 令和8年産米の令和8年9月の相対取引価格は、対前年同月▲15,602円(▲42%)、対前々年同月▲1,407円(▲6%)の全銘柄平均21,293円/玄米60kg。",
+        "令和8年9月の相対取引価格は、全銘柄平均価格で21,293円/玄米60kg、相対取引数量は、全銘柄合計で5.4万トンとなっています。",
+        "産地銘柄別の相対取引価格・数量については、添付資料を御参照ください。",
+        "なお、産地品種銘柄ごとの価格は、相対取引契約の価格(運賃、包装代、消費税を含む1等米の価格)を加重平均したものであり、数量は、同契約の数量の合計です。",
+        "また、調査対象業者、取りまとめの区分等については、添付資料の脚注を御参照ください。",
+        "今回、令和8年9月の相対取引価格・数量について、米の出荷販売業者、団体等から報告のあった内容を取りまとめましたので公表します。",
+        "農産局農産政策部企画課 担当者:米流通調査班 代表:03-3502-8111(内線5050) ダイヤルイン:03-3502-8560。"
+      ],
+      "impactPoints": [],
+      "background": "本資料及び過去の調査結果は、当省ホームページから御覧になれます。",
+      "watchPoints": [],
+      "body": [
+        "プレスリリース 〇 令和8年産米の令和8年9月の相対取引価格は、対前年同月▲15,602円(▲42%)、対前々年同月▲1,407円(▲6%)の全銘柄平均21,293円/玄米60kg。令和8年9月の相対取引価格は、全銘柄平均価格で21,293円/玄米60kg、相対取引数量は、全銘柄合計で5.4万トンとなっています。",
+        "本資料及び過去の調査結果は、当省ホームページから御覧になれます。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "プレスリリース 〇 令和8年産米の令和8年9月の相対取引価格は、対前年同月▲15,602円(▲42%)、対前々年同月▲1,407円(▲6%)の全銘柄平均21,293円/玄米60kg。",
+            "令和8年9月の相対取引価格は、全銘柄平均価格で21,293円/玄米60kg、相対取引数量は、全銘柄合計で5.4万トンとなっています。",
+            "産地銘柄別の相対取引価格・数量については、添付資料を御参照ください。",
+            "なお、産地品種銘柄ごとの価格は、相対取引契約の価格(運賃、包装代、消費税を含む1等米の価格)を加重平均したものであり、数量は、同契約の数量の合計です。",
+            "また、調査対象業者、取りまとめの区分等については、添付資料の脚注を御参照ください。",
+            "今回、令和8年9月の相対取引価格・数量について、米の出荷販売業者、団体等から報告のあった内容を取りまとめましたので公表します。",
+            "農産局農産政策部企画課 担当者:米流通調査班 代表:03-3502-8111(内線5050) ダイヤルイン:03-3502-8560。"
+          ]
+        },
+        {
+          "heading": "背景",
+          "paragraphs": [
+            "本資料及び過去の調査結果は、当省ホームページから御覧になれます。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-16T17:00:00+09:00",
+          "text": "農林水産省 報道発表資料の公開情報を確認",
+          "source": "農林水産省 報道発表資料"
+        },
+        {
+          "at": "2026-10-16T22:43:50.314528+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "農林水産省 報道発表資料",
+          "publisherId": "maff",
+          "links": [
+            {
+              "title": "令和8年産米の相対取引価格・数量について（令和8年9月）",
+              "url": "https://www.maff.go.jp/j/press/nousan/kikaku/261016.html",
+              "publishedAt": "2026-10-16T17:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-16T17:00:00+09:00",
+          "keyPoints": [
+            "農林水産省 報道発表資料の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "20dfee7e3ea01a9d",
+      "slug": "2026-10-16-18-20dfee7e",
+      "publishedAt": "2026-10-16T17:00:00+09:00",
+      "updatedAt": "2026-10-16T22:43:50.314528+09:00",
+      "title": "米に関するマンスリーレポート（令和8年10月号）の公表について",
+      "dek": "10月16日 17:00更新。プレスリリース ◯ 米に関する価格動向や需給動向の最新データを取りまとめました。",
+      "summary": "プレスリリース ◯ 米に関する価格動向や需給動向の最新データを取りまとめました。需要に応じた生産・円滑な米取引に資するよう、米に関する価格や需給の動向に関するデータを集約・整理した「米に関するマンスリーレポート(令和8年10月号)」について取りまとめました。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "米に関するマンスリーレポート令和8年10月号の公表について"
+      ],
+      "facts": [
+        "プレスリリース ◯ 米に関する価格動向や需給動向の最新データを取りまとめました。",
+        "需要に応じた生産・円滑な米取引に資するよう、米に関する価格や需給の動向に関するデータを集約・整理した「米に関するマンスリーレポート(令和8年10月号)」について取りまとめました。",
+        "「米に関するマンスリーレポート」は、米に関する価格動向や需給動向に関するデータを集約・整理し、毎月定期的に公表することによって、需給動向を適切に反映した米取引に資することを目的としております。",
+        "「米に関するマンスリーレポート」は、当省ホームページからも御覧になれます。",
+        "URL: 米に関するマンスリーレポート 米に関するマンスリーレポート(令和8年10月)(PDF : 10,995KB) 農産局企画課 担当者:米穀需給班 代表:03-3502-8111(内線4975) ダイヤルイン:03-6738-8973。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "プレスリリース ◯ 米に関する価格動向や需給動向の最新データを取りまとめました。需要に応じた生産・円滑な米取引に資するよう、米に関する価格や需給の動向に関するデータを集約・整理した「米に関するマンスリーレポート(令和8年10月号)」について取りまとめました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "プレスリリース ◯ 米に関する価格動向や需給動向の最新データを取りまとめました。",
+            "需要に応じた生産・円滑な米取引に資するよう、米に関する価格や需給の動向に関するデータを集約・整理した「米に関するマンスリーレポート(令和8年10月号)」について取りまとめました。",
+            "「米に関するマンスリーレポート」は、米に関する価格動向や需給動向に関するデータを集約・整理し、毎月定期的に公表することによって、需給動向を適切に反映した米取引に資することを目的としております。",
+            "「米に関するマンスリーレポート」は、当省ホームページからも御覧になれます。",
+            "URL: 米に関するマンスリーレポート 米に関するマンスリーレポート(令和8年10月)(PDF : 10,995KB) 農産局企画課 担当者:米穀需給班 代表:03-3502-8111(内線4975) ダイヤルイン:03-6738-8973。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-16T17:00:00+09:00",
+          "text": "農林水産省 報道発表資料の公開情報を確認",
+          "source": "農林水産省 報道発表資料"
+        },
+        {
+          "at": "2026-10-16T22:43:50.314528+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "農林水産省 報道発表資料",
+          "publisherId": "maff",
+          "links": [
+            {
+              "title": "米に関するマンスリーレポート（令和8年10月号）の公表について",
+              "url": "https://www.maff.go.jp/j/press/nousan/kikaku/261016_1.html",
+              "publishedAt": "2026-10-16T17:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-16T17:00:00+09:00",
+          "keyPoints": [
+            "農林水産省 報道発表資料の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "f910ba289e5aa8dd",
+      "slug": "2026-10-16-18-f910ba28",
+      "publishedAt": "2026-10-16T16:00:43+09:00",
+      "updatedAt": "2026-10-16T22:43:50.314528+09:00",
+      "title": "火山名 霧島山（新燃岳） 火山の状況に関する解説情報",
+      "dek": "10月16日 16:00〜10月16日 16:05更新。 < 火口周辺警報(噴火警戒レベル2、火口周辺規制)が継続> 10月9日から16日15時までの新燃岳の活動状況をお知らせします。",
+      "summary": "< 火口周辺警報(噴火警戒レベル2、火口周辺規制)が継続> 10月9日から16日15時までの新燃岳の活動状況をお知らせします。新燃岳火口から概ね2kmの範囲では、噴火に伴う弾道を描いて飛散する大きな噴石などに警戒してください。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "火山名霧島山新燃岳火山の状況に関する解説情報"
+      ],
+      "facts": [],
+      "impactPoints": [
+        "< 火口周辺警報(噴火警戒レベル2、火口周辺規制)が継続> 10月9日から16日15時までの新燃岳の活動状況をお知らせします。",
+        "新燃岳火口から概ね2kmの範囲では、噴火に伴う弾道を描いて飛散する大きな噴石などに警戒してください。",
+        "レベル2(火口周辺規制): 霧島山(新燃岳)。",
+        "< 火口周辺警報(噴火警戒レベル3、入山規制)が継続> 10月12日から16日15時までの桜島の活動状況をお知らせします。",
+        "レベル3(入山規制): 桜島。",
+        "< 火口周辺警報(噴火警戒レベル2、火口周辺規制)が継続> 10月9日から16日15時までの諏訪之瀬島の活動状況をお知らせします。",
+        "レベル2(火口周辺規制): 諏訪之瀬島。",
+        "< 火口周辺警報(噴火警戒レベル2、火口周辺規制)が継続> 10月9日から16日15時までの薩摩硫黄島の活動状況をお知らせします。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "南岳山頂火口及び昭和火口から1kmを超えて飛散する大きな噴石や小規模な火砕流を伴う噴火が発生するおそれがあります。"
+      ],
+      "body": [
+        "< 火口周辺警報(噴火警戒レベル2、火口周辺規制)が継続> 10月9日から16日15時までの新燃岳の活動状況をお知らせします。新燃岳火口から概ね2kmの範囲では、噴火に伴う弾道を描いて飛散する大きな噴石などに警戒してください。",
+        "レベル2(火口周辺規制): 霧島山(新燃岳)。",
+        "< 火口周辺警報(噴火警戒レベル3、入山規制)が継続> 10月12日から16日15時までの桜島の活動状況をお知らせします。",
+        "レベル3(入山規制): 桜島。",
+        "< 火口周辺警報(噴火警戒レベル2、火口周辺規制)が継続> 10月9日から16日15時までの諏訪之瀬島の活動状況をお知らせします。",
+        "レベル2(火口周辺規制): 諏訪之瀬島。",
+        "< 火口周辺警報(噴火警戒レベル2、火口周辺規制)が継続> 10月9日から16日15時までの薩摩硫黄島の活動状況をお知らせします。",
+        "南岳山頂火口及び昭和火口から1kmを超えて飛散する大きな噴石や小規模な火砕流を伴う噴火が発生するおそれがあります。"
+      ],
+      "sections": [
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "< 火口周辺警報(噴火警戒レベル2、火口周辺規制)が継続> 10月9日から16日15時までの新燃岳の活動状況をお知らせします。",
+            "新燃岳火口から概ね2kmの範囲では、噴火に伴う弾道を描いて飛散する大きな噴石などに警戒してください。",
+            "レベル2(火口周辺規制): 霧島山(新燃岳)。",
+            "< 火口周辺警報(噴火警戒レベル3、入山規制)が継続> 10月12日から16日15時までの桜島の活動状況をお知らせします。",
+            "レベル3(入山規制): 桜島。",
+            "< 火口周辺警報(噴火警戒レベル2、火口周辺規制)が継続> 10月9日から16日15時までの諏訪之瀬島の活動状況をお知らせします。",
+            "レベル2(火口周辺規制): 諏訪之瀬島。",
+            "< 火口周辺警報(噴火警戒レベル2、火口周辺規制)が継続> 10月9日から16日15時までの薩摩硫黄島の活動状況をお知らせします。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "南岳山頂火口及び昭和火口から1kmを超えて飛散する大きな噴石や小規模な火砕流を伴う噴火が発生するおそれがあります。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-16T16:05:04+09:00",
+          "text": "気象庁 防災情報（地震・津波・火山）の公開情報を確認",
+          "source": "気象庁 防災情報（地震・津波・火山）"
+        },
+        {
+          "at": "2026-10-16T22:43:50.314528+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（地震・津波・火山）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "火山名 桜島 火山の状況に関する解説情報",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261016070043_0_VFVO51_400000.xml",
+              "publishedAt": "2026-10-16T16:00:43+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "火山名 霧島山（新燃岳） 火山の状況に関する解説情報",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261016070137_0_VFVO51_400000.xml",
+              "publishedAt": "2026-10-16T16:01:37+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "火山名 阿蘇山 火山の状況に関する解説情報",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261016070244_0_VFVO51_400000.xml",
+              "publishedAt": "2026-10-16T16:02:44+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "火山名 薩摩硫黄島 火山の状況に関する解説情報",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261016070350_0_VFVO51_400000.xml",
+              "publishedAt": "2026-10-16T16:03:50+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "火山名 諏訪之瀬島 火山の状況に関する解説情報",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261016070504_0_VFVO51_400000.xml",
+              "publishedAt": "2026-10-16T16:05:04+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-16T16:05:04+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（地震・津波・火山）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 5,
+      "freshSourceCount": 5,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "cdbc823bff406669",
+      "slug": "2026-10-16-18-cdbc823b",
+      "publishedAt": "2026-10-16T17:56:43+09:00",
+      "updatedAt": "2026-10-16T22:43:50.314528+09:00",
+      "title": "ソースネクスト パスワード暗号化がない状態で流出 再設定を",
+      "dek": "年賀状ソフトなどを手がける「ソースネクスト」で、メールアドレスやパスワードなど大量の個人情報が不正アクセスによって流出した問題で、このうちパスワードは暗号がかかっていない状態で流出していたことが会社へ…。",
+      "summary": "年賀状ソフトなどを手がける「ソースネクスト」で、メールアドレスやパスワードなど大量の個人情報が不正アクセスによって流出した問題で、このうちパスワードは暗号がかかっていない状態で流出していたことが会社へ…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "年賀状ソフトなどを手がける「ソースネクスト」で、メールアドレスやパスワードなど大量の個人情報が不正アクセスによって流出した問題で、このうちパスワードは暗号がかかっていない状態で流出していたことが会社へ…。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "年賀状ソフトなどを手がける「ソースネクスト」で、メールアドレスやパスワードなど大量の個人情報が不正アクセスによって流出した問題で、このうちパスワードは暗号がかかっていない状態で流出していたことが会社へ…。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "年賀状ソフトなどを手がける「ソースネクスト」で、メールアドレスやパスワードなど大量の個人情報が不正アクセスによって流出した問題で、このうちパスワードは暗号がかかっていない状態で流出していたことが会社へ…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-16T17:56:43+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
+        },
+        {
+          "at": "2026-10-16T22:43:50.314528+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "ソースネクスト パスワード暗号化がない状態で流出 再設定を",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261016de60556",
+              "publishedAt": "2026-10-16T17:56:43+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-16T17:56:43+09:00",
+          "keyPoints": [
+            "年賀状ソフトなどを手がける「ソースネクスト」で、メールアドレスやパスワードなど大量の個人情報が不正アクセスによって流出した問題で、このうちパスワードは暗号がかかっていない状態で流出していたことが会社へ…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "f7a7778bfc0ef80f",
+      "slug": "2026-10-16-18-f7a7778b",
+      "publishedAt": "2026-10-16T17:53:42+09:00",
+      "updatedAt": "2026-10-16T22:43:50.314528+09:00",
+      "title": "バットが頭部直撃から、川上審判員が意識回復「球場に戻って審判を」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-16T17:53:42+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-16T22:43:50.314528+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "バットが頭部直撃から、川上審判員が意識回復「球場に戻って審判を」",
+              "url": "https://www.asahi.com/articles/ASVBJ2TYWVBJUTQP016M.html",
+              "publishedAt": "2026-10-16T17:53:42+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-16T17:53:42+09:00",
+          "keyPoints": [
+            "バットが頭部直撃から、川上審判員が意識回復「球場に戻って審判を」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "6cb35cde5a119608",
+      "slug": "2026-10-16-18-6cb35cde",
+      "publishedAt": "2026-10-16T17:48:15+09:00",
+      "updatedAt": "2026-10-16T22:43:50.314528+09:00",
+      "title": "うるう秒、27年5月に廃止 国際度量衡総会で決定 通信や情報システムの障害防止へ",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-16T17:48:15+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-16T22:43:50.314528+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "うるう秒、27年5月に廃止 国際度量衡総会で決定 通信や情報システムの障害防止へ",
+              "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002343",
+              "publishedAt": "2026-10-16T17:48:15+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-16T17:48:15+09:00",
+          "keyPoints": [
+            "うるう秒、27年5月に廃止 国際度量衡総会で決定 通信や情報システムの障害防止へ"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "0dbb505d3790d5ae",
+      "slug": "2026-10-16-18-0dbb505d",
+      "publishedAt": "2026-10-16T17:38:06+09:00",
+      "updatedAt": "2026-10-16T22:43:50.314528+09:00",
+      "title": "日本郵便 不正アクセスで国際郵便利用者の情報 一時閲覧可能に",
+      "dek": "日本郵便は、国際郵便の配送状況に関する問い合わせシステムのサーバーに不正アクセスがあり、利用者の氏名や電話番号などの個人情報、延べおよそ600件を第三者が一時、閲覧できる状態になっていたと明らかにしま…。",
+      "summary": "日本郵便は、国際郵便の配送状況に関する問い合わせシステムのサーバーに不正アクセスがあり、利用者の氏名や電話番号などの個人情報、延べおよそ600件を第三者が一時、閲覧できる状態になっていたと明らかにしま…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "日本郵便は、国際郵便の配送状況に関する問い合わせシステムのサーバーに不正アクセスがあり、利用者の氏名や電話番号などの個人情報、延べおよそ600件を第三者が一時、閲覧できる状態になっていたと明らかにしま…。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "日本郵便は、国際郵便の配送状況に関する問い合わせシステムのサーバーに不正アクセスがあり、利用者の氏名や電話番号などの個人情報、延べおよそ600件を第三者が一時、閲覧できる状態になっていたと明らかにしま…。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "日本郵便は、国際郵便の配送状況に関する問い合わせシステムのサーバーに不正アクセスがあり、利用者の氏名や電話番号などの個人情報、延べおよそ600件を第三者が一時、閲覧できる状態になっていたと明らかにしま…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-16T17:38:06+09:00",
+          "text": "NHK ONE 科学・文化の公開情報を確認",
+          "source": "NHK ONE 科学・文化"
+        },
+        {
+          "at": "2026-10-16T22:43:50.314528+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 科学・文化",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "日本郵便 不正アクセスで国際郵便利用者の情報 一時閲覧可能に",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261016de60543",
+              "publishedAt": "2026-10-16T17:38:06+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-16T17:38:06+09:00",
+          "keyPoints": [
+            "日本郵便は、国際郵便の配送状況に関する問い合わせシステムのサーバーに不正アクセスがあり、利用者の氏名や電話番号などの個人情報、延べおよそ600件を第三者が一時、閲覧できる状態になっていたと明らかにしま…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    },
+    {
+      "id": "2a58d78fa3a14f67",
+      "slug": "2026-10-16-18-2a58d78f",
+      "publishedAt": "2026-10-16T17:29:39+09:00",
+      "updatedAt": "2026-10-16T22:43:50.314528+09:00",
+      "title": "相次ぐ不正アクセス「実態解明進めなければならない」 警察庁長官、担当幹部会議で指示",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-16T17:29:39+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-16T22:43:50.314528+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "相次ぐ不正アクセス「実態解明進めなければならない」 警察庁長官、担当幹部会議で指示",
+              "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002341",
+              "publishedAt": "2026-10-16T17:29:39+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-16T17:29:39+09:00",
+          "keyPoints": [
+            "相次ぐ不正アクセス「実態解明進めなければならない」 警察庁長官、担当幹部会議で指示"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "8a8e74fff542b1bf",
+      "slug": "2026-10-16-18-8a8e74ff",
+      "publishedAt": "2026-10-16T17:18:19+09:00",
+      "updatedAt": "2026-10-16T22:43:50.314528+09:00",
+      "title": "鳥海連志、古沢拓也が快勝導く 車いすバスケ男子のアジアパラ初戦",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-16T17:18:19+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-16T22:43:50.314528+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "鳥海連志、古沢拓也が快勝導く 車いすバスケ男子のアジアパラ初戦",
+              "url": "https://www.asahi.com/articles/ASVBJ2JKSVBJUTQP009M.html",
+              "publishedAt": "2026-10-16T17:18:19+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-16T17:18:19+09:00",
+          "keyPoints": [
+            "鳥海連志、古沢拓也が快勝導く 車いすバスケ男子のアジアパラ初戦"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "1a72ccf65b0757ed",
+      "slug": "2026-10-16-18-1a72ccf6",
+      "publishedAt": "2026-10-16T17:00:00+09:00",
+      "updatedAt": "2026-10-16T22:43:50.314528+09:00",
+      "title": "ホルムズ海峡で商船攻撃が急増 イラン高官「米軍の密輸作戦に対抗」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-16T17:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-16T22:43:50.314528+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "ホルムズ海峡で商船攻撃が急増 イラン高官「米軍の密輸作戦に対抗」",
+              "url": "https://www.asahi.com/articles/ASVBJ1TYJVBJUHBI02DM.html",
+              "publishedAt": "2026-10-16T17:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-16T17:00:00+09:00",
+          "keyPoints": [
+            "ホルムズ海峡で商船攻撃が急増 イラン高官「米軍の密輸作戦に対抗」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "96d1a831c0d4daf6",
+      "slug": "2026-10-16-18-96d1a831",
+      "publishedAt": "2026-10-16T16:11:00+09:00",
+      "updatedAt": "2026-10-16T22:43:50.314528+09:00",
+      "title": "ホワイトハウス新報道官 司法試験合格していないと認める",
+      "dek": "アメリカ・ホワイトハウスの新しい報道官に就任したザカリア氏は、弁護士の資格や経歴に疑問を呈する報道が相次ぐなか、メディアに対し司法試験には合格していないことを認める一方、法律家の肩書きを使ってきたこと…。",
+      "summary": "アメリカ・ホワイトハウスの新しい報道官に就任したザカリア氏は、弁護士の資格や経歴に疑問を呈する報道が相次ぐなか、メディアに対し司法試験には合格していないことを認める一方、法律家の肩書きを使ってきたこと…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "アメリカ・ホワイトハウスの新しい報道官に就任したザカリア氏は、弁護士の資格や経歴に疑問を呈する報道が相次ぐなか、メディアに対し司法試験には合格していないことを認める一方、法律家の肩書きを使ってきたこと…。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "アメリカ・ホワイトハウスの新しい報道官に就任したザカリア氏は、弁護士の資格や経歴に疑問を呈する報道が相次ぐなか、メディアに対し司法試験には合格していないことを認める一方、法律家の肩書きを使ってきたこと…。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "アメリカ・ホワイトハウスの新しい報道官に就任したザカリア氏は、弁護士の資格や経歴に疑問を呈する報道が相次ぐなか、メディアに対し司法試験には合格していないことを認める一方、法律家の肩書きを使ってきたこと…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-16T16:11:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-16T22:43:50.314528+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "ホワイトハウス新報道官 司法試験合格していないと認める",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261016de60432",
+              "publishedAt": "2026-10-16T16:11:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-16T16:11:00+09:00",
+          "keyPoints": [
+            "アメリカ・ホワイトハウスの新しい報道官に就任したザカリア氏は、弁護士の資格や経歴に疑問を呈する報道が相次ぐなか、メディアに対し司法試験には合格していないことを認める一方、法律家の肩書きを使ってきたこと…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "372434fd473f2baf",
+      "slug": "2026-10-16-18-372434fd",
+      "publishedAt": "2026-10-16T16:10:18+09:00",
+      "updatedAt": "2026-10-16T22:43:50.314528+09:00",
+      "title": "ゴジラ到達までに25万人をどう逃がす──富士通の避難誘導シミュを体験 記者は市民を救えたか",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-16T16:10:18+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-16T22:43:50.314528+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "ゴジラ到達までに25万人をどう逃がす──富士通の避難誘導シミュを体験 記者は市民を救えたか",
+              "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002335",
+              "publishedAt": "2026-10-16T16:10:18+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-16T16:10:18+09:00",
+          "keyPoints": [
+            "ゴジラ到達までに25万人をどう逃がす──富士通の避難誘導シミュを体験 記者は市民を救えたか"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "a800655c17cf231d",
+      "slug": "2026-10-16-18-a800655c",
+      "publishedAt": "2026-10-16T13:35:30+09:00",
+      "updatedAt": "2026-10-16T22:43:50.314528+09:00",
+      "title": "シネマの週末・この１本:わたしの知らない子どもたち 混沌の中をたくましく",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-16T13:35:30+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-10-16T22:43:50.314528+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "シネマの週末・この１本:わたしの知らない子どもたち 混沌の中をたくましく",
+              "url": "https://mainichi.jp/articles/20261016/dde/012/070/006000c",
+              "publishedAt": "2026-10-16T13:35:30+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-16T13:35:30+09:00",
+          "keyPoints": [
+            "シネマの週末・この１本:わたしの知らない子どもたち 混沌の中をたくましく"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "b373342d5a01f96e",
+      "slug": "2026-10-16-18-b373342d",
+      "publishedAt": "2026-10-16T13:35:15+09:00",
+      "updatedAt": "2026-10-16T22:43:50.314528+09:00",
+      "title": "シネマの週末・トピックス:ハイファイブ！",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-16T13:35:15+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-10-16T22:43:50.314528+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "シネマの週末・トピックス:ハイファイブ！",
+              "url": "https://mainichi.jp/articles/20261016/dde/012/070/005000c",
+              "publishedAt": "2026-10-16T13:35:15+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-16T13:35:15+09:00",
+          "keyPoints": [
+            "シネマの週末・トピックス:ハイファイブ！"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    }
+  ]
+}
