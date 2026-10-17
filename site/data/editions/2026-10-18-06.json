@@ -1,0 +1,893 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-10-18T07:44:03.141004+09:00",
+  "summary": "対象時間帯の4配信元のニュースを11本に整理しました。うち重要ニュースは2本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-10-18-06",
+    "date": "2026-10-18",
+    "slot": "06:00",
+    "label": "朝6時版"
+  },
+  "coverage": {
+    "from": "2026-10-17T18:00:00+09:00",
+    "to": "2026-10-18T06:00:00+09:00",
+    "start": "2026-10-17T18:00:00+09:00",
+    "end": "2026-10-18T06:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "10月17日 18:00〜10月18日 06:00"
+  },
+  "stats": {
+    "articleCount": 11,
+    "categoryCounts": {
+      "国内": 4,
+      "社会": 1,
+      "スポーツ": 1,
+      "海外": 1,
+      "エンタメ": 2,
+      "経済": 1,
+      "科学": 1
+    },
+    "sourceCount": 13,
+    "publisherCount": 4,
+    "publisherCounts": {
+      "asahi": 3,
+      "jma": 2,
+      "mainichi": 3,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 2,
+      "brief": 9
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories"
+  ],
+  "articles": [
+    {
+      "id": "023e356372dbf9d6",
+      "slug": "2026-10-18-06-023e3563",
+      "publishedAt": "2026-10-18T05:05:15+09:00",
+      "updatedAt": "2026-10-18T07:44:03.141004+09:00",
+      "title": "大分県気象解説情報（落雷・突風）",
+      "dek": "10月18日 05:05〜10月18日 05:05更新。大分県では、19日未明から夜のはじめ頃にかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+      "summary": "大分県では、19日未明から夜のはじめ頃にかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。[気象概況] 前線を伴った低気圧が、19日にかけて発達しながら日本海を北東へ進む見込みです。この低気圧や前線に向かって、暖かく湿った空気が流れ込み、九州北部地方では大気の状態が非常に不安定となるでしょう。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "大分県気象解説情報落雷突風"
+      ],
+      "facts": [
+        "この低気圧や前線に向かって、暖かく湿った空気が流れ込み、九州北部地方では大気の状態が非常に不安定となるでしょう。",
+        "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど、安全確保に努めてください。"
+      ],
+      "impactPoints": [
+        "大分県では、19日未明から夜のはじめ頃にかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "[防災事項] 落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "山口県では、19日未明から夜遅くにかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "福岡県では、19日未明から夜遅くにかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "[気象概況] 前線を伴った低気圧が、19日にかけて発達しながら日本海を北東へ進む見込みです。",
+        "このため、大分県では、19日未明から夜のはじめ頃にかけて局地的に積乱雲が発達し、落雷や竜巻などの激しい突風が発生するおそれがあります。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "次の情報は、18日16時30分頃に発表する予定です。",
+        "このため、山口県では、19日未明から夜遅くにかけて局地的に積乱雲が発達し、落雷や竜巻などの激しい突風が発生するおそれがあります。",
+        "このため、福岡県では、19日未明から夜遅くにかけて局地的に積乱雲が発達し、落雷や竜巻などの激しい突風が発生するおそれがあります。"
+      ],
+      "body": [
+        "大分県では、19日未明から夜のはじめ頃にかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。[気象概況] 前線を伴った低気圧が、19日にかけて発達しながら日本海を北東へ進む見込みです。この低気圧や前線に向かって、暖かく湿った空気が流れ込み、九州北部地方では大気の状態が非常に不安定となるでしょう。",
+        "[防災事項] 落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "山口県では、19日未明から夜遅くにかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "福岡県では、19日未明から夜遅くにかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "このため、大分県では、19日未明から夜のはじめ頃にかけて局地的に積乱雲が発達し、落雷や竜巻などの激しい突風が発生するおそれがあります。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "次の情報は、18日16時30分頃に発表する予定です。",
+        "このため、山口県では、19日未明から夜遅くにかけて局地的に積乱雲が発達し、落雷や竜巻などの激しい突風が発生するおそれがあります。",
+        "このため、福岡県では、19日未明から夜遅くにかけて局地的に積乱雲が発達し、落雷や竜巻などの激しい突風が発生するおそれがあります。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "この低気圧や前線に向かって、暖かく湿った空気が流れ込み、九州北部地方では大気の状態が非常に不安定となるでしょう。",
+            "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど、安全確保に努めてください。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "大分県では、19日未明から夜のはじめ頃にかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+            "[防災事項] 落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+            "山口県では、19日未明から夜遅くにかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+            "福岡県では、19日未明から夜遅くにかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "[気象概況] 前線を伴った低気圧が、19日にかけて発達しながら日本海を北東へ進む見込みです。",
+            "このため、大分県では、19日未明から夜のはじめ頃にかけて局地的に積乱雲が発達し、落雷や竜巻などの激しい突風が発生するおそれがあります。",
+            "[補足事項] 今後発表する防災気象情報に留意してください。",
+            "次の情報は、18日16時30分頃に発表する予定です。",
+            "このため、山口県では、19日未明から夜遅くにかけて局地的に積乱雲が発達し、落雷や竜巻などの激しい突風が発生するおそれがあります。",
+            "このため、福岡県では、19日未明から夜遅くにかけて局地的に積乱雲が発達し、落雷や竜巻などの激しい突風が発生するおそれがあります。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-18T05:05:21+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-10-18T07:44:03.141004+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "福岡県気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261017200515_0_VPFJ50_400000.xml",
+              "publishedAt": "2026-10-18T05:05:15+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "大分県気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261017200518_0_VPFJ50_440000.xml",
+              "publishedAt": "2026-10-18T05:05:17+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "山口県気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261017200521_0_VPFJ50_350000.xml",
+              "publishedAt": "2026-10-18T05:05:21+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-18T05:05:21+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 3,
+      "freshSourceCount": 3,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "5a179090c1bee9fe",
+      "slug": "2026-10-18-06-5a179090",
+      "publishedAt": "2026-10-18T05:00:13+09:00",
+      "updatedAt": "2026-10-18T07:44:03.141004+09:00",
+      "title": "九州北部地方（山口県を含む）気象解説情報（落雷・突風）",
+      "dek": "10月18日 05:00更新。九州北部地方では、19日未明から夜遅くにかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+      "summary": "九州北部地方では、19日未明から夜遅くにかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。[気象概況] 前線を伴った低気圧が、19日にかけて発達しながら日本海を北東へ進む見込みです。この低気圧や前線に向かって、暖かく湿った空気が流れ込み、九州北部地方では大気の状態が非常に不安定となるでしょう。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "九州北部地方山口県を含む気象解説情報落雷突風"
+      ],
+      "facts": [
+        "この低気圧や前線に向かって、暖かく湿った空気が流れ込み、九州北部地方では大気の状態が非常に不安定となるでしょう。",
+        "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど、安全確保に努めてください。"
+      ],
+      "impactPoints": [
+        "九州北部地方では、19日未明から夜遅くにかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "[防災事項] 落雷や竜巻などの激しい突風、急な強い雨に注意してください。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "[気象概況] 前線を伴った低気圧が、19日にかけて発達しながら日本海を北東へ進む見込みです。",
+        "このため、九州北部地方では19日未明から夜遅くにかけて局地的に積乱雲が発達し、落雷や竜巻などの激しい突風が発生するおそれがあります。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "次の情報は、18日16時頃に発表する予定です。"
+      ],
+      "body": [
+        "九州北部地方では、19日未明から夜遅くにかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。[気象概況] 前線を伴った低気圧が、19日にかけて発達しながら日本海を北東へ進む見込みです。この低気圧や前線に向かって、暖かく湿った空気が流れ込み、九州北部地方では大気の状態が非常に不安定となるでしょう。",
+        "[防災事項] 落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "このため、九州北部地方では19日未明から夜遅くにかけて局地的に積乱雲が発達し、落雷や竜巻などの激しい突風が発生するおそれがあります。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "次の情報は、18日16時頃に発表する予定です。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "この低気圧や前線に向かって、暖かく湿った空気が流れ込み、九州北部地方では大気の状態が非常に不安定となるでしょう。",
+            "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど、安全確保に努めてください。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "九州北部地方では、19日未明から夜遅くにかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+            "[防災事項] 落雷や竜巻などの激しい突風、急な強い雨に注意してください。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "[気象概況] 前線を伴った低気圧が、19日にかけて発達しながら日本海を北東へ進む見込みです。",
+            "このため、九州北部地方では19日未明から夜遅くにかけて局地的に積乱雲が発達し、落雷や竜巻などの激しい突風が発生するおそれがあります。",
+            "[補足事項] 今後発表する防災気象情報に留意してください。",
+            "次の情報は、18日16時頃に発表する予定です。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-18T05:00:13+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-10-18T07:44:03.141004+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "九州北部地方（山口県を含む）気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261017200014_0_VPCJ50_400000.xml",
+              "publishedAt": "2026-10-18T05:00:13+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-18T05:00:13+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "c9d2a25edd018f21",
+      "slug": "2026-10-18-06-c9d2a25e",
+      "publishedAt": "2026-10-18T05:45:10+09:00",
+      "updatedAt": "2026-10-18T07:44:03.141004+09:00",
+      "title": "松山城のお膝元、どう生かす? 元Jリーガーらが未来会議設立",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-18T05:45:10+09:00",
+          "text": "毎日新聞 ニュース速報の公開情報を確認",
+          "source": "毎日新聞 ニュース速報"
+        },
+        {
+          "at": "2026-10-18T07:44:03.141004+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 ニュース速報",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "松山城のお膝元、どう生かす? 元Jリーガーらが未来会議設立",
+              "url": "https://mainichi.jp/articles/20261015/k00/00m/310/223000c",
+              "publishedAt": "2026-10-18T05:45:10+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-18T05:45:10+09:00",
+          "keyPoints": [
+            "松山城のお膝元、どう生かす? 元Jリーガーらが未来会議設立"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "15083d7b9c017225",
+      "slug": "2026-10-18-06-15083d7b",
+      "publishedAt": "2026-10-18T05:39:57+09:00",
+      "updatedAt": "2026-10-18T07:44:03.141004+09:00",
+      "title": "秋田 奈良 クマに襲われけが人相次ぐ 警察などが注意呼びかけ",
+      "dek": "警察や自治体が注意を呼びかけています。",
+      "summary": "17日、秋田県と奈良県であわせて男性2人がクマに襲われてけがをしました。 警察や自治体が注意を呼びかけています。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "17日、秋田県と奈良県であわせて男性2人がクマに襲われてけがをしました。"
+      ],
+      "impactPoints": [
+        "警察や自治体が注意を呼びかけています。"
+      ],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "17日、秋田県と奈良県であわせて男性2人がクマに襲われてけがをしました。 警察や自治体が注意を呼びかけています。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "17日、秋田県と奈良県であわせて男性2人がクマに襲われてけがをしました。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "警察や自治体が注意を呼びかけています。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-18T05:39:57+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
+        },
+        {
+          "at": "2026-10-18T07:44:03.141004+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "秋田 奈良 クマに襲われけが人相次ぐ 警察などが注意呼びかけ",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261018de61063",
+              "publishedAt": "2026-10-18T05:39:57+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-18T05:39:57+09:00",
+          "keyPoints": [
+            "17日、秋田県と奈良県であわせて男性2人がクマに襲われてけがをしました。警察や自治体が注意を呼びかけています。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "c91cd80b2977303a",
+      "slug": "2026-10-18-06-c91cd80b",
+      "publishedAt": "2026-10-18T05:12:01+09:00",
+      "updatedAt": "2026-10-18T07:44:03.141004+09:00",
+      "title": "愛知・名古屋アジアパラ大会 きょう開幕 日本初開催",
+      "dek": "愛知・名古屋アジアパラ大会が18日、開幕します。",
+      "summary": "愛知・名古屋アジアパラ大会が18日、開幕します。 アジアパラ大会が日本で開かれるのは初めてで、パラアスリートの熱戦が7日間の日程で繰り広げられます。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "愛知・名古屋アジアパラ大会が18日、開幕します。",
+        "アジアパラ大会が日本で開かれるのは初めてで、パラアスリートの熱戦が7日間の日程で繰り広げられます。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "愛知・名古屋アジアパラ大会が18日、開幕します。 アジアパラ大会が日本で開かれるのは初めてで、パラアスリートの熱戦が7日間の日程で繰り広げられます。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "愛知・名古屋アジアパラ大会が18日、開幕します。",
+            "アジアパラ大会が日本で開かれるのは初めてで、パラアスリートの熱戦が7日間の日程で繰り広げられます。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-18T05:12:01+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-10-18T07:44:03.141004+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "愛知・名古屋アジアパラ大会 きょう開幕 日本初開催",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261017de61005",
+              "publishedAt": "2026-10-18T05:12:01+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-18T05:12:01+09:00",
+          "keyPoints": [
+            "愛知・名古屋アジアパラ大会が18日、開幕します。アジアパラ大会が日本で開かれるのは初めてで、パラアスリートの熱戦が7日間の日程で繰り広げられます。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "90a91f85a6a4b3b4",
+      "slug": "2026-10-18-06-90a91f85",
+      "publishedAt": "2026-10-18T05:04:57+09:00",
+      "updatedAt": "2026-10-18T07:44:03.141004+09:00",
+      "title": "ゼレンスキー大統領 アメリカのロシア制裁免除に反発",
+      "dek": "アメリカのトランプ大統領は、ロシアへの制裁を強化するための新たな法律について、制裁の大半の適用を免除する大統領令に署名しました。",
+      "summary": "アメリカのトランプ大統領は、ロシアへの制裁を強化するための新たな法律について、制裁の大半の適用を免除する大統領令に署名しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "アメリカのトランプ大統領は、ロシアへの制裁を強化するための新たな法律について、制裁の大半の適用を免除する大統領令に署名しました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "アメリカのトランプ大統領は、ロシアへの制裁を強化するための新たな法律について、制裁の大半の適用を免除する大統領令に署名しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "アメリカのトランプ大統領は、ロシアへの制裁を強化するための新たな法律について、制裁の大半の適用を免除する大統領令に署名しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-18T05:04:57+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
+        },
+        {
+          "at": "2026-10-18T07:44:03.141004+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "ゼレンスキー大統領 アメリカのロシア制裁免除に反発",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261017de61037",
+              "publishedAt": "2026-10-18T05:04:57+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-18T05:04:57+09:00",
+          "keyPoints": [
+            "アメリカのトランプ大統領は、ロシアへの制裁を強化するための新たな法律について、制裁の大半の適用を免除する大統領令に署名しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "35a17986323d3039",
+      "slug": "2026-10-18-06-35a17986",
+      "publishedAt": "2026-10-18T02:33:25+09:00",
+      "updatedAt": "2026-10-18T07:44:03.141004+09:00",
+      "title": "松尾貴史のちょっと違和感:新宿ゴールデン街で映画ロケ 面白いほど まどろっこしく",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-18T02:33:25+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-10-18T07:44:03.141004+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "松尾貴史のちょっと違和感:新宿ゴールデン街で映画ロケ 面白いほど まどろっこしく",
+              "url": "https://mainichi.jp/articles/20261018/ddm/012/070/013000c",
+              "publishedAt": "2026-10-18T02:33:25+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-18T02:33:25+09:00",
+          "keyPoints": [
+            "松尾貴史のちょっと違和感:新宿ゴールデン街で映画ロケ 面白いほど まどろっこしく"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "7f451ee84d2296f9",
+      "slug": "2026-10-18-06-7f451ee8",
+      "publishedAt": "2026-10-18T02:24:30+09:00",
+      "updatedAt": "2026-10-18T07:44:03.141004+09:00",
+      "title": "迫る:ゴダイゴ 50周年 再び伝説の地へ（その1） ぬくもり届け",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-18T02:24:30+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-10-18T07:44:03.141004+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "迫る:ゴダイゴ 50周年 再び伝説の地へ（その1） ぬくもり届け",
+              "url": "https://mainichi.jp/articles/20261018/ddm/001/200/125000c",
+              "publishedAt": "2026-10-18T02:24:30+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-18T02:24:30+09:00",
+          "keyPoints": [
+            "迫る:ゴダイゴ 50周年 再び伝説の地へ（その1） ぬくもり届け"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "a51daefb38131a0a",
+      "slug": "2026-10-18-06-a51daefb",
+      "publishedAt": "2026-10-17T22:35:46+09:00",
+      "updatedAt": "2026-10-18T07:44:03.141004+09:00",
+      "title": "緊急地震速報配信されなかったNTTドコモの不具合、対応が完了",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-17T22:35:46+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-18T07:44:03.141004+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "緊急地震速報配信されなかったNTTドコモの不具合、対応が完了",
+              "url": "https://www.asahi.com/articles/ASVBK4GJ5VBKOXIE029M.html",
+              "publishedAt": "2026-10-17T22:35:46+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-17T22:35:46+09:00",
+          "keyPoints": [
+            "緊急地震速報配信されなかったNTTドコモの不具合、対応が完了"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "346a080553767693",
+      "slug": "2026-10-18-06-346a0805",
+      "publishedAt": "2026-10-17T18:49:58+09:00",
+      "updatedAt": "2026-10-18T07:44:03.141004+09:00",
+      "title": "高市早苗首相が靖国神社に真榊を奉納 秋の例大祭、参拝は見送り",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-17T18:49:58+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-18T07:44:03.141004+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "高市早苗首相が靖国神社に真榊を奉納 秋の例大祭、参拝は見送り",
+              "url": "https://www.asahi.com/articles/ASVBJ7H2WVBJUTFK00RM.html",
+              "publishedAt": "2026-10-17T18:49:58+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-17T18:49:58+09:00",
+          "keyPoints": [
+            "高市早苗首相が靖国神社に真榊を奉納 秋の例大祭、参拝は見送り"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "b9b7522d71089d68",
+      "slug": "2026-10-18-06-b9b7522d",
+      "publishedAt": "2026-10-17T18:00:00+09:00",
+      "updatedAt": "2026-10-18T07:44:03.141004+09:00",
+      "title": "ノーベル賞・硤合憲三さんが語る バスケで得た感覚と落ち着く科学",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-17T18:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-18T07:44:03.141004+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "ノーベル賞・硤合憲三さんが語る バスケで得た感覚と落ち着く科学",
+              "url": "https://www.asahi.com/articles/ASVBJ46HFVBJUTFL01GM.html",
+              "publishedAt": "2026-10-17T18:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-17T18:00:00+09:00",
+          "keyPoints": [
+            "ノーベル賞・硤合憲三さんが語る バスケで得た感覚と落ち着く科学"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-17T18:00:00+09:00",
-  "lastCompletedEdition": "2026-10-17-18",
+  "lastCompletedEnd": "2026-10-18T06:00:00+09:00",
+  "lastCompletedEdition": "2026-10-18-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -18892,7 +18892,97 @@
       "urls": [
         "https://www.asahi.com/articles/ASVBJ3S3XVBJUCVL00KM.html"
       ]
+    },
+    {
+      "editionId": "2026-10-18-06",
+      "title": "大分県気象解説情報落雷・突風",
+      "publishedAt": "2026-10-18T05:05:15+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261017200515_0_VPFJ50_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261017200518_0_VPFJ50_440000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261017200521_0_VPFJ50_350000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-06",
+      "title": "九州北部地方山口県を含む気象解説情報落雷・突風",
+      "publishedAt": "2026-10-18T05:00:13+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261017200014_0_VPCJ50_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-06",
+      "title": "松山城のお膝元どう生かす元jリーガーらが未来会議設立",
+      "publishedAt": "2026-10-18T05:45:10+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261015/k00/00m/310/223000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-06",
+      "title": "秋田奈良クマに襲われけが人相次ぐ警察などが注意呼びかけ",
+      "publishedAt": "2026-10-18T05:39:57+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261018de61063"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-06",
+      "title": "愛知・名古屋アジアパラ大会きょう開幕日本初開催",
+      "publishedAt": "2026-10-18T05:12:01+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261017de61005"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-06",
+      "title": "ゼレンスキー大統領アメリカのロシア制裁免除に反発",
+      "publishedAt": "2026-10-18T05:04:57+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261017de61037"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-06",
+      "title": "松尾貴史のちょっと違和感",
+      "publishedAt": "2026-10-18T02:33:25+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261018/ddm/012/070/013000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-06",
+      "title": "迫るゴダイゴ50周年再び伝説の地へその1ぬくもり届け",
+      "publishedAt": "2026-10-18T02:24:30+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261018/ddm/001/200/125000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-06",
+      "title": "緊急地震速報配信されなかったnttドコモの不具合対応が完了",
+      "publishedAt": "2026-10-17T22:35:46+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBK4GJ5VBKOXIE029M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-06",
+      "title": "高市早苗首相が靖国神社に真榊を奉納秋の例大祭参拝は見送り",
+      "publishedAt": "2026-10-17T18:49:58+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBJ7H2WVBJUTFK00RM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-06",
+      "title": "ノーベル賞・硤合憲三さんが語るバスケで得た感覚と落ち着く科学",
+      "publishedAt": "2026-10-17T18:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBJ46HFVBJUTFL01GM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-17T21:40:28.791745+09:00"
+  "updatedAt": "2026-10-18T07:44:03.141004+09:00"
 }
