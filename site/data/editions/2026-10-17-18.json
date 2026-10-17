@@ -1,0 +1,519 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-10-17T21:40:28.791745+09:00",
+  "summary": "対象時間帯の3配信元の主なニュースを7本に整理しました。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-10-17-18",
+    "date": "2026-10-17",
+    "slot": "18:00",
+    "label": "夕方6時版"
+  },
+  "coverage": {
+    "from": "2026-10-17T12:00:00+09:00",
+    "to": "2026-10-17T18:00:00+09:00",
+    "start": "2026-10-17T12:00:00+09:00",
+    "end": "2026-10-17T18:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "10月17日 12:00〜10月17日 18:00"
+  },
+  "stats": {
+    "articleCount": 7,
+    "categoryCounts": {
+      "スポーツ": 1,
+      "経済": 1,
+      "海外": 3,
+      "社会": 1,
+      "エンタメ": 1
+    },
+    "sourceCount": 7,
+    "publisherCount": 3,
+    "publisherCounts": {
+      "asahi": 3,
+      "mainichi": 1,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "brief": 7
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories"
+  ],
+  "articles": [
+    {
+      "id": "b007db951c85ff6b",
+      "slug": "2026-10-17-18-b007db95",
+      "publishedAt": "2026-10-17T17:58:26+09:00",
+      "updatedAt": "2026-10-17T21:40:28.791745+09:00",
+      "title": "3ランの掛川西・松下「自分たちの代で…」 高校野球・秋季東海",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-17T17:58:26+09:00",
+          "text": "毎日新聞 ニュース速報の公開情報を確認",
+          "source": "毎日新聞 ニュース速報"
+        },
+        {
+          "at": "2026-10-17T21:40:28.791745+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 ニュース速報",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "3ランの掛川西・松下「自分たちの代で…」 高校野球・秋季東海",
+              "url": "https://mainichi.jp/articles/20261017/k00/00m/050/134000c",
+              "publishedAt": "2026-10-17T17:58:26+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-17T17:58:26+09:00",
+          "keyPoints": [
+            "3ランの掛川西・松下「自分たちの代で…」 高校野球・秋季東海"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "3a304fffd83fa038",
+      "slug": "2026-10-17-18-3a304fff",
+      "publishedAt": "2026-10-17T17:30:00+09:00",
+      "updatedAt": "2026-10-17T21:40:28.791745+09:00",
+      "title": "ソニー生命、社員約50人の営業活動を停止 金銭不祥事の疑い浮上",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-17T17:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-17T21:40:28.791745+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "ソニー生命、社員約50人の営業活動を停止 金銭不祥事の疑い浮上",
+              "url": "https://www.asahi.com/articles/ASVBK220BVBKULFA006M.html",
+              "publishedAt": "2026-10-17T17:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-17T17:30:00+09:00",
+          "keyPoints": [
+            "ソニー生命、社員約50人の営業活動を停止 金銭不祥事の疑い浮上"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "063ba7e8d446d3e6",
+      "slug": "2026-10-17-18-063ba7e8",
+      "publishedAt": "2026-10-17T16:24:00+09:00",
+      "updatedAt": "2026-10-17T21:40:28.791745+09:00",
+      "title": "トランプ大統領 新たな対ロシア制裁の大半を除外の大統領令",
+      "dek": "アメリカのトランプ大統領は、ウクライナ情勢をめぐってロシアへの制裁を強化するための新たな法律について、制裁の大半の適用を免除する大統領令に署名しました。",
+      "summary": "アメリカのトランプ大統領は、ウクライナ情勢をめぐってロシアへの制裁を強化するための新たな法律について、制裁の大半の適用を免除する大統領令に署名しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "アメリカのトランプ大統領は、ウクライナ情勢をめぐってロシアへの制裁を強化するための新たな法律について、制裁の大半の適用を免除する大統領令に署名しました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "アメリカのトランプ大統領は、ウクライナ情勢をめぐってロシアへの制裁を強化するための新たな法律について、制裁の大半の適用を免除する大統領令に署名しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "アメリカのトランプ大統領は、ウクライナ情勢をめぐってロシアへの制裁を強化するための新たな法律について、制裁の大半の適用を免除する大統領令に署名しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-17T16:24:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-17T21:40:28.791745+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "トランプ大統領 新たな対ロシア制裁の大半を除外の大統領令",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261017de60905",
+              "publishedAt": "2026-10-17T16:24:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-17T16:24:00+09:00",
+          "keyPoints": [
+            "アメリカのトランプ大統領は、ウクライナ情勢をめぐってロシアへの制裁を強化するための新たな法律について、制裁の大半の適用を免除する大統領令に署名しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "4a2fcfeb9c5aa32b",
+      "slug": "2026-10-17-18-4a2fcfeb",
+      "publishedAt": "2026-10-17T16:21:00+09:00",
+      "updatedAt": "2026-10-17T21:40:28.791745+09:00",
+      "title": "北朝鮮メディア AI搭載の新型魚雷の発射実験を実施と報道",
+      "dek": "北朝鮮のメディアは、15日、AI＝人工知能が導入された新型の魚雷の発射実験が行われ、性能が立証されたと伝えました。",
+      "summary": "北朝鮮のメディアは、15日、AI＝人工知能が導入された新型の魚雷の発射実験が行われ、性能が立証されたと伝えました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "北朝鮮のメディアは、15日、AI＝人工知能が導入された新型の魚雷の発射実験が行われ、性能が立証されたと伝えました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "北朝鮮のメディアは、15日、AI＝人工知能が導入された新型の魚雷の発射実験が行われ、性能が立証されたと伝えました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "北朝鮮のメディアは、15日、AI＝人工知能が導入された新型の魚雷の発射実験が行われ、性能が立証されたと伝えました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-17T16:21:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-17T21:40:28.791745+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "北朝鮮メディア AI搭載の新型魚雷の発射実験を実施と報道",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261017de60903",
+              "publishedAt": "2026-10-17T16:21:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-17T16:21:00+09:00",
+          "keyPoints": [
+            "北朝鮮のメディアは、15日、AI＝人工知能が導入された新型の魚雷の発射実験が行われ、性能が立証されたと伝えました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "c44bb5574eda3795",
+      "slug": "2026-10-17-18-c44bb557",
+      "publishedAt": "2026-10-17T15:58:41+09:00",
+      "updatedAt": "2026-10-17T21:40:28.791745+09:00",
+      "title": "ローマ教皇がプーチン大統領と電話会談 停戦を要請",
+      "dek": "ローマ教皇レオ14世は、ロシアのプーチン大統領と電話で会談し、ウクライナ情勢をめぐって深刻な人道状況に懸念を示すとともに停戦を求めました。",
+      "summary": "ローマ教皇レオ14世は、ロシアのプーチン大統領と電話で会談し、ウクライナ情勢をめぐって深刻な人道状況に懸念を示すとともに停戦を求めました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "ローマ教皇レオ14世は、ロシアのプーチン大統領と電話で会談し、ウクライナ情勢をめぐって深刻な人道状況に懸念を示すとともに停戦を求めました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "ローマ教皇レオ14世は、ロシアのプーチン大統領と電話で会談し、ウクライナ情勢をめぐって深刻な人道状況に懸念を示すとともに停戦を求めました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "ローマ教皇レオ14世は、ロシアのプーチン大統領と電話で会談し、ウクライナ情勢をめぐって深刻な人道状況に懸念を示すとともに停戦を求めました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-17T15:58:41+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-17T21:40:28.791745+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "ローマ教皇がプーチン大統領と電話会談 停戦を要請",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261017de60909",
+              "publishedAt": "2026-10-17T15:58:41+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-17T15:58:41+09:00",
+          "keyPoints": [
+            "ローマ教皇レオ14世は、ロシアのプーチン大統領と電話で会談し、ウクライナ情勢をめぐって深刻な人道状況に懸念を示すとともに停戦を求めました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "0a47e047b3bb3a10",
+      "slug": "2026-10-17-18-0a47e047",
+      "publishedAt": "2026-10-17T13:04:53+09:00",
+      "updatedAt": "2026-10-17T21:40:28.791745+09:00",
+      "title": "12歳女子中学生がコンビニで強盗致傷の疑い 「お金がなかった」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-17T13:04:53+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-17T21:40:28.791745+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "12歳女子中学生がコンビニで強盗致傷の疑い 「お金がなかった」",
+              "url": "https://www.asahi.com/articles/ASVBK0V19VBKPTIL001M.html",
+              "publishedAt": "2026-10-17T13:04:53+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-17T13:04:53+09:00",
+          "keyPoints": [
+            "12歳女子中学生がコンビニで強盗致傷の疑い 「お金がなかった」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "74bd0450b8e08bb0",
+      "slug": "2026-10-17-18-74bd0450",
+      "publishedAt": "2026-10-17T13:00:00+09:00",
+      "updatedAt": "2026-10-17T21:40:28.791745+09:00",
+      "title": "結婚や出産、人生の変化を経た双子のAMIAYA 新ブランド設立",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-17T13:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-17T21:40:28.791745+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "結婚や出産、人生の変化を経た双子のAMIAYA 新ブランド設立",
+              "url": "https://www.asahi.com/articles/ASVBJ3S3XVBJUCVL00KM.html",
+              "publishedAt": "2026-10-17T13:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-17T13:00:00+09:00",
+          "keyPoints": [
+            "結婚や出産、人生の変化を経た双子のAMIAYA 新ブランド設立"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    }
+  ]
+}
