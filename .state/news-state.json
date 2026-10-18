@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-18T18:00:00+09:00",
-  "lastCompletedEdition": "2026-10-18-18",
+  "lastCompletedEnd": "2026-10-19T06:00:00+09:00",
+  "lastCompletedEdition": "2026-10-19-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -19130,7 +19130,92 @@
       "urls": [
         "https://www.asahi.com/articles/ASVBG3Q6HVBGUHBI010M.html"
       ]
+    },
+    {
+      "editionId": "2026-10-19-06",
+      "title": "滋賀県気象解説情報落雷・突風",
+      "publishedAt": "2026-10-19T05:34:14+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261018203414_0_VPFJ50_260000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261018203416_0_VPFJ50_250000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261018203526_0_VPFJ50_340000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261018203535_0_VPFJ50_330000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261018203730_0_VPFJ50_310000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261018203732_0_VPFJ50_320000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-19-06",
+      "title": "ゴンドラの第二の人生は牡蠣小屋78年に製造下関の海眺めつつ",
+      "publishedAt": "2026-10-19T05:45:10+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261018/k00/00m/310/030000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-19-06",
+      "title": "横浜市長選挙新人の原澤敦美氏が初当選",
+      "publishedAt": "2026-10-19T05:37:47+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261015de59772"
+      ]
+    },
+    {
+      "editionId": "2026-10-19-06",
+      "title": "横浜市長選参政推薦の福山氏が次点3番手山中前市長は46万票減",
+      "publishedAt": "2026-10-19T05:32:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBL54BSVBLULOB012M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-19-06",
+      "title": "2000万円赤字なのに黒字決算観光交流協会事務局長が諭旨退職",
+      "publishedAt": "2026-10-19T05:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBL3W9QVBLUJUB00FM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-19-06",
+      "title": "毎日歌壇・俳壇10月19日の特選より",
+      "publishedAt": "2026-10-19T04:00:10+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261018/k00/00m/200/067000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-19-06",
+      "title": "ビジネスで存在感増すネイチャーポジティブ経営リスク投資判断に",
+      "publishedAt": "2026-10-19T04:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBJ33TLVBJUTFL01GM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-19-06",
+      "title": "影山貴彦のテレビ燦",
+      "publishedAt": "2026-10-19T02:01:29+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261019/ddm/018/200/028000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-19-06",
+      "title": "サッカーj1第10節fc町田ゼルビア2位浮上アビスパ福岡に快勝",
+      "publishedAt": "2026-10-18T23:17:51+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261018de61264"
+      ]
+    },
+    {
+      "editionId": "2026-10-19-06",
+      "title": "カナダ軍事基地で火災少なくとも7人死亡数十人けがの情報",
+      "publishedAt": "2026-10-18T20:29:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261018de61247"
+      ]
     }
   ],
-  "updatedAt": "2026-10-18T21:57:24.656527+09:00"
+  "updatedAt": "2026-10-19T07:39:21.531948+09:00"
 }

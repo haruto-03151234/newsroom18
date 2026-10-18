@@ -1,0 +1,817 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-10-19T07:39:21.531948+09:00",
+  "summary": "対象時間帯の4配信元のニュースを10本に整理しました。うち重要ニュースは1本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-10-19-06",
+    "date": "2026-10-19",
+    "slot": "06:00",
+    "label": "朝6時版"
+  },
+  "coverage": {
+    "from": "2026-10-18T18:00:00+09:00",
+    "to": "2026-10-19T06:00:00+09:00",
+    "start": "2026-10-18T18:00:00+09:00",
+    "end": "2026-10-19T06:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "10月18日 18:00〜10月19日 06:00"
+  },
+  "stats": {
+    "articleCount": 10,
+    "categoryCounts": {
+      "国内": 5,
+      "社会": 1,
+      "経済": 1,
+      "エンタメ": 1,
+      "スポーツ": 1,
+      "海外": 1
+    },
+    "sourceCount": 15,
+    "publisherCount": 4,
+    "publisherCounts": {
+      "asahi": 3,
+      "jma": 1,
+      "mainichi": 3,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 1,
+      "brief": 9
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories"
+  ],
+  "articles": [
+    {
+      "id": "eb7e1d721ae0f97f",
+      "slug": "2026-10-19-06-eb7e1d72",
+      "publishedAt": "2026-10-19T05:34:14+09:00",
+      "updatedAt": "2026-10-19T07:39:21.531948+09:00",
+      "title": "滋賀県気象解説情報（落雷・突風）",
+      "dek": "10月19日 05:34〜10月19日 05:37更新。滋賀県では、19日昼過ぎから20日夕方にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+      "summary": "滋賀県では、19日昼過ぎから20日夕方にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。[気象概況] 低気圧からのびる前線が、20日にかけてゆっくり南下し西日本に停滞する見込みです。この前線に向かって暖かく湿った空気が流れ込むため、滋賀県では、19日昼過ぎから20日夕方にかけて、大気の状態が非常に不安定となり、局地的に雷雲が発達するでしょう。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "滋賀県気象解説情報落雷突風"
+      ],
+      "facts": [
+        "この前線に向かって暖かく湿った空気が流れ込むため、滋賀県では、19日昼過ぎから20日夕方にかけて、大気の状態が非常に不安定となり、局地的に雷雲が発達するでしょう。",
+        "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど、安全確保に努めてください。",
+        "この前線に向かって暖かく湿った空気が流れ込むため、京都府では、19日昼過ぎから20日夕方にかけて、大気の状態が非常に不安定となり、局地的に雷雲が発達するでしょう。",
+        "前線に向かって暖かく湿った空気が流れ込むため、鳥取県では、19日昼前から夜遅くにかけて、大気の状態が非常に不安定となり、局地的に雷雲が発達するでしょう。",
+        "前線に向かって暖かく湿った空気が流れ込むため、岡山県では、19日昼前から夜遅くにかけて、大気の状態が非常に不安定となり、局地的に雷雲が発達するでしょう。",
+        "前線に向かって暖かく湿った空気が流れ込むため、広島県では、19日朝から夜遅くにかけて、大気の状態が非常に不安定となり、局地的に雷雲が発達するでしょう。",
+        "前線に向かって暖かく湿った空気が流れ込むため、島根県では、19日夜遅くにかけて、大気の状態が非常に不安定となり、局地的に雷雲が発達するでしょう。"
+      ],
+      "impactPoints": [
+        "滋賀県では、19日昼過ぎから20日夕方にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "[防災事項] 落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "京都府では、19日昼過ぎから20日夕方にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "鳥取県では、19日昼前から夜遅くにかけて、落雷、竜巻などの激しい突風、急な強い雨に注意してください。",
+        "[防災事項] 落雷、竜巻などの激しい突風、急な強い雨に注意してください。",
+        "これで、「鳥取県気象解説情報(落雷・突風)」は終了します。",
+        "岡山県では、19日昼前から夜遅くにかけて、落雷、竜巻などの激しい突風、急な強い雨に注意してください。",
+        "これで、「岡山県気象解説情報(落雷・突風)」は終了します。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "[気象概況] 低気圧からのびる前線が、20日にかけてゆっくり南下し西日本に停滞する見込みです。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "次の「滋賀県気象解説情報(落雷・突風)」は、19日16時頃に発表する予定です。",
+        "次の「京都府気象解説情報(落雷・突風)」は、19日16時頃に発表する予定です。",
+        "[気象概況] 19日は日本海にある前線が午後にかけてゆっくりと南下する見込みです。"
+      ],
+      "body": [
+        "滋賀県では、19日昼過ぎから20日夕方にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。[気象概況] 低気圧からのびる前線が、20日にかけてゆっくり南下し西日本に停滞する見込みです。この前線に向かって暖かく湿った空気が流れ込むため、滋賀県では、19日昼過ぎから20日夕方にかけて、大気の状態が非常に不安定となり、局地的に雷雲が発達するでしょう。",
+        "[防災事項] 落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "京都府では、19日昼過ぎから20日夕方にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "鳥取県では、19日昼前から夜遅くにかけて、落雷、竜巻などの激しい突風、急な強い雨に注意してください。",
+        "[防災事項] 落雷、竜巻などの激しい突風、急な強い雨に注意してください。",
+        "これで、「鳥取県気象解説情報(落雷・突風)」は終了します。",
+        "岡山県では、19日昼前から夜遅くにかけて、落雷、竜巻などの激しい突風、急な強い雨に注意してください。",
+        "これで、「岡山県気象解説情報(落雷・突風)」は終了します。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "次の「滋賀県気象解説情報(落雷・突風)」は、19日16時頃に発表する予定です。",
+        "次の「京都府気象解説情報(落雷・突風)」は、19日16時頃に発表する予定です。",
+        "[気象概況] 19日は日本海にある前線が午後にかけてゆっくりと南下する見込みです。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "この前線に向かって暖かく湿った空気が流れ込むため、滋賀県では、19日昼過ぎから20日夕方にかけて、大気の状態が非常に不安定となり、局地的に雷雲が発達するでしょう。",
+            "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど、安全確保に努めてください。",
+            "この前線に向かって暖かく湿った空気が流れ込むため、京都府では、19日昼過ぎから20日夕方にかけて、大気の状態が非常に不安定となり、局地的に雷雲が発達するでしょう。",
+            "前線に向かって暖かく湿った空気が流れ込むため、鳥取県では、19日昼前から夜遅くにかけて、大気の状態が非常に不安定となり、局地的に雷雲が発達するでしょう。",
+            "前線に向かって暖かく湿った空気が流れ込むため、岡山県では、19日昼前から夜遅くにかけて、大気の状態が非常に不安定となり、局地的に雷雲が発達するでしょう。",
+            "前線に向かって暖かく湿った空気が流れ込むため、広島県では、19日朝から夜遅くにかけて、大気の状態が非常に不安定となり、局地的に雷雲が発達するでしょう。",
+            "前線に向かって暖かく湿った空気が流れ込むため、島根県では、19日夜遅くにかけて、大気の状態が非常に不安定となり、局地的に雷雲が発達するでしょう。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "滋賀県では、19日昼過ぎから20日夕方にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+            "[防災事項] 落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+            "京都府では、19日昼過ぎから20日夕方にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+            "鳥取県では、19日昼前から夜遅くにかけて、落雷、竜巻などの激しい突風、急な強い雨に注意してください。",
+            "[防災事項] 落雷、竜巻などの激しい突風、急な強い雨に注意してください。",
+            "これで、「鳥取県気象解説情報(落雷・突風)」は終了します。",
+            "岡山県では、19日昼前から夜遅くにかけて、落雷、竜巻などの激しい突風、急な強い雨に注意してください。",
+            "これで、「岡山県気象解説情報(落雷・突風)」は終了します。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "[気象概況] 低気圧からのびる前線が、20日にかけてゆっくり南下し西日本に停滞する見込みです。",
+            "[補足事項] 今後発表する防災気象情報に留意してください。",
+            "次の「滋賀県気象解説情報(落雷・突風)」は、19日16時頃に発表する予定です。",
+            "次の「京都府気象解説情報(落雷・突風)」は、19日16時頃に発表する予定です。",
+            "[気象概況] 19日は日本海にある前線が午後にかけてゆっくりと南下する見込みです。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-19T05:37:31+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-10-19T07:39:21.531948+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "京都府気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261018203414_0_VPFJ50_260000.xml",
+              "publishedAt": "2026-10-19T05:34:14+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "滋賀県気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261018203416_0_VPFJ50_250000.xml",
+              "publishedAt": "2026-10-19T05:34:15+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "広島県気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261018203526_0_VPFJ50_340000.xml",
+              "publishedAt": "2026-10-19T05:35:25+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "岡山県気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261018203535_0_VPFJ50_330000.xml",
+              "publishedAt": "2026-10-19T05:35:35+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "鳥取県気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261018203730_0_VPFJ50_310000.xml",
+              "publishedAt": "2026-10-19T05:37:30+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "島根県気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261018203732_0_VPFJ50_320000.xml",
+              "publishedAt": "2026-10-19T05:37:31+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-19T05:37:31+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 6,
+      "freshSourceCount": 6,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "556bbc9acca49ef5",
+      "slug": "2026-10-19-06-556bbc9a",
+      "publishedAt": "2026-10-19T05:45:10+09:00",
+      "updatedAt": "2026-10-19T07:39:21.531948+09:00",
+      "title": "ゴンドラの第二の人生は牡蠣小屋 78年に製造、下関の海眺めつつ",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-19T05:45:10+09:00",
+          "text": "毎日新聞 ニュース速報の公開情報を確認",
+          "source": "毎日新聞 ニュース速報"
+        },
+        {
+          "at": "2026-10-19T07:39:21.531948+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 ニュース速報",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "ゴンドラの第二の人生は牡蠣小屋 78年に製造、下関の海眺めつつ",
+              "url": "https://mainichi.jp/articles/20261018/k00/00m/310/030000c",
+              "publishedAt": "2026-10-19T05:45:10+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-19T05:45:10+09:00",
+          "keyPoints": [
+            "ゴンドラの第二の人生は牡蠣小屋 78年に製造、下関の海眺めつつ"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "fdf17439c5fe5d84",
+      "slug": "2026-10-19-06-fdf17439",
+      "publishedAt": "2026-10-19T05:37:47+09:00",
+      "updatedAt": "2026-10-19T07:39:21.531948+09:00",
+      "title": "横浜市長選挙 新人の原澤敦美氏が初当選",
+      "dek": "パワハラ問題で市長が辞職したことに伴う横浜市長選挙は18日、投票が行われ、新人で弁護士の原澤敦美氏が、前市長の山中竹春氏らを抑えて、初めての当選を果たしました。",
+      "summary": "パワハラ問題で市長が辞職したことに伴う横浜市長選挙は18日、投票が行われ、新人で弁護士の原澤敦美氏が、前市長の山中竹春氏らを抑えて、初めての当選を果たしました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "パワハラ問題で市長が辞職したことに伴う横浜市長選挙は18日、投票が行われ、新人で弁護士の原澤敦美氏が、前市長の山中竹春氏らを抑えて、初めての当選を果たしました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "パワハラ問題で市長が辞職したことに伴う横浜市長選挙は18日、投票が行われ、新人で弁護士の原澤敦美氏が、前市長の山中竹春氏らを抑えて、初めての当選を果たしました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "パワハラ問題で市長が辞職したことに伴う横浜市長選挙は18日、投票が行われ、新人で弁護士の原澤敦美氏が、前市長の山中竹春氏らを抑えて、初めての当選を果たしました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-19T05:37:47+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
+        },
+        {
+          "at": "2026-10-19T07:39:21.531948+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "横浜市長選挙 新人の原澤敦美氏が初当選",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261015de59772",
+              "publishedAt": "2026-10-19T05:37:47+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-19T05:37:47+09:00",
+          "keyPoints": [
+            "パワハラ問題で市長が辞職したことに伴う横浜市長選挙は18日、投票が行われ、新人で弁護士の原澤敦美氏が、前市長の山中竹春氏らを抑えて、初めての当選を果たしました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "01f466589145414f",
+      "slug": "2026-10-19-06-01f46658",
+      "publishedAt": "2026-10-19T05:32:00+09:00",
+      "updatedAt": "2026-10-19T07:39:21.531948+09:00",
+      "title": "横浜市長選、参政推薦の福山氏が次点 3番手山中前市長は46万票減",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-19T05:32:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-19T07:39:21.531948+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "横浜市長選、参政推薦の福山氏が次点 3番手山中前市長は46万票減",
+              "url": "https://www.asahi.com/articles/ASVBL54BSVBLULOB012M.html",
+              "publishedAt": "2026-10-19T05:32:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-19T05:32:00+09:00",
+          "keyPoints": [
+            "横浜市長選、参政推薦の福山氏が次点 3番手山中前市長は46万票減"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "71104702d355235c",
+      "slug": "2026-10-19-06-71104702",
+      "publishedAt": "2026-10-19T05:30:00+09:00",
+      "updatedAt": "2026-10-19T07:39:21.531948+09:00",
+      "title": "2000万円赤字なのに「黒字決算」観光交流協会事務局長が諭旨退職",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-19T05:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-19T07:39:21.531948+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "2000万円赤字なのに「黒字決算」観光交流協会事務局長が諭旨退職",
+              "url": "https://www.asahi.com/articles/ASVBL3W9QVBLUJUB00FM.html",
+              "publishedAt": "2026-10-19T05:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-19T05:30:00+09:00",
+          "keyPoints": [
+            "2000万円赤字なのに「黒字決算」観光交流協会事務局長が諭旨退職"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "91a25118126e5407",
+      "slug": "2026-10-19-06-91a25118",
+      "publishedAt": "2026-10-19T04:00:10+09:00",
+      "updatedAt": "2026-10-19T07:39:21.531948+09:00",
+      "title": "毎日歌壇・俳壇10月19日の特選より",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-19T04:00:10+09:00",
+          "text": "毎日新聞 ニュース速報の公開情報を確認",
+          "source": "毎日新聞 ニュース速報"
+        },
+        {
+          "at": "2026-10-19T07:39:21.531948+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 ニュース速報",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "毎日歌壇・俳壇10月19日の特選より",
+              "url": "https://mainichi.jp/articles/20261018/k00/00m/200/067000c",
+              "publishedAt": "2026-10-19T04:00:10+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-19T04:00:10+09:00",
+          "keyPoints": [
+            "毎日歌壇・俳壇10月19日の特選より"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "cbeb4bfaf3371f6e",
+      "slug": "2026-10-19-06-cbeb4bfa",
+      "publishedAt": "2026-10-19T04:00:00+09:00",
+      "updatedAt": "2026-10-19T07:39:21.531948+09:00",
+      "title": "ビジネスで存在感増すネイチャーポジティブ 経営リスク、投資判断に",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-19T04:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-19T07:39:21.531948+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "ビジネスで存在感増すネイチャーポジティブ 経営リスク、投資判断に",
+              "url": "https://www.asahi.com/articles/ASVBJ33TLVBJUTFL01GM.html",
+              "publishedAt": "2026-10-19T04:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-19T04:00:00+09:00",
+          "keyPoints": [
+            "ビジネスで存在感増すネイチャーポジティブ 経営リスク、投資判断に"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "23fecab1dfc67c36",
+      "slug": "2026-10-19-06-23fecab1",
+      "publishedAt": "2026-10-19T02:01:29+09:00",
+      "updatedAt": "2026-10-19T07:39:21.531948+09:00",
+      "title": "影山貴彦のテレビ燦々:中村雅俊主演「おもかげ」 意識不明の定年男性がたどる過去",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-19T02:01:29+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-10-19T07:39:21.531948+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "影山貴彦のテレビ燦々:中村雅俊主演「おもかげ」 意識不明の定年男性がたどる過去",
+              "url": "https://mainichi.jp/articles/20261019/ddm/018/200/028000c",
+              "publishedAt": "2026-10-19T02:01:29+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-19T02:01:29+09:00",
+          "keyPoints": [
+            "影山貴彦のテレビ燦々:中村雅俊主演「おもかげ」 意識不明の定年男性がたどる過去"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "753957ac8809a15f",
+      "slug": "2026-10-19-06-753957ac",
+      "publishedAt": "2026-10-18T23:17:51+09:00",
+      "updatedAt": "2026-10-19T07:39:21.531948+09:00",
+      "title": "サッカーJ1 第10節 FC町田ゼルビア2位浮上 アビスパ福岡に快勝",
+      "dek": "サッカーJ1は第10節の2試合が行われ、FC町田ゼルビアがアビスパ福岡に快勝し、2位に浮上しました。",
+      "summary": "サッカーJ1は第10節の2試合が行われ、FC町田ゼルビアがアビスパ福岡に快勝し、2位に浮上しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "サッカーJ1は第10節の2試合が行われ、FC町田ゼルビアがアビスパ福岡に快勝し、2位に浮上しました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "サッカーJ1は第10節の2試合が行われ、FC町田ゼルビアがアビスパ福岡に快勝し、2位に浮上しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "サッカーJ1は第10節の2試合が行われ、FC町田ゼルビアがアビスパ福岡に快勝し、2位に浮上しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-18T23:17:51+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-10-19T07:39:21.531948+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "サッカーJ1 第10節 FC町田ゼルビア2位浮上 アビスパ福岡に快勝",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261018de61264",
+              "publishedAt": "2026-10-18T23:17:51+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-18T23:17:51+09:00",
+          "keyPoints": [
+            "サッカーJ1は第10節の2試合が行われ、FC町田ゼルビアがアビスパ福岡に快勝し、2位に浮上しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "563792fc731e3805",
+      "slug": "2026-10-19-06-563792fc",
+      "publishedAt": "2026-10-18T20:29:00+09:00",
+      "updatedAt": "2026-10-19T07:39:21.531948+09:00",
+      "title": "カナダ 軍事基地で火災 少なくとも7人死亡 数十人けがの情報",
+      "dek": "カナダ西部アルバータ州にある軍事基地で、17日、火災が発生し、地元のテレビ局は複数の死傷者が出ていて、少なくとも7人が死亡したと伝えています。",
+      "summary": "カナダ西部アルバータ州にある軍事基地で、17日、火災が発生し、地元のテレビ局は複数の死傷者が出ていて、少なくとも7人が死亡したと伝えています。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "カナダ西部アルバータ州にある軍事基地で、17日、火災が発生し、地元のテレビ局は複数の死傷者が出ていて、少なくとも7人が死亡したと伝えています。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "カナダ西部アルバータ州にある軍事基地で、17日、火災が発生し、地元のテレビ局は複数の死傷者が出ていて、少なくとも7人が死亡したと伝えています。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "カナダ西部アルバータ州にある軍事基地で、17日、火災が発生し、地元のテレビ局は複数の死傷者が出ていて、少なくとも7人が死亡したと伝えています。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-18T20:29:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-19T07:39:21.531948+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "カナダ 軍事基地で火災 少なくとも7人死亡 数十人けがの情報",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261018de61247",
+              "publishedAt": "2026-10-18T20:29:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-18T20:29:00+09:00",
+          "keyPoints": [
+            "カナダ西部アルバータ州にある軍事基地で、17日、火災が発生し、地元のテレビ局は複数の死傷者が出ていて、少なくとも7人が死亡したと伝えています。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    }
+  ]
+}

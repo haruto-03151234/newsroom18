@@ -1,7 +1,27 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T21:57:24.656527+09:00",
+  "updatedAt": "2026-10-19T07:39:21.531948+09:00",
   "editions": [
+    {
+      "id": "2026-10-19-06",
+      "path": "data/editions/2026-10-19-06.json",
+      "dataUrl": "data/editions/2026-10-19-06.json",
+      "generatedAt": "2026-10-19T07:39:21.531948+09:00",
+      "date": "2026-10-19",
+      "time": "06:00",
+      "label": "朝6時版",
+      "coverageLabel": "10月18日 18:00〜10月19日 06:00",
+      "headline": "滋賀県気象解説情報（落雷・突風）",
+      "articleCount": 10,
+      "categories": {
+        "国内": 5,
+        "社会": 1,
+        "経済": 1,
+        "エンタメ": 1,
+        "スポーツ": 1,
+        "海外": 1
+      }
+    },
     {
       "id": "2026-10-18-18",
       "path": "data/editions/2026-10-18-18.json",
