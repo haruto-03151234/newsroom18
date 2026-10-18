@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-18T06:00:00+09:00",
-  "lastCompletedEdition": "2026-10-18-06",
+  "lastCompletedEnd": "2026-10-18T12:00:00+09:00",
+  "lastCompletedEdition": "2026-10-18-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -18982,7 +18982,80 @@
       "urls": [
         "https://www.asahi.com/articles/ASVBJ46HFVBJUTFL01GM.html"
       ]
+    },
+    {
+      "editionId": "2026-10-18-12",
+      "title": "長崎県気象解説情報落雷・突風",
+      "publishedAt": "2026-10-18T09:54:56+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261018005457_0_VPFJ50_410000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261018005601_0_VPFJ50_420000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-12",
+      "title": "愛子さま避難所運営ゲームに参加大学生らと議論いい学びに",
+      "publishedAt": "2026-10-18T11:49:57+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBL0QHCVBLUTIL00GM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-12",
+      "title": "米カンザス州子どものサッカー試合会場に車突っ込み2人死亡",
+      "publishedAt": "2026-10-18T11:41:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261018de61075"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-12",
+      "title": "迫るゴダイゴ50周年再び伝説の地へその2止建国以来初に6万人",
+      "publishedAt": "2026-10-18T11:28:46+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261018/ddm/003/200/121000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-12",
+      "title": "愛知新東名シカと衝突し停車中の車にトラックが追突1人死亡",
+      "publishedAt": "2026-10-18T11:11:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261018de61091"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-12",
+      "title": "火星の衛星から砂持ち帰る計画探査機mmx20日打ち上げへ",
+      "publishedAt": "2026-10-18T08:46:26+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261017de61034"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-12",
+      "title": "こどもnisaやるべき我が家にあった教育資金の備えとは",
+      "publishedAt": "2026-10-18T08:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBG1VBZVBGULFA00LM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-12",
+      "title": "祝・連載再開キャプテン翼大好きマンガ家による最新家庭用ゲーム魂のプレゼン",
+      "publishedAt": "2026-10-18T07:16:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/18/2000002348"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-12",
+      "title": "復帰した浅野拓磨が本拠で初出場今の俺の方がギラギラしてる",
+      "publishedAt": "2026-10-18T06:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBK4H1BVBKPTQP00JM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-18T07:44:03.141004+09:00"
+  "updatedAt": "2026-10-18T16:36:07.333811+09:00"
 }

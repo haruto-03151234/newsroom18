@@ -1,0 +1,704 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-10-18T16:36:07.333811+09:00",
+  "summary": "対象時間帯の5配信元のニュースを9本に整理しました。うち重要ニュースは1本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-10-18-12",
+    "date": "2026-10-18",
+    "slot": "12:00",
+    "label": "昼12時版"
+  },
+  "coverage": {
+    "from": "2026-10-18T06:00:00+09:00",
+    "to": "2026-10-18T12:00:00+09:00",
+    "start": "2026-10-18T06:00:00+09:00",
+    "end": "2026-10-18T12:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "10月18日 06:00〜10月18日 12:00"
+  },
+  "stats": {
+    "articleCount": 9,
+    "categoryCounts": {
+      "国内": 1,
+      "社会": 2,
+      "海外": 1,
+      "エンタメ": 2,
+      "科学": 1,
+      "経済": 1,
+      "スポーツ": 1
+    },
+    "sourceCount": 10,
+    "publisherCount": 5,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 1,
+      "jma": 1,
+      "mainichi": 1,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 1,
+      "brief": 8
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories"
+  ],
+  "articles": [
+    {
+      "id": "e0cc6616be270db5",
+      "slug": "2026-10-18-12-e0cc6616",
+      "publishedAt": "2026-10-18T09:54:56+09:00",
+      "updatedAt": "2026-10-18T16:36:07.333811+09:00",
+      "title": "長崎県気象解説情報（落雷・突風）",
+      "dek": "10月18日 09:54〜10月18日 09:56更新。壱岐・対馬では、19日未明から夜遅くにかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+      "summary": "壱岐・対馬では、19日未明から夜遅くにかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。[気象概況] 前線を伴った低気圧が、19日にかけて発達しながら日本海を北東へ進む見込みです。この低気圧や前線に向かって、暖かく湿った空気が流れ込み、九州北部地方では大気の状態が非常に不安定となるでしょう。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "長崎県気象解説情報落雷突風"
+      ],
+      "facts": [
+        "この低気圧や前線に向かって、暖かく湿った空気が流れ込み、九州北部地方では大気の状態が非常に不安定となるでしょう。",
+        "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど、安全確保に努めてください。"
+      ],
+      "impactPoints": [
+        "壱岐・対馬では、19日未明から夜遅くにかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "[防災事項] 落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "佐賀県では、19日朝から夜遅くにかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "[気象概況] 前線を伴った低気圧が、19日にかけて発達しながら日本海を北東へ進む見込みです。",
+        "このため、壱岐・対馬では、19日未明から夜遅くにかけて局地的に積乱雲が発達し、落雷や竜巻などの激しい突風が発生するおそれがあります。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "次の情報は、18日16時30分頃に発表する予定です。",
+        "このため、佐賀県では、19日朝から夜遅くにかけて局地的に積乱雲が発達し、落雷や竜巻などの激しい突風が発生するおそれがあります。"
+      ],
+      "body": [
+        "壱岐・対馬では、19日未明から夜遅くにかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。[気象概況] 前線を伴った低気圧が、19日にかけて発達しながら日本海を北東へ進む見込みです。この低気圧や前線に向かって、暖かく湿った空気が流れ込み、九州北部地方では大気の状態が非常に不安定となるでしょう。",
+        "[防災事項] 落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "佐賀県では、19日朝から夜遅くにかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "このため、壱岐・対馬では、19日未明から夜遅くにかけて局地的に積乱雲が発達し、落雷や竜巻などの激しい突風が発生するおそれがあります。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "次の情報は、18日16時30分頃に発表する予定です。",
+        "このため、佐賀県では、19日朝から夜遅くにかけて局地的に積乱雲が発達し、落雷や竜巻などの激しい突風が発生するおそれがあります。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "この低気圧や前線に向かって、暖かく湿った空気が流れ込み、九州北部地方では大気の状態が非常に不安定となるでしょう。",
+            "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど、安全確保に努めてください。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "壱岐・対馬では、19日未明から夜遅くにかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+            "[防災事項] 落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+            "佐賀県では、19日朝から夜遅くにかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "[気象概況] 前線を伴った低気圧が、19日にかけて発達しながら日本海を北東へ進む見込みです。",
+            "このため、壱岐・対馬では、19日未明から夜遅くにかけて局地的に積乱雲が発達し、落雷や竜巻などの激しい突風が発生するおそれがあります。",
+            "[補足事項] 今後発表する防災気象情報に留意してください。",
+            "次の情報は、18日16時30分頃に発表する予定です。",
+            "このため、佐賀県では、19日朝から夜遅くにかけて局地的に積乱雲が発達し、落雷や竜巻などの激しい突風が発生するおそれがあります。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-18T09:56:00+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-10-18T16:36:07.333811+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "佐賀県気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261018005457_0_VPFJ50_410000.xml",
+              "publishedAt": "2026-10-18T09:54:56+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "長崎県気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261018005601_0_VPFJ50_420000.xml",
+              "publishedAt": "2026-10-18T09:56:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-18T09:56:00+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 2,
+      "freshSourceCount": 2,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "66119b494607e609",
+      "slug": "2026-10-18-12-66119b49",
+      "publishedAt": "2026-10-18T11:49:57+09:00",
+      "updatedAt": "2026-10-18T16:36:07.333811+09:00",
+      "title": "愛子さま、避難所運営ゲームに参加 大学生らと議論 「いい学びに」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-18T11:49:57+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-18T16:36:07.333811+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "愛子さま、避難所運営ゲームに参加 大学生らと議論 「いい学びに」",
+              "url": "https://www.asahi.com/articles/ASVBL0QHCVBLUTIL00GM.html",
+              "publishedAt": "2026-10-18T11:49:57+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-18T11:49:57+09:00",
+          "keyPoints": [
+            "愛子さま、避難所運営ゲームに参加 大学生らと議論 「いい学びに」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "6214520fb5ce67f7",
+      "slug": "2026-10-18-12-6214520f",
+      "publishedAt": "2026-10-18T11:41:00+09:00",
+      "updatedAt": "2026-10-18T16:36:07.333811+09:00",
+      "title": "米カンザス州 子どものサッカー試合会場に車突っ込み2人死亡",
+      "dek": "アメリカ中西部カンザス州で17日、子どもたちのサッカーの試合会場に車が突っ込み、子どもを含む2人が死亡し、10人がけがをしました。",
+      "summary": "アメリカ中西部カンザス州で17日、子どもたちのサッカーの試合会場に車が突っ込み、子どもを含む2人が死亡し、10人がけがをしました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "アメリカ中西部カンザス州で17日、子どもたちのサッカーの試合会場に車が突っ込み、子どもを含む2人が死亡し、10人がけがをしました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "アメリカ中西部カンザス州で17日、子どもたちのサッカーの試合会場に車が突っ込み、子どもを含む2人が死亡し、10人がけがをしました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "アメリカ中西部カンザス州で17日、子どもたちのサッカーの試合会場に車が突っ込み、子どもを含む2人が死亡し、10人がけがをしました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-18T11:41:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-18T16:36:07.333811+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "米カンザス州 子どものサッカー試合会場に車突っ込み2人死亡",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261018de61075",
+              "publishedAt": "2026-10-18T11:41:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-18T11:41:00+09:00",
+          "keyPoints": [
+            "アメリカ中西部カンザス州で17日、子どもたちのサッカーの試合会場に車が突っ込み、子どもを含む2人が死亡し、10人がけがをしました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "c06c1a3b6db3ff35",
+      "slug": "2026-10-18-12-c06c1a3b",
+      "publishedAt": "2026-10-18T11:28:46+09:00",
+      "updatedAt": "2026-10-18T16:36:07.333811+09:00",
+      "title": "迫る:ゴダイゴ 50周年 再び伝説の地へ（その2止） 「建国以来初」に6万人",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-18T11:28:46+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-10-18T16:36:07.333811+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "迫る:ゴダイゴ 50周年 再び伝説の地へ（その2止） 「建国以来初」に6万人",
+              "url": "https://mainichi.jp/articles/20261018/ddm/003/200/121000c",
+              "publishedAt": "2026-10-18T11:28:46+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-18T11:28:46+09:00",
+          "keyPoints": [
+            "迫る:ゴダイゴ 50周年 再び伝説の地へ（その2止） 「建国以来初」に6万人"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "b81cdfd00b5d8a8f",
+      "slug": "2026-10-18-12-b81cdfd0",
+      "publishedAt": "2026-10-18T11:11:00+09:00",
+      "updatedAt": "2026-10-18T16:36:07.333811+09:00",
+      "title": "愛知 新東名 シカと衝突し停車中の車にトラックが追突 1人死亡",
+      "dek": "17日夜、愛知県新城市の新東名高速道路でシカとぶつかり止まっていた乗用車に大型トラックが追突し、乗用車に乗っていた女性1人が死亡しました。",
+      "summary": "17日夜、愛知県新城市の新東名高速道路でシカとぶつかり止まっていた乗用車に大型トラックが追突し、乗用車に乗っていた女性1人が死亡しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "17日夜、愛知県新城市の新東名高速道路でシカとぶつかり止まっていた乗用車に大型トラックが追突し、乗用車に乗っていた女性1人が死亡しました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "17日夜、愛知県新城市の新東名高速道路でシカとぶつかり止まっていた乗用車に大型トラックが追突し、乗用車に乗っていた女性1人が死亡しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "17日夜、愛知県新城市の新東名高速道路でシカとぶつかり止まっていた乗用車に大型トラックが追突し、乗用車に乗っていた女性1人が死亡しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-18T11:11:00+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
+        },
+        {
+          "at": "2026-10-18T16:36:07.333811+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "愛知 新東名 シカと衝突し停車中の車にトラックが追突 1人死亡",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261018de61091",
+              "publishedAt": "2026-10-18T11:11:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-18T11:11:00+09:00",
+          "keyPoints": [
+            "17日夜、愛知県新城市の新東名高速道路でシカとぶつかり止まっていた乗用車に大型トラックが追突し、乗用車に乗っていた女性1人が死亡しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "b1853ace821515af",
+      "slug": "2026-10-18-12-b1853ace",
+      "publishedAt": "2026-10-18T08:46:26+09:00",
+      "updatedAt": "2026-10-18T16:36:07.333811+09:00",
+      "title": "火星の衛星から砂持ち帰る計画 探査機「MMX」20日打ち上げへ",
+      "dek": "火星の衛星「フォボス」から砂を地球に持ち帰る日本の探査機「MMX」は、H3ロケットに搭載され、20日に鹿児島県の種子島宇宙センターから打ち上げられます。",
+      "summary": "火星の衛星「フォボス」から砂を地球に持ち帰る日本の探査機「MMX」は、H3ロケットに搭載され、20日に鹿児島県の種子島宇宙センターから打ち上げられます。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "火星の衛星「フォボス」から砂を地球に持ち帰る日本の探査機「MMX」は、H3ロケットに搭載され、20日に鹿児島県の種子島宇宙センターから打ち上げられます。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "火星の衛星「フォボス」から砂を地球に持ち帰る日本の探査機「MMX」は、H3ロケットに搭載され、20日に鹿児島県の種子島宇宙センターから打ち上げられます。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "火星の衛星「フォボス」から砂を地球に持ち帰る日本の探査機「MMX」は、H3ロケットに搭載され、20日に鹿児島県の種子島宇宙センターから打ち上げられます。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-18T08:46:26+09:00",
+          "text": "NHK ONE 科学・文化の公開情報を確認",
+          "source": "NHK ONE 科学・文化"
+        },
+        {
+          "at": "2026-10-18T16:36:07.333811+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 科学・文化",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "火星の衛星から砂持ち帰る計画 探査機「MMX」20日打ち上げへ",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261017de61034",
+              "publishedAt": "2026-10-18T08:46:26+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-18T08:46:26+09:00",
+          "keyPoints": [
+            "火星の衛星「フォボス」から砂を地球に持ち帰る日本の探査機「MMX」は、H3ロケットに搭載され、20日に鹿児島県の種子島宇宙センターから打ち上げられます。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    },
+    {
+      "id": "a0869045a838a5cb",
+      "slug": "2026-10-18-12-a0869045",
+      "publishedAt": "2026-10-18T08:00:00+09:00",
+      "updatedAt": "2026-10-18T16:36:07.333811+09:00",
+      "title": "こどもNISA、やるべき？ 「我が家」にあった教育資金の備えとは",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-18T08:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-18T16:36:07.333811+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "こどもNISA、やるべき？ 「我が家」にあった教育資金の備えとは",
+              "url": "https://www.asahi.com/articles/ASVBG1VBZVBGULFA00LM.html",
+              "publishedAt": "2026-10-18T08:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-18T08:00:00+09:00",
+          "keyPoints": [
+            "こどもNISA、やるべき？ 「我が家」にあった教育資金の備えとは"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "0db79a5d9a03af09",
+      "slug": "2026-10-18-12-0db79a5d",
+      "publishedAt": "2026-10-18T07:16:00+09:00",
+      "updatedAt": "2026-10-18T16:36:07.333811+09:00",
+      "title": "祝・連載再開！ 「キャプテン翼」大好きマンガ家による最新家庭用ゲーム“魂のプレゼン”",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-18T07:16:00+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-18T16:36:07.333811+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "祝・連載再開！ 「キャプテン翼」大好きマンガ家による最新家庭用ゲーム“魂のプレゼン”",
+              "url": "https://www.itmedia.co.jp/news/article/2610/18/2000002348",
+              "publishedAt": "2026-10-18T07:16:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-18T07:16:00+09:00",
+          "keyPoints": [
+            "祝・連載再開！ 「キャプテン翼」大好きマンガ家による最新家庭用ゲーム“魂のプレゼン”"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "d09309b3d7468db8",
+      "slug": "2026-10-18-12-d09309b3",
+      "publishedAt": "2026-10-18T06:00:00+09:00",
+      "updatedAt": "2026-10-18T16:36:07.333811+09:00",
+      "title": "復帰した浅野拓磨が本拠で初出場 「今の俺の方がギラギラしてる」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-18T06:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-18T16:36:07.333811+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "復帰した浅野拓磨が本拠で初出場 「今の俺の方がギラギラしてる」",
+              "url": "https://www.asahi.com/articles/ASVBK4H1BVBKPTQP00JM.html",
+              "publishedAt": "2026-10-18T06:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-18T06:00:00+09:00",
+          "keyPoints": [
+            "復帰した浅野拓磨が本拠で初出場 「今の俺の方がギラギラしてる」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    }
+  ]
+}
