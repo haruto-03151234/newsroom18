@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-18T12:00:00+09:00",
-  "lastCompletedEdition": "2026-10-18-12",
+  "lastCompletedEnd": "2026-10-18T18:00:00+09:00",
+  "lastCompletedEdition": "2026-10-18-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -19055,7 +19055,82 @@
       "urls": [
         "https://www.asahi.com/articles/ASVBK4H1BVBKPTQP00JM.html"
       ]
+    },
+    {
+      "editionId": "2026-10-18-18",
+      "title": "沖縄地方気象解説情報台風第30号",
+      "publishedAt": "2026-10-18T16:47:08+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261018074709_0_VPCJ50_471000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-18",
+      "title": "福井県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-10-18T16:44:25+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261018074425_0_VPFJ50_180000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-18",
+      "title": "石川県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-10-18T16:06:24+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261018070625_0_VPFJ50_310000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261018071816_0_VPCJ50_150000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261018074149_0_VPFJ50_170000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261018080008_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-18",
+      "title": "世田谷三軒茶屋女性はねられ両足大けが荷物積み下ろし中か",
+      "publishedAt": "2026-10-18T17:24:20+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261018de61090"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-18",
+      "title": "ゴルフ日本オープン細野勇策が初優勝左打ち選手では45年ぶり",
+      "publishedAt": "2026-10-18T17:04:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261018de61185"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-18",
+      "title": "自分の言葉で伝えるとは何かnhk寺門亜衣子アナが続ける模索",
+      "publishedAt": "2026-10-18T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBJ1W6JVBJUJHB00QM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-18",
+      "title": "女子ゴルフ国内ツアー鈴木愛が通算23勝目",
+      "publishedAt": "2026-10-18T16:45:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261018de61167"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-18",
+      "title": "anaちいかわジェットが羽田空港で初公開19日から運航開始",
+      "publishedAt": "2026-10-18T16:27:19+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBL2F1MVBLULFA004M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-18-18",
+      "title": "フィンランドのマリン前首相行動こそ希望新著イベントで語る",
+      "publishedAt": "2026-10-18T16:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBG3Q6HVBGUHBI010M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-18T16:36:07.333811+09:00"
+  "updatedAt": "2026-10-18T21:57:24.656527+09:00"
 }
