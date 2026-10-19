@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-19T18:00:00+09:00",
-  "lastCompletedEdition": "2026-10-19-18",
+  "lastCompletedEnd": "2026-10-20T06:00:00+09:00",
+  "lastCompletedEdition": "2026-10-20-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -19468,7 +19468,115 @@
       "urls": [
         "https://mainichi.jp/articles/20261019/dde/012/200/007000c"
       ]
+    },
+    {
+      "editionId": "2026-10-20-06",
+      "title": "京都府気象解説情報落雷・突風",
+      "publishedAt": "2026-10-20T05:47:33+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261019204734_0_VPFJ50_270000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261019204922_0_VPFJ50_260000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-06",
+      "title": "石川県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-10-20T05:38:34+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261019203835_0_VPFJ50_160000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261019204731_0_VPFJ50_280000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261019204924_0_VPFJ50_250000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261019205308_0_VPFJ50_170000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-06",
+      "title": "いざ出陣じゃー武者行列に俳優・光石研さん小倉お城まつり",
+      "publishedAt": "2026-10-20T05:45:12+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261019/k00/00m/310/113000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-06",
+      "title": "米中間選挙まで2週間下院は民主党過半数うかがう上院は接戦",
+      "publishedAt": "2026-10-20T05:37:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261020de61904"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-06",
+      "title": "宇宙への扉中国が猛追する火星探査日本の戦略はあえて本体でなく衛星",
+      "publishedAt": "2026-10-20T05:35:12+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261019/k00/00m/040/221000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-06",
+      "title": "奥入瀬渓流で紅葉始まる今週末に見ごろ11月上旬まで青森",
+      "publishedAt": "2026-10-20T05:15:11+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261019/k00/00m/310/064000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-06",
+      "title": "食料品の消費税減税関連法案きょう衆議院で審議入り",
+      "publishedAt": "2026-10-20T05:10:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261019de61870"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-06",
+      "title": "チャールズ英国王からアウンサンスーチー氏に本や封筒親軍政権発表",
+      "publishedAt": "2026-10-20T00:56:52+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBM54NDVBMUHBI025M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-06",
+      "title": "上皇后美智子さま92歳に上皇さまと散策穏やかな日過ごす",
+      "publishedAt": "2026-10-20T00:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBM0BKPVBMUQIP05QM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-06",
+      "title": "アジアパラ大会競泳鈴木孝幸50m自由形で金メダル獲得",
+      "publishedAt": "2026-10-19T22:46:37+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261019de61854"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-06",
+      "title": "ニフティ54万件超漏えいの可能性光回線の申し込みシステムに不正アクセス",
+      "publishedAt": "2026-10-19T19:34:36+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/19/2000002399"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-06",
+      "title": "スクエニアカウントに不正ログイン他社で流出の情報使用か全アカウントのパスワード強制リセットも視野に",
+      "publishedAt": "2026-10-19T18:58:47+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/19/2000002397"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-06",
+      "title": "まとめてわかるなぜmmxは火星本体に行かない移住は可能",
+      "publishedAt": "2026-10-19T18:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBL2PD0VBLUTFL00QM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-20T01:09:44.201373+09:00"
+  "updatedAt": "2026-10-20T08:59:46.217868+09:00"
 }
