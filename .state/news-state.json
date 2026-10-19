@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-19T12:00:00+09:00",
-  "lastCompletedEdition": "2026-10-19-12",
+  "lastCompletedEnd": "2026-10-19T18:00:00+09:00",
+  "lastCompletedEdition": "2026-10-19-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -19345,7 +19345,130 @@
       "urls": [
         "https://www.asahi.com/articles/ASVBG0GY5VBGULFA006M.html"
       ]
+    },
+    {
+      "editionId": "2026-10-19-18",
+      "title": "福井県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-10-19T17:07:32+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261019080732_0_VPFJ50_180000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-19-18",
+      "title": "富山県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-10-19T16:51:37+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261019075138_0_VPFJ50_160000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-19-18",
+      "title": "八重山地方気象解説情報台風第30号",
+      "publishedAt": "2026-10-19T16:49:39+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261019074939_0_VPFJ50_472000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261019075434_0_VPFJ50_473000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261019080628_0_VPFJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261019081437_0_VPFJ50_474000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-19-18",
+      "title": "小泉総理が高市首相うっかり進次郎氏の肩書を言い間違える",
+      "publishedAt": "2026-10-19T17:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBM2RW1VBMUTFK01CM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-19-18",
+      "title": "パレスチナ選挙延期極めて残念中曽根外務副大臣が伝達",
+      "publishedAt": "2026-10-19T17:17:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261019de61687"
+      ]
+    },
+    {
+      "editionId": "2026-10-19-18",
+      "title": "ゲオセカスト運営元に不正アクセス公式アプリや通販を停止メンテナンス実施中",
+      "publishedAt": "2026-10-19T17:08:39+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/19/2000002392"
+      ]
+    },
+    {
+      "editionId": "2026-10-19-18",
+      "title": "敗戦後に炎上した那須川天心が真意を語る僕だって心が揺れる",
+      "publishedAt": "2026-10-19T17:06:21+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBM2F86VBMUTQP00BM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-19-18",
+      "title": "ふるさとチョイス不正アクセスの疑いでサービス停止",
+      "publishedAt": "2026-10-19T16:54:24+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/19/2000002391"
+      ]
+    },
+    {
+      "editionId": "2026-10-19-18",
+      "title": "情報漏えい経験ありは企業の162発生したか分からないの声も帝国データバンク調査",
+      "publishedAt": "2026-10-19T16:31:48+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/19/2000002390"
+      ]
+    },
+    {
+      "editionId": "2026-10-19-18",
+      "title": "体操世界選手権ロシア女子トップ選手にビザおりず",
+      "publishedAt": "2026-10-19T16:13:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261019de61594"
+      ]
+    },
+    {
+      "editionId": "2026-10-19-18",
+      "title": "阪神の佐藤輝明が大リーグ移籍へ球団がポスティングを容認",
+      "publishedAt": "2026-10-19T16:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBM0HMWVBMPTQP001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-19-18",
+      "title": "三菱電機自動車部品子会社にホンハイの出資受け入れで会見",
+      "publishedAt": "2026-10-19T15:56:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261019de61602"
+      ]
+    },
+    {
+      "editionId": "2026-10-19-18",
+      "title": "小学校勤務俳優の学び大浦龍宇一さん聞く・待つ・否定しない大切に",
+      "publishedAt": "2026-10-19T14:06:15+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261019/dde/041/200/016000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-19-18",
+      "title": "トーク人間くさい夫婦見せたい朗読劇たとへば君",
+      "publishedAt": "2026-10-19T13:57:02+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261019/dde/012/200/010000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-19-18",
+      "title": "映画遥かな町へ錦織良成監督大谷亮平35年前の自分に戻る物語",
+      "publishedAt": "2026-10-19T13:49:01+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261019/dde/012/200/007000c"
+      ]
     }
   ],
-  "updatedAt": "2026-10-19T17:19:02.508261+09:00"
+  "updatedAt": "2026-10-20T01:09:44.201373+09:00"
 }
