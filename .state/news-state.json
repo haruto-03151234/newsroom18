@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-20T18:00:00+09:00",
-  "lastCompletedEdition": "2026-10-20-18",
+  "lastCompletedEnd": "2026-10-21T06:00:00+09:00",
+  "lastCompletedEdition": "2026-10-21-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -19801,7 +19801,122 @@
       "urls": [
         "https://mainichi.jp/articles/20261020/dde/012/200/006000c"
       ]
+    },
+    {
+      "editionId": "2026-10-21-06",
+      "title": "福井県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-10-21T05:18:24+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261020201824_0_VPFJ50_210000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261020205014_0_VPFJ50_180000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-06",
+      "title": "石川県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-10-21T05:16:31+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261020201631_0_VPFJ50_060000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261020204833_0_VPFJ50_160000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261020204915_0_VPFJ50_170000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-06",
+      "title": "最高裁判決を踏まえた保護費の追加給付について対象世帯や申出方法をご確認ください",
+      "publishedAt": "2026-10-21T00:00:00+09:00",
+      "urls": [
+        "https://www.gov-online.go.jp/article/202610/entry-11689.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-06",
+      "title": "体操世界選手権男子団体日本は金メダルで五輪出場権獲得",
+      "publishedAt": "2026-10-21T05:55:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de62550"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-06",
+      "title": "消費税減税法案野党からは対案も与党は成立へ歩み寄り模索",
+      "publishedAt": "2026-10-21T05:48:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261020de62512"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-06",
+      "title": "ゆるキャンも表紙に静岡県民手帳27年版の販売始まる",
+      "publishedAt": "2026-10-21T05:45:09+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261019/k00/00m/310/033000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-06",
+      "title": "日本とロシアの外務省局長が協議北海道新聞記者の拘束も議論か",
+      "publishedAt": "2026-10-21T05:27:10+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBN6QMTVBNUHBI03WM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-06",
+      "title": "北海道職員が就活セクハラか学生にかわいいなど何度もline",
+      "publishedAt": "2026-10-21T05:15:09+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261020/k00/00m/310/278000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-06",
+      "title": "マンション管理会社にも金銭と談合業者大規模修繕で新たな証言",
+      "publishedAt": "2026-10-21T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBN2HJFVBNUEFT00NM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-06",
+      "title": "日銀総裁に国債買い入れ求めた高市首相アベノミクス回帰の思惑",
+      "publishedAt": "2026-10-21T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBN1BWHVBNUTFK01XM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-06",
+      "title": "韓国",
+      "publishedAt": "2026-10-21T02:31:10+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261021/ddm/007/030/041000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-06",
+      "title": "布団乾燥機を販売の東京の事業者に消費者庁が措置命令",
+      "publishedAt": "2026-10-20T21:04:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261020de62467"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-06",
+      "title": "ふるさと納税のふるさとチョイス会員情報445万件流出寄附控除試算額も",
+      "publishedAt": "2026-10-20T19:56:27+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/20/2000002434"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-06",
+      "title": "栃木県警全職員の情報流出かアルカディア不正アクセス他県警でも被害判明相次ぐ報道",
+      "publishedAt": "2026-10-20T19:51:58+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/20/2000002435"
+      ]
     }
   ],
-  "updatedAt": "2026-10-20T23:04:20.824675+09:00"
+  "updatedAt": "2026-10-21T08:30:48.494665+09:00"
 }
