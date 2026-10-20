@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-20T12:00:00+09:00",
-  "lastCompletedEdition": "2026-10-20-12",
+  "lastCompletedEnd": "2026-10-20T18:00:00+09:00",
+  "lastCompletedEdition": "2026-10-20-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -19677,7 +19677,131 @@
       "urls": [
         "https://www.asahi.com/articles/ASVBM0SX5VBMUBNB001M.html"
       ]
+    },
+    {
+      "editionId": "2026-10-20-18",
+      "title": "宮古島地方気象解説情報台風第30号",
+      "publishedAt": "2026-10-20T16:50:11+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261020075011_0_VPFJ50_473000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261020075741_0_VPFJ50_472000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261020075928_0_VPFJ50_474000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-18",
+      "title": "石川県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-10-20T16:46:15+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261020074615_0_VPFJ50_220000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261020075309_0_VPFJ50_170000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261020075340_0_VPFJ50_160000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-18",
+      "title": "インドネシア・ハラール認証義務化の延期について",
+      "publishedAt": "2026-10-20T16:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/yusyutu_kokusai/kisei/261020.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-18",
+      "title": "小寺農林水産副大臣の海外出張フランス結果概要について",
+      "publishedAt": "2026-10-20T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/y_kokusai/kikou/261020.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-18",
+      "title": "アジアパラ陸上久野竜太朗アジア新男子100m視覚障害クラス",
+      "publishedAt": "2026-10-20T17:55:04+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261020de62315"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-18",
+      "title": "lineマンガ掲載作のキャラと会話できるaiチャットサービスbyus作者の同意得た作品で展開",
+      "publishedAt": "2026-10-20T17:53:43+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/20/2000002432"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-18",
+      "title": "食料品の消費税減税関連法案首相法案の早期成立目指す",
+      "publishedAt": "2026-10-20T17:49:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261020de61967"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-18",
+      "title": "高市首相比大統領と電話会談asean首脳会議向け協力確認",
+      "publishedAt": "2026-10-20T17:20:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261020de62258"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-18",
+      "title": "日本企業狙う不正アクセスにai攻撃者が自律型侵入テストartexを悪用gmoイエラエ調査",
+      "publishedAt": "2026-10-20T17:16:45+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/20/2000002423"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-18",
+      "title": "デジタル庁政府職員18万人にaiエージェント環境を展開源内で提供開始独自の安全基準も",
+      "publishedAt": "2026-10-20T17:14:44+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/20/2000002428"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-18",
+      "title": "ニューメキシコニューアメリカトランプ氏が改称主張知事は反発",
+      "publishedAt": "2026-10-20T16:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBN1VBZVBNBQBQ0QDM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-18",
+      "title": "ゼレンスキー氏トランプ氏への反発鮮明に識者芝居続けられぬ",
+      "publishedAt": "2026-10-20T16:09:21+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBN23PKVBNUHBI031M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-18",
+      "title": "給付制度の対象首相年収100万から350万円が一つの参考",
+      "publishedAt": "2026-10-20T15:26:12+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBN221FVBNULFA019M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-18",
+      "title": "楽しかった伊東四朗69年卒寿をもって引退",
+      "publishedAt": "2026-10-20T13:39:49+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261020/dde/012/200/002000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-18",
+      "title": "フォーカス角田晃広ドラマ南田南弁護士は天才肌南田誠役娘思いながら演じてる",
+      "publishedAt": "2026-10-20T13:35:57+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261020/dde/012/200/006000c"
+      ]
     }
   ],
-  "updatedAt": "2026-10-20T17:03:20.969560+09:00"
+  "updatedAt": "2026-10-20T23:04:20.824675+09:00"
 }
