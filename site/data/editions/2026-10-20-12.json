@@ -1,0 +1,964 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-10-20T17:03:20.969560+09:00",
+  "summary": "対象時間帯の6配信元のニュースを12本に整理しました。うち重要ニュースは2本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-10-20-12",
+    "date": "2026-10-20",
+    "slot": "12:00",
+    "label": "昼12時版"
+  },
+  "coverage": {
+    "from": "2026-10-20T06:00:00+09:00",
+    "to": "2026-10-20T12:00:00+09:00",
+    "start": "2026-10-20T06:00:00+09:00",
+    "end": "2026-10-20T12:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "10月20日 06:00〜10月20日 12:00"
+  },
+  "stats": {
+    "articleCount": 12,
+    "categoryCounts": {
+      "国内": 3,
+      "経済": 1,
+      "海外": 4,
+      "テクノロジー": 2,
+      "エンタメ": 1,
+      "社会": 1
+    },
+    "sourceCount": 17,
+    "publisherCount": 6,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 3,
+      "jma": 1,
+      "mainichi": 1,
+      "mof": 1,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 2,
+      "brief": 10
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories"
+  ],
+  "articles": [
+    {
+      "id": "470009e13a27ba87",
+      "slug": "2026-10-20-12-470009e1",
+      "publishedAt": "2026-10-20T11:11:26+09:00",
+      "updatedAt": "2026-10-20T17:03:20.969560+09:00",
+      "title": "石川県気象解説情報（大雨・落雷・突風）",
+      "dek": "10月20日 11:11〜10月20日 11:55更新。能登では、20日夕方にかけて土砂災害に注意してください。",
+      "summary": "能登では、20日夕方にかけて土砂災害に注意してください。また、石川県では20日夕方にかけて落雷や竜巻などの激しい突風、降ひょうに注意してください。[気象概況] 前線が日本の東から北陸地方を通って東シナ海へのびています。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "石川県気象解説情報大雨落雷突風"
+      ],
+      "facts": [
+        "[気象概況] 前線が日本の東から北陸地方を通って東シナ海へのびています。",
+        "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど安全確保に努めてください。",
+        "この前線に向かって暖かく湿った空気が流れ込み、大気の状態が非常に不安定となるでしょう。"
+      ],
+      "impactPoints": [
+        "能登では、20日夕方にかけて土砂災害に注意してください。",
+        "また、石川県では20日夕方にかけて落雷や竜巻などの激しい突風、降ひょうに注意してください。",
+        "石川県では前線や暖かく湿った空気の影響で大気の状態が非常に不安定となるでしょう。",
+        "[雨の実況] 降り始め(19日11時)から20日11時までの降水量(アメダスによる速報値) 輪島市門前 129.0ミリ 輪島市三井 118.0ミリ 珠洲 105.5ミリ 志賀 102.0ミリ 輪島 99.0ミリ [防災事項] 能登では、20日夕方にかけて土砂災害に注意してください。",
+        "また、石川県では20日夕方にかけて落雷や竜巻などの激しい突風に注意してください。",
+        "これで、「石川県気象解説情報(大雨・落雷・突風)」は終了します。",
+        "[お知らせ] 令和6年能登半島地震で揺れの大きかった珠洲市は土砂災害の警報等を、令和8年8月2。",
+        "富山県では20日昼過ぎにかけて低い土地の浸水や河川の増水に注意してください。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "ひょうの降るおそれもありますので、農作物や農業施設の管理にも注意してください。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "21日の大雨についての「石川県気象解説情報(大雨・落雷・突風)」は、夕方頃に発表する予定です。",
+        "[気象概況] 対馬海峡にある前線は、20日夜から21日にかけて九州北部地方を南下する見込みです。",
+        "このため、長崎県では、20日夜遅くから21日昼前にかけて局地的に積乱雲が発達し、落雷や竜巻などの激しい突風が発生するおそれがあります。",
+        "次の情報は、20日16時30分頃に発表する予定です。"
+      ],
+      "body": [
+        "能登では、20日夕方にかけて土砂災害に注意してください。また、石川県では20日夕方にかけて落雷や竜巻などの激しい突風、降ひょうに注意してください。[気象概況] 前線が日本の東から北陸地方を通って東シナ海へのびています。",
+        "石川県では前線や暖かく湿った空気の影響で大気の状態が非常に不安定となるでしょう。",
+        "[雨の実況] 降り始め(19日11時)から20日11時までの降水量(アメダスによる速報値) 輪島市門前 129.0ミリ 輪島市三井 118.0ミリ 珠洲 105.5ミリ 志賀 102.0ミリ 輪島 99.0ミリ [防災事項] 能登では、20日夕方にかけて土砂災害に注意してください。",
+        "また、石川県では20日夕方にかけて落雷や竜巻などの激しい突風に注意してください。",
+        "これで、「石川県気象解説情報(大雨・落雷・突風)」は終了します。",
+        "[お知らせ] 令和6年能登半島地震で揺れの大きかった珠洲市は土砂災害の警報等を、令和8年8月2。",
+        "富山県では20日昼過ぎにかけて低い土地の浸水や河川の増水に注意してください。",
+        "ひょうの降るおそれもありますので、農作物や農業施設の管理にも注意してください。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "21日の大雨についての「石川県気象解説情報(大雨・落雷・突風)」は、夕方頃に発表する予定です。",
+        "[気象概況] 対馬海峡にある前線は、20日夜から21日にかけて九州北部地方を南下する見込みです。",
+        "このため、長崎県では、20日夜遅くから21日昼前にかけて局地的に積乱雲が発達し、落雷や竜巻などの激しい突風が発生するおそれがあります。",
+        "次の情報は、20日16時30分頃に発表する予定です。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "[気象概況] 前線が日本の東から北陸地方を通って東シナ海へのびています。",
+            "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど安全確保に努めてください。",
+            "この前線に向かって暖かく湿った空気が流れ込み、大気の状態が非常に不安定となるでしょう。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "能登では、20日夕方にかけて土砂災害に注意してください。",
+            "また、石川県では20日夕方にかけて落雷や竜巻などの激しい突風、降ひょうに注意してください。",
+            "石川県では前線や暖かく湿った空気の影響で大気の状態が非常に不安定となるでしょう。",
+            "[雨の実況] 降り始め(19日11時)から20日11時までの降水量(アメダスによる速報値) 輪島市門前 129.0ミリ 輪島市三井 118.0ミリ 珠洲 105.5ミリ 志賀 102.0ミリ 輪島 99.0ミリ [防災事項] 能登では、20日夕方にかけて土砂災害に注意してください。",
+            "また、石川県では20日夕方にかけて落雷や竜巻などの激しい突風に注意してください。",
+            "これで、「石川県気象解説情報(大雨・落雷・突風)」は終了します。",
+            "[お知らせ] 令和6年能登半島地震で揺れの大きかった珠洲市は土砂災害の警報等を、令和8年8月2。",
+            "富山県では20日昼過ぎにかけて低い土地の浸水や河川の増水に注意してください。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "ひょうの降るおそれもありますので、農作物や農業施設の管理にも注意してください。",
+            "[補足事項] 今後発表する防災気象情報に留意してください。",
+            "21日の大雨についての「石川県気象解説情報(大雨・落雷・突風)」は、夕方頃に発表する予定です。",
+            "[気象概況] 対馬海峡にある前線は、20日夜から21日にかけて九州北部地方を南下する見込みです。",
+            "このため、長崎県では、20日夜遅くから21日昼前にかけて局地的に積乱雲が発達し、落雷や竜巻などの激しい突風が発生するおそれがあります。",
+            "次の情報は、20日16時30分頃に発表する予定です。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-20T11:55:26+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-10-20T17:03:20.969560+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "長崎県気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261020021126_0_VPFJ50_420000.xml",
+              "publishedAt": "2026-10-20T11:11:26+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "佐賀県気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261020021132_0_VPFJ50_410000.xml",
+              "publishedAt": "2026-10-20T11:11:31+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "山口県気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261020021508_0_VPFJ50_350000.xml",
+              "publishedAt": "2026-10-20T11:15:07+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "福岡県気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261020022524_0_VPFJ50_400000.xml",
+              "publishedAt": "2026-10-20T11:25:24+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "富山県気象解説情報（大雨・落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261020022709_0_VPFJ50_160000.xml",
+              "publishedAt": "2026-10-20T11:27:08+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "石川県気象解説情報（大雨・落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261020025526_0_VPFJ50_170000.xml",
+              "publishedAt": "2026-10-20T11:55:26+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-20T11:55:26+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 6,
+      "freshSourceCount": 6,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "250f77776b34752e",
+      "slug": "2026-10-20-12-250f7777",
+      "publishedAt": "2026-10-20T09:30:00+09:00",
+      "updatedAt": "2026-10-20T17:03:20.969560+09:00",
+      "title": "日米政府の戦略的投資イニシアティブに関する協議委員会の会合を開催 （令和8年10月20日）",
+      "dek": "10月20日 09:30更新。令和8年10月20日 財務省 本日、日米政府による戦略的投資イニシアティブに関し、協議委員会の会合をオンラインで開催しました。",
+      "summary": "令和8年10月20日 財務省 本日、日米政府による戦略的投資イニシアティブに関し、協議委員会の会合をオンラインで開催しました。日本から外務省、財務省、経済産業省に加え、株式会社国際協力銀行(JBIC)、株式会社日本貿易保険(NEXI)、米国からは商務省が参加しました。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "日米政府の戦略的投資イニシアティブに関する協議委員会の会合を開催令和8年10月20日"
+      ],
+      "facts": [
+        "令和8年10月20日 財務省 本日、日米政府による戦略的投資イニシアティブに関し、協議委員会の会合をオンラインで開催しました。",
+        "日本から外務省、財務省、経済産業省に加え、株式会社国際協力銀行(JBIC)、株式会社日本貿易保険(NEXI)、米国からは商務省が参加しました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [
+        "両国は、これまでに発表されたプロジェクトの進展や、今後のプロジェクトの組成などについて協議するとともに、引き続き緊密に連携していくことを確認しました。"
+      ],
+      "body": [
+        "令和8年10月20日 財務省 本日、日米政府による戦略的投資イニシアティブに関し、協議委員会の会合をオンラインで開催しました。日本から外務省、財務省、経済産業省に加え、株式会社国際協力銀行(JBIC)、株式会社日本貿易保険(NEXI)、米国からは商務省が参加しました。",
+        "両国は、これまでに発表されたプロジェクトの進展や、今後のプロジェクトの組成などについて協議するとともに、引き続き緊密に連携していくことを確認しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "令和8年10月20日 財務省 本日、日米政府による戦略的投資イニシアティブに関し、協議委員会の会合をオンラインで開催しました。",
+            "日本から外務省、財務省、経済産業省に加え、株式会社国際協力銀行(JBIC)、株式会社日本貿易保険(NEXI)、米国からは商務省が参加しました。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "両国は、これまでに発表されたプロジェクトの進展や、今後のプロジェクトの組成などについて協議するとともに、引き続き緊密に連携していくことを確認しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-20T09:30:00+09:00",
+          "text": "財務省 政策・経済発表の公開情報を確認",
+          "source": "財務省 政策・経済発表"
+        },
+        {
+          "at": "2026-10-20T17:03:20.969560+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "財務省 政策・経済発表",
+          "publisherId": "mof",
+          "links": [
+            {
+              "title": "日米政府の戦略的投資イニシアティブに関する協議委員会の会合を開催 （令和8年10月20日）",
+              "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261019212955.html",
+              "publishedAt": "2026-10-20T09:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-20T09:30:00+09:00",
+          "keyPoints": [
+            "財務省 政策・経済発表の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "ee58296f42884ae1",
+      "slug": "2026-10-20-12-ee58296f",
+      "publishedAt": "2026-10-20T11:51:33+09:00",
+      "updatedAt": "2026-10-20T17:03:20.969560+09:00",
+      "title": "「Uber Eats」配達ロボの進路ふさいだ女性逮捕 「人間の仕事奪う」「世界を支配」 米国",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-20T11:51:33+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-20T17:03:20.969560+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "「Uber Eats」配達ロボの進路ふさいだ女性逮捕 「人間の仕事奪う」「世界を支配」 米国",
+              "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002416",
+              "publishedAt": "2026-10-20T11:51:33+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-20T11:51:33+09:00",
+          "keyPoints": [
+            "「Uber Eats」配達ロボの進路ふさいだ女性逮捕 「人間の仕事奪う」「世界を支配」 米国"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "84d3f5cf4fcfee0e",
+      "slug": "2026-10-20-12-84d3f5cf",
+      "publishedAt": "2026-10-20T11:32:31+09:00",
+      "updatedAt": "2026-10-20T17:03:20.969560+09:00",
+      "title": "道新記者拘束、官房長官「即時解放強く求める」 働きかけ継続へ",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-20T11:32:31+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-20T17:03:20.969560+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "道新記者拘束、官房長官「即時解放強く求める」 働きかけ継続へ",
+              "url": "https://www.asahi.com/articles/ASVBN0RBNVBNUTFK003M.html",
+              "publishedAt": "2026-10-20T11:32:31+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-20T11:32:31+09:00",
+          "keyPoints": [
+            "道新記者拘束、官房長官「即時解放強く求める」 働きかけ継続へ"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "40fdb3683d8cc07a",
+      "slug": "2026-10-20-12-40fdb368",
+      "publishedAt": "2026-10-20T11:30:00+09:00",
+      "updatedAt": "2026-10-20T17:03:20.969560+09:00",
+      "title": "防衛省ファンド、大学からの応募最多 名古屋大や大阪大など初採択",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-20T11:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-20T17:03:20.969560+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "防衛省ファンド、大学からの応募最多 名古屋大や大阪大など初採択",
+              "url": "https://www.asahi.com/articles/ASVBM3DBFVBMUTFL00CM.html",
+              "publishedAt": "2026-10-20T11:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-20T11:30:00+09:00",
+          "keyPoints": [
+            "防衛省ファンド、大学からの応募最多 名古屋大や大阪大など初採択"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "8669ee24a79aaf4a",
+      "slug": "2026-10-20-12-8669ee24",
+      "publishedAt": "2026-10-20T11:24:52+09:00",
+      "updatedAt": "2026-10-20T17:03:20.969560+09:00",
+      "title": "AWS Transformが機能拡充 Azure Functions用のコードをAWS Lambda用に変換など、Azure→AWSへの移行に対応",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-20T11:24:52+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-20T17:03:20.969560+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "AWS Transformが機能拡充 Azure Functions用のコードをAWS Lambda用に変換など、Azure→AWSへの移行に対応",
+              "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002414",
+              "publishedAt": "2026-10-20T11:24:52+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-20T11:24:52+09:00",
+          "keyPoints": [
+            "AWS Transformが機能拡充 Azure Functions用のコードをAWS Lambda用に変換など、Azure→AWSへの移行に対応"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "288dfab3342f858c",
+      "slug": "2026-10-20-12-288dfab3",
+      "publishedAt": "2026-10-20T11:23:28+09:00",
+      "updatedAt": "2026-10-20T17:03:20.969560+09:00",
+      "title": "メドレー、不正アクセスで停止中のサービスを作り直して再開へ 従来システムは再稼働させず",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-20T11:23:28+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-20T17:03:20.969560+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "メドレー、不正アクセスで停止中のサービスを作り直して再開へ 従来システムは再稼働させず",
+              "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002413",
+              "publishedAt": "2026-10-20T11:23:28+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-20T11:23:28+09:00",
+          "keyPoints": [
+            "メドレー、不正アクセスで停止中のサービスを作り直して再開へ 従来システムは再稼働させず"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "40b90b95b5c9041f",
+      "slug": "2026-10-20-12-40b90b95",
+      "publishedAt": "2026-10-20T11:07:46+09:00",
+      "updatedAt": "2026-10-20T17:03:20.969560+09:00",
+      "title": "続・リモコンの片隅から:BS12トゥエルビ ドラマ黄金期の、織田＆石黒がいる",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-20T11:07:46+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-10-20T17:03:20.969560+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "続・リモコンの片隅から:BS12トゥエルビ ドラマ黄金期の、織田＆石黒がいる",
+              "url": "https://mainichi.jp/articles/20261020/ddm/018/200/013000c",
+              "publishedAt": "2026-10-20T11:07:46+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-20T11:07:46+09:00",
+          "keyPoints": [
+            "続・リモコンの片隅から:BS12トゥエルビ ドラマ黄金期の、織田＆石黒がいる"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "03d590b22d3006b1",
+      "slug": "2026-10-20-12-03d590b2",
+      "publishedAt": "2026-10-20T09:04:14+09:00",
+      "updatedAt": "2026-10-20T17:03:20.969560+09:00",
+      "title": "トランプ大統領 習主席・プーチン大統領との3者会談実現に意欲",
+      "dek": "アメリカのトランプ大統領は、来月、中国で開かれるAPEC＝アジア太平洋経済協力会議の首脳会議にあわせて、中国の習近平国家主席、ロシアのプーチン大統領との3者での首脳会談の実現に意欲を示しました。",
+      "summary": "アメリカのトランプ大統領は、来月、中国で開かれるAPEC＝アジア太平洋経済協力会議の首脳会議にあわせて、中国の習近平国家主席、ロシアのプーチン大統領との3者での首脳会談の実現に意欲を示しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "アメリカのトランプ大統領は、来月、中国で開かれるAPEC＝アジア太平洋経済協力会議の首脳会議にあわせて、中国の習近平国家主席、ロシアのプーチン大統領との3者での首脳会談の実現に意欲を示しました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "アメリカのトランプ大統領は、来月、中国で開かれるAPEC＝アジア太平洋経済協力会議の首脳会議にあわせて、中国の習近平国家主席、ロシアのプーチン大統領との3者での首脳会談の実現に意欲を示しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "アメリカのトランプ大統領は、来月、中国で開かれるAPEC＝アジア太平洋経済協力会議の首脳会議にあわせて、中国の習近平国家主席、ロシアのプーチン大統領との3者での首脳会談の実現に意欲を示しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-20T09:04:14+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-20T17:03:20.969560+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "トランプ大統領 習主席・プーチン大統領との3者会談実現に意欲",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261020de61930",
+              "publishedAt": "2026-10-20T09:04:14+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-20T09:04:14+09:00",
+          "keyPoints": [
+            "アメリカのトランプ大統領は、来月、中国で開かれるAPEC＝アジア太平洋経済協力会議の首脳会議にあわせて、中国の習近平国家主席、ロシアのプーチン大統領との3者での首脳会談の実現に意欲を示しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "8d579cbdb3bb533e",
+      "slug": "2026-10-20-12-8d579cbd",
+      "publishedAt": "2026-10-20T07:56:21+09:00",
+      "updatedAt": "2026-10-20T17:03:20.969560+09:00",
+      "title": "フランスでデモ乗じた暴動受け一部の都市で外出禁止令",
+      "dek": "フランスで大規模なデモに乗じて起きた暴動を受けて、一部の都市では、19日、夜間の外出禁止令が出されるなど、影響が広がっています。",
+      "summary": "フランスで大規模なデモに乗じて起きた暴動を受けて、一部の都市では、19日、夜間の外出禁止令が出されるなど、影響が広がっています。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [
+        "フランスで大規模なデモに乗じて起きた暴動を受けて、一部の都市では、19日、夜間の外出禁止令が出されるなど、影響が広がっています。"
+      ],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "フランスで大規模なデモに乗じて起きた暴動を受けて、一部の都市では、19日、夜間の外出禁止令が出されるなど、影響が広がっています。"
+      ],
+      "sections": [
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "フランスで大規模なデモに乗じて起きた暴動を受けて、一部の都市では、19日、夜間の外出禁止令が出されるなど、影響が広がっています。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-20T07:56:21+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-20T17:03:20.969560+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "フランスでデモ乗じた暴動受け一部の都市で外出禁止令",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261020de61899",
+              "publishedAt": "2026-10-20T07:56:21+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-20T07:56:21+09:00",
+          "keyPoints": [
+            "フランスで大規模なデモに乗じて起きた暴動を受けて、一部の都市では、19日、夜間の外出禁止令が出されるなど、影響が広がっています。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "b04b67b812fd6884",
+      "slug": "2026-10-20-12-b04b67b8",
+      "publishedAt": "2026-10-20T07:24:17+09:00",
+      "updatedAt": "2026-10-20T17:03:20.969560+09:00",
+      "title": "トランプ大統領と距離置く共和党の候補相次ぐ いったいなぜ？",
+      "dek": "候補者の公式ウェブサイトからトランプ大統領の名前や写真が消え、集会への参加も見送られる。",
+      "summary": "候補者の公式ウェブサイトからトランプ大統領の名前や写真が消え、集会への参加も見送られる。 アメリカの中間選挙まで2週間となる中、与党・共和党の候補の間でトランプ大統領と距離を置く動きが相次いでいます…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "候補者の公式ウェブサイトからトランプ大統領の名前や写真が消え、集会への参加も見送られる。",
+        "アメリカの中間選挙まで2週間となる中、与党・共和党の候補の間でトランプ大統領と距離を置く動きが相次いでいます…。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "候補者の公式ウェブサイトからトランプ大統領の名前や写真が消え、集会への参加も見送られる。 アメリカの中間選挙まで2週間となる中、与党・共和党の候補の間でトランプ大統領と距離を置く動きが相次いでいます…。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "候補者の公式ウェブサイトからトランプ大統領の名前や写真が消え、集会への参加も見送られる。",
+            "アメリカの中間選挙まで2週間となる中、与党・共和党の候補の間でトランプ大統領と距離を置く動きが相次いでいます…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-20T07:24:17+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-20T17:03:20.969560+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "トランプ大統領と距離置く共和党の候補相次ぐ いったいなぜ？",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261019de61784",
+              "publishedAt": "2026-10-20T07:24:17+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-20T07:24:17+09:00",
+          "keyPoints": [
+            "候補者の公式ウェブサイトからトランプ大統領の名前や写真が消え、集会への参加も見送られる。アメリカの中間選挙まで2週間となる中、与党・共和党の候補の間でトランプ大統領と距離を置く動きが相次いでいます…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "2b431bf7dde88442",
+      "slug": "2026-10-20-12-2b431bf7",
+      "publishedAt": "2026-10-20T06:00:00+09:00",
+      "updatedAt": "2026-10-20T17:03:20.969560+09:00",
+      "title": "佳子さまがリンゴ収穫体験、初の青森訪問で「いつも食べている」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-20T06:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-20T17:03:20.969560+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "佳子さまがリンゴ収穫体験、初の青森訪問で「いつも食べている」",
+              "url": "https://www.asahi.com/articles/ASVBM0SX5VBMUBNB001M.html",
+              "publishedAt": "2026-10-20T06:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-20T06:00:00+09:00",
+          "keyPoints": [
+            "佳子さまがリンゴ収穫体験、初の青森訪問で「いつも食べている」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    }
+  ]
+}

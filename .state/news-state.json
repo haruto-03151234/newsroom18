@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-20T06:00:00+09:00",
-  "lastCompletedEdition": "2026-10-20-06",
+  "lastCompletedEnd": "2026-10-20T12:00:00+09:00",
+  "lastCompletedEdition": "2026-10-20-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -19576,7 +19576,108 @@
       "urls": [
         "https://www.asahi.com/articles/ASVBL2PD0VBLUTFL00QM.html"
       ]
+    },
+    {
+      "editionId": "2026-10-20-12",
+      "title": "石川県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-10-20T11:11:26+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261020021126_0_VPFJ50_420000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261020021132_0_VPFJ50_410000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261020021508_0_VPFJ50_350000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261020022524_0_VPFJ50_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261020022709_0_VPFJ50_160000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261020025526_0_VPFJ50_170000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-12",
+      "title": "日米政府の戦略的投資イニシアティブに関する協議委員会の会合を開催令和8年10月20日",
+      "publishedAt": "2026-10-20T09:30:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261019212955.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-12",
+      "title": "ubereats配達ロボの進路ふさいだ女性逮捕人間の仕事奪う世界を支配米国",
+      "publishedAt": "2026-10-20T11:51:33+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/20/2000002416"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-12",
+      "title": "道新記者拘束官房長官即時解放強く求める働きかけ継続へ",
+      "publishedAt": "2026-10-20T11:32:31+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBN0RBNVBNUTFK003M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-12",
+      "title": "防衛省ファンド大学からの応募最多名古屋大や大阪大など初採択",
+      "publishedAt": "2026-10-20T11:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBM3DBFVBMUTFL00CM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-12",
+      "title": "awstransformが機能拡充azurefunctions用のコードをawslambda用に変換などazureawsへの移行に対応",
+      "publishedAt": "2026-10-20T11:24:52+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/20/2000002414"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-12",
+      "title": "メドレー不正アクセスで停止中のサービスを作り直して再開へ従来システムは再稼働させず",
+      "publishedAt": "2026-10-20T11:23:28+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/20/2000002413"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-12",
+      "title": "続・リモコンの片隅から",
+      "publishedAt": "2026-10-20T11:07:46+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261020/ddm/018/200/013000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-12",
+      "title": "トランプ大統領習主席・プーチン大統領との3者会談実現に意欲",
+      "publishedAt": "2026-10-20T09:04:14+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261020de61930"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-12",
+      "title": "フランスでデモ乗じた暴動受け一部の都市で外出禁止令",
+      "publishedAt": "2026-10-20T07:56:21+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261020de61899"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-12",
+      "title": "トランプ大統領と距離置く共和党の候補相次ぐいったいなぜ",
+      "publishedAt": "2026-10-20T07:24:17+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261019de61784"
+      ]
+    },
+    {
+      "editionId": "2026-10-20-12",
+      "title": "佳子さまがリンゴ収穫体験初の青森訪問でいつも食べている",
+      "publishedAt": "2026-10-20T06:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBM0SX5VBMUBNB001M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-20T08:59:46.217868+09:00"
+  "updatedAt": "2026-10-20T17:03:20.969560+09:00"
 }
