@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-21T12:00:00+09:00",
-  "lastCompletedEdition": "2026-10-21-12",
+  "lastCompletedEnd": "2026-10-21T18:00:00+09:00",
+  "lastCompletedEdition": "2026-10-21-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -20008,7 +20008,123 @@
       "urls": [
         "https://www.asahi.com/articles/ASVBN74BJVBNUHBI03YM.html"
       ]
+    },
+    {
+      "editionId": "2026-10-21-18",
+      "title": "欧州での抗議活動を受けた注意喚起",
+      "publishedAt": "2026-10-21T17:26:46+09:00",
+      "urls": [
+        "https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2026C052.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-18",
+      "title": "沖縄本島地方気象解説情報台風第30号",
+      "publishedAt": "2026-10-21T16:54:56+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261021075456_0_VPFJ50_474000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261021080908_0_VPFJ50_472000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261021081012_0_VPCJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261021081328_0_VPFJ50_471000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-18",
+      "title": "福井県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-10-21T16:52:11+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261021075211_0_VPFJ50_180000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-18",
+      "title": "石川県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-10-21T16:51:49+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261021075149_0_VPFJ50_170000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-18",
+      "title": "unhcrトップイエメン情勢は極めて危険な形でエスカレート",
+      "publishedAt": "2026-10-21T17:57:25+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de63018"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-18",
+      "title": "著名itサービス相次いで緊急メンテへコドモンシャドバbaseさくらのレンタルサーバなどphp脆弱性に起因か",
+      "publishedAt": "2026-10-21T17:47:19+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/21/2000002472"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-18",
+      "title": "vivantの堺雅人・二宮和也を紅白起用nhk会長が期待語る",
+      "publishedAt": "2026-10-21T17:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBP2PGYVBPUCVL02JM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-18",
+      "title": "大阪・大東市の元主査を収賄罪で追起訴現金や家電など219万円分",
+      "publishedAt": "2026-10-21T17:43:30+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBP2SDCVBPPTIL014M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-18",
+      "title": "鳥取・平井知事私は県民の道具区切り来春退任目に涙後継は",
+      "publishedAt": "2026-10-21T17:42:38+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBP24DCVBPPUUB005M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-18",
+      "title": "アジアパラ車いすテニス小田凱人が準決勝進出",
+      "publishedAt": "2026-10-21T17:21:35+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de62882"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-18",
+      "title": "aupay使えるお店個人事業主約46万人分の情報を無断掲載か個人情報保護法抵触のおそれも",
+      "publishedAt": "2026-10-21T16:22:56+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/21/2000002469"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-18",
+      "title": "不正アクセスによる個人情報漏えい相次ぎ警視庁に相談相次ぐ",
+      "publishedAt": "2026-10-21T15:14:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de62656"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-18",
+      "title": "不正アクセス急増はsaas離れを招くか露呈したもう1つのsaasisdeadリスク",
+      "publishedAt": "2026-10-21T15:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/21/2000002451"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-18",
+      "title": "特薦盤",
+      "publishedAt": "2026-10-21T13:40:59+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261021/dde/012/070/004000c",
+        "https://mainichi.jp/articles/20261021/dde/012/070/006000c"
+      ]
     }
   ],
-  "updatedAt": "2026-10-21T17:08:51.802888+09:00"
+  "updatedAt": "2026-10-21T23:19:28.048759+09:00"
 }
