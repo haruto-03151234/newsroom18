@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-21T18:00:00+09:00",
-  "lastCompletedEdition": "2026-10-21-18",
+  "lastCompletedEnd": "2026-10-22T06:00:00+09:00",
+  "lastCompletedEdition": "2026-10-22-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -20124,7 +20124,107 @@
         "https://mainichi.jp/articles/20261021/dde/012/070/004000c",
         "https://mainichi.jp/articles/20261021/dde/012/070/006000c"
       ]
+    },
+    {
+      "editionId": "2026-10-22-06",
+      "title": "沖縄地方気象解説情報台風第30号",
+      "publishedAt": "2026-10-22T05:08:24+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261021200825_0_VPFJ50_460040.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261021200930_0_VPFJ50_474000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261021202336_0_VPFJ50_473000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261021203029_0_VPZJ50_010000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261021203053_0_VPCJ50_471000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-22-06",
+      "title": "緊迫する中東情勢オリーブ収穫中に金属棒でまるで戦争ユダヤ人入植者の横暴",
+      "publishedAt": "2026-10-22T05:30:23+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261019/k00/00m/030/255000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-22-06",
+      "title": "裁判plus司法のリアル性加害者が児相職員にばれない卑劣さを許した行政のずさん",
+      "publishedAt": "2026-10-22T05:30:15+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261019/k00/00m/040/263000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-22-06",
+      "title": "北朝鮮キム・ヨジョン氏今月中に心理戦拡声機が稼働状態",
+      "publishedAt": "2026-10-22T05:23:30+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261022de63256"
+      ]
+    },
+    {
+      "editionId": "2026-10-22-06",
+      "title": "phpでぜい弱性確認速やかな対応を情報処理推進機構",
+      "publishedAt": "2026-10-22T05:14:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de63209"
+      ]
+    },
+    {
+      "editionId": "2026-10-22-06",
+      "title": "ドラフト会議事前に1位指名公表なし各球団の戦略が注目",
+      "publishedAt": "2026-10-22T05:03:20+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de63218"
+      ]
+    },
+    {
+      "editionId": "2026-10-22-06",
+      "title": "読む政治",
+      "publishedAt": "2026-10-22T05:00:29+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261021/k00/00m/010/038000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-22-06",
+      "title": "東京都議補選・千代田区自民不戦敗へ小池知事は支援の前面に",
+      "publishedAt": "2026-10-22T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBP35WBVBPOXIE040M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-22-06",
+      "title": "北朝鮮対韓国心理戦の拡声機を月内に稼働状態に与正氏が表明",
+      "publishedAt": "2026-10-22T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBP45KLVBPUHBI020M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-22-06",
+      "title": "phpの緊急レベルの脆弱性開発元が修正バージョン公開直ちにアップデートを",
+      "publishedAt": "2026-10-22T00:53:13+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/22/2000002480"
+      ]
+    },
+    {
+      "editionId": "2026-10-22-06",
+      "title": "小学館漫画賞の贈呈式が開催社長はマンガワン問題で謝罪",
+      "publishedAt": "2026-10-21T22:15:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBP3TQXVBPUCVL03XM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-22-06",
+      "title": "php緊急脆弱性php2shellパッチ今夜11時公開その前にできる対策はgmo系セキュリティ企業が提唱更新",
+      "publishedAt": "2026-10-21T18:51:40+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/21/2000002462"
+      ]
     }
   ],
-  "updatedAt": "2026-10-21T23:19:28.048759+09:00"
+  "updatedAt": "2026-10-22T08:45:48.734932+09:00"
 }
