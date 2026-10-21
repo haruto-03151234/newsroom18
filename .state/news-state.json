@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-21T06:00:00+09:00",
-  "lastCompletedEdition": "2026-10-21-06",
+  "lastCompletedEnd": "2026-10-21T12:00:00+09:00",
+  "lastCompletedEdition": "2026-10-21-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -19916,7 +19916,99 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2610/20/2000002435"
       ]
+    },
+    {
+      "editionId": "2026-10-21-12",
+      "title": "沖縄地方気象解説情報台風第30号",
+      "publishedAt": "2026-10-21T11:11:39+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261021021139_0_VPCJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261021021544_0_VPFJ50_473000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261021022930_0_VPFJ50_474000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-12",
+      "title": "長崎県気象解説情報落雷・突風",
+      "publishedAt": "2026-10-21T11:01:45+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261021020146_0_VPFJ50_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261021020709_0_VPFJ50_410000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261021020717_0_VPFJ50_420000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-12",
+      "title": "フジテレビに不正アクセスメディア関係者の個人情報最大730件漏えいか番組宣伝システムが被害",
+      "publishedAt": "2026-10-21T11:06:04+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/21/2000002449"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-12",
+      "title": "ウクライナ民間人被害が2年前の倍以上に現地人権団体が訴える実態",
+      "publishedAt": "2026-10-21T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBM1311VBMUHBI01DM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-12",
+      "title": "端緒はai捜査シャインマスカットの権利侵害容疑で男ら書類送検",
+      "publishedAt": "2026-10-21T10:05:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBN5FTLVBNUTIL02VM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-12",
+      "title": "phpに緊急レベルの脆弱性2件修正版を日本時間21日深夜に公開へ事前準備を呼び掛け",
+      "publishedAt": "2026-10-21T09:50:24+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/21/2000002446"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-12",
+      "title": "認証局emudhraの中間証明書秘密鍵が数ミリ秒で復元可能な脆弱性大手各社が緊急遮断",
+      "publishedAt": "2026-10-21T09:17:27+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/21/2000002444"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-12",
+      "title": "日米豪印クアッド首脳会合を来月マニラで開催米国務長官",
+      "publishedAt": "2026-10-21T08:53:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de62586"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-12",
+      "title": "アメリカ政府民生部門で中国aiのディープシーク利用禁止に",
+      "publishedAt": "2026-10-21T07:57:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de62564"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-12",
+      "title": "サウジアラビア防衛のためイギリスやエジプトが軍事支援を表明",
+      "publishedAt": "2026-10-21T07:26:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261021de62530"
+      ]
+    },
+    {
+      "editionId": "2026-10-21-12",
+      "title": "南北スーダン係争地にドローン攻撃150人超死亡内戦が飛び火か",
+      "publishedAt": "2026-10-21T07:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBN74BJVBNUHBI03YM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-21T08:30:48.494665+09:00"
+  "updatedAt": "2026-10-21T17:08:51.802888+09:00"
 }
