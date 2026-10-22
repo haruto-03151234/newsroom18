@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-22T18:00:00+09:00",
-  "lastCompletedEdition": "2026-10-22-18",
+  "lastCompletedEnd": "2026-10-23T06:00:00+09:00",
+  "lastCompletedEdition": "2026-10-23-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -20417,7 +20417,129 @@
       "urls": [
         "https://mainichi.jp/articles/20261022/dde/018/200/015000c"
       ]
+    },
+    {
+      "editionId": "2026-10-23-06",
+      "title": "宮古島地方気象解説情報台風第30号",
+      "publishedAt": "2026-10-23T05:29:08+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261022202909_0_VPFJ50_473000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-06",
+      "title": "長崎県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-10-23T05:28:12+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261022202812_0_VPFJ50_420000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261022203634_0_VPFJ50_360000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261022203645_0_VPFJ50_390000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-06",
+      "title": "サウジアラビアの危険情報一部地域の危険レベル引上げ",
+      "publishedAt": "2026-10-22T18:50:11+09:00",
+      "urls": [
+        "https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T096.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-06",
+      "title": "3種類の注意看板設置へ冠水・崖崩れ分かりやすく千葉・市川",
+      "publishedAt": "2026-10-23T05:45:10+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261021/k00/00m/310/065000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-06",
+      "title": "フィンランド核のごみ最終処分場に政府が操業許可",
+      "publishedAt": "2026-10-23T05:39:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de63931"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-06",
+      "title": "リンクサイド5年目のアンジェ住吉りをん帰ってきた感じgpフランス",
+      "publishedAt": "2026-10-23T05:30:15+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261023/k00/00m/050/003000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-06",
+      "title": "生活保護利用者の車保有を緩和検討未就学児のひとり親対象厚労省",
+      "publishedAt": "2026-10-23T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBQ3V8TVBQUTFL00GM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-06",
+      "title": "高市首相維新に感謝してもしきれない蜜月に自民内で膨らむ不満",
+      "publishedAt": "2026-10-23T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBQ2J5LVBQUTFK007M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-06",
+      "title": "視聴室",
+      "publishedAt": "2026-10-23T02:01:40+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261023/ddm/018/200/012000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-06",
+      "title": "ドラフト織田翔希は巨人菰田は日本ハムが交渉権全名簿",
+      "publishedAt": "2026-10-23T00:17:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261022de63461"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-06",
+      "title": "血液などでがん調べる自費の検査学会が意義と限界まとめ",
+      "publishedAt": "2026-10-22T21:26:04+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261022de63888"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-06",
+      "title": "php脆弱性でいち早くサービス停止したコドモン背景に被害が出てからでは取り消せない",
+      "publishedAt": "2026-10-22T21:11:22+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/22/2000002528"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-06",
+      "title": "ホワイトハッカーでサイバー防衛強化自民提言政府も検討へ",
+      "publishedAt": "2026-10-22T20:45:10+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBQ3TGVVBQULFA01WM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-06",
+      "title": "php脆弱性pocフライング公開の経緯支援財団が公表混乱広げた企業を名指しで批判",
+      "publishedAt": "2026-10-22T18:29:19+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/22/2000002525"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-06",
+      "title": "手のひらサイズの宇宙aiデータセンターjaxa後押しの国内新興が実現目指す南極・高山での利用も視野",
+      "publishedAt": "2026-10-22T18:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/22/2000002510"
+      ]
     }
   ],
-  "updatedAt": "2026-10-22T23:19:20.217403+09:00"
+  "updatedAt": "2026-10-23T08:43:47.207515+09:00"
 }
