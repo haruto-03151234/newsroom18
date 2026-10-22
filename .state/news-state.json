@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-22T06:00:00+09:00",
-  "lastCompletedEdition": "2026-10-22-06",
+  "lastCompletedEnd": "2026-10-22T12:00:00+09:00",
+  "lastCompletedEdition": "2026-10-22-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -20224,7 +20224,92 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2610/21/2000002462"
       ]
+    },
+    {
+      "editionId": "2026-10-22-12",
+      "title": "沖縄地方気象解説情報台風第30号",
+      "publishedAt": "2026-10-22T04:46:12+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261021194612_0_VPFJ50_472000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261021200526_0_VPCJ50_460100.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261022020242_0_VPFJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261022021628_0_VPCJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261022021649_0_VPFJ50_473000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261022022631_0_VPFJ50_474000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-22-12",
+      "title": "プログラミング言語phpに重大な脆弱性各国でサイト休止",
+      "publishedAt": "2026-10-22T11:55:10+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBP4CXWVBPUTIL02TM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-22-12",
+      "title": "免許証画像など漏えいし闇サイトで販売か沖縄の会社から",
+      "publishedAt": "2026-10-22T11:54:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261022de63353"
+      ]
+    },
+    {
+      "editionId": "2026-10-22-12",
+      "title": "anthropicclaudeでソフトウェアのアタックサーフェスを洗い出し・縮小する研究を公開opensshの修正にも貢献",
+      "publishedAt": "2026-10-22T11:48:47+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/22/2000002498"
+      ]
+    },
+    {
+      "editionId": "2026-10-22-12",
+      "title": "維新秘書が関与の陳情書が波紋都構想住民投票の用紙にも影響",
+      "publishedAt": "2026-10-22T11:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBP2TS3VBPOXIE03LM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-22-12",
+      "title": "メタに約3兆9000億円の制裁金消費者保護法違反など",
+      "publishedAt": "2026-10-22T11:26:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261022de63349"
+      ]
+    },
+    {
+      "editionId": "2026-10-22-12",
+      "title": "北海道新聞の記者拘束アメリカ有力紙がロシアを厳しく批判",
+      "publishedAt": "2026-10-22T11:07:39+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261022de63325"
+      ]
+    },
+    {
+      "editionId": "2026-10-22-12",
+      "title": "旅行ゲームワールドクエストphp脆弱性で即日サービス終了古い仕組みのため対策とれず",
+      "publishedAt": "2026-10-22T11:03:41+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/22/2000002493"
+      ]
+    },
+    {
+      "editionId": "2026-10-22-12",
+      "title": "tesla決算営業益56減fsd契約は67増の174万件spacex合併は昨日すべて話したとマスク氏",
+      "publishedAt": "2026-10-22T09:02:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/22/2000002488"
+      ]
+    },
+    {
+      "editionId": "2026-10-22-12",
+      "title": "きょうドラフト会議歴史を彩った指名と騒動今年の注目選手は",
+      "publishedAt": "2026-10-22T06:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBN1PXKVBNUTQP024M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-22T08:45:48.734932+09:00"
+  "updatedAt": "2026-10-22T17:09:19.700036+09:00"
 }
