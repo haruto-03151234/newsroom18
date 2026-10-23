@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-23T12:00:00+09:00",
-  "lastCompletedEdition": "2026-10-23-12",
+  "lastCompletedEnd": "2026-10-23T18:00:00+09:00",
+  "lastCompletedEdition": "2026-10-23-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -20647,7 +20647,115 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2610/23/2000002532"
       ]
+    },
+    {
+      "editionId": "2026-10-23-18",
+      "title": "八重山地方レベル4土砂災害危険警報",
+      "publishedAt": "2026-10-23T17:17:55+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261023081756_0_VXWW50_474000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-18",
+      "title": "宮古島地方気象解説情報台風第30号",
+      "publishedAt": "2026-10-23T17:15:22+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261023081522_0_VPFJ50_473000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261023081547_0_VPCJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261023082339_0_VPFJ50_410000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261023082719_0_VPFJ50_474000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261023083955_0_VPFJ50_430000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-18",
+      "title": "11月中にホワイトハッカーのチームを立ち上げへサイバー攻撃に対抗赤沢経産相",
+      "publishedAt": "2026-10-23T17:51:56+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/23/2000002556"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-18",
+      "title": "佐川への不正アクセス最大5323万件の個人情報流出か9月末のサイバー攻撃で続報",
+      "publishedAt": "2026-10-23T17:38:23+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/23/2000002553"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-18",
+      "title": "メール配信サービスの契約者情報全て漏えい横浜市やjr四国などに影響ラクス子会社に不正アクセス",
+      "publishedAt": "2026-10-23T17:32:46+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/23/2000002551"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-18",
+      "title": "生活保護の大幅減額は違法最高裁が再び判決利用者の勝訴確定",
+      "publishedAt": "2026-10-23T17:18:42+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBQ3191VBQUTIL006M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-18",
+      "title": "インドネシア森林などで大規模火災対策求めるデモ相次ぐ",
+      "publishedAt": "2026-10-23T17:09:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64338"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-18",
+      "title": "佐川急便流出した個人情報は最大5300万件超の可能性",
+      "publishedAt": "2026-10-23T17:01:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64285"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-18",
+      "title": "全国の煙突180本に劣化損傷60本は対策予定なし国が初調査",
+      "publishedAt": "2026-10-23T16:51:56+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBR2H3XVBRUTIL00HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-18",
+      "title": "秋篠宮ご夫妻全国障害者スポーツ大会の開会式に",
+      "publishedAt": "2026-10-23T16:37:59+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64134"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-18",
+      "title": "特定重要物資に生命維持装置エクモ追加安定供給へ国が支援",
+      "publishedAt": "2026-10-23T16:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBR24NBVBRUTFK003M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-18",
+      "title": "シネマの週末・トピックス",
+      "publishedAt": "2026-10-23T13:40:25+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261023/dde/012/070/003000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-23-18",
+      "title": "シネマの週末・トピックスバッド・ルーテナント",
+      "publishedAt": "2026-10-23T13:39:48+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261023/dde/012/070/004000c"
+      ]
     }
   ],
-  "updatedAt": "2026-10-23T17:07:40.567930+09:00"
+  "updatedAt": "2026-10-23T23:02:51.163785+09:00"
 }
