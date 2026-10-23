@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-23T18:00:00+09:00",
-  "lastCompletedEdition": "2026-10-23-18",
+  "lastCompletedEnd": "2026-10-24T06:00:00+09:00",
+  "lastCompletedEdition": "2026-10-24-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -20755,7 +20755,114 @@
       "urls": [
         "https://mainichi.jp/articles/20261023/dde/012/070/004000c"
       ]
+    },
+    {
+      "editionId": "2026-10-24-06",
+      "title": "九州北部地方山口県を含む気象解説情報台風第30号",
+      "publishedAt": "2026-10-24T05:45:22+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261023204523_0_VPCJ50_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-06",
+      "title": "徳島県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-10-24T05:31:09+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261023203110_0_VPFJ50_360000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-06",
+      "title": "鹿児島県奄美地方を除く気象解説情報台風第30号",
+      "publishedAt": "2026-10-24T05:15:23+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261023201523_0_VPFJ50_460100.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261023201852_0_VPFJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261023202808_0_VPFJ50_473000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261023203117_0_VPFJ50_474000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-06",
+      "title": "フランスで再び抗議デモ実施へパリの街に警戒感広がる",
+      "publishedAt": "2026-10-24T05:47:42+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261024de64652"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-06",
+      "title": "正倉院展宝物11件を初公開11月9日まで奈良国立博物館",
+      "publishedAt": "2026-10-24T05:45:11+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261023/k00/00m/310/173000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-06",
+      "title": "24日からプロ野球日本シリーズ第1戦の見どころは",
+      "publishedAt": "2026-10-24T05:03:33+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64597"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-06",
+      "title": "環境省メルマガ登録情報最大2万2千件漏洩の可能性不正アクセス",
+      "publishedAt": "2026-10-24T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBR4VP7VBRUTFL01MM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-06",
+      "title": "ウクライナ南部で限定的停戦米トランプ氏妻が仲介と発表",
+      "publishedAt": "2026-10-24T00:30:05+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBR4V25VBRUHBI026M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-06",
+      "title": "パナソニックhd子会社使用禁止の生成aiに従業員約33万人分の個人情報をアップロード",
+      "publishedAt": "2026-10-23T21:48:45+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/23/2000002562"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-06",
+      "title": "西山女流四冠注目されるプロ入りの判断記者解説",
+      "publishedAt": "2026-10-23T21:24:42+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261023de64340"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-06",
+      "title": "宝hd米子会社で意図的な不正会計は確認されず延期した決算公表",
+      "publishedAt": "2026-10-23T20:27:29+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBR3PTVVBRPLFA008M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-06",
+      "title": "タイムズカー3000円の見舞金支払いへ免許証画像漏えいの146万件対象55億円の特損計上",
+      "publishedAt": "2026-10-23T19:05:39+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/23/2000002558"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-06",
+      "title": "チケット当選装う詐欺メールが急増中イープラスやローチケぴあかたる手口フィッシングの専門家に対策を聞いた",
+      "publishedAt": "2026-10-23T18:40:58+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/23/2000002557"
+      ]
     }
   ],
-  "updatedAt": "2026-10-23T23:02:51.163785+09:00"
+  "updatedAt": "2026-10-24T08:36:31.742145+09:00"
 }
