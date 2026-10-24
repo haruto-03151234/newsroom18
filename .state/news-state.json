@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-24T12:00:00+09:00",
-  "lastCompletedEdition": "2026-10-24-12",
+  "lastCompletedEnd": "2026-10-24T18:00:00+09:00",
+  "lastCompletedEdition": "2026-10-24-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -20945,7 +20945,83 @@
       "urls": [
         "https://www.asahi.com/articles/ASVBN1FPBVBNPLZB00XM.html"
       ]
+    },
+    {
+      "editionId": "2026-10-24-18",
+      "title": "鹿児島県奄美地方を除く気象解説情報台風第30号",
+      "publishedAt": "2026-10-24T17:16:08+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261024081609_0_VPFJ50_460100.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-18",
+      "title": "全般気象解説情報台風第30号",
+      "publishedAt": "2026-10-24T16:59:49+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261024075950_0_VPFJ50_370000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261024082427_0_VPFJ50_440000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261024082625_0_VPZJ50_010000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261024082806_0_VPFJ50_450000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261024083029_0_VPFJ50_380000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-18",
+      "title": "gmo不正取引の被害額を補償へ見舞金5000円もお名前comfx用vpsへのサイバー攻撃で",
+      "publishedAt": "2026-10-24T17:51:04+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/24/2000002566"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-18",
+      "title": "巨人松井秀喜新監督球団施設を訪れスタッフなどにあいさつ",
+      "publishedAt": "2026-10-24T17:46:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261024de64835"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-18",
+      "title": "石川雅規さんが分析日本シリーズdenaかソフトバンクか",
+      "publishedAt": "2026-10-24T17:23:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261024de64822"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-18",
+      "title": "車内に1歳長男を放置し勤務か川崎の歯科医を逮捕容疑を一部否認",
+      "publishedAt": "2026-10-24T17:09:46+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBS2HBBVBSUJHB00CM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-18",
+      "title": "日本生まれ有機el第3世代効率100業界の変革者めざす",
+      "publishedAt": "2026-10-24T16:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBP0GSSVBPUTFL01KM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-18",
+      "title": "松家仁之さんの小説火山のふもとでメディシス賞の最終候補に",
+      "publishedAt": "2026-10-24T15:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBS1W6TVBSUCVL038M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-18",
+      "title": "イランが米政府職員殺害を計画か米情報機関が警告",
+      "publishedAt": "2026-10-24T15:23:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261024de64782"
+      ]
     }
   ],
-  "updatedAt": "2026-10-24T16:46:22.488237+09:00"
+  "updatedAt": "2026-10-24T22:04:18.555341+09:00"
 }
