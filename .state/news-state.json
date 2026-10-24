@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-24T06:00:00+09:00",
-  "lastCompletedEdition": "2026-10-24-06",
+  "lastCompletedEnd": "2026-10-24T12:00:00+09:00",
+  "lastCompletedEdition": "2026-10-24-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -20862,7 +20862,90 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2610/23/2000002557"
       ]
+    },
+    {
+      "editionId": "2026-10-24-12",
+      "title": "南太平洋で地震m72",
+      "publishedAt": "2026-10-24T11:54:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261024025400_0_VXSE53_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-12",
+      "title": "三重県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-10-24T11:17:12+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261024021713_0_VPFJ50_240000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-12",
+      "title": "宮古島地方気象解説情報台風第30号",
+      "publishedAt": "2026-10-24T11:07:03+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261024020703_0_VPCJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261024021626_0_VPZJ50_010000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261024022825_0_VPFJ50_474000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261024023006_0_VPFJ50_473000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-12",
+      "title": "台風30号台湾で1人死亡500人以上けが警戒続く",
+      "publishedAt": "2026-10-24T11:43:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261024de64639"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-12",
+      "title": "ネタニヤフ首相ヘブロンを封鎖イスラエル総選挙控え",
+      "publishedAt": "2026-10-24T11:07:49+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261024de64641"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-12",
+      "title": "2度目の地震生きた10年の備えアイシン九州復旧までの道",
+      "publishedAt": "2026-10-24T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBR2HS3VBRULFA01QM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-12",
+      "title": "自然の中ハンセン病学ぶ療養所見学クルーズなぜ盛況乗って探った",
+      "publishedAt": "2026-10-24T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBL7VXZVBLPITB00HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-12",
+      "title": "体操の世界選手権女子個人総合杉原愛子が5位",
+      "publishedAt": "2026-10-24T09:40:25+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261024de64658"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-12",
+      "title": "claudemythos5危害の兆候を顧みず実在の開発者を標的にanthropicとaisiが分析結果を公開",
+      "publishedAt": "2026-10-24T07:28:08+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/24/2000002564"
+      ]
+    },
+    {
+      "editionId": "2026-10-24-12",
+      "title": "東洋のベネチア吉原地区が重伝建選定へ京都・舞鶴の猟師町",
+      "publishedAt": "2026-10-24T06:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBN1FPBVBNPLZB00XM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-24T08:36:31.742145+09:00"
+  "updatedAt": "2026-10-24T16:46:22.488237+09:00"
 }
