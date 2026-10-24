@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-24T18:00:00+09:00",
-  "lastCompletedEdition": "2026-10-24-18",
+  "lastCompletedEnd": "2026-10-25T06:00:00+09:00",
+  "lastCompletedEdition": "2026-10-25-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -21021,7 +21021,107 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261024de64782"
       ]
+    },
+    {
+      "editionId": "2026-10-25-06",
+      "title": "鹿児島県奄美地方を除く気象解説情報台風第30号",
+      "publishedAt": "2026-10-25T05:45:07+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261024204508_0_VPFJ50_460100.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-25-06",
+      "title": "四国地方気象解説情報台風第30号",
+      "publishedAt": "2026-10-25T05:34:03+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261024203404_0_VPCJ50_370000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261024203419_0_VPFJ50_350000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261024203910_0_VPFJ50_430000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261024204036_0_VPFJ50_450000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261024205328_0_VPFJ50_440000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-25-06",
+      "title": "避難先でも種つないだカボチャ使った料理福島のカフェが提供",
+      "publishedAt": "2026-10-25T05:45:10+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261022/k00/00m/310/288000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-25-06",
+      "title": "体操世界選手権種目別つり輪で岡が4位ゆかで土井が4位",
+      "publishedAt": "2026-10-25T05:35:26+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261025de64973"
+      ]
+    },
+    {
+      "editionId": "2026-10-25-06",
+      "title": "キム総書記訪中米朝交渉再開可能性見据え意思疎通のねらいか",
+      "publishedAt": "2026-10-25T05:15:25+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261024de64966"
+      ]
+    },
+    {
+      "editionId": "2026-10-25-06",
+      "title": "海底のプラごみ対策分解酵素混ぜた新たなプラスチック開発",
+      "publishedAt": "2026-10-25T05:09:21+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261024de64624"
+      ]
+    },
+    {
+      "editionId": "2026-10-25-06",
+      "title": "交番のお巡りさんの危険な実態テーザー銃の導入は課題は",
+      "publishedAt": "2026-10-25T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBN3RWTVBNPTIL00FM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-25-06",
+      "title": "パリでまた警察と衝突暴徒500人以上大規模デモの終着点で",
+      "publishedAt": "2026-10-25T04:17:04+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBS5WJHVBSSFVU31TM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-25-06",
+      "title": "松尾貴史のちょっと違和感",
+      "publishedAt": "2026-10-25T02:31:13+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261025/ddm/012/070/016000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-25-06",
+      "title": "今週のnhk連続テレビ小説",
+      "publishedAt": "2026-10-25T02:05:33+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261025/ddm/018/200/017000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-25-06",
+      "title": "gmo緊急要請の能動的サイバー防御政府側は慎重な姿勢",
+      "publishedAt": "2026-10-24T20:41:37+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBS3S6TVBSUTFK00DM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-25-06",
+      "title": "gmo能動的サイバー防御発動を政府に要請お名前comfx用vpsへの攻撃で",
+      "publishedAt": "2026-10-24T18:10:34+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/24/2000002567"
+      ]
     }
   ],
-  "updatedAt": "2026-10-24T22:04:18.555341+09:00"
+  "updatedAt": "2026-10-25T07:45:56.041516+09:00"
 }
