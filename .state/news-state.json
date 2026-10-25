@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-25T18:00:00+09:00",
-  "lastCompletedEdition": "2026-10-25-18",
+  "lastCompletedEnd": "2026-10-26T06:00:00+09:00",
+  "lastCompletedEdition": "2026-10-26-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -21279,7 +21279,114 @@
       "urls": [
         "https://www.asahi.com/articles/ASVBR3CPLVBRUCVL006M.html"
       ]
+    },
+    {
+      "editionId": "2026-10-26-06",
+      "title": "山口県気象解説情報落雷・突風・高い潮位",
+      "publishedAt": "2026-10-26T05:49:33+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261025204933_0_VPFJ50_350000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-06",
+      "title": "徳島県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-10-26T05:40:11+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261025204011_0_VPFJ50_370000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261025204616_0_VPFJ50_380000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261025205039_0_VPFJ50_360000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261025205211_0_VPFJ50_390000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-06",
+      "title": "鹿児島県奄美地方を除く気象解説情報台風第30号",
+      "publishedAt": "2026-10-26T05:10:24+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261025201025_0_VPFJ50_460100.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-06",
+      "title": "フィギュアgpシリーズ第1戦男子シングルは三浦佳生が2位",
+      "publishedAt": "2026-10-26T05:56:02+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de65411"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-06",
+      "title": "レスリング世界選手権初出場の五味虹登が優勝",
+      "publishedAt": "2026-10-26T05:55:23+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de65410"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-06",
+      "title": "あすイスラエル総選挙ネタニヤフ首相政権維持できるか焦点",
+      "publishedAt": "2026-10-26T05:49:10+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261025de65348"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-06",
+      "title": "市民の記憶に火災で消失のステンドグラス35年経て教会に",
+      "publishedAt": "2026-10-26T05:45:16+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261024/k00/00m/310/116000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-06",
+      "title": "読む政治簗前農相の更迭や消費減税法案有権者の評価は毎日世論調査",
+      "publishedAt": "2026-10-26T05:30:16+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261025/k00/00m/010/212000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-06",
+      "title": "ジャードゥーガル逃げ若歴史マンガ戦国時代なぜ今背景は",
+      "publishedAt": "2026-10-26T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBR04M1VBRUCVL045M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-06",
+      "title": "世論調査からみた高市内閣政権1年で変わる支持率の足元",
+      "publishedAt": "2026-10-26T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBR2GH7VBRUTFK00JM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-06",
+      "title": "毎日歌壇・俳壇10月26日の特選より",
+      "publishedAt": "2026-10-26T04:00:10+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261025/k00/00m/200/063000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-06",
+      "title": "ノーベル賞のマチャド氏ベネズエラ帰国が実現授賞式で出国以来",
+      "publishedAt": "2026-10-26T03:32:20+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBT5VTHVBTSFVU3S9M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-06",
+      "title": "5年でバッテリーが使い物にならなくなるは本当かテスラモデル35年目点検で分かったこと",
+      "publishedAt": "2026-10-25T20:37:30+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/25/2000002569"
+      ]
     }
   ],
-  "updatedAt": "2026-10-25T22:32:52.957597+09:00"
+  "updatedAt": "2026-10-26T07:52:36.262992+09:00"
 }
