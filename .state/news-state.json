@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-25T06:00:00+09:00",
-  "lastCompletedEdition": "2026-10-25-06",
+  "lastCompletedEnd": "2026-10-25T12:00:00+09:00",
+  "lastCompletedEdition": "2026-10-25-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -21121,7 +21121,104 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2610/24/2000002567"
       ]
+    },
+    {
+      "editionId": "2026-10-25-12",
+      "title": "和歌山県レベル4土砂災害危険警報",
+      "publishedAt": "2026-10-25T11:33:05+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261025023306_0_VXWW50_300000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-25-12",
+      "title": "山口県気象解説情報台風第30号",
+      "publishedAt": "2026-10-25T11:27:05+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261025022705_0_VPFJ50_350000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261025023532_0_VPFJ50_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-25-12",
+      "title": "小笠原諸島西方沖で地震m70最大震度3",
+      "publishedAt": "2026-10-25T11:17:15+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261025021715_0_VXSE53_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-25-12",
+      "title": "鹿児島県奄美地方を除く気象解説情報台風第30号",
+      "publishedAt": "2026-10-25T10:53:11+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261025015312_0_VPFJ50_460100.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-25-12",
+      "title": "北朝鮮メディアもキム総書記の訪中を伝える友好関係を強調",
+      "publishedAt": "2026-10-25T11:51:46+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261025de65058"
+      ]
+    },
+    {
+      "editionId": "2026-10-25-12",
+      "title": "映像和歌山市で道路が川のようにカラーコーンも流される",
+      "publishedAt": "2026-10-25T11:33:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261025de65066"
+      ]
+    },
+    {
+      "editionId": "2026-10-25-12",
+      "title": "パリコレ中に高校生デモラグジュアリーと日常の距離に記者は",
+      "publishedAt": "2026-10-25T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBR1SHGVBRUCVL002M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-25-12",
+      "title": "紛争やまぬ中民間航空が果たす使命日本人がトップのicaoとは",
+      "publishedAt": "2026-10-25T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBM12JLVBMUHBI00PM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-25-12",
+      "title": "たばこ休憩なき時代の一服をどう取るか温熱と聞こえない音で休むjt子会社のアイマスクを試す",
+      "publishedAt": "2026-10-25T10:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/25/2000002568"
+      ]
+    },
+    {
+      "editionId": "2026-10-25-12",
+      "title": "手取り逆転収入665万円のガケ年末調整に見る26年の年収の壁",
+      "publishedAt": "2026-10-25T08:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBP2HYFVBPULFA004M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-25-12",
+      "title": "b級感がたまらない映画ストリートファイターの魅力と原作ゲームの歴史ゲーマーマンガ家が熱弁",
+      "publishedAt": "2026-10-25T07:15:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/25/2000002559"
+      ]
+    },
+    {
+      "editionId": "2026-10-25-12",
+      "title": "フィギュアグランプリシリーズ第1戦中井亜美が逆転優勝",
+      "publishedAt": "2026-10-25T06:34:36+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261025de64981"
+      ]
     }
   ],
-  "updatedAt": "2026-10-25T07:45:56.041516+09:00"
+  "updatedAt": "2026-10-25T16:57:05.278815+09:00"
 }
