@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-26T12:00:00+09:00",
-  "lastCompletedEdition": "2026-10-26-12",
+  "lastCompletedEnd": "2026-10-26T18:00:00+09:00",
+  "lastCompletedEdition": "2026-10-26-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -21493,7 +21493,130 @@
       "urls": [
         "https://www.asahi.com/articles/ASVBT2JZLVBTUTIL01MM.html"
       ]
+    },
+    {
+      "editionId": "2026-10-26-18",
+      "title": "宗谷地方気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-10-26T16:34:16+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261026073416_0_VPFJ50_011000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-18",
+      "title": "四国地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-10-26T16:05:28+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261026070529_0_VPCJ50_370000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261026070619_0_VPFJ50_370000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261026072222_0_VPFJ50_360000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261026072704_0_VPFJ50_390000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-18",
+      "title": "火山名桜島火山の状況に関する解説情報",
+      "publishedAt": "2026-10-26T16:00:59+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261026070059_0_VFVO51_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-18",
+      "title": "藤木農林水産副大臣の海外出張シンガポールについて",
+      "publishedAt": "2026-10-26T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/yusyutu_kokusai/chiiki/261026_1.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-18",
+      "title": "第2回食と農をつなぐアワード受賞者決定",
+      "publishedAt": "2026-10-26T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/kanbo/anpo/261026.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-18",
+      "title": "中日1位指名宮原廉投手監督と一緒に戦って優勝したい",
+      "publishedAt": "2026-10-26T17:38:53+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de65785"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-18",
+      "title": "名駅前3人死傷事故被告に拘禁刑5年求刑弁護側は心神耗弱主張",
+      "publishedAt": "2026-10-26T17:15:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBV2GR1VBVOIPE00HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-18",
+      "title": "中国共産党の重要会議五中全会始まる党内の統治が議題",
+      "publishedAt": "2026-10-26T17:13:44+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de65418"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-18",
+      "title": "12月から毎月5円ずつガソリン補助金の段階縮小自民が提言",
+      "publishedAt": "2026-10-26T17:10:27+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBV2JZGVBVULFA00WM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-18",
+      "title": "女性は将棋に不向きはナンセンス脳科学者が語る偏見の脅威",
+      "publishedAt": "2026-10-26T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBV1SSFVBVUCVL01PM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-18",
+      "title": "ブラジル大統領選挙決選投票現職のルーラ大統領が当選",
+      "publishedAt": "2026-10-26T14:40:47+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de65416"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-18",
+      "title": "時代の空気と思い出を共に死ぬまでに聴くべき100曲ジョージ・カックルさん刊行",
+      "publishedAt": "2026-10-26T14:14:20+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261026/dde/018/200/008000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-18",
+      "title": "西のハコから",
+      "publishedAt": "2026-10-26T14:08:22+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261026/dde/012/200/005000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-18",
+      "title": "グッスマに不正アクセス公式ec閉鎖会員の住所や注文履歴など漏えいか再開目処立たず",
+      "publishedAt": "2026-10-26T12:33:18+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/26/2000002577"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-18",
+      "title": "aiでエンジニア派遣は不要になるのか各社に肌感を聞いた求められる人材明確に変化",
+      "publishedAt": "2026-10-26T12:15:30+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/23/2000002527"
+      ]
     }
   ],
-  "updatedAt": "2026-10-26T17:18:59.312971+09:00"
+  "updatedAt": "2026-10-27T00:49:22.539789+09:00"
 }
