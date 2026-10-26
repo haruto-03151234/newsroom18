@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-26T06:00:00+09:00",
-  "lastCompletedEdition": "2026-10-26-06",
+  "lastCompletedEnd": "2026-10-26T12:00:00+09:00",
+  "lastCompletedEdition": "2026-10-26-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -21386,7 +21386,114 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2610/25/2000002569"
       ]
+    },
+    {
+      "editionId": "2026-10-26-12",
+      "title": "山口県気象解説情報落雷・突風・高い潮位",
+      "publishedAt": "2026-10-26T11:21:41+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261026022142_0_VPFJ50_350000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-12",
+      "title": "愛媛県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-10-26T11:02:27+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261026020228_0_VPFJ50_410000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261026023029_0_VPFJ50_440000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261026023031_0_VPFJ50_430000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261026023541_0_VPFJ50_380000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-12",
+      "title": "食文化と健康を考えるシンポジウムー和食を世界の中で捉えるーを開催します",
+      "publishedAt": "2026-10-26T10:30:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/shokuhin/wasyoku/261026_1.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-12",
+      "title": "宮崎県気象解説情報台風第30号",
+      "publishedAt": "2026-10-26T05:10:10+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261025201011_0_VPFJ50_450000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-12",
+      "title": "政府相次ぐ不正アクセス受け今夜関係閣僚会議開催へ",
+      "publishedAt": "2026-10-26T11:59:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de65587"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-12",
+      "title": "米国のデータセンター急増ai需要で巨大化受電容量ギガ時代に中間選挙争点にも",
+      "publishedAt": "2026-10-26T11:52:26+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/26/2000002578"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-12",
+      "title": "ドクターイエローの後継ドクターsが初運行jr東海",
+      "publishedAt": "2026-10-26T11:41:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de65533"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-12",
+      "title": "gmo熊谷代表社内ホワイトハッカーが事前に指摘も対策遅れ国に能動的サイバー防御要請責任転嫁ではsnsで批判も",
+      "publishedAt": "2026-10-26T11:17:32+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/26/2000002571"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-12",
+      "title": "米男子ゴルフ最終ラウンド強風で中止平田憲聖は34位",
+      "publishedAt": "2026-10-26T11:17:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de65527"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-12",
+      "title": "ジャック・ドーシー氏率いるblock音声だけで学習した全二重音声モデルdessa発表人と話しているよう",
+      "publishedAt": "2026-10-26T11:04:33+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/26/2000002574"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-12",
+      "title": "簿記もfpも現役中でも資格を取った元ボクシング日本王者の勉強法",
+      "publishedAt": "2026-10-26T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBR3T4GVBRUTQP00XM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-12",
+      "title": "女性初の将棋棋士が誕生へ西山朋佳女流四冠強い方と戦いたい",
+      "publishedAt": "2026-10-26T10:32:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBT2W2ZVBTUCVL03NM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-26-12",
+      "title": "幸平一家の検挙人数が16倍に新たな組員の把握倍増足かせを",
+      "publishedAt": "2026-10-26T10:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBT2JZLVBTUTIL01MM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-26T07:52:36.262992+09:00"
+  "updatedAt": "2026-10-26T17:18:59.312971+09:00"
 }
