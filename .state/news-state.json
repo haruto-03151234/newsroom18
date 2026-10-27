@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-27T12:00:00+09:00",
-  "lastCompletedEdition": "2026-10-27-12",
+  "lastCompletedEnd": "2026-10-27T18:00:00+09:00",
+  "lastCompletedEdition": "2026-10-27-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -21808,7 +21808,135 @@
       "urls": [
         "https://www.asahi.com/articles/ASVBV257HVBVUTFL00FM.html"
       ]
+    },
+    {
+      "editionId": "2026-10-27-18",
+      "title": "宗谷地方気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-10-27T16:29:09+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261027072909_0_VPFJ50_011000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-18",
+      "title": "犬用遺伝子組換え生ワクチンの第一種使用等に関する審査結果についての意見・情報の募集パブリックコメントについて",
+      "publishedAt": "2026-10-27T16:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/nouan/261027.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-18",
+      "title": "第17回農林水産省料理人顕彰制度料理マスターズ受賞者の決定及び授与式の開催について",
+      "publishedAt": "2026-10-27T16:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/shokuhin/gaisyoku/261027.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-18",
+      "title": "中華人民共和国産若しくは台湾澎湖諸島金門及び馬祖から成る独立の関税地域産ニッケル系ステンレス冷延鋼帯及び冷延鋼板に対する不当廉売関税の課税を決定しました",
+      "publishedAt": "2026-10-27T15:00:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/policy/customs_tariff/trade/plan/futou/ka20261027.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-18",
+      "title": "株式会社釣八における業務用加工食品塩さばの不適正表示に対する措置について",
+      "publishedAt": "2026-10-27T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/kansa/261027.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-18",
+      "title": "gmo攻撃者の公開情報にアクセスは絶対に控えて悪質な拡散者には法的措置を準備",
+      "publishedAt": "2026-10-27T17:58:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/27/2000002640"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-18",
+      "title": "茂木外相高市首相apecへの出席調整個別会談は検討中",
+      "publishedAt": "2026-10-27T17:55:04+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66484"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-18",
+      "title": "北朝鮮軍が韓国の対岸14キロの近距離に自走砲を配置",
+      "publishedAt": "2026-10-27T17:53:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66516"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-18",
+      "title": "浜岡原発の地元市長ら不祥事受け国の指導・監視を要請",
+      "publishedAt": "2026-10-27T17:31:49+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66472"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-18",
+      "title": "連覇狙う横綱大の里熊本出身の義ノ富士が意気込み大相撲九州場所",
+      "publishedAt": "2026-10-27T17:23:24+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBW24HGVBWUTQP00PM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-18",
+      "title": "名門コーネル大で集団性暴行加害者の訴追なし米社会に広がる波紋",
+      "publishedAt": "2026-10-27T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBV4PXHVBVUHBI009M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-18",
+      "title": "短期決戦でモノを言う経験者の存在ソフトバンクの驚異的強さの裏に",
+      "publishedAt": "2026-10-27T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBW1T6FVBWUTQP009M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-18",
+      "title": "gmo攻撃者による情報公開を確認顧客データ含むか調査中追加の見舞金も検討",
+      "publishedAt": "2026-10-27T16:40:32+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/27/2000002630"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-18",
+      "title": "タイムズカーお見舞金3000円の算定基準はパーク24に聞いた",
+      "publishedAt": "2026-10-27T16:34:57+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/27/2000002627"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-18",
+      "title": "フォーカス沢村一樹ドラマボーダーズ警視庁特殊事件対策班結城新次郎役気付く時の感覚大事に",
+      "publishedAt": "2026-10-27T14:31:17+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261027/dde/012/200/005000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-18",
+      "title": "民放秋の連続ドラマ担当記者の推しは熱い4本ハラハラや演技力",
+      "publishedAt": "2026-10-27T13:36:25+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261027/dde/012/200/003000c"
+      ]
     }
   ],
-  "updatedAt": "2026-10-27T17:31:21.450117+09:00"
+  "updatedAt": "2026-10-28T00:06:12.794352+09:00"
 }
