@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-27T06:00:00+09:00",
-  "lastCompletedEdition": "2026-10-27-06",
+  "lastCompletedEnd": "2026-10-27T12:00:00+09:00",
+  "lastCompletedEdition": "2026-10-27-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -21720,7 +21720,95 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2610/26/2000002597"
       ]
+    },
+    {
+      "editionId": "2026-10-27-12",
+      "title": "福島県沖で地震m46最大震度3",
+      "publishedAt": "2026-10-27T09:29:12+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261027002912_0_VXSE53_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-12",
+      "title": "自分の個人情報が漏えいしたどうすればipaが対処法公開",
+      "publishedAt": "2026-10-27T11:51:20+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/27/2000002617"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-12",
+      "title": "ロシアが人身取引で29カ国の外国人を動員国連独立委が認定",
+      "publishedAt": "2026-10-27T11:45:09+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBW0RTYVBWUHBI02FM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-12",
+      "title": "gmopcのバックアップと電源オフ呼びかけvps利用者にきょう正午の攻撃予告受け",
+      "publishedAt": "2026-10-27T11:32:21+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/27/2000002616"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-12",
+      "title": "警察の遠隔解析情報取得後の統制を技術の権力監視が必要",
+      "publishedAt": "2026-10-27T11:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBS5GY6VBSULZU001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-12",
+      "title": "北海道新聞記者と領事面会実施健康状態に問題なし外務省",
+      "publishedAt": "2026-10-27T11:27:53+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de66041"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-12",
+      "title": "jrスマートex会員メアドなど漏えい約17万件かユミルリンクへの不正アクセスで",
+      "publishedAt": "2026-10-27T11:22:26+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/27/2000002615"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-12",
+      "title": "サッカーイングランド代表ケインがバロンドール初受賞",
+      "publishedAt": "2026-10-27T11:22:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66139"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-12",
+      "title": "耳寄りな話・tbsラジオ",
+      "publishedAt": "2026-10-27T11:17:27+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261027/ddm/018/200/010000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-12",
+      "title": "マイクロソフト希望退職を募集対象6万人規模か従業員の27",
+      "publishedAt": "2026-10-27T10:56:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66125"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-12",
+      "title": "理想の家とは環境とくらしを学ぶ地球教室渋谷区の小学校",
+      "publishedAt": "2026-10-27T09:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBV257HVBVUTFL00FM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-27T09:07:17.167019+09:00"
+  "updatedAt": "2026-10-27T17:31:21.450117+09:00"
 }

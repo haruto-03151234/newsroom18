@@ -1,0 +1,808 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-10-27T17:31:21.450117+09:00",
+  "summary": "対象時間帯の5配信元のニュースを11本に整理しました。うち重要ニュースは1本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-10-27-12",
+    "date": "2026-10-27",
+    "slot": "12:00",
+    "label": "昼12時版"
+  },
+  "coverage": {
+    "from": "2026-10-27T06:00:00+09:00",
+    "to": "2026-10-27T12:00:00+09:00",
+    "start": "2026-10-27T06:00:00+09:00",
+    "end": "2026-10-27T12:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "10月27日 06:00〜10月27日 12:00"
+  },
+  "stats": {
+    "articleCount": 11,
+    "categoryCounts": {
+      "国内": 1,
+      "テクノロジー": 3,
+      "海外": 3,
+      "社会": 1,
+      "スポーツ": 1,
+      "エンタメ": 1,
+      "科学": 1
+    },
+    "sourceCount": 11,
+    "publisherCount": 5,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 3,
+      "jma": 1,
+      "mainichi": 1,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 1,
+      "brief": 10
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories"
+  ],
+  "articles": [
+    {
+      "id": "4cb00aff18355869",
+      "slug": "2026-10-27-12-4cb00aff",
+      "publishedAt": "2026-10-27T09:29:12+09:00",
+      "updatedAt": "2026-10-27T17:31:21.450117+09:00",
+      "title": "福島県沖で地震 M4.6 最大震度3",
+      "dek": "10月27日9時25分、福島県沖を震源とするマグニチュード4.6の地震があり、最大震度3を観測しました。津波の心配はありません。",
+      "summary": "10月27日9時25分、福島県沖を震源とするマグニチュード4.6の地震があり、最大震度3を観測しました。津波の心配はありません。宮城県南部、福島県中通り、福島県浜通りで震度3を観測しました。岩沼市、いわき市、天栄村、玉川村、楢葉町で震度3を観測しました。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "earthquake:福島県沖:2026-10-27t09:25:00+09:00"
+      ],
+      "facts": [
+        "発生時刻は10月27日9時25分です。",
+        "震源は福島県沖です。",
+        "地震の規模はマグニチュード4.6です。",
+        "最大震度は3です。",
+        "27日09時25分ころ、地震がありました。"
+      ],
+      "impactPoints": [
+        "この地震による津波の心配はありません。",
+        "宮城県南部、福島県中通り、福島県浜通りで震度3を観測しました。",
+        "岩沼市、いわき市、天栄村、玉川村、楢葉町で震度3を観測しました。"
+      ],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "10月27日9時25分、福島県沖を震源とするマグニチュード4.6の地震があり、最大震度3を観測しました。津波の心配はありません。宮城県南部、福島県中通り、福島県浜通りで震度3を観測しました。岩沼市、いわき市、天栄村、玉川村、楢葉町で震度3を観測しました。",
+        "この地震による津波の心配はありません。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "発生時刻は10月27日9時25分です。",
+            "震源は福島県沖です。",
+            "地震の規模はマグニチュード4.6です。",
+            "最大震度は3です。",
+            "27日09時25分ころ、地震がありました。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "この地震による津波の心配はありません。",
+            "宮城県南部、福島県中通り、福島県浜通りで震度3を観測しました。",
+            "岩沼市、いわき市、天栄村、玉川村、楢葉町で震度3を観測しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-27T09:29:12+09:00",
+          "text": "気象庁 防災情報（地震・津波・火山）の公開情報を確認",
+          "source": "気象庁 防災情報（地震・津波・火山）"
+        },
+        {
+          "at": "2026-10-27T17:31:21.450117+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（地震・津波・火山）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "福島県沖で地震 M4.6 最大震度3",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261027002912_0_VXSE53_010000.xml",
+              "publishedAt": "2026-10-27T09:29:12+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-27T09:29:12+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（地震・津波・火山）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "50b9494a6a329817",
+      "slug": "2026-10-27-12-50b9494a",
+      "publishedAt": "2026-10-27T11:51:20+09:00",
+      "updatedAt": "2026-10-27T17:31:21.450117+09:00",
+      "title": "「自分の個人情報が漏えいした……どうすれば？ 」 IPAが対処法公開",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-27T11:51:20+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-27T17:31:21.450117+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "「自分の個人情報が漏えいした……どうすれば？」 IPAが対処法公開",
+              "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002617",
+              "publishedAt": "2026-10-27T11:51:20+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-27T11:51:20+09:00",
+          "keyPoints": [
+            "「自分の個人情報が漏えいした……どうすれば？ 」 IPAが対処法公開"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "5e20fec869553042",
+      "slug": "2026-10-27-12-5e20fec8",
+      "publishedAt": "2026-10-27T11:45:09+09:00",
+      "updatedAt": "2026-10-27T17:31:21.450117+09:00",
+      "title": "ロシアが「人身取引」で29カ国の外国人を動員 国連独立委が認定",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-27T11:45:09+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-27T17:31:21.450117+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "ロシアが「人身取引」で29カ国の外国人を動員 国連独立委が認定",
+              "url": "https://www.asahi.com/articles/ASVBW0RTYVBWUHBI02FM.html",
+              "publishedAt": "2026-10-27T11:45:09+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-27T11:45:09+09:00",
+          "keyPoints": [
+            "ロシアが「人身取引」で29カ国の外国人を動員 国連独立委が認定"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "1877cc87fe617cae",
+      "slug": "2026-10-27-12-1877cc87",
+      "publishedAt": "2026-10-27T11:32:21+09:00",
+      "updatedAt": "2026-10-27T17:31:21.450117+09:00",
+      "title": "GMO、PCのバックアップと電源オフ呼びかけ VPS利用者に きょう正午の攻撃予告受け",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-27T11:32:21+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-27T17:31:21.450117+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "GMO、PCのバックアップと電源オフ呼びかけ VPS利用者に きょう正午の攻撃予告受け",
+              "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002616",
+              "publishedAt": "2026-10-27T11:32:21+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-27T11:32:21+09:00",
+          "keyPoints": [
+            "GMO、PCのバックアップと電源オフ呼びかけ VPS利用者に きょう正午の攻撃予告受け"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "f7c0c791ed509b55",
+      "slug": "2026-10-27-12-f7c0c791",
+      "publishedAt": "2026-10-27T11:30:00+09:00",
+      "updatedAt": "2026-10-27T17:31:21.450117+09:00",
+      "title": "警察の遠隔解析 情報取得「後」の統制を 「技術の権力」監視が必要",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-27T11:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-27T17:31:21.450117+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "警察の遠隔解析 情報取得「後」の統制を 「技術の権力」監視が必要",
+              "url": "https://www.asahi.com/articles/ASVBS5GY6VBSULZU001M.html",
+              "publishedAt": "2026-10-27T11:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-27T11:30:00+09:00",
+          "keyPoints": [
+            "警察の遠隔解析 情報取得「後」の統制を 「技術の権力」監視が必要"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "31fd6c70bda2ed68",
+      "slug": "2026-10-27-12-31fd6c70",
+      "publishedAt": "2026-10-27T11:27:53+09:00",
+      "updatedAt": "2026-10-27T17:31:21.450117+09:00",
+      "title": "北海道新聞記者と「領事面会」実施 健康状態に問題なし 外務省",
+      "dek": "ロシアの治安機関に北海道新聞の記者が拘束されていることをめぐり、外務省は26日、記者との「領事面会」を行ったと発表しました。",
+      "summary": "ロシアの治安機関に北海道新聞の記者が拘束されていることをめぐり、外務省は26日、記者との「領事面会」を行ったと発表しました。 記者の健康状態に問題はないとしています。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "ロシアの治安機関に北海道新聞の記者が拘束されていることをめぐり、外務省は26日、記者との「領事面会」を行ったと発表しました。",
+        "記者の健康状態に問題はないとしています。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "ロシアの治安機関に北海道新聞の記者が拘束されていることをめぐり、外務省は26日、記者との「領事面会」を行ったと発表しました。 記者の健康状態に問題はないとしています。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "ロシアの治安機関に北海道新聞の記者が拘束されていることをめぐり、外務省は26日、記者との「領事面会」を行ったと発表しました。",
+            "記者の健康状態に問題はないとしています。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-27T11:27:53+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-27T17:31:21.450117+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "北海道新聞記者と「領事面会」実施 健康状態に問題なし 外務省",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261026de66041",
+              "publishedAt": "2026-10-27T11:27:53+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-27T11:27:53+09:00",
+          "keyPoints": [
+            "ロシアの治安機関に北海道新聞の記者が拘束されていることをめぐり、外務省は26日、記者との「領事面会」を行ったと発表しました。記者の健康状態に問題はないとしています。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "08c453df1e111cab",
+      "slug": "2026-10-27-12-08c453df",
+      "publishedAt": "2026-10-27T11:22:26+09:00",
+      "updatedAt": "2026-10-27T17:31:21.450117+09:00",
+      "title": "JR「スマートEX」会員メアドなど漏えい、約17万件か ユミルリンクへの不正アクセスで",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-27T11:22:26+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-27T17:31:21.450117+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "JR「スマートEX」会員メアドなど漏えい、約17万件か ユミルリンクへの不正アクセスで",
+              "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002615",
+              "publishedAt": "2026-10-27T11:22:26+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-27T11:22:26+09:00",
+          "keyPoints": [
+            "JR「スマートEX」会員メアドなど漏えい、約17万件か ユミルリンクへの不正アクセスで"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "c836f3dfaf3146d8",
+      "slug": "2026-10-27-12-c836f3df",
+      "publishedAt": "2026-10-27T11:22:00+09:00",
+      "updatedAt": "2026-10-27T17:31:21.450117+09:00",
+      "title": "サッカー イングランド代表ケインがバロンドール初受賞",
+      "dek": "フランスのサッカー専門誌が選ぶ最優秀選手賞、「バロンドール」が発表され、イングランド代表のエース、ケイン選手が初めて受賞しました。",
+      "summary": "フランスのサッカー専門誌が選ぶ最優秀選手賞、「バロンドール」が発表され、イングランド代表のエース、ケイン選手が初めて受賞しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "フランスのサッカー専門誌が選ぶ最優秀選手賞、「バロンドール」が発表され、イングランド代表のエース、ケイン選手が初めて受賞しました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "フランスのサッカー専門誌が選ぶ最優秀選手賞、「バロンドール」が発表され、イングランド代表のエース、ケイン選手が初めて受賞しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "フランスのサッカー専門誌が選ぶ最優秀選手賞、「バロンドール」が発表され、イングランド代表のエース、ケイン選手が初めて受賞しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-27T11:22:00+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-10-27T17:31:21.450117+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "サッカー イングランド代表ケインがバロンドール初受賞",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261027de66139",
+              "publishedAt": "2026-10-27T11:22:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-27T11:22:00+09:00",
+          "keyPoints": [
+            "フランスのサッカー専門誌が選ぶ最優秀選手賞、「バロンドール」が発表され、イングランド代表のエース、ケイン選手が初めて受賞しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "99ba073369811890",
+      "slug": "2026-10-27-12-99ba0733",
+      "publishedAt": "2026-10-27T11:17:27+09:00",
+      "updatedAt": "2026-10-27T17:31:21.450117+09:00",
+      "title": "“耳寄り”な話・ＴＢＳラジオ:75周年、締めは国際フォーラムで",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-27T11:17:27+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-10-27T17:31:21.450117+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "“耳寄り”な話・ＴＢＳラジオ:75周年、締めは国際フォーラムで",
+              "url": "https://mainichi.jp/articles/20261027/ddm/018/200/010000c",
+              "publishedAt": "2026-10-27T11:17:27+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-27T11:17:27+09:00",
+          "keyPoints": [
+            "“耳寄り”な話・ＴＢＳラジオ:75周年、締めは国際フォーラムで"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "7523785c84106b2a",
+      "slug": "2026-10-27-12-7523785c",
+      "publishedAt": "2026-10-27T10:56:00+09:00",
+      "updatedAt": "2026-10-27T17:31:21.450117+09:00",
+      "title": "マイクロソフト希望退職を募集 対象6万人規模か 従業員の27％",
+      "dek": "アメリカのIT大手「マイクロソフト」は、アメリカ、カナダ、イギリス、そしてインドの4か国の従業員を対象に、希望退職を募集すると明らかにしました。",
+      "summary": "アメリカのIT大手「マイクロソフト」は、アメリカ、カナダ、イギリス、そしてインドの4か国の従業員を対象に、希望退職を募集すると明らかにしました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "アメリカのIT大手「マイクロソフト」は、アメリカ、カナダ、イギリス、そしてインドの4か国の従業員を対象に、希望退職を募集すると明らかにしました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "アメリカのIT大手「マイクロソフト」は、アメリカ、カナダ、イギリス、そしてインドの4か国の従業員を対象に、希望退職を募集すると明らかにしました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "アメリカのIT大手「マイクロソフト」は、アメリカ、カナダ、イギリス、そしてインドの4か国の従業員を対象に、希望退職を募集すると明らかにしました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-27T10:56:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-27T17:31:21.450117+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "マイクロソフト希望退職を募集 対象6万人規模か 従業員の27％",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261027de66125",
+              "publishedAt": "2026-10-27T10:56:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-27T10:56:00+09:00",
+          "keyPoints": [
+            "アメリカのIT大手「マイクロソフト」は、アメリカ、カナダ、イギリス、そしてインドの4か国の従業員を対象に、希望退職を募集すると明らかにしました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "fcce2e036eb1c81d",
+      "slug": "2026-10-27-12-fcce2e03",
+      "publishedAt": "2026-10-27T09:00:00+09:00",
+      "updatedAt": "2026-10-27T17:31:21.450117+09:00",
+      "title": "理想の家とは？ 環境とくらしを学ぶ「地球教室」 渋谷区の小学校",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-27T09:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-27T17:31:21.450117+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "理想の家とは？ 環境とくらしを学ぶ「地球教室」 渋谷区の小学校",
+              "url": "https://www.asahi.com/articles/ASVBV257HVBVUTFL00FM.html",
+              "publishedAt": "2026-10-27T09:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-27T09:00:00+09:00",
+          "keyPoints": [
+            "理想の家とは？ 環境とくらしを学ぶ「地球教室」 渋谷区の小学校"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    }
+  ]
+}
