@@ -1,0 +1,932 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-10-27T09:07:17.167019+09:00",
+  "summary": "対象時間帯の5配信元のニュースを13本に整理しました。うち重要ニュースは1本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-10-27-06",
+    "date": "2026-10-27",
+    "slot": "06:00",
+    "label": "朝6時版"
+  },
+  "coverage": {
+    "from": "2026-10-26T18:00:00+09:00",
+    "to": "2026-10-27T06:00:00+09:00",
+    "start": "2026-10-26T18:00:00+09:00",
+    "end": "2026-10-27T06:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "10月26日 18:00〜10月27日 06:00"
+  },
+  "stats": {
+    "articleCount": 13,
+    "categoryCounts": {
+      "国内": 2,
+      "科学": 1,
+      "海外": 3,
+      "社会": 2,
+      "エンタメ": 1,
+      "経済": 1,
+      "テクノロジー": 3
+    },
+    "sourceCount": 13,
+    "publisherCount": 5,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 3,
+      "jma": 1,
+      "mainichi": 3,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 1,
+      "brief": 12
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories"
+  ],
+  "articles": [
+    {
+      "id": "48ccebb61b60b59f",
+      "slug": "2026-10-27-06-48ccebb6",
+      "publishedAt": "2026-10-26T23:38:08+09:00",
+      "updatedAt": "2026-10-27T09:07:17.167019+09:00",
+      "title": "熊本県天草・芦北地方で地震 M2.6 最大震度3",
+      "dek": "10月26日23時34分、熊本県天草・芦北地方を震源とするマグニチュード2.6の地震があり、最大震度3を観測しました。津波の心配はありません。",
+      "summary": "10月26日23時34分、熊本県天草・芦北地方を震源とするマグニチュード2.6の地震があり、最大震度3を観測しました。津波の心配はありません。熊本県天草・芦北で震度3を観測しました。水俣市で震度3を観測しました。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "earthquake:熊本県天草芦北地方:2026-10-26t23:34:00+09:00"
+      ],
+      "facts": [
+        "発生時刻は10月26日23時34分です。",
+        "震源は熊本県天草・芦北地方です。",
+        "地震の規模はマグニチュード2.6です。",
+        "最大震度は3です。",
+        "26日23時34分ころ、地震がありました。"
+      ],
+      "impactPoints": [
+        "この地震による津波の心配はありません。",
+        "熊本県天草・芦北で震度3を観測しました。",
+        "水俣市で震度3を観測しました。"
+      ],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "10月26日23時34分、熊本県天草・芦北地方を震源とするマグニチュード2.6の地震があり、最大震度3を観測しました。津波の心配はありません。熊本県天草・芦北で震度3を観測しました。水俣市で震度3を観測しました。",
+        "この地震による津波の心配はありません。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "発生時刻は10月26日23時34分です。",
+            "震源は熊本県天草・芦北地方です。",
+            "地震の規模はマグニチュード2.6です。",
+            "最大震度は3です。",
+            "26日23時34分ころ、地震がありました。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "この地震による津波の心配はありません。",
+            "熊本県天草・芦北で震度3を観測しました。",
+            "水俣市で震度3を観測しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-26T23:38:08+09:00",
+          "text": "気象庁 防災情報（地震・津波・火山）の公開情報を確認",
+          "source": "気象庁 防災情報（地震・津波・火山）"
+        },
+        {
+          "at": "2026-10-27T09:07:17.167019+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（地震・津波・火山）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "熊本県天草・芦北地方で地震 M2.6 最大震度3",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261026143808_0_VXSE53_270000.xml",
+              "publishedAt": "2026-10-26T23:38:08+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-26T23:38:08+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（地震・津波・火山）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "0f9c158aa5204ad1",
+      "slug": "2026-10-27-06-0f9c158a",
+      "publishedAt": "2026-10-27T05:45:09+09:00",
+      "updatedAt": "2026-10-27T09:07:17.167019+09:00",
+      "title": "「反社」研究のノンフィクション作家 広末登さんの講座を開催",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-27T05:45:09+09:00",
+          "text": "毎日新聞 ニュース速報の公開情報を確認",
+          "source": "毎日新聞 ニュース速報"
+        },
+        {
+          "at": "2026-10-27T09:07:17.167019+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 ニュース速報",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "「反社」研究のノンフィクション作家 広末登さんの講座を開催",
+              "url": "https://mainichi.jp/articles/20261026/k00/00m/310/065000c",
+              "publishedAt": "2026-10-27T05:45:09+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-27T05:45:09+09:00",
+          "keyPoints": [
+            "「反社」研究のノンフィクション作家 広末登さんの講座を開催"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    },
+    {
+      "id": "383c707469301862",
+      "slug": "2026-10-27-06-383c7074",
+      "publishedAt": "2026-10-27T05:29:00+09:00",
+      "updatedAt": "2026-10-27T09:07:17.167019+09:00",
+      "title": "ロシアとウクライナ局地停戦合意 日本時間27日午前10時発効へ",
+      "dek": "アメリカが仲介した、ウクライナ南部の都市オレシュキをめぐるロシアとウクライナによる局地的な停戦合意が27日発効します。",
+      "summary": "アメリカが仲介した、ウクライナ南部の都市オレシュキをめぐるロシアとウクライナによる局地的な停戦合意が27日発効します。 双方が攻撃を停止し、人道状況の改善や住民の退避につながるかが焦点です。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "アメリカが仲介した、ウクライナ南部の都市オレシュキをめぐるロシアとウクライナによる局地的な停戦合意が27日発効します。",
+        "双方が攻撃を停止し、人道状況の改善や住民の退避につながるかが焦点です。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "アメリカが仲介した、ウクライナ南部の都市オレシュキをめぐるロシアとウクライナによる局地的な停戦合意が27日発効します。 双方が攻撃を停止し、人道状況の改善や住民の退避につながるかが焦点です。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "アメリカが仲介した、ウクライナ南部の都市オレシュキをめぐるロシアとウクライナによる局地的な停戦合意が27日発効します。",
+            "双方が攻撃を停止し、人道状況の改善や住民の退避につながるかが焦点です。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-27T05:29:00+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
+        },
+        {
+          "at": "2026-10-27T09:07:17.167019+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "ロシアとウクライナ局地停戦合意 日本時間27日午前10時発効へ",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261027de66070",
+              "publishedAt": "2026-10-27T05:29:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-27T05:29:00+09:00",
+          "keyPoints": [
+            "アメリカが仲介した、ウクライナ南部の都市オレシュキをめぐるロシアとウクライナによる局地的な停戦合意が27日発効します。双方が攻撃を停止し、人道状況の改善や住民の退避につながるかが焦点です。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "5f80fa6f3e0eee0b",
+      "slug": "2026-10-27-06-5f80fa6f",
+      "publishedAt": "2026-10-27T05:15:13+09:00",
+      "updatedAt": "2026-10-27T09:07:17.167019+09:00",
+      "title": "弟は3歳で亡くなった 被爆者ら、小学校で平和訴え 愛媛",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-27T05:15:13+09:00",
+          "text": "毎日新聞 ニュース速報の公開情報を確認",
+          "source": "毎日新聞 ニュース速報"
+        },
+        {
+          "at": "2026-10-27T09:07:17.167019+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 ニュース速報",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "弟は3歳で亡くなった 被爆者ら、小学校で平和訴え 愛媛",
+              "url": "https://mainichi.jp/articles/20261026/k00/00m/310/270000c",
+              "publishedAt": "2026-10-27T05:15:13+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-27T05:15:13+09:00",
+          "keyPoints": [
+            "弟は3歳で亡くなった 被爆者ら、小学校で平和訴え 愛媛"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "fee28d924a11734d",
+      "slug": "2026-10-27-06-fee28d92",
+      "publishedAt": "2026-10-27T05:00:00+09:00",
+      "updatedAt": "2026-10-27T09:07:17.167019+09:00",
+      "title": "紹介状なしで大病院受診、生活保護でも定額負担 厚労省で案浮上",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-27T05:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-27T09:07:17.167019+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "紹介状なしで大病院受診、生活保護でも定額負担 厚労省で案浮上",
+              "url": "https://www.asahi.com/articles/ASVBV3H12VBVUTFL009M.html",
+              "publishedAt": "2026-10-27T05:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-27T05:00:00+09:00",
+          "keyPoints": [
+            "紹介状なしで大病院受診、生活保護でも定額負担 厚労省で案浮上"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "a8cdc849ab3ba35d",
+      "slug": "2026-10-27-06-a8cdc849",
+      "publishedAt": "2026-10-27T05:00:00+09:00",
+      "updatedAt": "2026-10-27T09:07:17.167019+09:00",
+      "title": "フィンランド国防相“結束してロシアへの圧力強めるべき”",
+      "dek": "北欧フィンランドのハッカネン国防相はNHKのインタビューに対し、ウクライナ侵攻を続けるロシアと中国、北朝鮮の関係が深まっているとして、「安全保障環境はヨーロッパとインド太平洋地域で関連している」と指摘…。",
+      "summary": "北欧フィンランドのハッカネン国防相はNHKのインタビューに対し、ウクライナ侵攻を続けるロシアと中国、北朝鮮の関係が深まっているとして、「安全保障環境はヨーロッパとインド太平洋地域で関連している」と指摘…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "北欧フィンランドのハッカネン国防相はNHKのインタビューに対し、ウクライナ侵攻を続けるロシアと中国、北朝鮮の関係が深まっているとして、「安全保障環境はヨーロッパとインド太平洋地域で関連している」と指摘…。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "北欧フィンランドのハッカネン国防相はNHKのインタビューに対し、ウクライナ侵攻を続けるロシアと中国、北朝鮮の関係が深まっているとして、「安全保障環境はヨーロッパとインド太平洋地域で関連している」と指摘…。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "北欧フィンランドのハッカネン国防相はNHKのインタビューに対し、ウクライナ侵攻を続けるロシアと中国、北朝鮮の関係が深まっているとして、「安全保障環境はヨーロッパとインド太平洋地域で関連している」と指摘…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-27T05:00:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-27T09:07:17.167019+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "フィンランド国防相“結束してロシアへの圧力強めるべき”",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261026de66031",
+              "publishedAt": "2026-10-27T05:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-27T05:00:00+09:00",
+          "keyPoints": [
+            "北欧フィンランドのハッカネン国防相はNHKのインタビューに対し、ウクライナ侵攻を続けるロシアと中国、北朝鮮の関係が深まっているとして、「安全保障環境はヨーロッパとインド太平洋地域で関連している」と指摘…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "93b7b138142d65ff",
+      "slug": "2026-10-27-06-93b7b138",
+      "publishedAt": "2026-10-27T05:00:00+09:00",
+      "updatedAt": "2026-10-27T09:07:17.167019+09:00",
+      "title": "民主の下院奪還が有力視、共和は資金力で対抗 米中間選挙まで1週間",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-27T05:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-27T09:07:17.167019+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "民主の下院奪還が有力視、共和は資金力で対抗 米中間選挙まで1週間",
+              "url": "https://www.asahi.com/articles/ASVBV43CYVBVUHBI00HM.html",
+              "publishedAt": "2026-10-27T05:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-27T05:00:00+09:00",
+          "keyPoints": [
+            "民主の下院奪還が有力視、共和は資金力で対抗 米中間選挙まで1週間"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "c1acefedfab5727a",
+      "slug": "2026-10-27-06-c1acefed",
+      "publishedAt": "2026-10-27T04:54:00+09:00",
+      "updatedAt": "2026-10-27T09:07:17.167019+09:00",
+      "title": "GMO ハッカー集団の脅迫続くなか 注意呼びかけを一段と強化",
+      "dek": "GMOインターネットグループのサービスに不正アクセスがあり、身に覚えのない取り引きが確認された問題で、不正アクセスをしたとみられるハッカー集団は、27日正午までに会社側に1億5000万円余りを支払うよ…。",
+      "summary": "GMOインターネットグループのサービスに不正アクセスがあり、身に覚えのない取り引きが確認された問題で、不正アクセスをしたとみられるハッカー集団は、27日正午までに会社側に1億5000万円余りを支払うよ…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "GMOインターネットグループのサービスに不正アクセスがあり、身に覚えのない取り引きが確認された問題で、不正アクセスをしたとみられるハッカー集団は、27日正午までに会社側に1億5000万円余りを支払うよ…。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "GMOインターネットグループのサービスに不正アクセスがあり、身に覚えのない取り引きが確認された問題で、不正アクセスをしたとみられるハッカー集団は、27日正午までに会社側に1億5000万円余りを支払うよ…。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "GMOインターネットグループのサービスに不正アクセスがあり、身に覚えのない取り引きが確認された問題で、不正アクセスをしたとみられるハッカー集団は、27日正午までに会社側に1億5000万円余りを支払うよ…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-27T04:54:00+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
+        },
+        {
+          "at": "2026-10-27T09:07:17.167019+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "GMO ハッカー集団の脅迫続くなか 注意呼びかけを一段と強化",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261027de66048",
+              "publishedAt": "2026-10-27T04:54:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-27T04:54:00+09:00",
+          "keyPoints": [
+            "GMOインターネットグループのサービスに不正アクセスがあり、身に覚えのない取り引きが確認された問題で、不正アクセスをしたとみられるハッカー集団は、27日正午までに会社側に1億5000万円余りを支払うよ…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "52518498478960d9",
+      "slug": "2026-10-27-06-52518498",
+      "publishedAt": "2026-10-27T03:00:17+09:00",
+      "updatedAt": "2026-10-27T09:07:17.167019+09:00",
+      "title": "東京国際映画祭:東京国際映画祭が開幕",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-27T03:00:17+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-10-27T09:07:17.167019+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "東京国際映画祭:東京国際映画祭が開幕",
+              "url": "https://mainichi.jp/articles/20261027/ddm/041/200/050000c",
+              "publishedAt": "2026-10-27T03:00:17+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-27T03:00:17+09:00",
+          "keyPoints": [
+            "東京国際映画祭:東京国際映画祭が開幕"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "096264a9b7f29de4",
+      "slug": "2026-10-27-06-096264a9",
+      "publishedAt": "2026-10-26T23:55:00+09:00",
+      "updatedAt": "2026-10-27T09:07:17.167019+09:00",
+      "title": "アンソロピック、11月にも史上最大のIPOか 目論見書を提出",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-26T23:55:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-27T09:07:17.167019+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "アンソロピック、11月にも史上最大のIPOか 目論見書を提出",
+              "url": "https://www.asahi.com/articles/ASVBV4V88VBVUHBI028M.html",
+              "publishedAt": "2026-10-26T23:55:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-26T23:55:00+09:00",
+          "keyPoints": [
+            "アンソロピック、11月にも史上最大のIPOか 目論見書を提出"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "20322a04630365d3",
+      "slug": "2026-10-27-06-20322a04",
+      "publishedAt": "2026-10-26T20:06:41+09:00",
+      "updatedAt": "2026-10-27T09:07:17.167019+09:00",
+      "title": "ジョーシンへの不正アクセス、最大623万件漏えいか 運転免許証2件・マイナカード1件なども",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-26T20:06:41+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-27T09:07:17.167019+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "ジョーシンへの不正アクセス、最大623万件漏えいか 運転免許証2件・マイナカード1件なども",
+              "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002601",
+              "publishedAt": "2026-10-26T20:06:41+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-26T20:06:41+09:00",
+          "keyPoints": [
+            "ジョーシンへの不正アクセス、最大623万件漏えいか 運転免許証2件・マイナカード1件なども"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "50bba834fa09bc3c",
+      "slug": "2026-10-27-06-50bba834",
+      "publishedAt": "2026-10-26T18:58:14+09:00",
+      "updatedAt": "2026-10-27T09:07:17.167019+09:00",
+      "title": "タイムズカー流出で顧客らが損害賠償求め運営会社提訴へ サイト開設の弁護士が記者会見",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-26T18:58:14+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-27T09:07:17.167019+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "タイムズカー流出で顧客らが損害賠償求め運営会社提訴へ サイト開設の弁護士が記者会見",
+              "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002598",
+              "publishedAt": "2026-10-26T18:58:14+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-26T18:58:14+09:00",
+          "keyPoints": [
+            "タイムズカー流出で顧客らが損害賠償求め運営会社提訴へ サイト開設の弁護士が記者会見"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "388350f778a5d3da",
+      "slug": "2026-10-27-06-388350f7",
+      "publishedAt": "2026-10-26T18:41:28+09:00",
+      "updatedAt": "2026-10-27T09:07:17.167019+09:00",
+      "title": "「年齢は合ってますが、人間ではありません」 6歳の飼い猫に届いた“進研ゼミの案内” なぜ届いたのかベネッセに聞いた",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-26T18:41:28+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-27T09:07:17.167019+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "「年齢は合ってますが、人間ではありません」 6歳の飼い猫に届いた“進研ゼミの案内” なぜ届いたのかベネッセに聞いた",
+              "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002597",
+              "publishedAt": "2026-10-26T18:41:28+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-26T18:41:28+09:00",
+          "keyPoints": [
+            "「年齢は合ってますが、人間ではありません」 6歳の飼い猫に届いた“進研ゼミの案内” なぜ届いたのかベネッセに聞いた"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-26T18:00:00+09:00",
-  "lastCompletedEdition": "2026-10-26-18",
+  "lastCompletedEnd": "2026-10-27T06:00:00+09:00",
+  "lastCompletedEdition": "2026-10-27-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -21616,7 +21616,111 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2610/23/2000002527"
       ]
+    },
+    {
+      "editionId": "2026-10-27-06",
+      "title": "熊本県天草・芦北地方で地震m26最大震度3",
+      "publishedAt": "2026-10-26T23:38:08+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261026143808_0_VXSE53_270000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-06",
+      "title": "反社研究のノンフィクション作家広末登さんの講座を開催",
+      "publishedAt": "2026-10-27T05:45:09+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261026/k00/00m/310/065000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-06",
+      "title": "ロシアとウクライナ局地停戦合意日本時間27日午前10時発効へ",
+      "publishedAt": "2026-10-27T05:29:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66070"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-06",
+      "title": "弟は3歳で亡くなった被爆者ら小学校で平和訴え愛媛",
+      "publishedAt": "2026-10-27T05:15:13+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261026/k00/00m/310/270000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-06",
+      "title": "紹介状なしで大病院受診生活保護でも定額負担厚労省で案浮上",
+      "publishedAt": "2026-10-27T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBV3H12VBVUTFL009M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-06",
+      "title": "フィンランド国防相結束してロシアへの圧力強めるべき",
+      "publishedAt": "2026-10-27T05:00:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261026de66031"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-06",
+      "title": "民主の下院奪還が有力視共和は資金力で対抗米中間選挙まで1週間",
+      "publishedAt": "2026-10-27T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBV43CYVBVUHBI00HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-06",
+      "title": "gmoハッカー集団の脅迫続くなか注意呼びかけを一段と強化",
+      "publishedAt": "2026-10-27T04:54:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66048"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-06",
+      "title": "東京国際映画祭",
+      "publishedAt": "2026-10-27T03:00:17+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261027/ddm/041/200/050000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-06",
+      "title": "アンソロピック11月にも史上最大のipoか目論見書を提出",
+      "publishedAt": "2026-10-26T23:55:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBV4V88VBVUHBI028M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-06",
+      "title": "ジョーシンへの不正アクセス最大623万件漏えいか運転免許証2件・マイナカード1件なども",
+      "publishedAt": "2026-10-26T20:06:41+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/26/2000002601"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-06",
+      "title": "タイムズカー流出で顧客らが損害賠償求め運営会社提訴へサイト開設の弁護士が記者会見",
+      "publishedAt": "2026-10-26T18:58:14+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/26/2000002598"
+      ]
+    },
+    {
+      "editionId": "2026-10-27-06",
+      "title": "年齢は合ってますが人間ではありません6歳の飼い猫に届いた進研ゼミの案内なぜ届いたのかベネッセに聞いた",
+      "publishedAt": "2026-10-26T18:41:28+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/26/2000002597"
+      ]
     }
   ],
-  "updatedAt": "2026-10-27T00:49:22.539789+09:00"
+  "updatedAt": "2026-10-27T09:07:17.167019+09:00"
 }
