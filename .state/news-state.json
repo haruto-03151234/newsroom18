@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-28T06:00:00+09:00",
-  "lastCompletedEdition": "2026-10-28-06",
+  "lastCompletedEnd": "2026-10-28T12:00:00+09:00",
+  "lastCompletedEdition": "2026-10-28-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -22016,7 +22016,87 @@
       "urls": [
         "https://www.asahi.com/articles/ASVBW35RWVBWDIFI022M.html"
       ]
+    },
+    {
+      "editionId": "2026-10-28-12",
+      "title": "ベナンの危険情報危険レベル継続内容の更新",
+      "publishedAt": "2026-10-28T11:43:26+09:00",
+      "urls": [
+        "https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T097.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-12",
+      "title": "gmo攻撃者の脅迫サイトが見られない状態ドメイン停止で",
+      "publishedAt": "2026-10-28T11:48:38+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBX0SWBVBXUTIL004M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-12",
+      "title": "トランプ大統領重要州テキサスで支持訴え",
+      "publishedAt": "2026-10-28T11:48:06+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de66787"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-12",
+      "title": "国連事務総長選難航のなかuae新候補者が公開討論",
+      "publishedAt": "2026-10-28T11:33:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de66781"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-12",
+      "title": "オレシュキでの局地的な停戦合意は11月1日までロシア高官",
+      "publishedAt": "2026-10-28T11:31:48+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de66783"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-12",
+      "title": "ヤクルト本社サイト不正アクセスで停止中顧客情報への影響は調査中",
+      "publishedAt": "2026-10-28T11:17:38+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/28/2000002657"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-12",
+      "title": "discord公開サーバの会話をgoogle検索などの対象にプライバシーへの懸念も",
+      "publishedAt": "2026-10-28T11:07:59+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/28/2000002656"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-12",
+      "title": "idcfクラウドのランサム被害ossの脆弱性悪用されるサーバ内データ流出なし再発防止へsbom化",
+      "publishedAt": "2026-10-28T10:13:58+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/28/2000002655"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-12",
+      "title": "子どものsns制限に動くeu議論主導の精神科医が明かす真の標的",
+      "publishedAt": "2026-10-28T09:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBW45WVVBWUHBI02LM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-12",
+      "title": "newtonで読む10年前から危惧されていた2026年熊本地震",
+      "publishedAt": "2026-10-28T07:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBV22RRVBVBNEH002M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-28T09:06:58.824417+09:00"
+  "updatedAt": "2026-10-28T18:09:50.007152+09:00"
 }

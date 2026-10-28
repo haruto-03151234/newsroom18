@@ -1,0 +1,757 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-10-28T18:09:50.007152+09:00",
+  "summary": "対象時間帯の4配信元のニュースを10本に整理しました。うち重要ニュースは1本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-10-28-12",
+    "date": "2026-10-28",
+    "slot": "12:00",
+    "label": "昼12時版"
+  },
+  "coverage": {
+    "from": "2026-10-28T06:00:00+09:00",
+    "to": "2026-10-28T12:00:00+09:00",
+    "start": "2026-10-28T06:00:00+09:00",
+    "end": "2026-10-28T12:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "10月28日 06:00〜10月28日 12:00"
+  },
+  "stats": {
+    "articleCount": 10,
+    "categoryCounts": {
+      "海外": 4,
+      "社会": 1,
+      "テクノロジー": 3,
+      "経済": 1,
+      "科学": 1
+    },
+    "sourceCount": 10,
+    "publisherCount": 4,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 3,
+      "mofa": 1,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 1,
+      "brief": 9
+    },
+    "feedFailureCount": 3
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories",
+    "農林水産省 報道発表資料"
+  ],
+  "articles": [
+    {
+      "id": "697222600ee7adbd",
+      "slug": "2026-10-28-12-69722260",
+      "publishedAt": "2026-10-28T11:43:26+09:00",
+      "updatedAt": "2026-10-28T18:09:50.007152+09:00",
+      "title": "ベナンの危険情報【危険レベル継続】（内容の更新）",
+      "dek": "10月28日 11:43更新。●アリボリ県バニコアラ地区、カリママ地区、マランヴィル地区、セバナ地区、カンディ地区、アタコラ県タンゲタ地区、マテリ地区、ケル地区、ボルグ県カラレ地区東部及びニッキ地区東部 レベル3:渡航は止めてください。",
+      "summary": "●アリボリ県バニコアラ地区、カリママ地区、マランヴィル地区、セバナ地区、カンディ地区、アタコラ県タンゲタ地区、マテリ地区、ケル地区、ボルグ県カラレ地区東部及びニッキ地区東部 レベル3:渡航は止めてください。(渡航中止勧告)《継続》 ●アリボリ県南部・ゴグヌ地区、アタコラ県コブリ地区、アタコラ県クアンデ地区北部、ボルグ県カラレ地区西部、ニッキ地区西部、ペレレ地区及びチャウル地区東部 レベル2:不要不急の渡航は止めてください。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "ベナンの危険情報危険レベル継続内容の更新"
+      ],
+      "facts": [
+        "《継続》 【ポイント】 ●北部のブルキナファソ、ニジェール等との国境地帯及びその周辺地域では、イスラム過激派テロ組織によって、国軍治安部隊に対するテロ攻撃が頻発し、治安部隊に多数の死傷者が発生しています。",
+        "テロ組織は国軍だけでなく、村落への襲撃も行っており、一般市民にも死亡者や行方不明者が発生しています。",
+        "これらの地域への渡航は、どのような目的であっても止めて下さい。",
+        "●北部のボルグ県のナイジェリアとの国境地帯では、同国から侵入するテロ組織及び武装集団による治安機関、教会その他の施設を狙ったテロや誘拐が頻発しています。",
+        "●実質的首都機能を有する国内最大の都市リトラル県コトヌや周辺都市では、強盗や窃盗等の一般犯罪が多数報告されています。",
+        "●ベナン全土で、電気、水道、医療、教育等のインフラや行政サービスが不足しています。"
+      ],
+      "impactPoints": [
+        "●アリボリ県バニコアラ地区、カリママ地区、マランヴィル地区、セバナ地区、カンディ地区、アタコラ県タンゲタ地区、マテリ地区、ケル地区、ボルグ県カラレ地区東部及びニッキ地区東部 レベル3:渡航は止めてください。",
+        "(渡航中止勧告)《継続》 ●アリボリ県南部・ゴグヌ地区、アタコラ県コブリ地区、アタコラ県クアンデ地区北部、ボルグ県カラレ地区西部、ニッキ地区西部、ペレレ地区及びチャウル地区東部 レベル2:不要不急の渡航は止めてください。",
+        "《継続》 ●上記を除く地域 レベル1:十分注意してください。",
+        "その他の地域を含めて危険レベル1の地域においても、危険を避けていただくため特別な注意が必要です。",
+        "頻繁に停電や断水等が発生しており、生活インフラも脆弱です。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "身代金目的の誘拐も多く、外国人が標的となる可能性もあることから、同国境地帯への渡航は、どのような目的であっても止めてください。"
+      ],
+      "body": [
+        "●アリボリ県バニコアラ地区、カリママ地区、マランヴィル地区、セバナ地区、カンディ地区、アタコラ県タンゲタ地区、マテリ地区、ケル地区、ボルグ県カラレ地区東部及びニッキ地区東部 レベル3:渡航は止めてください。(渡航中止勧告)《継続》 ●アリボリ県南部・ゴグヌ地区、アタコラ県コブリ地区、アタコラ県クアンデ地区北部、ボルグ県カラレ地区西部、ニッキ地区西部、ペレレ地区及びチャウル地区東部 レベル2:不要不急の渡航は止めてください。",
+        "《継続》 ●上記を除く地域 レベル1:十分注意してください。",
+        "その他の地域を含めて危険レベル1の地域においても、危険を避けていただくため特別な注意が必要です。",
+        "頻繁に停電や断水等が発生しており、生活インフラも脆弱です。",
+        "身代金目的の誘拐も多く、外国人が標的となる可能性もあることから、同国境地帯への渡航は、どのような目的であっても止めてください。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "《継続》 【ポイント】 ●北部のブルキナファソ、ニジェール等との国境地帯及びその周辺地域では、イスラム過激派テロ組織によって、国軍治安部隊に対するテロ攻撃が頻発し、治安部隊に多数の死傷者が発生しています。",
+            "テロ組織は国軍だけでなく、村落への襲撃も行っており、一般市民にも死亡者や行方不明者が発生しています。",
+            "これらの地域への渡航は、どのような目的であっても止めて下さい。",
+            "●北部のボルグ県のナイジェリアとの国境地帯では、同国から侵入するテロ組織及び武装集団による治安機関、教会その他の施設を狙ったテロや誘拐が頻発しています。",
+            "●実質的首都機能を有する国内最大の都市リトラル県コトヌや周辺都市では、強盗や窃盗等の一般犯罪が多数報告されています。",
+            "●ベナン全土で、電気、水道、医療、教育等のインフラや行政サービスが不足しています。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "●アリボリ県バニコアラ地区、カリママ地区、マランヴィル地区、セバナ地区、カンディ地区、アタコラ県タンゲタ地区、マテリ地区、ケル地区、ボルグ県カラレ地区東部及びニッキ地区東部 レベル3:渡航は止めてください。",
+            "(渡航中止勧告)《継続》 ●アリボリ県南部・ゴグヌ地区、アタコラ県コブリ地区、アタコラ県クアンデ地区北部、ボルグ県カラレ地区西部、ニッキ地区西部、ペレレ地区及びチャウル地区東部 レベル2:不要不急の渡航は止めてください。",
+            "《継続》 ●上記を除く地域 レベル1:十分注意してください。",
+            "その他の地域を含めて危険レベル1の地域においても、危険を避けていただくため特別な注意が必要です。",
+            "頻繁に停電や断水等が発生しており、生活インフラも脆弱です。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "身代金目的の誘拐も多く、外国人が標的となる可能性もあることから、同国境地帯への渡航は、どのような目的であっても止めてください。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-28T11:43:26+09:00",
+          "text": "外務省 海外安全情報の公開情報を確認",
+          "source": "外務省 海外安全情報"
+        },
+        {
+          "at": "2026-10-28T18:09:50.007152+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "外務省 海外安全情報",
+          "publisherId": "mofa",
+          "links": [
+            {
+              "title": "ベナンの危険情報【危険レベル継続】（内容の更新）",
+              "url": "https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T097.html",
+              "publishedAt": "2026-10-28T11:43:26+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T11:43:26+09:00",
+          "keyPoints": [
+            "外務省 海外安全情報の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "0122a30f800106d6",
+      "slug": "2026-10-28-12-0122a30f",
+      "publishedAt": "2026-10-28T11:48:38+09:00",
+      "updatedAt": "2026-10-28T18:09:50.007152+09:00",
+      "title": "GMO攻撃者の「脅迫サイト」が見られない状態 ドメイン停止で",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-28T11:48:38+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-28T18:09:50.007152+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "GMO攻撃者の「脅迫サイト」が見られない状態 ドメイン停止で",
+              "url": "https://www.asahi.com/articles/ASVBX0SWBVBXUTIL004M.html",
+              "publishedAt": "2026-10-28T11:48:38+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T11:48:38+09:00",
+          "keyPoints": [
+            "GMO攻撃者の「脅迫サイト」が見られない状態 ドメイン停止で"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "8afebcc625fbea33",
+      "slug": "2026-10-28-12-8afebcc6",
+      "publishedAt": "2026-10-28T11:48:06+09:00",
+      "updatedAt": "2026-10-28T18:09:50.007152+09:00",
+      "title": "トランプ大統領 “重要州”テキサスで支持訴え",
+      "dek": "アメリカの中間選挙が来週に迫るなか、トランプ大統領は上院選挙で接戦が伝えられている南部テキサス州で集会を開き、民主党の新星として注目される候補を「共産主義者」と呼んで批判しました。",
+      "summary": "アメリカの中間選挙が来週に迫るなか、トランプ大統領は上院選挙で接戦が伝えられている南部テキサス州で集会を開き、民主党の新星として注目される候補を「共産主義者」と呼んで批判しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "アメリカの中間選挙が来週に迫るなか、トランプ大統領は上院選挙で接戦が伝えられている南部テキサス州で集会を開き、民主党の新星として注目される候補を「共産主義者」と呼んで批判しました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "アメリカの中間選挙が来週に迫るなか、トランプ大統領は上院選挙で接戦が伝えられている南部テキサス州で集会を開き、民主党の新星として注目される候補を「共産主義者」と呼んで批判しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "アメリカの中間選挙が来週に迫るなか、トランプ大統領は上院選挙で接戦が伝えられている南部テキサス州で集会を開き、民主党の新星として注目される候補を「共産主義者」と呼んで批判しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-28T11:48:06+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-28T18:09:50.007152+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "トランプ大統領 “重要州”テキサスで支持訴え",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261028de66787",
+              "publishedAt": "2026-10-28T11:48:06+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T11:48:06+09:00",
+          "keyPoints": [
+            "アメリカの中間選挙が来週に迫るなか、トランプ大統領は上院選挙で接戦が伝えられている南部テキサス州で集会を開き、民主党の新星として注目される候補を「共産主義者」と呼んで批判しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "5964fa1792a73cdd",
+      "slug": "2026-10-28-12-5964fa17",
+      "publishedAt": "2026-10-28T11:33:00+09:00",
+      "updatedAt": "2026-10-28T18:09:50.007152+09:00",
+      "title": "国連事務総長選難航のなかUAE新候補者が公開討論",
+      "dek": "ことしいっぱいで任期を終える国連のグテーレス事務総長の後任選びが難航するなか、UAE＝アラブ首長国連邦の前の国連大使が新たに立候補し、各国やNGOとの公開討論にのぞみました。",
+      "summary": "ことしいっぱいで任期を終える国連のグテーレス事務総長の後任選びが難航するなか、UAE＝アラブ首長国連邦の前の国連大使が新たに立候補し、各国やNGOとの公開討論にのぞみました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "ことしいっぱいで任期を終える国連のグテーレス事務総長の後任選びが難航するなか、UAE＝アラブ首長国連邦の前の国連大使が新たに立候補し、各国やNGOとの公開討論にのぞみました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "ことしいっぱいで任期を終える国連のグテーレス事務総長の後任選びが難航するなか、UAE＝アラブ首長国連邦の前の国連大使が新たに立候補し、各国やNGOとの公開討論にのぞみました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "ことしいっぱいで任期を終える国連のグテーレス事務総長の後任選びが難航するなか、UAE＝アラブ首長国連邦の前の国連大使が新たに立候補し、各国やNGOとの公開討論にのぞみました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-28T11:33:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-28T18:09:50.007152+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "国連事務総長選難航のなかUAE新候補者が公開討論",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261028de66781",
+              "publishedAt": "2026-10-28T11:33:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T11:33:00+09:00",
+          "keyPoints": [
+            "ことしいっぱいで任期を終える国連のグテーレス事務総長の後任選びが難航するなか、UAE＝アラブ首長国連邦の前の国連大使が新たに立候補し、各国やNGOとの公開討論にのぞみました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "8d300a257001512a",
+      "slug": "2026-10-28-12-8d300a25",
+      "publishedAt": "2026-10-28T11:31:48+09:00",
+      "updatedAt": "2026-10-28T18:09:50.007152+09:00",
+      "title": "“オレシュキでの局地的な停戦合意は11月1日まで” ロシア高官",
+      "dek": "",
+      "summary": "27日に発効したウクライナ南部の都市オレシュキでの、ロシアとウクライナの局地的な停戦合意についてロシアの高官は来月1日まで続くとしたうえで、これまでのところ停戦違反は確認されていないと明らかにしました…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "27日に発効したウクライナ南部の都市オレシュキでの、ロシアとウクライナの局地的な停戦合意についてロシアの高官は来月1日まで続くとしたうえで、これまでのところ停戦違反は確認されていないと明らかにしました…。",
+      "watchPoints": [],
+      "body": [
+        "27日に発効したウクライナ南部の都市オレシュキでの、ロシアとウクライナの局地的な停戦合意についてロシアの高官は来月1日まで続くとしたうえで、これまでのところ停戦違反は確認されていないと明らかにしました…。"
+      ],
+      "sections": [
+        {
+          "heading": "背景",
+          "paragraphs": [
+            "27日に発効したウクライナ南部の都市オレシュキでの、ロシアとウクライナの局地的な停戦合意についてロシアの高官は来月1日まで続くとしたうえで、これまでのところ停戦違反は確認されていないと明らかにしました…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-28T11:31:48+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-28T18:09:50.007152+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "“オレシュキでの局地的な停戦合意は11月1日まで” ロシア高官",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261028de66783",
+              "publishedAt": "2026-10-28T11:31:48+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T11:31:48+09:00",
+          "keyPoints": [
+            "27日に発効したウクライナ南部の都市オレシュキでの、ロシアとウクライナの局地的な停戦合意についてロシアの高官は来月1日まで続くとしたうえで、これまでのところ停戦違反は確認されていないと明らかにしました…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "37167919846aa8bd",
+      "slug": "2026-10-28-12-37167919",
+      "publishedAt": "2026-10-28T11:17:38+09:00",
+      "updatedAt": "2026-10-28T18:09:50.007152+09:00",
+      "title": "ヤクルト本社サイト、不正アクセスで停止中 顧客情報への影響は「調査中」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-28T11:17:38+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-28T18:09:50.007152+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "ヤクルト本社サイト、不正アクセスで停止中 顧客情報への影響は「調査中」",
+              "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002657",
+              "publishedAt": "2026-10-28T11:17:38+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T11:17:38+09:00",
+          "keyPoints": [
+            "ヤクルト本社サイト、不正アクセスで停止中 顧客情報への影響は「調査中」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "1138e8d05acd52b1",
+      "slug": "2026-10-28-12-1138e8d0",
+      "publishedAt": "2026-10-28T11:07:59+09:00",
+      "updatedAt": "2026-10-28T18:09:50.007152+09:00",
+      "title": "Discord、公開サーバの会話をGoogle検索などの対象に プライバシーへの懸念も",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-28T11:07:59+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-28T18:09:50.007152+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "Discord、公開サーバの会話をGoogle検索などの対象に プライバシーへの懸念も",
+              "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002656",
+              "publishedAt": "2026-10-28T11:07:59+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T11:07:59+09:00",
+          "keyPoints": [
+            "Discord、公開サーバの会話をGoogle検索などの対象に プライバシーへの懸念も"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "ea056ba399313a6c",
+      "slug": "2026-10-28-12-ea056ba3",
+      "publishedAt": "2026-10-28T10:13:58+09:00",
+      "updatedAt": "2026-10-28T18:09:50.007152+09:00",
+      "title": "IDCFクラウドのランサム被害、OSSの脆弱性悪用される サーバ内データ流出なし 再発防止へSBOM化",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-28T10:13:58+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-28T18:09:50.007152+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "IDCFクラウドのランサム被害、OSSの脆弱性悪用される サーバ内データ流出なし 再発防止へSBOM化",
+              "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002655",
+              "publishedAt": "2026-10-28T10:13:58+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T10:13:58+09:00",
+          "keyPoints": [
+            "IDCFクラウドのランサム被害、OSSの脆弱性悪用される サーバ内データ流出なし 再発防止へSBOM化"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "e775b6eb56158c13",
+      "slug": "2026-10-28-12-e775b6eb",
+      "publishedAt": "2026-10-28T09:00:00+09:00",
+      "updatedAt": "2026-10-28T18:09:50.007152+09:00",
+      "title": "子どものSNS制限に動くEU 議論主導の精神科医が明かす真の標的",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-28T09:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-28T18:09:50.007152+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "子どものSNS制限に動くEU 議論主導の精神科医が明かす真の標的",
+              "url": "https://www.asahi.com/articles/ASVBW45WVVBWUHBI02LM.html",
+              "publishedAt": "2026-10-28T09:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T09:00:00+09:00",
+          "keyPoints": [
+            "子どものSNS制限に動くEU 議論主導の精神科医が明かす真の標的"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "7f2bccb130819e0c",
+      "slug": "2026-10-28-12-7f2bccb1",
+      "publishedAt": "2026-10-28T07:00:00+09:00",
+      "updatedAt": "2026-10-28T18:09:50.007152+09:00",
+      "title": "Newtonで読む 10年前から危惧されていた2026年熊本地震",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-28T07:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-28T18:09:50.007152+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "Newtonで読む 10年前から危惧されていた2026年熊本地震",
+              "url": "https://www.asahi.com/articles/ASVBV22RRVBVBNEH002M.html",
+              "publishedAt": "2026-10-28T07:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T07:00:00+09:00",
+          "keyPoints": [
+            "Newtonで読む 10年前から危惧されていた2026年熊本地震"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    }
+  ]
+}
