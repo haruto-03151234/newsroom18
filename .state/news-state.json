@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-28T12:00:00+09:00",
-  "lastCompletedEdition": "2026-10-28-12",
+  "lastCompletedEnd": "2026-10-28T18:00:00+09:00",
+  "lastCompletedEdition": "2026-10-28-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -22096,7 +22096,111 @@
       "urls": [
         "https://www.asahi.com/articles/ASVBV22RRVBVBNEH002M.html"
       ]
+    },
+    {
+      "editionId": "2026-10-28-18",
+      "title": "火山名薩摩硫黄島火山の状況に関する解説情報",
+      "publishedAt": "2026-10-28T14:15:15+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261028051515_0_VFVO51_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-18",
+      "title": "火山名桜島降灰予報詳細",
+      "publishedAt": "2026-10-28T12:21:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261028032154_0_VFVO55_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-18",
+      "title": "花キューピット会員情報漏えいの可能性最大423万件余",
+      "publishedAt": "2026-10-28T17:54:51+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de67215"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-18",
+      "title": "対策を後回しにしたサーバが軒並み狙われている相次ぐ不正アクセスにラックctoが警鐘",
+      "publishedAt": "2026-10-28T17:19:23+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/28/2000002675"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-18",
+      "title": "中小企業支援家の小出宗昭さん67歳で死去ビズモデル提唱",
+      "publishedAt": "2026-10-28T16:56:37+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBX2H7MVBXULFA01GM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-18",
+      "title": "韓国半導体大手skハイニックス営業利益73倍で過去最高更新",
+      "publishedAt": "2026-10-28T16:44:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de67125"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-18",
+      "title": "推しがそばにいる日常をソニー5万円台の裸眼3dディスプレイアニメ公式コンテンツに対応",
+      "publishedAt": "2026-10-28T16:06:07+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/28/2000002670"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-18",
+      "title": "中部電地震想定を12割小さく評価規制委が公表浜岡原発不正",
+      "publishedAt": "2026-10-28T16:04:09+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBX2317VBXUTFL00DM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-18",
+      "title": "ワールドシリーズ第4戦レイズが延長戦制し初勝利",
+      "publishedAt": "2026-10-28T15:36:14+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de67031"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-18",
+      "title": "資さんうどん従業員の退職理由などが外部から閲覧可能に委託先の勤怠システムに設定不備",
+      "publishedAt": "2026-10-28T15:02:29+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/28/2000002667"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-18",
+      "title": "仕組みは争点は日本への影響はまとめて知るアメリカ中間選挙",
+      "publishedAt": "2026-10-28T14:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBW0D0BVBWDIFI00DM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-18",
+      "title": "jフュージョンかつしかトリオ新アルバム",
+      "publishedAt": "2026-10-28T13:43:13+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261028/dde/012/200/005000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-18",
+      "title": "mrsgreenapplepopsあえてcdパワー届け",
+      "publishedAt": "2026-10-28T13:33:30+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261028/dde/012/200/007000c"
+      ]
     }
   ],
-  "updatedAt": "2026-10-28T18:09:50.007152+09:00"
+  "updatedAt": "2026-10-29T00:42:36.850072+09:00"
 }

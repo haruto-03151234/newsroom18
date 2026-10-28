@@ -1,0 +1,941 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-10-29T00:42:36.850072+09:00",
+  "summary": "対象時間帯の5配信元のニュースを13本に整理しました。うち重要ニュースは2本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-10-28-18",
+    "date": "2026-10-28",
+    "slot": "18:00",
+    "label": "夕方6時版"
+  },
+  "coverage": {
+    "from": "2026-10-28T12:00:00+09:00",
+    "to": "2026-10-28T18:00:00+09:00",
+    "start": "2026-10-28T12:00:00+09:00",
+    "end": "2026-10-28T18:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "10月28日 12:00〜10月28日 18:00"
+  },
+  "stats": {
+    "articleCount": 13,
+    "categoryCounts": {
+      "国内": 2,
+      "科学": 1,
+      "テクノロジー": 2,
+      "経済": 1,
+      "海外": 2,
+      "エンタメ": 3,
+      "社会": 1,
+      "スポーツ": 1
+    },
+    "sourceCount": 13,
+    "publisherCount": 5,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 3,
+      "jma": 2,
+      "mainichi": 2,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "brief": 12,
+      "feature": 1
+    },
+    "feedFailureCount": 3
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories",
+    "農林水産省 報道発表資料"
+  ],
+  "articles": [
+    {
+      "id": "8c0c96745ebe63c1",
+      "slug": "2026-10-28-18-8c0c9674",
+      "publishedAt": "2026-10-28T14:15:15+09:00",
+      "updatedAt": "2026-10-29T00:42:36.850072+09:00",
+      "title": "火山名 薩摩硫黄島 火山の状況に関する解説情報",
+      "dek": "＜火口周辺警報（噴火警戒レベル２、火口周辺規制）が継続＞ 薩摩硫黄島の硫黄岳火口で、本日（２８日）１３時０７分に噴火が発生しました。",
+      "summary": "＜火口周辺警報（噴火警戒レベル２、火口周辺規制）が継続＞ 薩摩硫黄島の硫黄岳火口で、本日（２８日）１３時０７分に噴火が発生しました。 硫黄岳火口中心から概ね０．５ｋｍの範囲では、噴火に伴う弾道を描いて飛散する大きな噴石に警戒してください。 レベル２（火口周辺規制）: 薩摩硫黄島。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [
+        "＜火口周辺警報（噴火警戒レベル２、火口周辺規制）が継続＞ 薩摩硫黄島の硫黄岳火口で、本日（２８日）１３時０７分に噴火が発生しました。",
+        "硫黄岳火口中心から概ね０．５ｋｍの範囲では、噴火に伴う弾道を描いて飛散する大きな噴石に警戒してください。",
+        "レベル２（火口周辺規制）: 薩摩硫黄島。"
+      ],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "＜火口周辺警報（噴火警戒レベル２、火口周辺規制）が継続＞ 薩摩硫黄島の硫黄岳火口で、本日（２８日）１３時０７分に噴火が発生しました。 硫黄岳火口中心から概ね０．５ｋｍの範囲では、噴火に伴う弾道を描いて飛散する大きな噴石に警戒してください。 レベル２（火口周辺規制）: 薩摩硫黄島。"
+      ],
+      "sections": [
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "＜火口周辺警報（噴火警戒レベル２、火口周辺規制）が継続＞ 薩摩硫黄島の硫黄岳火口で、本日（２８日）１３時０７分に噴火が発生しました。",
+            "硫黄岳火口中心から概ね０．５ｋｍの範囲では、噴火に伴う弾道を描いて飛散する大きな噴石に警戒してください。",
+            "レベル２（火口周辺規制）: 薩摩硫黄島。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-28T14:15:15+09:00",
+          "text": "気象庁 防災情報（地震・津波・火山）の公開情報を確認",
+          "source": "気象庁 防災情報（地震・津波・火山）"
+        },
+        {
+          "at": "2026-10-29T00:42:36.850072+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（地震・津波・火山）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "火山名 薩摩硫黄島 火山の状況に関する解説情報",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261028051515_0_VFVO51_400000.xml",
+              "publishedAt": "2026-10-28T14:15:15+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T14:15:15+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（地震・津波・火山）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "1f1e7d3575350db3",
+      "slug": "2026-10-28-18-1f1e7d35",
+      "publishedAt": "2026-10-28T12:21:00+09:00",
+      "updatedAt": "2026-10-29T00:42:36.850072+09:00",
+      "title": "火山名 桜島 降灰予報（詳細）",
+      "dek": "10月28日 12:21更新。28日18時までに鹿児島市(桜島)ではやや多量の降灰があり、降灰は鹿児島県南大隅町まで予想されます。",
+      "summary": "28日18時までに鹿児島市(桜島)ではやや多量の降灰があり、降灰は鹿児島県南大隅町まで予想されます。降灰予報(詳細): 桜島。やや多量の降灰: 鹿児島県鹿児島市。少量の降灰: 鹿児島県鹿児島市、鹿児島県鹿屋市、鹿児島県指宿市、鹿児島県垂水市、鹿児島県錦江町、鹿児島県南大隅町、鹿児島県肝付町。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "火山名桜島降灰予報詳細"
+      ],
+      "facts": [],
+      "impactPoints": [
+        "28日18時までに鹿児島市(桜島)ではやや多量の降灰があり、降灰は鹿児島県南大隅町まで予想されます。",
+        "降灰予報(詳細): 桜島。",
+        "やや多量の降灰: 鹿児島県鹿児島市。",
+        "少量の降灰: 鹿児島県鹿児島市、鹿児島県鹿屋市、鹿児島県指宿市、鹿児島県垂水市、鹿児島県錦江町、鹿児島県南大隅町、鹿児島県肝付町。",
+        "少量の降灰: 鹿児島県鹿児島市、鹿児島県垂水市。",
+        "少量の降灰: 鹿児島県鹿児島市、鹿児島県鹿屋市、鹿児島県垂水市、鹿児島県錦江町。",
+        "少量の降灰: 鹿児島県鹿児島市、鹿児島県鹿屋市、鹿児島県指宿市、鹿児島県垂水市、鹿児島県錦江町、鹿児島県南大隅町。"
+      ],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "28日18時までに鹿児島市(桜島)ではやや多量の降灰があり、降灰は鹿児島県南大隅町まで予想されます。降灰予報(詳細): 桜島。やや多量の降灰: 鹿児島県鹿児島市。少量の降灰: 鹿児島県鹿児島市、鹿児島県鹿屋市、鹿児島県指宿市、鹿児島県垂水市、鹿児島県錦江町、鹿児島県南大隅町、鹿児島県肝付町。",
+        "少量の降灰: 鹿児島県鹿児島市、鹿児島県垂水市。",
+        "少量の降灰: 鹿児島県鹿児島市、鹿児島県鹿屋市、鹿児島県垂水市、鹿児島県錦江町。",
+        "少量の降灰: 鹿児島県鹿児島市、鹿児島県鹿屋市、鹿児島県指宿市、鹿児島県垂水市、鹿児島県錦江町、鹿児島県南大隅町。"
+      ],
+      "sections": [
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "28日18時までに鹿児島市(桜島)ではやや多量の降灰があり、降灰は鹿児島県南大隅町まで予想されます。",
+            "降灰予報(詳細): 桜島。",
+            "やや多量の降灰: 鹿児島県鹿児島市。",
+            "少量の降灰: 鹿児島県鹿児島市、鹿児島県鹿屋市、鹿児島県指宿市、鹿児島県垂水市、鹿児島県錦江町、鹿児島県南大隅町、鹿児島県肝付町。",
+            "少量の降灰: 鹿児島県鹿児島市、鹿児島県垂水市。",
+            "少量の降灰: 鹿児島県鹿児島市、鹿児島県鹿屋市、鹿児島県垂水市、鹿児島県錦江町。",
+            "少量の降灰: 鹿児島県鹿児島市、鹿児島県鹿屋市、鹿児島県指宿市、鹿児島県垂水市、鹿児島県錦江町、鹿児島県南大隅町。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-28T12:21:00+09:00",
+          "text": "気象庁 防災情報（地震・津波・火山）の公開情報を確認",
+          "source": "気象庁 防災情報（地震・津波・火山）"
+        },
+        {
+          "at": "2026-10-29T00:42:36.850072+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（地震・津波・火山）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "火山名 桜島 降灰予報（詳細）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261028032154_0_VFVO55_010000.xml",
+              "publishedAt": "2026-10-28T12:21:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T12:21:00+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（地震・津波・火山）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "f025d588024ecfc5",
+      "slug": "2026-10-28-18-f025d588",
+      "publishedAt": "2026-10-28T17:54:51+09:00",
+      "updatedAt": "2026-10-29T00:42:36.850072+09:00",
+      "title": "「花キューピット」会員情報漏えいの可能性 最大423万件余",
+      "dek": "花の配達サービスを手がける「花キューピット」は管理システムへの不正アクセスによって、運営するオンラインサイトの会員情報、最大423万件あまりが外部に漏えいした可能性があると発表しました。",
+      "summary": "花の配達サービスを手がける「花キューピット」は管理システムへの不正アクセスによって、運営するオンラインサイトの会員情報、最大423万件あまりが外部に漏えいした可能性があると発表しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [
+        "花の配達サービスを手がける「花キューピット」は管理システムへの不正アクセスによって、運営するオンラインサイトの会員情報、最大423万件あまりが外部に漏えいした可能性があると発表しました。"
+      ],
+      "body": [
+        "花の配達サービスを手がける「花キューピット」は管理システムへの不正アクセスによって、運営するオンラインサイトの会員情報、最大423万件あまりが外部に漏えいした可能性があると発表しました。"
+      ],
+      "sections": [
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "花の配達サービスを手がける「花キューピット」は管理システムへの不正アクセスによって、運営するオンラインサイトの会員情報、最大423万件あまりが外部に漏えいした可能性があると発表しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-28T17:54:51+09:00",
+          "text": "NHK ONE 科学・文化の公開情報を確認",
+          "source": "NHK ONE 科学・文化"
+        },
+        {
+          "at": "2026-10-29T00:42:36.850072+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 科学・文化",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "「花キューピット」会員情報漏えいの可能性 最大423万件余",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261028de67215",
+              "publishedAt": "2026-10-28T17:54:51+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T17:54:51+09:00",
+          "keyPoints": [
+            "花の配達サービスを手がける「花キューピット」は管理システムへの不正アクセスによって、運営するオンラインサイトの会員情報、最大423万件あまりが外部に漏えいした可能性があると発表しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    },
+    {
+      "id": "f1061f883c96676c",
+      "slug": "2026-10-28-18-f1061f88",
+      "publishedAt": "2026-10-28T17:19:23+09:00",
+      "updatedAt": "2026-10-29T00:42:36.850072+09:00",
+      "title": "「対策を後回しにしたサーバが軒並み狙われている」 相次ぐ不正アクセスにラックCTOが警鐘",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-28T17:19:23+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-29T00:42:36.850072+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "「対策を後回しにしたサーバが軒並み狙われている」 相次ぐ不正アクセスにラックCTOが警鐘",
+              "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002675",
+              "publishedAt": "2026-10-28T17:19:23+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T17:19:23+09:00",
+          "keyPoints": [
+            "「対策を後回しにしたサーバが軒並み狙われている」 相次ぐ不正アクセスにラックCTOが警鐘"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "38bc4add6e393113",
+      "slug": "2026-10-28-18-38bc4add",
+      "publishedAt": "2026-10-28T16:56:37+09:00",
+      "updatedAt": "2026-10-29T00:42:36.850072+09:00",
+      "title": "中小企業支援家の小出宗昭さん、67歳で死去「ビズモデル」提唱",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-28T16:56:37+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-29T00:42:36.850072+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "中小企業支援家の小出宗昭さん、67歳で死去「ビズモデル」提唱",
+              "url": "https://www.asahi.com/articles/ASVBX2H7MVBXULFA01GM.html",
+              "publishedAt": "2026-10-28T16:56:37+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T16:56:37+09:00",
+          "keyPoints": [
+            "中小企業支援家の小出宗昭さん、67歳で死去「ビズモデル」提唱"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "32999f271da0a5f0",
+      "slug": "2026-10-28-18-32999f27",
+      "publishedAt": "2026-10-28T16:44:00+09:00",
+      "updatedAt": "2026-10-29T00:42:36.850072+09:00",
+      "title": "韓国半導体大手 SKハイニックス 営業利益7.3倍で過去最高更新",
+      "dek": "韓国の半導体大手、SKハイニックスは9月までの3か月の決算を発表し、営業利益は前の年の同じ時期と比べて7.3倍になり、3か月ごとの決算で過去最高を更新しました。",
+      "summary": "韓国の半導体大手、SKハイニックスは9月までの3か月の決算を発表し、営業利益は前の年の同じ時期と比べて7.3倍になり、3か月ごとの決算で過去最高を更新しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "韓国の半導体大手、SKハイニックスは9月までの3か月の決算を発表し、営業利益は前の年の同じ時期と比べて7.3倍になり、3か月ごとの決算で過去最高を更新しました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "韓国の半導体大手、SKハイニックスは9月までの3か月の決算を発表し、営業利益は前の年の同じ時期と比べて7.3倍になり、3か月ごとの決算で過去最高を更新しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "韓国の半導体大手、SKハイニックスは9月までの3か月の決算を発表し、営業利益は前の年の同じ時期と比べて7.3倍になり、3か月ごとの決算で過去最高を更新しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-28T16:44:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-29T00:42:36.850072+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "韓国半導体大手 SKハイニックス 営業利益7.3倍で過去最高更新",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261028de67125",
+              "publishedAt": "2026-10-28T16:44:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T16:44:00+09:00",
+          "keyPoints": [
+            "韓国の半導体大手、SKハイニックスは9月までの3か月の決算を発表し、営業利益は前の年の同じ時期と比べて7.3倍になり、3か月ごとの決算で過去最高を更新しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "c6436e139303ed28",
+      "slug": "2026-10-28-18-c6436e13",
+      "publishedAt": "2026-10-28T16:06:07+09:00",
+      "updatedAt": "2026-10-29T00:42:36.850072+09:00",
+      "title": "「推しがそばにいる日常」を ソニー、5万円台の裸眼3Dディスプレイ アニメ公式コンテンツに対応",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-28T16:06:07+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-29T00:42:36.850072+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "「推しがそばにいる日常」を ソニー、5万円台の裸眼3Dディスプレイ アニメ公式コンテンツに対応",
+              "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002670",
+              "publishedAt": "2026-10-28T16:06:07+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T16:06:07+09:00",
+          "keyPoints": [
+            "「推しがそばにいる日常」を ソニー、5万円台の裸眼3Dディスプレイ アニメ公式コンテンツに対応"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "80c20019a136164f",
+      "slug": "2026-10-28-18-80c20019",
+      "publishedAt": "2026-10-28T16:04:09+09:00",
+      "updatedAt": "2026-10-29T00:42:36.850072+09:00",
+      "title": "中部電、地震想定を1～2割小さく評価 規制委が公表 浜岡原発不正",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-28T16:04:09+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-29T00:42:36.850072+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "中部電、地震想定を1～2割小さく評価 規制委が公表 浜岡原発不正",
+              "url": "https://www.asahi.com/articles/ASVBX2317VBXUTFL00DM.html",
+              "publishedAt": "2026-10-28T16:04:09+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T16:04:09+09:00",
+          "keyPoints": [
+            "中部電、地震想定を1～2割小さく評価 規制委が公表 浜岡原発不正"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "5990eef2bd6cad37",
+      "slug": "2026-10-28-18-5990eef2",
+      "publishedAt": "2026-10-28T15:36:14+09:00",
+      "updatedAt": "2026-10-29T00:42:36.850072+09:00",
+      "title": "ワールドシリーズ第4戦 レイズが延長戦制し初勝利",
+      "dek": "大リーグの頂点を決めるワールドシリーズは27日、第4戦が行われ、レイズが延長12回、ブルワーズにサヨナラ勝ちして初勝利をあげ、対戦成績を1勝3敗としました。",
+      "summary": "大リーグの頂点を決めるワールドシリーズは27日、第4戦が行われ、レイズが延長12回、ブルワーズにサヨナラ勝ちして初勝利をあげ、対戦成績を1勝3敗としました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "大リーグの頂点を決めるワールドシリーズは27日、第4戦が行われ、レイズが延長12回、ブルワーズにサヨナラ勝ちして初勝利をあげ、対戦成績を1勝3敗としました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "大リーグの頂点を決めるワールドシリーズは27日、第4戦が行われ、レイズが延長12回、ブルワーズにサヨナラ勝ちして初勝利をあげ、対戦成績を1勝3敗としました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "大リーグの頂点を決めるワールドシリーズは27日、第4戦が行われ、レイズが延長12回、ブルワーズにサヨナラ勝ちして初勝利をあげ、対戦成績を1勝3敗としました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-28T15:36:14+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-10-29T00:42:36.850072+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "ワールドシリーズ第4戦 レイズが延長戦制し初勝利",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261028de67031",
+              "publishedAt": "2026-10-28T15:36:14+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T15:36:14+09:00",
+          "keyPoints": [
+            "大リーグの頂点を決めるワールドシリーズは27日、第4戦が行われ、レイズが延長12回、ブルワーズにサヨナラ勝ちして初勝利をあげ、対戦成績を1勝3敗としました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "98d9407ef45ed2f7",
+      "slug": "2026-10-28-18-98d9407e",
+      "publishedAt": "2026-10-28T15:02:29+09:00",
+      "updatedAt": "2026-10-29T00:42:36.850072+09:00",
+      "title": "資さんうどん、従業員の退職理由などが外部から閲覧可能に 委託先の勤怠システムに設定不備",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-28T15:02:29+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-29T00:42:36.850072+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "資さんうどん、従業員の退職理由などが外部から閲覧可能に 委託先の勤怠システムに設定不備",
+              "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002667",
+              "publishedAt": "2026-10-28T15:02:29+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T15:02:29+09:00",
+          "keyPoints": [
+            "資さんうどん、従業員の退職理由などが外部から閲覧可能に 委託先の勤怠システムに設定不備"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "3df6a0ab86b4c2d7",
+      "slug": "2026-10-28-18-3df6a0ab",
+      "publishedAt": "2026-10-28T14:00:00+09:00",
+      "updatedAt": "2026-10-29T00:42:36.850072+09:00",
+      "title": "仕組みは？ 争点は？ 日本への影響は？ まとめて知るアメリカ中間選挙",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-28T14:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-29T00:42:36.850072+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "仕組みは？争点は？日本への影響は？ まとめて知るアメリカ中間選挙",
+              "url": "https://www.asahi.com/articles/ASVBW0D0BVBWDIFI00DM.html",
+              "publishedAt": "2026-10-28T14:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T14:00:00+09:00",
+          "keyPoints": [
+            "仕組みは？ 争点は？ 日本への影響は？ まとめて知るアメリカ中間選挙"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "5136a55e9aec020b",
+      "slug": "2026-10-28-18-5136a55e",
+      "publishedAt": "2026-10-28T13:43:13+09:00",
+      "updatedAt": "2026-10-29T00:42:36.850072+09:00",
+      "title": "Jフュージョン「かつしかトリオ」新アルバム",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-28T13:43:13+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-10-29T00:42:36.850072+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "Jフュージョン「かつしかトリオ」新アルバム",
+              "url": "https://mainichi.jp/articles/20261028/dde/012/200/005000c",
+              "publishedAt": "2026-10-28T13:43:13+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T13:43:13+09:00",
+          "keyPoints": [
+            "Jフュージョン「かつしかトリオ」新アルバム"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "3a66c0d1e24c6e32",
+      "slug": "2026-10-28-18-3a66c0d1",
+      "publishedAt": "2026-10-28T13:33:30+09:00",
+      "updatedAt": "2026-10-29T00:42:36.850072+09:00",
+      "title": "Mrs． GREEN APPLE「POPS」 あえてCD、パワー届け‼",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-28T13:33:30+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-10-29T00:42:36.850072+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "Mrs． GREEN APPLE「POPS」 あえてCD、パワー届け‼",
+              "url": "https://mainichi.jp/articles/20261028/dde/012/200/007000c",
+              "publishedAt": "2026-10-28T13:33:30+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T13:33:30+09:00",
+          "keyPoints": [
+            "Mrs． GREEN APPLE「POPS」 あえてCD、パワー届け‼"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    }
+  ]
+}
