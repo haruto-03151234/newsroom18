@@ -1,0 +1,710 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-10-28T09:06:58.824417+09:00",
+  "summary": "対象時間帯の4配信元の主なニュースを10本に整理しました。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-10-28-06",
+    "date": "2026-10-28",
+    "slot": "06:00",
+    "label": "朝6時版"
+  },
+  "coverage": {
+    "from": "2026-10-27T18:00:00+09:00",
+    "to": "2026-10-28T06:00:00+09:00",
+    "start": "2026-10-27T18:00:00+09:00",
+    "end": "2026-10-28T06:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "10月27日 18:00〜10月28日 06:00"
+  },
+  "stats": {
+    "articleCount": 10,
+    "categoryCounts": {
+      "海外": 1,
+      "スポーツ": 1,
+      "国内": 1,
+      "エンタメ": 1,
+      "経済": 1,
+      "社会": 1,
+      "テクノロジー": 3,
+      "科学": 1
+    },
+    "sourceCount": 10,
+    "publisherCount": 4,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 3,
+      "mainichi": 1,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "brief": 10
+    },
+    "feedFailureCount": 3
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories",
+    "農林水産省 報道発表資料"
+  ],
+  "articles": [
+    {
+      "id": "0d51317f90ff9520",
+      "slug": "2026-10-28-06-0d51317f",
+      "publishedAt": "2026-10-28T05:43:25+09:00",
+      "updatedAt": "2026-10-28T09:06:58.824417+09:00",
+      "title": "エムバペ選手、中国から一時締め出し 画像きっかけ、影響広がり謝罪",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-28T05:43:25+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-28T09:06:58.824417+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "エムバペ選手、中国から一時締め出し 画像きっかけ、影響広がり謝罪",
+              "url": "https://www.asahi.com/articles/ASVBW6GVSVBWUHBI015M.html",
+              "publishedAt": "2026-10-28T05:43:25+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T05:43:25+09:00",
+          "keyPoints": [
+            "エムバペ選手、中国から一時締め出し 画像きっかけ、影響広がり謝罪"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "50c99d7036547f17",
+      "slug": "2026-10-28-06-50c99d70",
+      "publishedAt": "2026-10-28T05:10:22+09:00",
+      "updatedAt": "2026-10-28T09:06:58.824417+09:00",
+      "title": "プロ野球日本シリーズ 第4戦の見どころは",
+      "dek": "プロ野球の日本シリーズは、ソフトバンクが3試合連続となった延長戦を制して3連勝とし、日本一まであと1勝として第4戦を迎えます。",
+      "summary": "プロ野球の日本シリーズは、ソフトバンクが3試合連続となった延長戦を制して3連勝とし、日本一まであと1勝として第4戦を迎えます。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "プロ野球の日本シリーズは、ソフトバンクが3試合連続となった延長戦を制して3連勝とし、日本一まであと1勝として第4戦を迎えます。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "プロ野球の日本シリーズは、ソフトバンクが3試合連続となった延長戦を制して3連勝とし、日本一まであと1勝として第4戦を迎えます。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "プロ野球の日本シリーズは、ソフトバンクが3試合連続となった延長戦を制して3連勝とし、日本一まであと1勝として第4戦を迎えます。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-28T05:10:22+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-10-28T09:06:58.824417+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "プロ野球日本シリーズ 第4戦の見どころは",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261028de66718",
+              "publishedAt": "2026-10-28T05:10:22+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T05:10:22+09:00",
+          "keyPoints": [
+            "プロ野球の日本シリーズは、ソフトバンクが3試合連続となった延長戦を制して3連勝とし、日本一まであと1勝として第4戦を迎えます。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "2ff53aed3903afaa",
+      "slug": "2026-10-28-06-2ff53aed",
+      "publishedAt": "2026-10-28T05:07:00+09:00",
+      "updatedAt": "2026-10-28T09:06:58.824417+09:00",
+      "title": "GMO“懸賞金支払い”で脅迫に対抗も不安続く",
+      "dek": "GMOインターネットグループのサービスに不正にアクセスし、金銭などを要求していたハッカー集団は27日、利用者に関するとみられる情報をネット上に公開しました。",
+      "summary": "GMOインターネットグループのサービスに不正にアクセスし、金銭などを要求していたハッカー集団は27日、利用者に関するとみられる情報をネット上に公開しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "GMOインターネットグループのサービスに不正にアクセスし、金銭などを要求していたハッカー集団は27日、利用者に関するとみられる情報をネット上に公開しました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "GMOインターネットグループのサービスに不正にアクセスし、金銭などを要求していたハッカー集団は27日、利用者に関するとみられる情報をネット上に公開しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "GMOインターネットグループのサービスに不正にアクセスし、金銭などを要求していたハッカー集団は27日、利用者に関するとみられる情報をネット上に公開しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-28T05:07:00+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
+        },
+        {
+          "at": "2026-10-28T09:06:58.824417+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "GMO“懸賞金支払い”で脅迫に対抗も不安続く",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261028de66716",
+              "publishedAt": "2026-10-28T05:07:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T05:07:00+09:00",
+          "keyPoints": [
+            "GMOインターネットグループのサービスに不正にアクセスし、金銭などを要求していたハッカー集団は27日、利用者に関するとみられる情報をネット上に公開しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "7c2f193088d7a115",
+      "slug": "2026-10-28-06-7c2f1930",
+      "publishedAt": "2026-10-28T02:01:07+09:00",
+      "updatedAt": "2026-10-28T09:06:58.824417+09:00",
+      "title": "視聴室:ポリティカルパン",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-28T02:01:07+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-10-28T09:06:58.824417+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "視聴室:ポリティカルパン",
+              "url": "https://mainichi.jp/articles/20261028/ddm/018/200/010000c",
+              "publishedAt": "2026-10-28T02:01:07+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-28T02:01:07+09:00",
+          "keyPoints": [
+            "視聴室:ポリティカルパン"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "b4467694c707ccc5",
+      "slug": "2026-10-28-06-b4467694",
+      "publishedAt": "2026-10-27T22:29:53+09:00",
+      "updatedAt": "2026-10-28T09:06:58.824417+09:00",
+      "title": "りそな 埼玉りそな 関西みらい 3銀行も顧客情報漏えいの可能性",
+      "dek": "りそな銀行、埼玉りそな銀行、関西みらい銀行は、メール配信に使用している外部サービスを運営する「ユミルリンク」が不正アクセスを受けたことから、顧客の情報が外部に漏えいした可能性があると発表しました。",
+      "summary": "りそな銀行、埼玉りそな銀行、関西みらい銀行は、メール配信に使用している外部サービスを運営する「ユミルリンク」が不正アクセスを受けたことから、顧客の情報が外部に漏えいした可能性があると発表しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [
+        "りそな銀行、埼玉りそな銀行、関西みらい銀行は、メール配信に使用している外部サービスを運営する「ユミルリンク」が不正アクセスを受けたことから、顧客の情報が外部に漏えいした可能性があると発表しました。"
+      ],
+      "body": [
+        "りそな銀行、埼玉りそな銀行、関西みらい銀行は、メール配信に使用している外部サービスを運営する「ユミルリンク」が不正アクセスを受けたことから、顧客の情報が外部に漏えいした可能性があると発表しました。"
+      ],
+      "sections": [
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "りそな銀行、埼玉りそな銀行、関西みらい銀行は、メール配信に使用している外部サービスを運営する「ユミルリンク」が不正アクセスを受けたことから、顧客の情報が外部に漏えいした可能性があると発表しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-27T22:29:53+09:00",
+          "text": "NHK ONE 科学・文化の公開情報を確認",
+          "source": "NHK ONE 科学・文化"
+        },
+        {
+          "at": "2026-10-28T09:06:58.824417+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 科学・文化",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "りそな 埼玉りそな 関西みらい 3銀行も顧客情報漏えいの可能性",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261027de66670",
+              "publishedAt": "2026-10-27T22:29:53+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-27T22:29:53+09:00",
+          "keyPoints": [
+            "りそな銀行、埼玉りそな銀行、関西みらい銀行は、メール配信に使用している外部サービスを運営する「ユミルリンク」が不正アクセスを受けたことから、顧客の情報が外部に漏えいした可能性があると発表しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "df4b8ca56c6464fe",
+      "slug": "2026-10-28-06-df4b8ca5",
+      "publishedAt": "2026-10-27T20:38:47+09:00",
+      "updatedAt": "2026-10-28T09:06:58.824417+09:00",
+      "title": "元検事正「争います」 性的暴行事件、2年ぶり公判再開で無罪主張",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-27T20:38:47+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-28T09:06:58.824417+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "元検事正「争います」 性的暴行事件、2年ぶり公判再開で無罪主張",
+              "url": "https://www.asahi.com/articles/ASVBR323LVBRPTIL01YM.html",
+              "publishedAt": "2026-10-27T20:38:47+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-27T20:38:47+09:00",
+          "keyPoints": [
+            "元検事正「争います」 性的暴行事件、2年ぶり公判再開で無罪主張"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "3307f6881393ec01",
+      "slug": "2026-10-28-06-3307f688",
+      "publishedAt": "2026-10-27T20:30:12+09:00",
+      "updatedAt": "2026-10-28T09:06:58.824417+09:00",
+      "title": "IPO目論見書に「AIは人類の存亡リスク」「コードの9割はClaude製」 Anthropicが示した規格外の見立て",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-27T20:30:12+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-28T09:06:58.824417+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "IPO目論見書に「AIは人類の存亡リスク」「コードの9割はClaude製」 Anthropicが示した規格外の見立て",
+              "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002644",
+              "publishedAt": "2026-10-27T20:30:12+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-27T20:30:12+09:00",
+          "keyPoints": [
+            "IPO目論見書に「AIは人類の存亡リスク」「コードの9割はClaude製」 Anthropicが示した規格外の見立て"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "12b32b20a2188efc",
+      "slug": "2026-10-28-06-12b32b20",
+      "publishedAt": "2026-10-27T19:58:09+09:00",
+      "updatedAt": "2026-10-28T09:06:58.824417+09:00",
+      "title": "GMO、不正アクセス実行犯の手がかりに懸賞金 1億5000万円規模",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-27T19:58:09+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-28T09:06:58.824417+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "GMO、不正アクセス実行犯の手がかりに懸賞金 1億5000万円規模",
+              "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002642",
+              "publishedAt": "2026-10-27T19:58:09+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-27T19:58:09+09:00",
+          "keyPoints": [
+            "GMO、不正アクセス実行犯の手がかりに懸賞金 1億5000万円規模"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "6871947951d2904e",
+      "slug": "2026-10-28-06-68719479",
+      "publishedAt": "2026-10-27T19:48:13+09:00",
+      "updatedAt": "2026-10-28T09:06:58.824417+09:00",
+      "title": "So-net、会員情報約259万件が漏えい 一部メールサービスではパスワードも流出",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-27T19:48:13+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-28T09:06:58.824417+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "So-net、会員情報約259万件が漏えい 一部メールサービスではパスワードも流出",
+              "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002643",
+              "publishedAt": "2026-10-27T19:48:13+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-27T19:48:13+09:00",
+          "keyPoints": [
+            "So-net、会員情報約259万件が漏えい 一部メールサービスではパスワードも流出"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "f71a4a795fdc04f3",
+      "slug": "2026-10-28-06-f71a4a79",
+      "publishedAt": "2026-10-27T19:30:00+09:00",
+      "updatedAt": "2026-10-28T09:06:58.824417+09:00",
+      "title": "オンライン診療サービスに不正アクセス 最大87人分の患者情報閲覧",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-27T19:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-28T09:06:58.824417+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "オンライン診療サービスに不正アクセス 最大87人分の患者情報閲覧",
+              "url": "https://www.asahi.com/articles/ASVBW35RWVBWDIFI022M.html",
+              "publishedAt": "2026-10-27T19:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-27T19:30:00+09:00",
+          "keyPoints": [
+            "オンライン診療サービスに不正アクセス 最大87人分の患者情報閲覧"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    }
+  ]
+}

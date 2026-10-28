@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-27T18:00:00+09:00",
-  "lastCompletedEdition": "2026-10-27-18",
+  "lastCompletedEnd": "2026-10-28T06:00:00+09:00",
+  "lastCompletedEdition": "2026-10-28-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -21936,7 +21936,87 @@
       "urls": [
         "https://mainichi.jp/articles/20261027/dde/012/200/003000c"
       ]
+    },
+    {
+      "editionId": "2026-10-28-06",
+      "title": "エムバペ選手中国から一時締め出し画像きっかけ影響広がり謝罪",
+      "publishedAt": "2026-10-28T05:43:25+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBW6GVSVBWUHBI015M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-06",
+      "title": "プロ野球日本シリーズ第4戦の見どころは",
+      "publishedAt": "2026-10-28T05:10:22+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de66718"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-06",
+      "title": "gmo懸賞金支払いで脅迫に対抗も不安続く",
+      "publishedAt": "2026-10-28T05:07:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de66716"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-06",
+      "title": "視聴室",
+      "publishedAt": "2026-10-28T02:01:07+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261028/ddm/018/200/010000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-06",
+      "title": "りそな埼玉りそな関西みらい3銀行も顧客情報漏えいの可能性",
+      "publishedAt": "2026-10-27T22:29:53+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261027de66670"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-06",
+      "title": "元検事正争います性的暴行事件2年ぶり公判再開で無罪主張",
+      "publishedAt": "2026-10-27T20:38:47+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBR323LVBRPTIL01YM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-06",
+      "title": "ipo目論見書にaiは人類の存亡リスクコードの9割はclaude製anthropicが示した規格外の見立て",
+      "publishedAt": "2026-10-27T20:30:12+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/27/2000002644"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-06",
+      "title": "gmo不正アクセス実行犯の手がかりに懸賞金1億5000万円規模",
+      "publishedAt": "2026-10-27T19:58:09+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/27/2000002642"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-06",
+      "title": "sonet会員情報約259万件が漏えい一部メールサービスではパスワードも流出",
+      "publishedAt": "2026-10-27T19:48:13+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/27/2000002643"
+      ]
+    },
+    {
+      "editionId": "2026-10-28-06",
+      "title": "オンライン診療サービスに不正アクセス最大87人分の患者情報閲覧",
+      "publishedAt": "2026-10-27T19:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBW35RWVBWDIFI022M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-28T00:06:12.794352+09:00"
+  "updatedAt": "2026-10-28T09:06:58.824417+09:00"
 }
