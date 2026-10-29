@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-28T18:00:00+09:00",
-  "lastCompletedEdition": "2026-10-28-18",
+  "lastCompletedEnd": "2026-10-29T06:00:00+09:00",
+  "lastCompletedEdition": "2026-10-29-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -22200,7 +22200,123 @@
       "urls": [
         "https://mainichi.jp/articles/20261028/dde/012/200/007000c"
       ]
+    },
+    {
+      "editionId": "2026-10-29-06",
+      "title": "千葉県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-10-29T05:25:23+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261028202524_0_VPFJ50_020000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261028202533_0_VPFJ50_050000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261028202648_0_VPFJ50_011000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261028203053_0_VPFJ50_015000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261028203938_0_VPFJ50_120000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-06",
+      "title": "東京都気象解説情報落雷・突風",
+      "publishedAt": "2026-10-29T05:24:18+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261028202418_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-06",
+      "title": "韓国関税庁長との面会が開催されます",
+      "publishedAt": "2026-10-28T18:00:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/policy/customs_tariff/trade/international/conference/ka20261028.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-06",
+      "title": "プロ野球きょうからfa宣言期間広島3主力選手の去就に注目",
+      "publishedAt": "2026-10-29T05:33:12+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de67440"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-06",
+      "title": "トランプ政権習近平の中国ウクライナ侵攻",
+      "publishedAt": "2026-10-29T05:30:27+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261026/k00/00m/030/122000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-06",
+      "title": "ビジュ鏡を見て過呼吸整形中毒の先に見つけた外見との折り合い方",
+      "publishedAt": "2026-10-29T05:30:18+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261027/k00/00m/040/035000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-06",
+      "title": "出版流通の危機独自路線に走る大手出版社課題は返品率の高さ",
+      "publishedAt": "2026-10-29T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBP5FV5VBPULFA02CM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-06",
+      "title": "首相への好感度下がった人は政治とカネに不満朝日・阪大調査",
+      "publishedAt": "2026-10-29T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBV2J1LVBVULLI002M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-06",
+      "title": "スペイン高速鉄道衝突事故これまでに68人死亡後続列車が追突",
+      "publishedAt": "2026-10-29T04:05:51+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de67453"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-06",
+      "title": "イスラエル総選挙危機感が促したアラブ系躍進連立は困難か識者",
+      "publishedAt": "2026-10-28T21:57:16+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBX42YMVBXUHBI014M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-06",
+      "title": "ソニー生命契約者サイト不正アクセス個人情報約38万件漏えい",
+      "publishedAt": "2026-10-28T21:43:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261028dw67390"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-06",
+      "title": "jalの予約システムに不正アクセス約9万人分の予約情報が漏えい一部ではパスポート番号も",
+      "publishedAt": "2026-10-28T20:52:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/28/2000002687"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-06",
+      "title": "nec委託先の情報漏えいで謝罪セキュリティ事業を手掛ける企業として反省",
+      "publishedAt": "2026-10-28T20:32:12+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/28/2000002686"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-06",
+      "title": "oraclecloudがgoogletpu導入へ2027年に提供を開始",
+      "publishedAt": "2026-10-28T18:48:42+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/28/2000002681"
+      ]
     }
   ],
-  "updatedAt": "2026-10-29T00:42:36.850072+09:00"
+  "updatedAt": "2026-10-29T09:29:19.855823+09:00"
 }
