@@ -1,0 +1,888 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-10-30T00:49:50.744343+09:00",
+  "summary": "対象時間帯の5配信元のニュースを11本に整理しました。うち重要ニュースは2本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-10-29-18",
+    "date": "2026-10-29",
+    "slot": "18:00",
+    "label": "夕方6時版"
+  },
+  "coverage": {
+    "from": "2026-10-29T12:00:00+09:00",
+    "to": "2026-10-29T18:00:00+09:00",
+    "start": "2026-10-29T12:00:00+09:00",
+    "end": "2026-10-29T18:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "10月29日 12:00〜10月29日 18:00"
+  },
+  "stats": {
+    "articleCount": 11,
+    "categoryCounts": {
+      "国内": 2,
+      "テクノロジー": 3,
+      "経済": 1,
+      "スポーツ": 2,
+      "海外": 1,
+      "エンタメ": 2
+    },
+    "sourceCount": 15,
+    "publisherCount": 5,
+    "publisherCounts": {
+      "asahi": 1,
+      "itmedia": 3,
+      "jma": 2,
+      "mainichi": 2,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "brief": 10,
+      "feature": 1
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories"
+  ],
+  "articles": [
+    {
+      "id": "699e0b2b53675d4b",
+      "slug": "2026-10-29-18-699e0b2b",
+      "publishedAt": "2026-10-29T17:00:06+09:00",
+      "updatedAt": "2026-10-30T00:49:50.744343+09:00",
+      "title": "火山名 弥陀ヶ原 火山の状況に関する解説情報",
+      "dek": "＜噴火予報（噴火警戒レベル１、活火山であることに留意）が継続＞ 弥陀ヶ原の想定火口域（地獄谷周辺）から南に３から４ｋｍ付近で地震が増加していますが、火山活動に特段の変化はありません。",
+      "summary": "＜噴火予報（噴火警戒レベル１、活火山であることに留意）が継続＞ 弥陀ヶ原の想定火口域（地獄谷周辺）から南に３から４ｋｍ付近で地震が増加していますが、火山活動に特段の変化はありません。 レベル１（活火山であることに留意）: 弥陀ヶ原。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [
+        "＜噴火予報（噴火警戒レベル１、活火山であることに留意）が継続＞ 弥陀ヶ原の想定火口域（地獄谷周辺）から南に３から４ｋｍ付近で地震が増加していますが、火山活動に特段の変化はありません。",
+        "レベル１（活火山であることに留意）: 弥陀ヶ原。"
+      ],
+      "body": [
+        "＜噴火予報（噴火警戒レベル１、活火山であることに留意）が継続＞ 弥陀ヶ原の想定火口域（地獄谷周辺）から南に３から４ｋｍ付近で地震が増加していますが、火山活動に特段の変化はありません。 レベル１（活火山であることに留意）: 弥陀ヶ原。"
+      ],
+      "sections": [
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "＜噴火予報（噴火警戒レベル１、活火山であることに留意）が継続＞ 弥陀ヶ原の想定火口域（地獄谷周辺）から南に３から４ｋｍ付近で地震が増加していますが、火山活動に特段の変化はありません。",
+            "レベル１（活火山であることに留意）: 弥陀ヶ原。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-29T17:00:06+09:00",
+          "text": "気象庁 防災情報（地震・津波・火山）の公開情報を確認",
+          "source": "気象庁 防災情報（地震・津波・火山）"
+        },
+        {
+          "at": "2026-10-30T00:49:50.744343+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（地震・津波・火山）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "火山名 弥陀ヶ原 火山の状況に関する解説情報",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261029080006_0_VFVO51_010000.xml",
+              "publishedAt": "2026-10-29T17:00:06+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-29T17:00:06+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（地震・津波・火山）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "d169a0b0cc3f7807",
+      "slug": "2026-10-29-18-d169a0b0",
+      "publishedAt": "2026-10-29T16:38:33+09:00",
+      "updatedAt": "2026-10-30T00:49:50.744343+09:00",
+      "title": "秋田県気象解説情報（落雷・突風・降ひょう）",
+      "dek": "10月29日 16:38〜10月29日 17:00更新。秋田県では、29日夜のはじめ頃から31日にかけて、大気の状態が非常に不安定となるでしょう。",
+      "summary": "秋田県では、29日夜のはじめ頃から31日にかけて、大気の状態が非常に不安定となるでしょう。竜巻などの激しい突風や落雷、降ひょう、急な強い雨に注意してください。[気象概況] 東北地方は、29日夜から31日にかけて、気圧の谷となるでしょう。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "秋田県気象解説情報落雷突風降ひょう"
+      ],
+      "facts": [
+        "秋田県では、29日夜のはじめ頃から31日にかけて、大気の状態が非常に不安定となるでしょう。",
+        "[気象概況] 東北地方は、29日夜から31日にかけて、気圧の谷となるでしょう。",
+        "このため、秋田県では、積乱雲が発達し、雷の発生する所があるでしょう。",
+        "発達した積乱雲の近づく兆しがある場合には、頑丈な建物内に移動するなど安全確保に努めてください。",
+        "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど安全確保に努めてください。"
+      ],
+      "impactPoints": [
+        "竜巻などの激しい突風や落雷、降ひょう、急な強い雨に注意してください。",
+        "[防災事項] 秋田県では、29日夜のはじめ頃から31日にかけて、竜巻などの激しい突風や落雷、急な強い雨、降ひょうによる農作物や農業施設等への被害に注意してください。",
+        "北日本から西日本では31日にかけて、落雷や竜巻などの激しい突風、降ひょう、急な強い雨に注意してください。",
+        "[防災事項] 北日本から西日本では31日にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "高知県では、30日明け方から夜のはじめ頃にかけて、落雷、竜巻などの激しい突風、急な強い雨、降ひょうに注意してください。",
+        "[気象概況] 30日は、高知県では南からの暖かく湿った空気や上空の寒気の影響で、明け方から夜のはじめ頃にかけて、大気の状態が非常に不安定となるでしょう。",
+        "[防災事項] 落雷、竜巻などの激しい突風、急な強い雨、降ひょうに注意してください。",
+        "また、屋外活動、農作物の管理に注意してください。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "気圧の谷に向かって暖かく湿った空気が流れ込むため、東北地方では大気の状態が非常に不安定となる見込みです。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "次の「秋田県気象解説情報(落雷・突風・降ひょう)」は、30日6時頃に発表する予定です。",
+        "[気象概況] 31日にかけて、高気圧の中心が日本のはるか東へ移動し、上空に寒気を伴った気圧の谷が日本付近を通過する見込みです。",
+        "高気圧の縁を回る暖かく湿った空気が流入し、上空寒気の影響も加わるため、北日本から西日本の広い範囲で、大気の状態が非常に不安定となる見込みです。",
+        "降ひょうのおそれもありますので、農作物や農業施設の管理にも注意してください。"
+      ],
+      "body": [
+        "秋田県では、29日夜のはじめ頃から31日にかけて、大気の状態が非常に不安定となるでしょう。竜巻などの激しい突風や落雷、降ひょう、急な強い雨に注意してください。[気象概況] 東北地方は、29日夜から31日にかけて、気圧の谷となるでしょう。",
+        "[防災事項] 秋田県では、29日夜のはじめ頃から31日にかけて、竜巻などの激しい突風や落雷、急な強い雨、降ひょうによる農作物や農業施設等への被害に注意してください。",
+        "北日本から西日本では31日にかけて、落雷や竜巻などの激しい突風、降ひょう、急な強い雨に注意してください。",
+        "[防災事項] 北日本から西日本では31日にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "高知県では、30日明け方から夜のはじめ頃にかけて、落雷、竜巻などの激しい突風、急な強い雨、降ひょうに注意してください。",
+        "[気象概況] 30日は、高知県では南からの暖かく湿った空気や上空の寒気の影響で、明け方から夜のはじめ頃にかけて、大気の状態が非常に不安定となるでしょう。",
+        "[防災事項] 落雷、竜巻などの激しい突風、急な強い雨、降ひょうに注意してください。",
+        "また、屋外活動、農作物の管理に注意してください。",
+        "気圧の谷に向かって暖かく湿った空気が流れ込むため、東北地方では大気の状態が非常に不安定となる見込みです。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "次の「秋田県気象解説情報(落雷・突風・降ひょう)」は、30日6時頃に発表する予定です。",
+        "[気象概況] 31日にかけて、高気圧の中心が日本のはるか東へ移動し、上空に寒気を伴った気圧の谷が日本付近を通過する見込みです。",
+        "高気圧の縁を回る暖かく湿った空気が流入し、上空寒気の影響も加わるため、北日本から西日本の広い範囲で、大気の状態が非常に不安定となる見込みです。",
+        "降ひょうのおそれもありますので、農作物や農業施設の管理にも注意してください。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "秋田県では、29日夜のはじめ頃から31日にかけて、大気の状態が非常に不安定となるでしょう。",
+            "[気象概況] 東北地方は、29日夜から31日にかけて、気圧の谷となるでしょう。",
+            "このため、秋田県では、積乱雲が発達し、雷の発生する所があるでしょう。",
+            "発達した積乱雲の近づく兆しがある場合には、頑丈な建物内に移動するなど安全確保に努めてください。",
+            "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど安全確保に努めてください。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "竜巻などの激しい突風や落雷、降ひょう、急な強い雨に注意してください。",
+            "[防災事項] 秋田県では、29日夜のはじめ頃から31日にかけて、竜巻などの激しい突風や落雷、急な強い雨、降ひょうによる農作物や農業施設等への被害に注意してください。",
+            "北日本から西日本では31日にかけて、落雷や竜巻などの激しい突風、降ひょう、急な強い雨に注意してください。",
+            "[防災事項] 北日本から西日本では31日にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+            "高知県では、30日明け方から夜のはじめ頃にかけて、落雷、竜巻などの激しい突風、急な強い雨、降ひょうに注意してください。",
+            "[気象概況] 30日は、高知県では南からの暖かく湿った空気や上空の寒気の影響で、明け方から夜のはじめ頃にかけて、大気の状態が非常に不安定となるでしょう。",
+            "[防災事項] 落雷、竜巻などの激しい突風、急な強い雨、降ひょうに注意してください。",
+            "また、屋外活動、農作物の管理に注意してください。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "気圧の谷に向かって暖かく湿った空気が流れ込むため、東北地方では大気の状態が非常に不安定となる見込みです。",
+            "[補足事項] 今後発表する防災気象情報に留意してください。",
+            "次の「秋田県気象解説情報(落雷・突風・降ひょう)」は、30日6時頃に発表する予定です。",
+            "[気象概況] 31日にかけて、高気圧の中心が日本のはるか東へ移動し、上空に寒気を伴った気圧の谷が日本付近を通過する見込みです。",
+            "高気圧の縁を回る暖かく湿った空気が流入し、上空寒気の影響も加わるため、北日本から西日本の広い範囲で、大気の状態が非常に不安定となる見込みです。",
+            "降ひょうのおそれもありますので、農作物や農業施設の管理にも注意してください。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-29T17:00:07+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-10-30T00:49:50.744343+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "愛媛県気象解説情報（落雷・突風・降ひょう）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261029073834_0_VPFJ50_380000.xml",
+              "publishedAt": "2026-10-29T16:38:33+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "秋田県気象解説情報（落雷・突風・降ひょう）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261029074305_0_VPFJ50_050000.xml",
+              "publishedAt": "2026-10-29T16:43:05+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "徳島県気象解説情報（落雷・突風・降ひょう）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261029074539_0_VPFJ50_360000.xml",
+              "publishedAt": "2026-10-29T16:45:38+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "高知県気象解説情報（落雷・突風・降ひょう）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261029074909_0_VPFJ50_390000.xml",
+              "publishedAt": "2026-10-29T16:49:09+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "全般気象解説情報（落雷・突風・降ひょう）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261029080008_0_VPZJ50_010000.xml",
+              "publishedAt": "2026-10-29T17:00:07+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-29T17:00:07+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 5,
+      "freshSourceCount": 5,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "05e38b8b23511ef6",
+      "slug": "2026-10-29-18-05e38b8b",
+      "publishedAt": "2026-10-29T17:52:38+09:00",
+      "updatedAt": "2026-10-30T00:49:50.744343+09:00",
+      "title": "グッスマ、顧客の2800人のカード番号全16桁＋セキュリティコードなど流出か 下4桁は40万枚分",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-29T17:52:38+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-30T00:49:50.744343+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "グッスマ、顧客の2800人のカード番号全16桁＋セキュリティコードなど流出か 下4桁は40万枚分",
+              "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002716",
+              "publishedAt": "2026-10-29T17:52:38+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-29T17:52:38+09:00",
+          "keyPoints": [
+            "グッスマ、顧客の2800人のカード番号全16桁＋セキュリティコードなど流出か 下4桁は40万枚分"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "17d00137ff628ff4",
+      "slug": "2026-10-29-18-17d00137",
+      "publishedAt": "2026-10-29T17:52:00+09:00",
+      "updatedAt": "2026-10-30T00:49:50.744343+09:00",
+      "title": "メール配信会社「アララ」 不正アクセスで300万件のメアド流出",
+      "dek": "企業向けのメール配信システムなどを手がける「アララ」は、不正アクセスを受け、登録されていたメールアドレスおよそ301万件が外部に流出したと発表しました。",
+      "summary": "企業向けのメール配信システムなどを手がける「アララ」は、不正アクセスを受け、登録されていたメールアドレスおよそ301万件が外部に流出したと発表しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "企業向けのメール配信システムなどを手がける「アララ」は、不正アクセスを受け、登録されていたメールアドレスおよそ301万件が外部に流出したと発表しました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "企業向けのメール配信システムなどを手がける「アララ」は、不正アクセスを受け、登録されていたメールアドレスおよそ301万件が外部に流出したと発表しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "企業向けのメール配信システムなどを手がける「アララ」は、不正アクセスを受け、登録されていたメールアドレスおよそ301万件が外部に流出したと発表しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-29T17:52:00+09:00",
+          "text": "NHK ONE 科学・文化の公開情報を確認",
+          "source": "NHK ONE 科学・文化"
+        },
+        {
+          "at": "2026-10-30T00:49:50.744343+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 科学・文化",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "メール配信会社「アララ」 不正アクセスで300万件のメアド流出",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261029de67976",
+              "publishedAt": "2026-10-29T17:52:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-29T17:52:00+09:00",
+          "keyPoints": [
+            "企業向けのメール配信システムなどを手がける「アララ」は、不正アクセスを受け、登録されていたメールアドレスおよそ301万件が外部に流出したと発表しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "99c7b64cc7ce8e9f",
+      "slug": "2026-10-29-18-99c7b64c",
+      "publishedAt": "2026-10-29T17:40:00+09:00",
+      "updatedAt": "2026-10-30T00:49:50.744343+09:00",
+      "title": "大リーグ 移籍市場本格化 日本選手に注目も労使交渉の影響懸念",
+      "dek": "大リーグはワールドシリーズが終わり、2027年のシーズンに向けた移籍市場が本格化します。",
+      "summary": "大リーグはワールドシリーズが終わり、2027年のシーズンに向けた移籍市場が本格化します。 大リーグ挑戦を表明している阪神の佐藤輝明選手や、カブスからフリーエージェントとなる鈴木誠也選手など日本選手の動…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "大リーグはワールドシリーズが終わり、2027年のシーズンに向けた移籍市場が本格化します。",
+        "大リーグ挑戦を表明している阪神の佐藤輝明選手や、カブスからフリーエージェントとなる鈴木誠也選手など日本選手の動…。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "大リーグはワールドシリーズが終わり、2027年のシーズンに向けた移籍市場が本格化します。 大リーグ挑戦を表明している阪神の佐藤輝明選手や、カブスからフリーエージェントとなる鈴木誠也選手など日本選手の動…。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "大リーグはワールドシリーズが終わり、2027年のシーズンに向けた移籍市場が本格化します。",
+            "大リーグ挑戦を表明している阪神の佐藤輝明選手や、カブスからフリーエージェントとなる鈴木誠也選手など日本選手の動…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-29T17:40:00+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-10-30T00:49:50.744343+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "大リーグ 移籍市場本格化 日本選手に注目も労使交渉の影響懸念",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261029de67862",
+              "publishedAt": "2026-10-29T17:40:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-29T17:40:00+09:00",
+          "keyPoints": [
+            "大リーグはワールドシリーズが終わり、2027年のシーズンに向けた移籍市場が本格化します。大リーグ挑戦を表明している阪神の佐藤輝明選手や、カブスからフリーエージェントとなる鈴木誠也選手など日本選手の動…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "aad688711affc19d",
+      "slug": "2026-10-29-18-aad68871",
+      "publishedAt": "2026-10-29T17:14:22+09:00",
+      "updatedAt": "2026-10-30T00:49:50.744343+09:00",
+      "title": "神奈川・鎌倉市が「公共ライドシェア」実証実験見送り 路線バス大幅減便で代替運行に注力",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-29T17:14:22+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-30T00:49:50.744343+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "神奈川・鎌倉市が「公共ライドシェア」実証実験見送り 路線バス大幅減便で代替運行に注力",
+              "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002727",
+              "publishedAt": "2026-10-29T17:14:22+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-29T17:14:22+09:00",
+          "keyPoints": [
+            "神奈川・鎌倉市が「公共ライドシェア」実証実験見送り 路線バス大幅減便で代替運行に注力"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "9f3d7a8e42642331",
+      "slug": "2026-10-29-18-9f3d7a8e",
+      "publishedAt": "2026-10-29T17:00:00+09:00",
+      "updatedAt": "2026-10-30T00:49:50.744343+09:00",
+      "title": "「究極の場面」で輝くソフトバンク控え野手 常勝軍団こその厳しさも",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-29T17:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-10-30T00:49:50.744343+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "「究極の場面」で輝くソフトバンク控え野手 常勝軍団こその厳しさも",
+              "url": "https://www.asahi.com/articles/ASVBY25PHVBYUTQP004M.html",
+              "publishedAt": "2026-10-29T17:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-29T17:00:00+09:00",
+          "keyPoints": [
+            "「究極の場面」で輝くソフトバンク控え野手 常勝軍団こその厳しさも"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "4f839a96b1a10aa8",
+      "slug": "2026-10-29-18-4f839a96",
+      "publishedAt": "2026-10-29T16:58:02+09:00",
+      "updatedAt": "2026-10-30T00:49:50.744343+09:00",
+      "title": "ローソン・郵便局が「ドローン基地」に 回線はStarlinkで ドローンインフラを急ピッチで作るKDDI",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-29T16:58:02+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-10-30T00:49:50.744343+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "ローソン・郵便局が「ドローン基地」に 回線はStarlinkで ドローンインフラを急ピッチで作るKDDI",
+              "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002723",
+              "publishedAt": "2026-10-29T16:58:02+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-29T16:58:02+09:00",
+          "keyPoints": [
+            "ローソン・郵便局が「ドローン基地」に 回線はStarlinkで ドローンインフラを急ピッチで作るKDDI"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "0f44a06bc1e9dc93",
+      "slug": "2026-10-29-18-0f44a06b",
+      "publishedAt": "2026-10-29T14:48:46+09:00",
+      "updatedAt": "2026-10-30T00:49:50.744343+09:00",
+      "title": "ASEAN拡大国防相会議 南シナ海情勢巡り連携呼びかけへ",
+      "dek": "ASEAN＝東南アジア諸国連合に加えて日本やアメリカなどが参加する拡大国防相会議が、フィリピンで開かれ、議長国フィリピンは南シナ海の領有権をめぐって対立する中国を念頭に、ASEAN各国や日米との連携強…。",
+      "summary": "ASEAN＝東南アジア諸国連合に加えて日本やアメリカなどが参加する拡大国防相会議が、フィリピンで開かれ、議長国フィリピンは南シナ海の領有権をめぐって対立する中国を念頭に、ASEAN各国や日米との連携強…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "ASEAN＝東南アジア諸国連合に加えて日本やアメリカなどが参加する拡大国防相会議が、フィリピンで開かれ、議長国フィリピンは南シナ海の領有権をめぐって対立する中国を念頭に、ASEAN各国や日米との連携強…。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "ASEAN＝東南アジア諸国連合に加えて日本やアメリカなどが参加する拡大国防相会議が、フィリピンで開かれ、議長国フィリピンは南シナ海の領有権をめぐって対立する中国を念頭に、ASEAN各国や日米との連携強…。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "ASEAN＝東南アジア諸国連合に加えて日本やアメリカなどが参加する拡大国防相会議が、フィリピンで開かれ、議長国フィリピンは南シナ海の領有権をめぐって対立する中国を念頭に、ASEAN各国や日米との連携強…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-29T14:48:46+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-10-30T00:49:50.744343+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "ASEAN拡大国防相会議 南シナ海情勢巡り連携呼びかけへ",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261029de67734",
+              "publishedAt": "2026-10-29T14:48:46+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-29T14:48:46+09:00",
+          "keyPoints": [
+            "ASEAN＝東南アジア諸国連合に加えて日本やアメリカなどが参加する拡大国防相会議が、フィリピンで開かれ、議長国フィリピンは南シナ海の領有権をめぐって対立する中国を念頭に、ASEAN各国や日米との連携強…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "274a6c3a88b5406b",
+      "slug": "2026-10-29-18-274a6c3a",
+      "publishedAt": "2026-10-29T13:50:29+09:00",
+      "updatedAt": "2026-10-30T00:49:50.744343+09:00",
+      "title": "桂雀三郎が独演会 芸歴55年の爆笑3席",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-29T13:50:29+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-10-30T00:49:50.744343+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "桂雀三郎が独演会 芸歴55年の爆笑3席",
+              "url": "https://mainichi.jp/articles/20261029/dde/018/200/010000c",
+              "publishedAt": "2026-10-29T13:50:29+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-29T13:50:29+09:00",
+          "keyPoints": [
+            "桂雀三郎が独演会 芸歴55年の爆笑3席"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "efded5499ceacf00",
+      "slug": "2026-10-29-18-efded549",
+      "publishedAt": "2026-10-29T13:49:16+09:00",
+      "updatedAt": "2026-10-30T00:49:50.744343+09:00",
+      "title": "アラ還世代描く新作ドラマ「マイ・スイート・ホーム」 岡田恵和 等身大の人生「代表作」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-10-29T13:49:16+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-10-30T00:49:50.744343+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "アラ還世代描く新作ドラマ「マイ・スイート・ホーム」 岡田恵和 等身大の人生「代表作」",
+              "url": "https://mainichi.jp/articles/20261029/dde/018/200/011000c",
+              "publishedAt": "2026-10-29T13:49:16+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-10-29T13:49:16+09:00",
+          "keyPoints": [
+            "アラ還世代描く新作ドラマ「マイ・スイート・ホーム」 岡田恵和 等身大の人生「代表作」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    }
+  ]
+}

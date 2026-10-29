@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-29T12:00:00+09:00",
-  "lastCompletedEdition": "2026-10-29-12",
+  "lastCompletedEnd": "2026-10-29T18:00:00+09:00",
+  "lastCompletedEdition": "2026-10-29-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -22401,7 +22401,99 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2610/29/2000002689"
       ]
+    },
+    {
+      "editionId": "2026-10-29-18",
+      "title": "火山名弥陀ヶ原火山の状況に関する解説情報",
+      "publishedAt": "2026-10-29T17:00:06+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261029080006_0_VFVO51_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-18",
+      "title": "秋田県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-10-29T16:38:33+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261029073834_0_VPFJ50_380000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261029074305_0_VPFJ50_050000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261029074539_0_VPFJ50_360000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261029074909_0_VPFJ50_390000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261029080008_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-18",
+      "title": "グッスマ顧客の2800人のカード番号全16桁セキュリティコードなど流出か下4桁は40万枚分",
+      "publishedAt": "2026-10-29T17:52:38+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/29/2000002716"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-18",
+      "title": "メール配信会社アララ不正アクセスで300万件のメアド流出",
+      "publishedAt": "2026-10-29T17:52:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de67976"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-18",
+      "title": "大リーグ移籍市場本格化日本選手に注目も労使交渉の影響懸念",
+      "publishedAt": "2026-10-29T17:40:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de67862"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-18",
+      "title": "神奈川・鎌倉市が公共ライドシェア実証実験見送り路線バス大幅減便で代替運行に注力",
+      "publishedAt": "2026-10-29T17:14:22+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/29/2000002727"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-18",
+      "title": "究極の場面で輝くソフトバンク控え野手常勝軍団こその厳しさも",
+      "publishedAt": "2026-10-29T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBY25PHVBYUTQP004M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-18",
+      "title": "ローソン・郵便局がドローン基地に回線はstarlinkでドローンインフラを急ピッチで作るkddi",
+      "publishedAt": "2026-10-29T16:58:02+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/29/2000002723"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-18",
+      "title": "asean拡大国防相会議南シナ海情勢巡り連携呼びかけへ",
+      "publishedAt": "2026-10-29T14:48:46+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de67734"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-18",
+      "title": "桂雀三郎が独演会芸歴55年の爆笑3席",
+      "publishedAt": "2026-10-29T13:50:29+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261029/dde/018/200/010000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-18",
+      "title": "アラ還世代描く新作ドラママイ・スイート・ホーム岡田恵和等身大の人生代表作",
+      "publishedAt": "2026-10-29T13:49:16+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261029/dde/018/200/011000c"
+      ]
     }
   ],
-  "updatedAt": "2026-10-29T18:09:03.604336+09:00"
+  "updatedAt": "2026-10-30T00:49:50.744343+09:00"
 }
