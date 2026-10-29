@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-29T06:00:00+09:00",
-  "lastCompletedEdition": "2026-10-29-06",
+  "lastCompletedEnd": "2026-10-29T12:00:00+09:00",
+  "lastCompletedEdition": "2026-10-29-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -22316,7 +22316,92 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2610/28/2000002681"
       ]
+    },
+    {
+      "editionId": "2026-10-29-12",
+      "title": "長崎県気象解説情報落雷・突風",
+      "publishedAt": "2026-10-29T10:42:13+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261029014213_0_VPFJ50_350000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261029014332_0_VPFJ50_440000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261029014333_0_VPFJ50_430000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261029014507_0_VPFJ50_410000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261029014509_0_VPFJ50_420000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261029014606_0_VPFJ50_340000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-12",
+      "title": "自維国の幹事長衆院定数31減で正式合意今国会で成立を期す",
+      "publishedAt": "2026-10-29T11:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBY0FG2VBYUTFK022M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-12",
+      "title": "米到着のボルソナロ氏政治的迫害逃れるため国離れたと主張",
+      "publishedAt": "2026-10-29T11:08:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de67449"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-12",
+      "title": "aiや国際化米アカデミー賞はどう向き合う主催トップが語る",
+      "publishedAt": "2026-10-29T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBX0VNJVBXUHBI00SM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-12",
+      "title": "日本サッカー協会岡田武史氏が副会長を辞任w杯対応めぐり",
+      "publishedAt": "2026-10-29T10:50:53+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de67231"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-12",
+      "title": "frb政策金利据え置き12月会合で追加利上げ踏み切るかが焦点",
+      "publishedAt": "2026-10-29T10:43:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de67441"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-12",
+      "title": "redditフィードをおすすめとフォロー中の2種類に刷新今後数週間で世界展開",
+      "publishedAt": "2026-10-29T10:40:10+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/29/2000002697"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-12",
+      "title": "経産省デントリネット不正アクセスで停止電力・ガス事業者の定期報告サイト",
+      "publishedAt": "2026-10-29T10:31:38+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/29/2000002696"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-12",
+      "title": "glayのteruさん監修の箱館国際芸術祭が2028年開催",
+      "publishedAt": "2026-10-29T10:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBX4W6TVBXIIPE004M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-29-12",
+      "title": "apple初のタッチ対応macbookpro発表新型oled搭載国内価格は49万9800円から",
+      "publishedAt": "2026-10-29T06:32:01+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/29/2000002689"
+      ]
     }
   ],
-  "updatedAt": "2026-10-29T09:29:19.855823+09:00"
+  "updatedAt": "2026-10-29T18:09:03.604336+09:00"
 }
