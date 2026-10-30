@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-30T12:00:00+09:00",
-  "lastCompletedEdition": "2026-10-30-12",
+  "lastCompletedEnd": "2026-10-30T18:00:00+09:00",
+  "lastCompletedEdition": "2026-10-30-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -22687,7 +22687,139 @@
       "urls": [
         "https://www.asahi.com/articles/ASVBX269KVBXUTFL014M.html"
       ]
+    },
+    {
+      "editionId": "2026-10-30-18",
+      "title": "令和8年度財務省政策評価実施計画等の一部変更を公表します",
+      "publishedAt": "2026-10-30T17:00:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/about_mof/policy_evaluation/mof/fy2026/plan/20261026143718.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-18",
+      "title": "令和7事務年度国税庁実績評価書を公表します",
+      "publishedAt": "2026-10-30T17:00:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/about_mof/policy_evaluation/nta/fy2025/evaluation/20261021143526.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-18",
+      "title": "京都府気象防災速報竜巻注意",
+      "publishedAt": "2026-10-30T16:53:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261030075308_0_VPHW50_260000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261030080308_0_VPHW50_180000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261030082309_0_VPHW50_280000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261030082311_0_VPHW50_270000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-18",
+      "title": "全般気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-10-30T16:40:35+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261030074036_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-18",
+      "title": "藤木農林水産副大臣の海外出張シンガポール結果概要について",
+      "publishedAt": "2026-10-30T16:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/yusyutu_kokusai/chiiki/261030.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-18",
+      "title": "令和8年9月の米穀流通の動向集荷販売民間在庫",
+      "publishedAt": "2026-10-30T15:30:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousan/kikaku/261030.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-18",
+      "title": "ipsパーキンソン病治療承認後1例目の治療実施",
+      "publishedAt": "2026-10-30T17:45:37+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68495"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-18",
+      "title": "北朝鮮国防省米韓共同訓練を非難し対抗措置を示唆",
+      "publishedAt": "2026-10-30T17:41:25+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68530"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-18",
+      "title": "itノウハウ持つ人材少なくphp脆弱性問題31市町村でサイト一時停止継続",
+      "publishedAt": "2026-10-30T17:38:01+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/30/2000002766"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-18",
+      "title": "総務省gmo攻撃者サイトのブロッキングを通信各社に要請報道",
+      "publishedAt": "2026-10-30T17:13:12+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/30/2000002765"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-18",
+      "title": "ゴジラ新作映画の大型飛行艇タイアップ企画で鹿児島・鹿屋をpr",
+      "publishedAt": "2026-10-30T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBY2V8XVBYTLTB00CM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-18",
+      "title": "甲子園準優勝の盾や勝利球諏訪蚕糸の文化財13点初の一堂公開",
+      "publishedAt": "2026-10-30T16:48:20+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBX2HKVVBXUOOB006M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-18",
+      "title": "シネマの週末・トピックス",
+      "publishedAt": "2026-10-30T13:33:30+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261030/dde/012/070/003000c",
+        "https://mainichi.jp/articles/20261030/dde/012/070/004000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-18",
+      "title": "トランプ氏接戦州で集会中止体調尋ねた記者に激高見た目最悪",
+      "publishedAt": "2026-10-30T13:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBZ12VGVBZBQBQ05YM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-18",
+      "title": "php脆弱性でいち早くサービス停止コドモン経営判断の舞台裏実はオンラインイベントの真っ最中だった",
+      "publishedAt": "2026-10-30T12:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/30/2000002720"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-18",
+      "title": "レスリング世界選手権女子53キロ級清岡もえが優勝",
+      "publishedAt": "2026-10-30T11:18:59+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68219"
+      ]
     }
   ],
-  "updatedAt": "2026-10-30T18:20:19.421197+09:00"
+  "updatedAt": "2026-10-31T00:30:21.623555+09:00"
 }
