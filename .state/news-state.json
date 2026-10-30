@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-29T18:00:00+09:00",
-  "lastCompletedEdition": "2026-10-29-18",
+  "lastCompletedEnd": "2026-10-30T06:00:00+09:00",
+  "lastCompletedEdition": "2026-10-30-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -22493,7 +22493,92 @@
       "urls": [
         "https://mainichi.jp/articles/20261029/dde/018/200/011000c"
       ]
+    },
+    {
+      "editionId": "2026-10-30-06",
+      "title": "奈良県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-10-30T05:45:43+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261029204544_0_VPFJ50_280000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261029204549_0_VPFJ50_270000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261029205123_0_VPFJ50_260000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261029205125_0_VPFJ50_250000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261029205649_0_VPFJ50_300000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261029205650_0_VPFJ50_290000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-06",
+      "title": "アラスカ州にほぼ同名の上院議員候補知事が調査を指示",
+      "publishedAt": "2026-10-30T05:41:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de68134"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-06",
+      "title": "スペイン鉄道事故指令センターが速度制限伝えず運転再開か",
+      "publishedAt": "2026-10-30T05:38:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68171"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-06",
+      "title": "大坂なおみ18歳に敗れ今季終了日成長できていると収穫も",
+      "publishedAt": "2026-10-30T05:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBY3JX6VBYUTQP00CM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-06",
+      "title": "サンデー毎日来春に休刊へ日本でもっとも古い総合週刊誌の一つ",
+      "publishedAt": "2026-10-30T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBY2QXCVBYUCVL035M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-06",
+      "title": "囲碁名人戦挑戦者の芝野二冠が勝ち三冠に一力は敗れる",
+      "publishedAt": "2026-10-29T21:26:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261029de68066"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-06",
+      "title": "高市首相ガソリン補助金の縮小を表明12月から5円ずつ引き上げ",
+      "publishedAt": "2026-10-29T20:03:41+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBY3HYMVBYULFA009M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-06",
+      "title": "paypay連携の銀行からお金全部盗られた被害報告原因と対策はpaypayに聞いた",
+      "publishedAt": "2026-10-29T19:28:06+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/29/2000002708"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-06",
+      "title": "不正アクセスによる漏えい人数半年余りでのべ2億6000万人に日本人口の2倍超",
+      "publishedAt": "2026-10-29T19:18:19+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/29/2000002730"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-06",
+      "title": "楽天カード本人認証をワンタイムパスワードに統一27年2月から順次",
+      "publishedAt": "2026-10-29T18:57:37+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/29/2000002729"
+      ]
     }
   ],
-  "updatedAt": "2026-10-30T00:49:50.744343+09:00"
+  "updatedAt": "2026-10-30T09:28:51.775851+09:00"
 }
