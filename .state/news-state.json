@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-30T06:00:00+09:00",
-  "lastCompletedEdition": "2026-10-30-06",
+  "lastCompletedEnd": "2026-10-30T12:00:00+09:00",
+  "lastCompletedEdition": "2026-10-30-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -22578,7 +22578,116 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2610/29/2000002729"
       ]
+    },
+    {
+      "editionId": "2026-10-30-12",
+      "title": "大分県気象解説情報落雷・突風",
+      "publishedAt": "2026-10-30T10:45:11+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261030014512_0_VPFJ50_410000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261030014924_0_VPFJ50_420000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261030015215_0_VPFJ50_440000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261030015217_0_VPFJ50_430000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261030015418_0_VPFJ50_350000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261030015420_0_VPFJ50_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-12",
+      "title": "令和9年1月分からパックご飯即席味噌汁ラムネ等の炭酸飲料などの輸出額が把握できるようになります",
+      "publishedAt": "2026-10-30T10:30:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/yusyutu_kokusai/kikaku/261030.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-12",
+      "title": "11月は和食月間11月24日は和食の日",
+      "publishedAt": "2026-10-30T10:30:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/shokuhin/wasyoku/261030.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-12",
+      "title": "食文化の海外展開・インバウンド拡大に取り組む外食事業者及び地方公共団体の支援対象を決定しました",
+      "publishedAt": "2026-10-30T10:30:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/shokuhin/kikaku/261030.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-12",
+      "title": "米制裁で入国困難なicc赤根所長国連総会は動画で報告へ",
+      "publishedAt": "2026-10-30T11:59:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68271"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-12",
+      "title": "スペイン鉄道事故地元紙外国人1人死亡20人超安否確認中",
+      "publishedAt": "2026-10-30T11:57:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68323"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-12",
+      "title": "巨人ヘッドコーチに高橋由伸氏打撃チーフコーチは清水隆行氏",
+      "publishedAt": "2026-10-30T11:42:05+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68267"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-12",
+      "title": "芝野虎丸新名人喜びが強くなってきた3期ぶり奪還から一夜明け",
+      "publishedAt": "2026-10-30T11:35:05+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBZ0QP9VBZUCVL01FM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-12",
+      "title": "ヤクルト本社個人情報約4万件漏えい公式サイトへの不正アクセスで",
+      "publishedAt": "2026-10-30T10:27:47+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/30/2000002739"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-12",
+      "title": "アイリスオーヤマの通販サイトに不正アクセス情報漏えいは調査中",
+      "publishedAt": "2026-10-30T09:43:10+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/30/2000002737"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-12",
+      "title": "amazon決算aws売上高が393増で約5年ぶりの高成長フリーキャッシュフローは大幅悪化",
+      "publishedAt": "2026-10-30T09:14:48+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/30/2000002736"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-12",
+      "title": "ベトナム戦争取材した石川文洋さんを追った映画11月28日に公開",
+      "publishedAt": "2026-10-30T07:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBY0BGGVBYBSDS005M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-30-12",
+      "title": "ニルスの不思議な旅ハクチョウ目線で渡り体験日中チーム調査",
+      "publishedAt": "2026-10-30T07:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBX269KVBXUTFL014M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-30T09:28:51.775851+09:00"
+  "updatedAt": "2026-10-30T18:20:19.421197+09:00"
 }
