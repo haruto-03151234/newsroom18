@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-31T12:00:00+09:00",
-  "lastCompletedEdition": "2026-10-31-12",
+  "lastCompletedEnd": "2026-10-31T18:00:00+09:00",
+  "lastCompletedEdition": "2026-10-31-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -23009,7 +23009,82 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2610/31/2000002775"
       ]
+    },
+    {
+      "editionId": "2026-10-31-18",
+      "title": "新潟県レベル4土砂災害危険警報",
+      "publishedAt": "2026-10-31T16:53:34+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261031075337_0_VXWW50_150000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-18",
+      "title": "石川県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-10-31T16:34:47+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261031073447_0_VPFJ50_170000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261031074325_0_VPFJ50_160000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-18",
+      "title": "新潟県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-10-31T16:05:08+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261031070509_0_VPCJ50_040000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261031072814_0_VPFJ50_060000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261031080505_0_VPFJ50_150000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-18",
+      "title": "都構想反対だけでは古い自民大阪府連連立組む維新と対決へ",
+      "publishedAt": "2026-10-31T17:57:19+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB02QR0VB0OXIE00TM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-18",
+      "title": "米中間選挙最終盤トランプ大統領遊説中止発表も一転開催へ",
+      "publishedAt": "2026-10-31T17:55:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261031de68862"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-18",
+      "title": "殉職の夫結婚記念日にディナーの予約描いた未来もうかなわない",
+      "publishedAt": "2026-10-31T17:55:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB026GZVB0UTIL01LM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-18",
+      "title": "nttデータ委託先に不正アクセス社債購入者情報漏えいの可能性",
+      "publishedAt": "2026-10-31T17:35:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261031de68967"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-18",
+      "title": "サンド・伊達みきおさん活動再開脳梗塞で休養帰ってきました",
+      "publishedAt": "2026-10-31T15:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB021L4VB0UCVL009M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-18",
+      "title": "フィギュアgpシリーズ第2戦中田璃士が首位発進友野一希は3位",
+      "publishedAt": "2026-10-31T14:46:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261031de68918"
+      ]
     }
   ],
-  "updatedAt": "2026-10-31T18:07:10.674188+09:00"
+  "updatedAt": "2026-10-31T23:59:24.709772+09:00"
 }

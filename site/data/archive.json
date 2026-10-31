@@ -1,7 +1,27 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-31T18:07:10.674188+09:00",
+  "updatedAt": "2026-10-31T23:59:24.709772+09:00",
   "editions": [
+    {
+      "id": "2026-10-31-18",
+      "path": "data/editions/2026-10-31-18.json",
+      "dataUrl": "data/editions/2026-10-31-18.json",
+      "generatedAt": "2026-10-31T23:59:24.709772+09:00",
+      "date": "2026-10-31",
+      "time": "18:00",
+      "label": "夕方6時版",
+      "coverageLabel": "10月31日 12:00〜10月31日 18:00",
+      "headline": "新潟県レベル４土砂災害危険警報",
+      "articleCount": 9,
+      "categories": {
+        "国内": 4,
+        "海外": 1,
+        "社会": 1,
+        "科学": 1,
+        "エンタメ": 1,
+        "スポーツ": 1
+      }
+    },
     {
       "id": "2026-10-31-12",
       "path": "data/editions/2026-10-31-12.json",
