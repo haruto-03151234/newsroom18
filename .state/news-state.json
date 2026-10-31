@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-30T18:00:00+09:00",
-  "lastCompletedEdition": "2026-10-30-18",
+  "lastCompletedEnd": "2026-10-31T06:00:00+09:00",
+  "lastCompletedEdition": "2026-10-31-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -22819,7 +22819,114 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261030de68219"
       ]
+    },
+    {
+      "editionId": "2026-10-31-06",
+      "title": "秋田県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-10-31T05:35:12+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261030203512_0_VPFJ50_050000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-06",
+      "title": "石川県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-10-31T05:35:10+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261030203511_0_VPFJ50_160000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261030203542_0_VPFJ50_170000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261030203756_0_VPFJ50_150000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261030203919_0_VPFJ50_180000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-06",
+      "title": "青森県気象防災速報竜巻注意",
+      "publishedAt": "2026-10-31T05:33:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261030203312_0_VPHW50_020000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-06",
+      "title": "舟・家・水鳥や馬大量の埴輪出土祭祀の場か兵庫・玉丘古墳",
+      "publishedAt": "2026-10-31T05:45:10+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261030/k00/00m/310/180000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-06",
+      "title": "辺野古沖転覆事故同志社会見に遺族説明責任真剣に考えて",
+      "publishedAt": "2026-10-31T05:30:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261031de68798"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-06",
+      "title": "スペイン高速鉄道事故先行列車に何らかのトラブルか",
+      "publishedAt": "2026-10-31T05:25:35+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261031de68821"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-06",
+      "title": "茂木外相北海道新聞記者の即時解放求めるロシア外相と会談",
+      "publishedAt": "2026-10-31T05:16:05+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBZ6JF0VBZUHBI032M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-06",
+      "title": "高市政権の行方高市現象の現在地高市氏の外交スタイルは親しみやすさ優先石破前首相の分析",
+      "publishedAt": "2026-10-31T05:00:13+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261030/k00/00m/010/411000c"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-06",
+      "title": "あの日何が見えぬひき逃げ犯に問う母迫る時効制度ない国も",
+      "publishedAt": "2026-10-31T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBW1BMXVBWOIPE00KM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-06",
+      "title": "顔予測ゲノムモンタージュの現在地dna捜査に法制化求める声",
+      "publishedAt": "2026-10-31T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBW10FHVBWOIPE01BM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-06",
+      "title": "不正アクセス個人情報流出などの発表相次ぐ10月30日",
+      "publishedAt": "2026-10-30T23:41:21+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261030de68227"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-06",
+      "title": "低評価でキャラが悲しげな目モスバーガーのアンケートがsnsで話題運営会社に狙いを聞いた",
+      "publishedAt": "2026-10-30T18:05:54+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/30/2000002767"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-06",
+      "title": "セガのスマホゲームチェンクロセキュリティ問題で12カ月の長期メンテ13年続く長寿タイトル",
+      "publishedAt": "2026-10-30T18:00:59+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/30/2000002768"
+      ]
     }
   ],
-  "updatedAt": "2026-10-31T00:30:21.623555+09:00"
+  "updatedAt": "2026-10-31T09:12:53.681713+09:00"
 }
