@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-31T06:00:00+09:00",
-  "lastCompletedEdition": "2026-10-31-06",
+  "lastCompletedEnd": "2026-10-31T12:00:00+09:00",
+  "lastCompletedEdition": "2026-10-31-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -22926,7 +22926,90 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2610/30/2000002768"
       ]
+    },
+    {
+      "editionId": "2026-10-31-12",
+      "title": "上川・留萌地方気象解説情報強風・落雷・突風",
+      "publishedAt": "2026-10-31T11:00:51+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261031020053_0_VPFJ50_012000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-12",
+      "title": "山形県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-10-31T06:17:20+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261030211720_0_VPFJ50_060000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261030214508_0_VPCJ50_040000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-12",
+      "title": "青森県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-10-31T04:41:24+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261030194124_0_VPZJ50_010000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261030194406_0_VPCJ50_150000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261030202712_0_VPFJ50_020000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-12",
+      "title": "jr宗谷線の特急がクマと衝突し脱線乗客32人が車内で一夜明かす",
+      "publishedAt": "2026-10-31T10:54:17+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB00HLZVB0IIPE001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-12",
+      "title": "日米韓外相3か国の結束は地域の要協力のすそ野拡大へ",
+      "publishedAt": "2026-10-31T10:38:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261031de68857"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-12",
+      "title": "随時更新ロシアウクライナに軍事侵攻10月31日の動き",
+      "publishedAt": "2026-10-31T10:01:42+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260930de53364"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-12",
+      "title": "シマエナガとタンチョウが名物のレストラン後継者不在で廃業ピンチ",
+      "publishedAt": "2026-10-31T10:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBX1T16VBXIIPE00LM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-12",
+      "title": "過去最大級被害暗号資産大手バイナンス複雑な攻撃あった",
+      "publishedAt": "2026-10-31T09:21:59+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261031de68827"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-12",
+      "title": "トヨタの感動ムービー11年後に再び注目最新カメラと共通点",
+      "publishedAt": "2026-10-31T09:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBX2QVQVBXUEFT00JM.html"
+      ]
+    },
+    {
+      "editionId": "2026-10-31-12",
+      "title": "binanceの約1兆円流出北朝鮮ハッカー集団tradertraitorの犯行か",
+      "publishedAt": "2026-10-31T07:13:43+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2610/31/2000002775"
+      ]
     }
   ],
-  "updatedAt": "2026-10-31T09:12:53.681713+09:00"
+  "updatedAt": "2026-10-31T18:07:10.674188+09:00"
 }
