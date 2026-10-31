@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-10-31T18:00:00+09:00",
-  "lastCompletedEdition": "2026-10-31-18",
+  "lastCompletedEnd": "2026-11-01T06:00:00+09:00",
+  "lastCompletedEdition": "2026-11-01-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -23084,7 +23084,95 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261031de68918"
       ]
+    },
+    {
+      "editionId": "2026-11-01-06",
+      "title": "新潟県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-10-31T22:00:08+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261031130008_0_VPFJ50_150000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-01-06",
+      "title": "新潟県レベル4土砂災害危険警報",
+      "publishedAt": "2026-10-31T20:31:27+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261031113129_0_VXWW50_150000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-01-06",
+      "title": "プロ野球大リーグ移籍目指すポスティングシステム申請開始",
+      "publishedAt": "2026-11-01T05:54:48+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261031de69036"
+      ]
+    },
+    {
+      "editionId": "2026-11-01-06",
+      "title": "愛知・大同大教授が在日コリアンの教育支える理由背中押す思い",
+      "publishedAt": "2026-11-01T05:45:10+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261029/k00/00m/310/171000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-01-06",
+      "title": "日本のアニメ産業市場初の4兆円超海外好調続き5年連続最高値",
+      "publishedAt": "2026-11-01T05:11:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261031de69030"
+      ]
+    },
+    {
+      "editionId": "2026-11-01-06",
+      "title": "gmo子会社が2年前にシステムのぜい弱性を指摘社長あす会見へ",
+      "publishedAt": "2026-11-01T05:09:50+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261031de69037"
+      ]
+    },
+    {
+      "editionId": "2026-11-01-06",
+      "title": "池上彰のこれ聞いていいですかフィクションには油断ならない面が宮部さんが考える危うさ",
+      "publishedAt": "2026-11-01T05:01:18+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261030/k00/00m/200/407000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-01-06",
+      "title": "松尾貴史のちょっと違和感",
+      "publishedAt": "2026-11-01T02:58:54+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261101/ddm/012/070/007000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-01-06",
+      "title": "ボンネットに男性乗せて2キロ走行殺人未遂の疑いで女を逮捕奈良",
+      "publishedAt": "2026-11-01T01:14:48+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB05CQ8VB0POMB00CM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-01-06",
+      "title": "酒気帯び運転容疑で沖縄の米兵逮捕強盗殺人事件受け外出禁止の深夜",
+      "publishedAt": "2026-11-01T00:43:34+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB054WCVB0TPOB001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-01-06",
+      "title": "米出身のローマ教皇米中間選挙で郵便投票バチカン史上初の可能性",
+      "publishedAt": "2026-10-31T23:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVB04SHBVB0UHBI00TM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-10-31T23:59:24.709772+09:00"
+  "updatedAt": "2026-11-01T08:49:31.821042+09:00"
 }
