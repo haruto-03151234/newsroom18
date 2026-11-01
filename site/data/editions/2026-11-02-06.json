@@ -1,0 +1,748 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-11-02T08:59:23.389451+09:00",
+  "summary": "対象時間帯の4配信元のニュースを10本に整理しました。うち重要ニュースは1本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-11-02-06",
+    "date": "2026-11-02",
+    "slot": "06:00",
+    "label": "朝6時版"
+  },
+  "coverage": {
+    "from": "2026-11-01T18:00:00+09:00",
+    "to": "2026-11-02T06:00:00+09:00",
+    "start": "2026-11-01T18:00:00+09:00",
+    "end": "2026-11-02T06:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "11月01日 18:00〜11月02日 06:00"
+  },
+  "stats": {
+    "articleCount": 10,
+    "categoryCounts": {
+      "経済": 1,
+      "国内": 4,
+      "海外": 2,
+      "エンタメ": 1,
+      "社会": 1,
+      "スポーツ": 1
+    },
+    "sourceCount": 10,
+    "publisherCount": 4,
+    "publisherCounts": {
+      "asahi": 3,
+      "gov-online": 1,
+      "mainichi": 3,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 1,
+      "brief": 9
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories"
+  ],
+  "articles": [
+    {
+      "id": "3b5b01956991255e",
+      "slug": "2026-11-02-06-3b5b0195",
+      "publishedAt": "2026-11-02T00:00:00+09:00",
+      "updatedAt": "2026-11-02T08:59:23.389451+09:00",
+      "title": "お子さんの進学・在学資金を支援! 国の教育ローンをご利用ください",
+      "dek": "11月2日 00:00更新。家計の教育費の負担を軽減し、こどもたちの進学・在学を応援するために設けられているのが、「国の教育ローン」です。",
+      "summary": "家計の教育費の負担を軽減し、こどもたちの進学・在学を応援するために設けられているのが、「国の教育ローン」です。国の教育ローンは、日本政策金融公庫及び沖縄振興開発金融公庫が行う公的な融資制度で、長期固定金利でいつでも必要なときに申し込むことができます。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "お子さんの進学在学資金を支援国の教育ローンをご利用ください"
+      ],
+      "facts": [
+        "家計の教育費の負担を軽減し、こどもたちの進学・在学を応援するために設けられているのが、「国の教育ローン」です。",
+        "国の教育ローンは、日本政策金融公庫及び沖縄振興開発金融公庫が行う公的な融資制度で、長期固定金利でいつでも必要なときに申し込むことができます。",
+        "1 高校・大学などの教育費はいくらかかるの?",
+        "2 「国の教育ローン」とは?",
+        "3 どんな人が利用できるの?",
+        "4 相談や申込みはどうすればいいの?",
+        "コラム1:対象となる入学・在学先 コラム2:国の教育ローンと奨学金の違いは?",
+        "お問い合わせ・相談:教育ローンコールセンター 「専門学校で調理を学んで、調理師を目指したい」「大学の薬学部で勉強して薬剤師になりたい」「アメリカの大学院に留学して研究者になりたい」など――。",
+        "こどもが将来の希望を形にしようとするとき、そのための費用の確保に悩む保護者のかたもいらっしゃるのではないでしょうか。",
+        "小・中学校の義務教育を終えた後、高校や大学、大学院、あるいは専門学校などで学ぶには、どのくらいの費用がかかるものでしょうか。"
+      ],
+      "impactPoints": [
+        "複数の大学を受験すれば、その分の受験料や交通費がかかりますし、場合によっては複数の学校に入学手続きをして入学金を払っておかなければならないこともあるでしょう。"
+      ],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "家計の教育費の負担を軽減し、こどもたちの進学・在学を応援するために設けられているのが、「国の教育ローン」です。国の教育ローンは、日本政策金融公庫及び沖縄振興開発金融公庫が行う公的な融資制度で、長期固定金利でいつでも必要なときに申し込むことができます。",
+        "複数の大学を受験すれば、その分の受験料や交通費がかかりますし、場合によっては複数の学校に入学手続きをして入学金を払っておかなければならないこともあるでしょう。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "家計の教育費の負担を軽減し、こどもたちの進学・在学を応援するために設けられているのが、「国の教育ローン」です。",
+            "国の教育ローンは、日本政策金融公庫及び沖縄振興開発金融公庫が行う公的な融資制度で、長期固定金利でいつでも必要なときに申し込むことができます。",
+            "1 高校・大学などの教育費はいくらかかるの?",
+            "2 「国の教育ローン」とは?",
+            "3 どんな人が利用できるの?",
+            "4 相談や申込みはどうすればいいの?",
+            "コラム1:対象となる入学・在学先 コラム2:国の教育ローンと奨学金の違いは?",
+            "お問い合わせ・相談:教育ローンコールセンター 「専門学校で調理を学んで、調理師を目指したい」「大学の薬学部で勉強して薬剤師になりたい」「アメリカの大学院に留学して研究者になりたい」など――。",
+            "こどもが将来の希望を形にしようとするとき、そのための費用の確保に悩む保護者のかたもいらっしゃるのではないでしょうか。",
+            "小・中学校の義務教育を終えた後、高校や大学、大学院、あるいは専門学校などで学ぶには、どのくらいの費用がかかるものでしょうか。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "複数の大学を受験すれば、その分の受験料や交通費がかかりますし、場合によっては複数の学校に入学手続きをして入学金を払っておかなければならないこともあるでしょう。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-02T00:00:00+09:00",
+          "text": "政府広報オンラインの公開情報を確認",
+          "source": "政府広報オンライン"
+        },
+        {
+          "at": "2026-11-02T08:59:23.389451+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "政府広報オンライン",
+          "publisherId": "gov-online",
+          "links": [
+            {
+              "title": "お子さんの進学・在学資金を支援!国の教育ローンをご利用ください",
+              "url": "https://www.gov-online.go.jp/article/201512/entry-8156.html",
+              "publishedAt": "2026-11-02T00:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-02T00:00:00+09:00",
+          "keyPoints": [
+            "政府広報オンラインの公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "5322b5e50169f40a",
+      "slug": "2026-11-02-06-5322b5e5",
+      "publishedAt": "2026-11-02T05:45:13+09:00",
+      "updatedAt": "2026-11-02T08:59:23.389451+09:00",
+      "title": "川崎駅周辺で都市型フェス初開催 官民一体でまちを盛り上げ",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-02T05:45:13+09:00",
+          "text": "毎日新聞 ニュース速報の公開情報を確認",
+          "source": "毎日新聞 ニュース速報"
+        },
+        {
+          "at": "2026-11-02T08:59:23.389451+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 ニュース速報",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "川崎駅周辺で都市型フェス初開催 官民一体でまちを盛り上げ",
+              "url": "https://mainichi.jp/articles/20261101/k00/00m/310/382000c",
+              "publishedAt": "2026-11-02T05:45:13+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-02T05:45:13+09:00",
+          "keyPoints": [
+            "川崎駅周辺で都市型フェス初開催 官民一体でまちを盛り上げ"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "f0225dacd5443f73",
+      "slug": "2026-11-02-06-f0225dac",
+      "publishedAt": "2026-11-02T05:30:13+09:00",
+      "updatedAt": "2026-11-02T08:59:23.389451+09:00",
+      "title": "東京都議補選・千代田区 無所属の元区議、林則行氏が当選",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-02T05:30:13+09:00",
+          "text": "毎日新聞 ニュース速報の公開情報を確認",
+          "source": "毎日新聞 ニュース速報"
+        },
+        {
+          "at": "2026-11-02T08:59:23.389451+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 ニュース速報",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "東京都議補選・千代田区 無所属の元区議、林則行氏が当選",
+              "url": "https://mainichi.jp/articles/20261102/k00/00m/310/001000c",
+              "publishedAt": "2026-11-02T05:30:13+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-02T05:30:13+09:00",
+          "keyPoints": [
+            "東京都議補選・千代田区 無所属の元区議、林則行氏が当選"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "08a7306fb73491c6",
+      "slug": "2026-11-02-06-08a7306f",
+      "publishedAt": "2026-11-02T05:09:57+09:00",
+      "updatedAt": "2026-11-02T08:59:23.389451+09:00",
+      "title": "アメリカ中間選挙あす投票 トランプ大統領中西部で演説へ",
+      "dek": "トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙は、日本時間の3日投票が始まります。",
+      "summary": "トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙は、日本時間の3日投票が始まります。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙は、日本時間の3日投票が始まります。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙は、日本時間の3日投票が始まります。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙は、日本時間の3日投票が始まります。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-02T05:09:57+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
+        },
+        {
+          "at": "2026-11-02T08:59:23.389451+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "アメリカ中間選挙あす投票 トランプ大統領中西部で演説へ",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261102de69323",
+              "publishedAt": "2026-11-02T05:09:57+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-02T05:09:57+09:00",
+          "keyPoints": [
+            "トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙は、日本時間の3日投票が始まります。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "3e704322c05321a6",
+      "slug": "2026-11-02-06-3e704322",
+      "publishedAt": "2026-11-02T05:01:44+09:00",
+      "updatedAt": "2026-11-02T08:59:23.389451+09:00",
+      "title": "「秋の褒章」に現代美術家の奈良美智さんら",
+      "dek": "長年にわたって、その道一筋に打ち込んできた人や、芸術やスポーツの分野で功績のあった人などに贈られる「秋の褒章」の受章者が発表され、現代美術家の奈良美智さんら、あわせて736人と25の団体が受章すること…。",
+      "summary": "長年にわたって、その道一筋に打ち込んできた人や、芸術やスポーツの分野で功績のあった人などに贈られる「秋の褒章」の受章者が発表され、現代美術家の奈良美智さんら、あわせて736人と25の団体が受章すること…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "長年にわたって、その道一筋に打ち込んできた人や、芸術やスポーツの分野で功績のあった人などに贈られる「秋の褒章」の受章者が発表され、現代美術家の奈良美智さんら、あわせて736人と25の団体が受章すること…。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "長年にわたって、その道一筋に打ち込んできた人や、芸術やスポーツの分野で功績のあった人などに贈られる「秋の褒章」の受章者が発表され、現代美術家の奈良美智さんら、あわせて736人と25の団体が受章すること…。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "長年にわたって、その道一筋に打ち込んできた人や、芸術やスポーツの分野で功績のあった人などに贈られる「秋の褒章」の受章者が発表され、現代美術家の奈良美智さんら、あわせて736人と25の団体が受章すること…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-02T05:01:44+09:00",
+          "text": "NHK ONE 科学・文化の公開情報を確認",
+          "source": "NHK ONE 科学・文化"
+        },
+        {
+          "at": "2026-11-02T08:59:23.389451+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 科学・文化",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "「秋の褒章」に現代美術家の奈良美智さんら",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261101de69275",
+              "publishedAt": "2026-11-02T05:01:44+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-02T05:01:44+09:00",
+          "keyPoints": [
+            "長年にわたって、その道一筋に打ち込んできた人や、芸術やスポーツの分野で功績のあった人などに贈られる「秋の褒章」の受章者が発表され、現代美術家の奈良美智さんら、あわせて736人と25の団体が受章すること…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "c79c3dc3395a3e07",
+      "slug": "2026-11-02-06-c79c3dc3",
+      "publishedAt": "2026-11-02T05:00:26+09:00",
+      "updatedAt": "2026-11-02T08:59:23.389451+09:00",
+      "title": "＃ビジュ:ダイエットがやめられない 5キロ減に成功も、崩れた12歳の心",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-02T05:00:26+09:00",
+          "text": "毎日新聞 ニュース速報の公開情報を確認",
+          "source": "毎日新聞 ニュース速報"
+        },
+        {
+          "at": "2026-11-02T08:59:23.389451+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 ニュース速報",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "＃ビジュ:ダイエットがやめられない 5キロ減に成功も、崩れた12歳の心",
+              "url": "https://mainichi.jp/articles/20261031/k00/00m/040/074000c",
+              "publishedAt": "2026-11-02T05:00:26+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-02T05:00:26+09:00",
+          "keyPoints": [
+            "＃ビジュ:ダイエットがやめられない 5キロ減に成功も、崩れた12歳の心"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "a7275204b97ff4c5",
+      "slug": "2026-11-02-06-a7275204",
+      "publishedAt": "2026-11-02T05:00:00+09:00",
+      "updatedAt": "2026-11-02T08:59:23.389451+09:00",
+      "title": "紫綬褒章受ける奈良美智さん 感謝しつつ「物分かりよくはならない」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-02T05:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-02T08:59:23.389451+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "紫綬褒章受ける奈良美智さん 感謝しつつ「物分かりよくはならない」",
+              "url": "https://www.asahi.com/articles/ASVB04G0LVB0UCVL00GM.html",
+              "publishedAt": "2026-11-02T05:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-02T05:00:00+09:00",
+          "keyPoints": [
+            "紫綬褒章受ける奈良美智さん 感謝しつつ「物分かりよくはならない」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "2e0663860c6db107",
+      "slug": "2026-11-02-06-2e066386",
+      "publishedAt": "2026-11-02T04:48:30+09:00",
+      "updatedAt": "2026-11-02T08:59:23.389451+09:00",
+      "title": "イラン 仲介国カタールと協議 駆け引き続く",
+      "dek": "アメリカによるイランへの攻撃再開の可能性が取り沙汰されるなか、イランは1日も仲介国のカタールと協議を行い、間接的にアメリカの反応をうかがっているものとみられます。",
+      "summary": "アメリカによるイランへの攻撃再開の可能性が取り沙汰されるなか、イランは1日も仲介国のカタールと協議を行い、間接的にアメリカの反応をうかがっているものとみられます。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [
+        "アメリカによるイランへの攻撃再開の可能性が取り沙汰されるなか、イランは1日も仲介国のカタールと協議を行い、間接的にアメリカの反応をうかがっているものとみられます。"
+      ],
+      "body": [
+        "アメリカによるイランへの攻撃再開の可能性が取り沙汰されるなか、イランは1日も仲介国のカタールと協議を行い、間接的にアメリカの反応をうかがっているものとみられます。"
+      ],
+      "sections": [
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "アメリカによるイランへの攻撃再開の可能性が取り沙汰されるなか、イランは1日も仲介国のカタールと協議を行い、間接的にアメリカの反応をうかがっているものとみられます。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-02T04:48:30+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-02T08:59:23.389451+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "イラン 仲介国カタールと協議 駆け引き続く",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261102de69322",
+              "publishedAt": "2026-11-02T04:48:30+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-02T04:48:30+09:00",
+          "keyPoints": [
+            "アメリカによるイランへの攻撃再開の可能性が取り沙汰されるなか、イランは1日も仲介国のカタールと協議を行い、間接的にアメリカの反応をうかがっているものとみられます。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "793e6a353e02f8cd",
+      "slug": "2026-11-02-06-793e6a35",
+      "publishedAt": "2026-11-01T23:45:14+09:00",
+      "updatedAt": "2026-11-02T08:59:23.389451+09:00",
+      "title": "現職の佐藤光氏が3選を果たす 神奈川・茅ケ崎市長選",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-01T23:45:14+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-02T08:59:23.389451+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "現職の佐藤光氏が3選を果たす 神奈川・茅ケ崎市長選",
+              "url": "https://www.asahi.com/articles/ASVC12DRVVC1ULOB00FM.html",
+              "publishedAt": "2026-11-01T23:45:14+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-01T23:45:14+09:00",
+          "keyPoints": [
+            "現職の佐藤光氏が3選を果たす 神奈川・茅ケ崎市長選"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "1ec96ed2a0b82384",
+      "slug": "2026-11-02-06-1ec96ed2",
+      "publishedAt": "2026-11-01T22:26:05+09:00",
+      "updatedAt": "2026-11-02T08:59:23.389451+09:00",
+      "title": "国学院大、遠すぎた早大の背中 創価大は3位、大東大はシード権獲得",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-01T22:26:05+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-02T08:59:23.389451+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "国学院大、遠すぎた早大の背中 創価大は3位、大東大はシード権獲得",
+              "url": "https://www.asahi.com/articles/ASVC14DGXVC1UTQP00HM.html",
+              "publishedAt": "2026-11-01T22:26:05+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-01T22:26:05+09:00",
+          "keyPoints": [
+            "国学院大、遠すぎた早大の背中 創価大は3位、大東大はシード権獲得"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    }
+  ]
+}
