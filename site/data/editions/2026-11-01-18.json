@@ -1,0 +1,456 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-11-02T00:43:31.797072+09:00",
+  "summary": "対象時間帯の2配信元の主なニュースを6本に整理しました。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-11-01-18",
+    "date": "2026-11-01",
+    "slot": "18:00",
+    "label": "夕方6時版"
+  },
+  "coverage": {
+    "from": "2026-11-01T12:00:00+09:00",
+    "to": "2026-11-01T18:00:00+09:00",
+    "start": "2026-11-01T12:00:00+09:00",
+    "end": "2026-11-01T18:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "11月01日 12:00〜11月01日 18:00"
+  },
+  "stats": {
+    "articleCount": 6,
+    "categoryCounts": {
+      "国内": 1,
+      "スポーツ": 2,
+      "海外": 1,
+      "経済": 1,
+      "社会": 1
+    },
+    "sourceCount": 6,
+    "publisherCount": 2,
+    "publisherCounts": {
+      "asahi": 3,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "brief": 6
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories"
+  ],
+  "articles": [
+    {
+      "id": "d6b50867f6776730",
+      "slug": "2026-11-01-18-d6b50867",
+      "publishedAt": "2026-11-01T17:33:11+09:00",
+      "updatedAt": "2026-11-02T00:43:31.797072+09:00",
+      "title": "熊本市長選が告示、現新5人が立候補 新庁舎計画など争点に舌戦",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-01T17:33:11+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-02T00:43:31.797072+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "熊本市長選が告示、現新5人が立候補 新庁舎計画など争点に舌戦",
+              "url": "https://www.asahi.com/articles/ASVC10FR6VC1TIPE00CM.html",
+              "publishedAt": "2026-11-01T17:33:11+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-01T17:33:11+09:00",
+          "keyPoints": [
+            "熊本市長選が告示、現新5人が立候補 新庁舎計画など争点に舌戦"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "8e61eab984c1dc9e",
+      "slug": "2026-11-01-18-8e61eab9",
+      "publishedAt": "2026-11-01T17:31:00+09:00",
+      "updatedAt": "2026-11-02T00:43:31.797072+09:00",
+      "title": "プロ野球 日本ハム 伊藤大海がポスティングで大リーグ挑戦へ",
+      "dek": "プロ野球・日本ハムはエースの伊藤大海投手のポスティングシステムを使った移籍を容認すると発表し、伊藤投手は大リーグへの移籍を目指すことになりました。",
+      "summary": "プロ野球・日本ハムはエースの伊藤大海投手のポスティングシステムを使った移籍を容認すると発表し、伊藤投手は大リーグへの移籍を目指すことになりました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "プロ野球・日本ハムはエースの伊藤大海投手のポスティングシステムを使った移籍を容認すると発表し、伊藤投手は大リーグへの移籍を目指すことになりました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "プロ野球・日本ハムはエースの伊藤大海投手のポスティングシステムを使った移籍を容認すると発表し、伊藤投手は大リーグへの移籍を目指すことになりました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "プロ野球・日本ハムはエースの伊藤大海投手のポスティングシステムを使った移籍を容認すると発表し、伊藤投手は大リーグへの移籍を目指すことになりました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-01T17:31:00+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-11-02T00:43:31.797072+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "プロ野球 日本ハム 伊藤大海がポスティングで大リーグ挑戦へ",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261101de69210",
+              "publishedAt": "2026-11-01T17:31:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-01T17:31:00+09:00",
+          "keyPoints": [
+            "プロ野球・日本ハムはエースの伊藤大海投手のポスティングシステムを使った移籍を容認すると発表し、伊藤投手は大リーグへの移籍を目指すことになりました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "17db2c3020117337",
+      "slug": "2026-11-01-18-17db2c30",
+      "publishedAt": "2026-11-01T17:24:47+09:00",
+      "updatedAt": "2026-11-02T00:43:31.797072+09:00",
+      "title": "競馬 秋の天皇賞 ダノンデサイルが優勝 G1レース3勝目",
+      "dek": "競馬のG1レース「秋の天皇賞」は4番人気のダノンデサイルが制して、G1レース3勝目をあげました。",
+      "summary": "競馬のG1レース「秋の天皇賞」は4番人気のダノンデサイルが制して、G1レース3勝目をあげました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "競馬のG1レース「秋の天皇賞」は4番人気のダノンデサイルが制して、G1レース3勝目をあげました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "競馬のG1レース「秋の天皇賞」は4番人気のダノンデサイルが制して、G1レース3勝目をあげました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "競馬のG1レース「秋の天皇賞」は4番人気のダノンデサイルが制して、G1レース3勝目をあげました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-01T17:24:47+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-11-02T00:43:31.797072+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "競馬 秋の天皇賞 ダノンデサイルが優勝 G1レース3勝目",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261101de69198",
+              "publishedAt": "2026-11-01T17:24:47+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-01T17:24:47+09:00",
+          "keyPoints": [
+            "競馬のG1レース「秋の天皇賞」は4番人気のダノンデサイルが制して、G1レース3勝目をあげました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "c8572c12d375a37f",
+      "slug": "2026-11-01-18-c8572c12",
+      "publishedAt": "2026-11-01T16:31:11+09:00",
+      "updatedAt": "2026-11-02T00:43:31.797072+09:00",
+      "title": "“クラスター弾の評価試験実施”と伝える 北朝鮮メディア",
+      "dek": "北朝鮮のメディアは10月31日、弾道ミサイルに搭載するクラスター弾の評価試験が行われ、最大でおよそ360メートル四方を焦土化できることが実証されたと伝えました。",
+      "summary": "北朝鮮のメディアは10月31日、弾道ミサイルに搭載するクラスター弾の評価試験が行われ、最大でおよそ360メートル四方を焦土化できることが実証されたと伝えました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "北朝鮮のメディアは10月31日、弾道ミサイルに搭載するクラスター弾の評価試験が行われ、最大でおよそ360メートル四方を焦土化できることが実証されたと伝えました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "北朝鮮のメディアは10月31日、弾道ミサイルに搭載するクラスター弾の評価試験が行われ、最大でおよそ360メートル四方を焦土化できることが実証されたと伝えました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "北朝鮮のメディアは10月31日、弾道ミサイルに搭載するクラスター弾の評価試験が行われ、最大でおよそ360メートル四方を焦土化できることが実証されたと伝えました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-01T16:31:11+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-02T00:43:31.797072+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "“クラスター弾の評価試験実施”と伝える 北朝鮮メディア",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261101de69103",
+              "publishedAt": "2026-11-01T16:31:11+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-01T16:31:11+09:00",
+          "keyPoints": [
+            "北朝鮮のメディアは10月31日、弾道ミサイルに搭載するクラスター弾の評価試験が行われ、最大でおよそ360メートル四方を焦土化できることが実証されたと伝えました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "56ed5acae1d4e272",
+      "slug": "2026-11-01-18-56ed5aca",
+      "publishedAt": "2026-11-01T15:55:51+09:00",
+      "updatedAt": "2026-11-02T00:43:31.797072+09:00",
+      "title": "社債購入者の個人情報、流出か NTTデータ委託先に不正アクセス",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-01T15:55:51+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-02T00:43:31.797072+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "社債購入者の個人情報、流出か NTTデータ委託先に不正アクセス",
+              "url": "https://www.asahi.com/articles/ASVC124XRVC1ULFA00BM.html",
+              "publishedAt": "2026-11-01T15:55:51+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-01T15:55:51+09:00",
+          "keyPoints": [
+            "社債購入者の個人情報、流出か NTTデータ委託先に不正アクセス"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "459a8b8e2a0ef1f9",
+      "slug": "2026-11-01-18-459a8b8e",
+      "publishedAt": "2026-11-01T14:45:00+09:00",
+      "updatedAt": "2026-11-02T00:43:31.797072+09:00",
+      "title": "70代運転の車に5人はねられ重軽傷 宮城の紅葉名所「鳴子峡」近く",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-01T14:45:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-02T00:43:31.797072+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "70代運転の車に5人はねられ重軽傷 宮城の紅葉名所「鳴子峡」近く",
+              "url": "https://www.asahi.com/articles/ASVC11QJYVC1UGTB001M.html",
+              "publishedAt": "2026-11-01T14:45:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-01T14:45:00+09:00",
+          "keyPoints": [
+            "70代運転の車に5人はねられ重軽傷 宮城の紅葉名所「鳴子峡」近く"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    }
+  ]
+}

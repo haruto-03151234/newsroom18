@@ -5,44 +5,40 @@
     "tagline": "事実をつなぎ、背景まで伝える。",
     "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
   },
-  "generatedAt": "2026-11-01T18:55:28.915854+09:00",
-  "summary": "対象時間帯の4配信元のニュースを8本に整理しました。うち重要ニュースは1本です。",
+  "generatedAt": "2026-11-02T00:43:31.797072+09:00",
+  "summary": "対象時間帯の2配信元の主なニュースを6本に整理しました。",
   "generationMode": "structured",
   "edition": {
-    "id": "2026-11-01-12",
+    "id": "2026-11-01-18",
     "date": "2026-11-01",
-    "slot": "12:00",
-    "label": "昼12時版"
+    "slot": "18:00",
+    "label": "夕方6時版"
   },
   "coverage": {
-    "from": "2026-11-01T06:00:00+09:00",
-    "to": "2026-11-01T12:00:00+09:00",
-    "start": "2026-11-01T06:00:00+09:00",
-    "end": "2026-11-01T12:00:00+09:00",
+    "from": "2026-11-01T12:00:00+09:00",
+    "to": "2026-11-01T18:00:00+09:00",
+    "start": "2026-11-01T12:00:00+09:00",
+    "end": "2026-11-01T18:00:00+09:00",
     "timezone": "Asia/Tokyo",
-    "label": "11月01日 06:00〜11月01日 12:00"
+    "label": "11月01日 12:00〜11月01日 18:00"
   },
   "stats": {
-    "articleCount": 8,
+    "articleCount": 6,
     "categoryCounts": {
       "国内": 1,
-      "海外": 3,
-      "スポーツ": 1,
-      "科学": 1,
-      "エンタメ": 1,
-      "テクノロジー": 1
+      "スポーツ": 2,
+      "海外": 1,
+      "経済": 1,
+      "社会": 1
     },
-    "sourceCount": 8,
-    "publisherCount": 4,
+    "sourceCount": 6,
+    "publisherCount": 2,
     "publisherCounts": {
       "asahi": 3,
-      "itmedia": 1,
-      "jma": 1,
       "nhk": 3
     },
     "articleTypeCounts": {
-      "feature": 1,
-      "brief": 7
+      "brief": 6
     },
     "feedFailureCount": 2
   },
@@ -52,180 +48,11 @@
   ],
   "articles": [
     {
-      "id": "796bd5c5e972d099",
-      "slug": "2026-11-01-12-796bd5c5",
-      "publishedAt": "2026-11-01T07:22:22+09:00",
-      "updatedAt": "2026-11-01T18:55:28.915854+09:00",
-      "title": "三重県南東沖で地震 M6.1 最大震度3",
-      "dek": "11月1日7時15分、三重県南東沖を震源とするマグニチュード6.1の地震があり、最大震度3を観測しました。津波の心配はありません。",
-      "summary": "11月1日7時15分、三重県南東沖を震源とするマグニチュード6.1の地震があり、最大震度3を観測しました。津波の心配はありません。福島県浜通りで震度3を観測しました。大熊町、双葉町、浪江町で震度3を観測しました。",
-      "whyItMatters": "",
-      "articleType": "feature",
-      "deskLens": "event",
-      "eventKeys": [
-        "earthquake:三重県南東沖:2026-11-01t07:15:00+09:00"
-      ],
-      "facts": [
-        "発生時刻は11月1日7時15分です。",
-        "震源は三重県南東沖です。",
-        "地震の規模はマグニチュード6.1です。",
-        "最大震度は3です。",
-        "1日07時15分ころ、地震がありました。"
-      ],
-      "impactPoints": [
-        "この地震による津波の心配はありません。",
-        "福島県浜通りで震度3を観測しました。",
-        "大熊町、双葉町、浪江町で震度3を観測しました。"
-      ],
-      "background": "",
-      "watchPoints": [],
-      "body": [
-        "11月1日7時15分、三重県南東沖を震源とするマグニチュード6.1の地震があり、最大震度3を観測しました。津波の心配はありません。福島県浜通りで震度3を観測しました。大熊町、双葉町、浪江町で震度3を観測しました。",
-        "この地震による津波の心配はありません。"
-      ],
-      "sections": [
-        {
-          "heading": "確認できた事実",
-          "paragraphs": [
-            "発生時刻は11月1日7時15分です。",
-            "震源は三重県南東沖です。",
-            "地震の規模はマグニチュード6.1です。",
-            "最大震度は3です。",
-            "1日07時15分ころ、地震がありました。"
-          ]
-        },
-        {
-          "heading": "影響・対象地域",
-          "paragraphs": [
-            "この地震による津波の心配はありません。",
-            "福島県浜通りで震度3を観測しました。",
-            "大熊町、双葉町、浪江町で震度3を観測しました。"
-          ]
-        }
-      ],
-      "updates": [
-        {
-          "at": "2026-11-01T07:22:22+09:00",
-          "text": "気象庁 防災情報（地震・津波・火山）の公開情報を確認",
-          "source": "気象庁 防災情報（地震・津波・火山）"
-        },
-        {
-          "at": "2026-11-01T18:55:28.915854+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "国内",
-      "importance": 5,
-      "sources": [
-        {
-          "name": "気象庁 防災情報（地震・津波・火山）",
-          "publisherId": "jma",
-          "links": [
-            {
-              "title": "三重県南東沖で地震 M6.1 最大震度3",
-              "url": "https://www.data.jma.go.jp/developer/xml/data/20261031222223_0_VXSE53_010000.xml",
-              "publishedAt": "2026-11-01T07:22:22+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-11-01T07:22:22+09:00",
-          "keyPoints": [
-            "気象庁 防災情報（地震・津波・火山）の公開情報をもとにNEWSROOM 18が要約・加工"
-          ],
-          "type": "一次情報",
-          "isPrimary": true
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "国内"
-      ]
-    },
-    {
-      "id": "bc4b5b45a8ff7cc4",
-      "slug": "2026-11-01-12-bc4b5b45",
-      "publishedAt": "2026-11-01T11:56:00+09:00",
-      "updatedAt": "2026-11-01T18:55:28.915854+09:00",
-      "title": "暗号資産大手バイナンスへのサイバー攻撃 FBI“北朝鮮が関与”",
-      "dek": "暗号資産の取引所として世界的な大手の「バイナンス」が、サイバー攻撃を受けた問題で、アメリカのFBI＝連邦捜査局は北朝鮮が関与していたと発表しました。",
-      "summary": "暗号資産の取引所として世界的な大手の「バイナンス」が、サイバー攻撃を受けた問題で、アメリカのFBI＝連邦捜査局は北朝鮮が関与していたと発表しました。",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [
-        "暗号資産の取引所として世界的な大手の「バイナンス」が、サイバー攻撃を受けた問題で、アメリカのFBI＝連邦捜査局は北朝鮮が関与していたと発表しました。"
-      ],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [
-        "暗号資産の取引所として世界的な大手の「バイナンス」が、サイバー攻撃を受けた問題で、アメリカのFBI＝連邦捜査局は北朝鮮が関与していたと発表しました。"
-      ],
-      "sections": [
-        {
-          "heading": "確認できた事実",
-          "paragraphs": [
-            "暗号資産の取引所として世界的な大手の「バイナンス」が、サイバー攻撃を受けた問題で、アメリカのFBI＝連邦捜査局は北朝鮮が関与していたと発表しました。"
-          ]
-        }
-      ],
-      "updates": [
-        {
-          "at": "2026-11-01T11:56:00+09:00",
-          "text": "NHK ONE 国際の公開情報を確認",
-          "source": "NHK ONE 国際"
-        },
-        {
-          "at": "2026-11-01T18:55:28.915854+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "海外",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "NHK ONE 国際",
-          "publisherId": "nhk",
-          "links": [
-            {
-              "title": "暗号資産大手バイナンスへのサイバー攻撃 FBI“北朝鮮が関与”",
-              "url": "https://news.web.nhk/newsweb/na/nd-20261101de69102",
-              "publishedAt": "2026-11-01T11:56:00+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-11-01T11:56:00+09:00",
-          "keyPoints": [
-            "暗号資産の取引所として世界的な大手の「バイナンス」が、サイバー攻撃を受けた問題で、アメリカのFBI＝連邦捜査局は北朝鮮が関与していたと発表しました。"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "海外"
-      ]
-    },
-    {
-      "id": "c1459c03dbb231bc",
-      "slug": "2026-11-01-12-c1459c03",
-      "publishedAt": "2026-11-01T11:37:48+09:00",
-      "updatedAt": "2026-11-01T18:55:28.915854+09:00",
-      "title": "中田璃士、GPデビュー戦は2位 島田麻央は今季世界最高でSP首位",
+      "id": "d6b50867f6776730",
+      "slug": "2026-11-01-18-d6b50867",
+      "publishedAt": "2026-11-01T17:33:11+09:00",
+      "updatedAt": "2026-11-02T00:43:31.797072+09:00",
+      "title": "熊本市長選が告示、現新5人が立候補 新庁舎計画など争点に舌戦",
       "dek": "",
       "summary": "",
       "whyItMatters": "",
@@ -240,12 +67,85 @@
       "sections": [],
       "updates": [
         {
-          "at": "2026-11-01T11:37:48+09:00",
+          "at": "2026-11-01T17:33:11+09:00",
           "text": "朝日新聞 最新ニュースの公開情報を確認",
           "source": "朝日新聞 最新ニュース"
         },
         {
-          "at": "2026-11-01T18:55:28.915854+09:00",
+          "at": "2026-11-02T00:43:31.797072+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "熊本市長選が告示、現新5人が立候補 新庁舎計画など争点に舌戦",
+              "url": "https://www.asahi.com/articles/ASVC10FR6VC1TIPE00CM.html",
+              "publishedAt": "2026-11-01T17:33:11+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-01T17:33:11+09:00",
+          "keyPoints": [
+            "熊本市長選が告示、現新5人が立候補 新庁舎計画など争点に舌戦"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "8e61eab984c1dc9e",
+      "slug": "2026-11-01-18-8e61eab9",
+      "publishedAt": "2026-11-01T17:31:00+09:00",
+      "updatedAt": "2026-11-02T00:43:31.797072+09:00",
+      "title": "プロ野球 日本ハム 伊藤大海がポスティングで大リーグ挑戦へ",
+      "dek": "プロ野球・日本ハムはエースの伊藤大海投手のポスティングシステムを使った移籍を容認すると発表し、伊藤投手は大リーグへの移籍を目指すことになりました。",
+      "summary": "プロ野球・日本ハムはエースの伊藤大海投手のポスティングシステムを使った移籍を容認すると発表し、伊藤投手は大リーグへの移籍を目指すことになりました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "プロ野球・日本ハムはエースの伊藤大海投手のポスティングシステムを使った移籍を容認すると発表し、伊藤投手は大リーグへの移籍を目指すことになりました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "プロ野球・日本ハムはエースの伊藤大海投手のポスティングシステムを使った移籍を容認すると発表し、伊藤投手は大リーグへの移籍を目指すことになりました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "プロ野球・日本ハムはエースの伊藤大海投手のポスティングシステムを使った移籍を容認すると発表し、伊藤投手は大リーグへの移籍を目指すことになりました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-01T17:31:00+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-11-02T00:43:31.797072+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
@@ -254,20 +154,20 @@
       "importance": 3,
       "sources": [
         {
-          "name": "朝日新聞 最新ニュース",
-          "publisherId": "asahi",
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
           "links": [
             {
-              "title": "中田璃士、GPデビュー戦は2位 島田麻央は今季世界最高でSP首位",
-              "url": "https://www.asahi.com/articles/ASVC10RJJVC1PTQP001M.html",
-              "publishedAt": "2026-11-01T11:37:48+09:00",
+              "title": "プロ野球 日本ハム 伊藤大海がポスティングで大リーグ挑戦へ",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261101de69210",
+              "publishedAt": "2026-11-01T17:31:00+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-11-01T11:37:48+09:00",
+          "publishedAt": "2026-11-01T17:31:00+09:00",
           "keyPoints": [
-            "中田璃士、GPデビュー戦は2位 島田麻央は今季世界最高でSP首位"
+            "プロ野球・日本ハムはエースの伊藤大海投手のポスティングシステムを使った移籍を容認すると発表し、伊藤投手は大リーグへの移籍を目指すことになりました。"
           ],
           "type": "報道",
           "isPrimary": false
@@ -283,166 +183,115 @@
       ]
     },
     {
-      "id": "0d03692036466a33",
-      "slug": "2026-11-01-12-0d036920",
-      "publishedAt": "2026-11-01T11:00:00+09:00",
-      "updatedAt": "2026-11-01T18:55:28.915854+09:00",
-      "title": "広がるAI使った科学研究 費用助成に応募殺到、高まるスパコン需要",
-      "dek": "",
-      "summary": "",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [],
-      "sections": [],
-      "updates": [
-        {
-          "at": "2026-11-01T11:00:00+09:00",
-          "text": "朝日新聞 最新ニュースの公開情報を確認",
-          "source": "朝日新聞 最新ニュース"
-        },
-        {
-          "at": "2026-11-01T18:55:28.915854+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "科学",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "朝日新聞 最新ニュース",
-          "publisherId": "asahi",
-          "links": [
-            {
-              "title": "広がるAI使った科学研究 費用助成に応募殺到、高まるスパコン需要",
-              "url": "https://www.asahi.com/articles/ASVBY326RVBYUTFL009M.html",
-              "publishedAt": "2026-11-01T11:00:00+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-11-01T11:00:00+09:00",
-          "keyPoints": [
-            "広がるAI使った科学研究 費用助成に応募殺到、高まるスパコン需要"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "科学"
-      ]
-    },
-    {
-      "id": "1e00164108a299a7",
-      "slug": "2026-11-01-12-1e001641",
-      "publishedAt": "2026-11-01T11:00:00+09:00",
-      "updatedAt": "2026-11-01T18:55:28.915854+09:00",
-      "title": "作家の小川洋子さん 日記とは「一対一で自分を耕す孤独の時間」",
-      "dek": "",
-      "summary": "",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [],
-      "sections": [],
-      "updates": [
-        {
-          "at": "2026-11-01T11:00:00+09:00",
-          "text": "朝日新聞 最新ニュースの公開情報を確認",
-          "source": "朝日新聞 最新ニュース"
-        },
-        {
-          "at": "2026-11-01T18:55:28.915854+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "エンタメ",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "朝日新聞 最新ニュース",
-          "publisherId": "asahi",
-          "links": [
-            {
-              "title": "作家の小川洋子さん 日記とは「一対一で自分を耕す孤独の時間」",
-              "url": "https://www.asahi.com/articles/ASVBV471FVBVUHMC009M.html",
-              "publishedAt": "2026-11-01T11:00:00+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-11-01T11:00:00+09:00",
-          "keyPoints": [
-            "作家の小川洋子さん 日記とは「一対一で自分を耕す孤独の時間」"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "id": "d9044f21a4a059f4",
-      "slug": "2026-11-01-12-d9044f21",
-      "publishedAt": "2026-11-01T10:38:00+09:00",
-      "updatedAt": "2026-11-01T18:55:28.915854+09:00",
-      "title": "スミソニアン博物館に杉本博司さん設計の彫刻庭園がオープン",
-      "dek": "アメリカの首都ワシントンにあるスミソニアン博物館の庭園が現代美術作家の杉本博司さんによってリニューアルされ、一般公開が始まりました。",
-      "summary": "アメリカの首都ワシントンにあるスミソニアン博物館の庭園が現代美術作家の杉本博司さんによってリニューアルされ、一般公開が始まりました。",
+      "id": "17db2c3020117337",
+      "slug": "2026-11-01-18-17db2c30",
+      "publishedAt": "2026-11-01T17:24:47+09:00",
+      "updatedAt": "2026-11-02T00:43:31.797072+09:00",
+      "title": "競馬 秋の天皇賞 ダノンデサイルが優勝 G1レース3勝目",
+      "dek": "競馬のG1レース「秋の天皇賞」は4番人気のダノンデサイルが制して、G1レース3勝目をあげました。",
+      "summary": "競馬のG1レース「秋の天皇賞」は4番人気のダノンデサイルが制して、G1レース3勝目をあげました。",
       "whyItMatters": "",
       "articleType": "brief",
       "deskLens": "",
       "eventKeys": [],
       "facts": [
-        "アメリカの首都ワシントンにあるスミソニアン博物館の庭園が現代美術作家の杉本博司さんによってリニューアルされ、一般公開が始まりました。"
+        "競馬のG1レース「秋の天皇賞」は4番人気のダノンデサイルが制して、G1レース3勝目をあげました。"
       ],
       "impactPoints": [],
       "background": "",
       "watchPoints": [],
       "body": [
-        "アメリカの首都ワシントンにあるスミソニアン博物館の庭園が現代美術作家の杉本博司さんによってリニューアルされ、一般公開が始まりました。"
+        "競馬のG1レース「秋の天皇賞」は4番人気のダノンデサイルが制して、G1レース3勝目をあげました。"
       ],
       "sections": [
         {
           "heading": "確認できた事実",
           "paragraphs": [
-            "アメリカの首都ワシントンにあるスミソニアン博物館の庭園が現代美術作家の杉本博司さんによってリニューアルされ、一般公開が始まりました。"
+            "競馬のG1レース「秋の天皇賞」は4番人気のダノンデサイルが制して、G1レース3勝目をあげました。"
           ]
         }
       ],
       "updates": [
         {
-          "at": "2026-11-01T10:38:00+09:00",
+          "at": "2026-11-01T17:24:47+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-11-02T00:43:31.797072+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "競馬 秋の天皇賞 ダノンデサイルが優勝 G1レース3勝目",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261101de69198",
+              "publishedAt": "2026-11-01T17:24:47+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-01T17:24:47+09:00",
+          "keyPoints": [
+            "競馬のG1レース「秋の天皇賞」は4番人気のダノンデサイルが制して、G1レース3勝目をあげました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "c8572c12d375a37f",
+      "slug": "2026-11-01-18-c8572c12",
+      "publishedAt": "2026-11-01T16:31:11+09:00",
+      "updatedAt": "2026-11-02T00:43:31.797072+09:00",
+      "title": "“クラスター弾の評価試験実施”と伝える 北朝鮮メディア",
+      "dek": "北朝鮮のメディアは10月31日、弾道ミサイルに搭載するクラスター弾の評価試験が行われ、最大でおよそ360メートル四方を焦土化できることが実証されたと伝えました。",
+      "summary": "北朝鮮のメディアは10月31日、弾道ミサイルに搭載するクラスター弾の評価試験が行われ、最大でおよそ360メートル四方を焦土化できることが実証されたと伝えました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "北朝鮮のメディアは10月31日、弾道ミサイルに搭載するクラスター弾の評価試験が行われ、最大でおよそ360メートル四方を焦土化できることが実証されたと伝えました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "北朝鮮のメディアは10月31日、弾道ミサイルに搭載するクラスター弾の評価試験が行われ、最大でおよそ360メートル四方を焦土化できることが実証されたと伝えました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "北朝鮮のメディアは10月31日、弾道ミサイルに搭載するクラスター弾の評価試験が行われ、最大でおよそ360メートル四方を焦土化できることが実証されたと伝えました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-01T16:31:11+09:00",
           "text": "NHK ONE 国際の公開情報を確認",
           "source": "NHK ONE 国際"
         },
         {
-          "at": "2026-11-01T18:55:28.915854+09:00",
+          "at": "2026-11-02T00:43:31.797072+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
@@ -455,16 +304,16 @@
           "publisherId": "nhk",
           "links": [
             {
-              "title": "スミソニアン博物館に杉本博司さん設計の彫刻庭園がオープン",
-              "url": "https://news.web.nhk/newsweb/na/nd-20261101de69077",
-              "publishedAt": "2026-11-01T10:38:00+09:00",
+              "title": "“クラスター弾の評価試験実施”と伝える 北朝鮮メディア",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261101de69103",
+              "publishedAt": "2026-11-01T16:31:11+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-11-01T10:38:00+09:00",
+          "publishedAt": "2026-11-01T16:31:11+09:00",
           "keyPoints": [
-            "アメリカの首都ワシントンにあるスミソニアン博物館の庭園が現代美術作家の杉本博司さんによってリニューアルされ、一般公開が始まりました。"
+            "北朝鮮のメディアは10月31日、弾道ミサイルに搭載するクラスター弾の評価試験が行われ、最大でおよそ360メートル四方を焦土化できることが実証されたと伝えました。"
           ],
           "type": "報道",
           "isPrimary": false
@@ -480,11 +329,11 @@
       ]
     },
     {
-      "id": "4c8b613b7b32e075",
-      "slug": "2026-11-01-12-4c8b613b",
-      "publishedAt": "2026-11-01T08:31:07+09:00",
-      "updatedAt": "2026-11-01T18:55:28.915854+09:00",
-      "title": "AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明",
+      "id": "56ed5acae1d4e272",
+      "slug": "2026-11-01-18-56ed5aca",
+      "publishedAt": "2026-11-01T15:55:51+09:00",
+      "updatedAt": "2026-11-02T00:43:31.797072+09:00",
+      "title": "社債購入者の個人情報、流出か NTTデータ委託先に不正アクセス",
       "dek": "",
       "summary": "",
       "whyItMatters": "",
@@ -499,34 +348,34 @@
       "sections": [],
       "updates": [
         {
-          "at": "2026-11-01T08:31:07+09:00",
-          "text": "ITmedia NEWSの公開情報を確認",
-          "source": "ITmedia NEWS"
+          "at": "2026-11-01T15:55:51+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
         },
         {
-          "at": "2026-11-01T18:55:28.915854+09:00",
+          "at": "2026-11-02T00:43:31.797072+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
       ],
-      "category": "テクノロジー",
+      "category": "経済",
       "importance": 3,
       "sources": [
         {
-          "name": "ITmedia NEWS",
-          "publisherId": "itmedia",
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
           "links": [
             {
-              "title": "AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明",
-              "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776",
-              "publishedAt": "2026-11-01T08:31:07+09:00",
+              "title": "社債購入者の個人情報、流出か NTTデータ委託先に不正アクセス",
+              "url": "https://www.asahi.com/articles/ASVC124XRVC1ULFA00BM.html",
+              "publishedAt": "2026-11-01T15:55:51+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-11-01T08:31:07+09:00",
+          "publishedAt": "2026-11-01T15:55:51+09:00",
           "keyPoints": [
-            "AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明"
+            "社債購入者の個人情報、流出か NTTデータ委託先に不正アクセス"
           ],
           "type": "報道",
           "isPrimary": false
@@ -538,70 +387,57 @@
       "continuationOrigins": [],
       "publisherCount": 1,
       "tags": [
-        "テクノロジー"
+        "経済"
       ]
     },
     {
-      "id": "e53c1cfa181d4472",
-      "slug": "2026-11-01-12-e53c1cfa",
-      "publishedAt": "2026-11-01T06:53:08+09:00",
-      "updatedAt": "2026-11-01T18:55:28.915854+09:00",
-      "title": "G20外相会合閉幕 茂木外相“サプライチェーンでもG20協調を”",
-      "dek": "アメリカで開かれたG20＝主要20か国の外相会合が閉幕しました。",
-      "summary": "アメリカで開かれたG20＝主要20か国の外相会合が閉幕しました。 茂木外務大臣は最後の討議で、中国を念頭に市場原理に基づかない過剰生産がサプライチェーンをぜい弱なものにしているなどと指摘し、G20の協…。",
+      "id": "459a8b8e2a0ef1f9",
+      "slug": "2026-11-01-18-459a8b8e",
+      "publishedAt": "2026-11-01T14:45:00+09:00",
+      "updatedAt": "2026-11-02T00:43:31.797072+09:00",
+      "title": "70代運転の車に5人はねられ重軽傷 宮城の紅葉名所「鳴子峡」近く",
+      "dek": "",
+      "summary": "",
       "whyItMatters": "",
       "articleType": "brief",
       "deskLens": "",
       "eventKeys": [],
-      "facts": [
-        "アメリカで開かれたG20＝主要20か国の外相会合が閉幕しました。",
-        "茂木外務大臣は最後の討議で、中国を念頭に市場原理に基づかない過剰生産がサプライチェーンをぜい弱なものにしているなどと指摘し、G20の協…。"
-      ],
+      "facts": [],
       "impactPoints": [],
       "background": "",
       "watchPoints": [],
-      "body": [
-        "アメリカで開かれたG20＝主要20か国の外相会合が閉幕しました。 茂木外務大臣は最後の討議で、中国を念頭に市場原理に基づかない過剰生産がサプライチェーンをぜい弱なものにしているなどと指摘し、G20の協…。"
-      ],
-      "sections": [
-        {
-          "heading": "確認できた事実",
-          "paragraphs": [
-            "アメリカで開かれたG20＝主要20か国の外相会合が閉幕しました。",
-            "茂木外務大臣は最後の討議で、中国を念頭に市場原理に基づかない過剰生産がサプライチェーンをぜい弱なものにしているなどと指摘し、G20の協…。"
-          ]
-        }
-      ],
+      "body": [],
+      "sections": [],
       "updates": [
         {
-          "at": "2026-11-01T06:53:08+09:00",
-          "text": "NHK ONE 国際の公開情報を確認",
-          "source": "NHK ONE 国際"
+          "at": "2026-11-01T14:45:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
         },
         {
-          "at": "2026-11-01T18:55:28.915854+09:00",
+          "at": "2026-11-02T00:43:31.797072+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
       ],
-      "category": "海外",
+      "category": "社会",
       "importance": 3,
       "sources": [
         {
-          "name": "NHK ONE 国際",
-          "publisherId": "nhk",
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
           "links": [
             {
-              "title": "G20外相会合閉幕 茂木外相“サプライチェーンでもG20協調を”",
-              "url": "https://news.web.nhk/newsweb/na/nd-20261101de69059",
-              "publishedAt": "2026-11-01T06:53:08+09:00",
+              "title": "70代運転の車に5人はねられ重軽傷 宮城の紅葉名所「鳴子峡」近く",
+              "url": "https://www.asahi.com/articles/ASVC11QJYVC1UGTB001M.html",
+              "publishedAt": "2026-11-01T14:45:00+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-11-01T06:53:08+09:00",
+          "publishedAt": "2026-11-01T14:45:00+09:00",
           "keyPoints": [
-            "アメリカで開かれたG20＝主要20か国の外相会合が閉幕しました。茂木外務大臣は最後の討議で、中国を念頭に市場原理に基づかない過剰生産がサプライチェーンをぜい弱なものにしているなどと指摘し、G20の協…。"
+            "70代運転の車に5人はねられ重軽傷 宮城の紅葉名所「鳴子峡」近く"
           ],
           "type": "報道",
           "isPrimary": false
@@ -613,7 +449,7 @@
       "continuationOrigins": [],
       "publisherCount": 1,
       "tags": [
-        "海外"
+        "社会"
       ]
     }
   ]

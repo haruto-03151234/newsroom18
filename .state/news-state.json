@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-01T12:00:00+09:00",
-  "lastCompletedEdition": "2026-11-01-12",
+  "lastCompletedEnd": "2026-11-01T18:00:00+09:00",
+  "lastCompletedEdition": "2026-11-01-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -23236,7 +23236,55 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261101de69059"
       ]
+    },
+    {
+      "editionId": "2026-11-01-18",
+      "title": "熊本市長選が告示現新5人が立候補新庁舎計画など争点に舌戦",
+      "publishedAt": "2026-11-01T17:33:11+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC10FR6VC1TIPE00CM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-01-18",
+      "title": "プロ野球日本ハム伊藤大海がポスティングで大リーグ挑戦へ",
+      "publishedAt": "2026-11-01T17:31:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261101de69210"
+      ]
+    },
+    {
+      "editionId": "2026-11-01-18",
+      "title": "競馬秋の天皇賞ダノンデサイルが優勝g1レース3勝目",
+      "publishedAt": "2026-11-01T17:24:47+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261101de69198"
+      ]
+    },
+    {
+      "editionId": "2026-11-01-18",
+      "title": "クラスター弾の評価試験実施と伝える北朝鮮メディア",
+      "publishedAt": "2026-11-01T16:31:11+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261101de69103"
+      ]
+    },
+    {
+      "editionId": "2026-11-01-18",
+      "title": "社債購入者の個人情報流出かnttデータ委託先に不正アクセス",
+      "publishedAt": "2026-11-01T15:55:51+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC124XRVC1ULFA00BM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-01-18",
+      "title": "70代運転の車に5人はねられ重軽傷宮城の紅葉名所鳴子峡近く",
+      "publishedAt": "2026-11-01T14:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC11QJYVC1UGTB001M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-11-01T18:55:28.915854+09:00"
+  "updatedAt": "2026-11-02T00:43:31.797072+09:00"
 }
