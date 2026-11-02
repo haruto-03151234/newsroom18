@@ -1,0 +1,645 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-11-02T19:20:35.401294+09:00",
+  "summary": "対象時間帯の4配信元の主なニュースを9本に整理しました。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-11-02-12",
+    "date": "2026-11-02",
+    "slot": "12:00",
+    "label": "昼12時版"
+  },
+  "coverage": {
+    "from": "2026-11-02T06:00:00+09:00",
+    "to": "2026-11-02T12:00:00+09:00",
+    "start": "2026-11-02T06:00:00+09:00",
+    "end": "2026-11-02T12:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "11月02日 06:00〜11月02日 12:00"
+  },
+  "stats": {
+    "articleCount": 9,
+    "categoryCounts": {
+      "社会": 1,
+      "海外": 2,
+      "スポーツ": 1,
+      "テクノロジー": 3,
+      "エンタメ": 1,
+      "科学": 1
+    },
+    "sourceCount": 9,
+    "publisherCount": 4,
+    "publisherCounts": {
+      "asahi": 2,
+      "itmedia": 3,
+      "mainichi": 1,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "brief": 9
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories"
+  ],
+  "articles": [
+    {
+      "id": "54b7ef9995f6cd26",
+      "slug": "2026-11-02-12-54b7ef99",
+      "publishedAt": "2026-11-02T11:30:00+09:00",
+      "updatedAt": "2026-11-02T19:20:35.401294+09:00",
+      "title": "花園予選、7校合同が激戦区の準決へ 初の部員不足・大阪朝鮮高が柱",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-02T11:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-02T19:20:35.401294+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "花園予選、7校合同が激戦区の準決へ 初の部員不足・大阪朝鮮高が柱",
+              "url": "https://www.asahi.com/articles/ASVC14QB6VC1PTQP00MM.html",
+              "publishedAt": "2026-11-02T11:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-02T11:30:00+09:00",
+          "keyPoints": [
+            "花園予選、7校合同が激戦区の準決へ 初の部員不足・大阪朝鮮高が柱"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "fe8469f82fe36893",
+      "slug": "2026-11-02-12-fe8469f8",
+      "publishedAt": "2026-11-02T11:25:21+09:00",
+      "updatedAt": "2026-11-02T19:20:35.401294+09:00",
+      "title": "接戦ミシガン州上院選 民主議員が異例の共和候補支持表明",
+      "dek": "アメリカの中間選挙の投票日が目前に迫るなか、上院選挙で接戦が伝えられる中西部ミシガン州で、民主党の下院議員が共和党の候補を支持すると異例の表明をしました。",
+      "summary": "アメリカの中間選挙の投票日が目前に迫るなか、上院選挙で接戦が伝えられる中西部ミシガン州で、民主党の下院議員が共和党の候補を支持すると異例の表明をしました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "アメリカの中間選挙の投票日が目前に迫るなか、上院選挙で接戦が伝えられる中西部ミシガン州で、民主党の下院議員が共和党の候補を支持すると異例の表明をしました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "アメリカの中間選挙の投票日が目前に迫るなか、上院選挙で接戦が伝えられる中西部ミシガン州で、民主党の下院議員が共和党の候補を支持すると異例の表明をしました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "アメリカの中間選挙の投票日が目前に迫るなか、上院選挙で接戦が伝えられる中西部ミシガン州で、民主党の下院議員が共和党の候補を支持すると異例の表明をしました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-02T11:25:21+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-02T19:20:35.401294+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "接戦ミシガン州上院選 民主議員が異例の共和候補支持表明",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261102de69344",
+              "publishedAt": "2026-11-02T11:25:21+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-02T11:25:21+09:00",
+          "keyPoints": [
+            "アメリカの中間選挙の投票日が目前に迫るなか、上院選挙で接戦が伝えられる中西部ミシガン州で、民主党の下院議員が共和党の候補を支持すると異例の表明をしました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "fa0bc4471107ead7",
+      "slug": "2026-11-02-12-fa0bc447",
+      "publishedAt": "2026-11-02T11:22:32+09:00",
+      "updatedAt": "2026-11-02T19:20:35.401294+09:00",
+      "title": "男子ゴルフ 米ツアー 最終ラウンド 平田憲聖11位 中島啓太23位",
+      "dek": "男子ゴルフのアメリカツアーの大会は1日、メキシコで最終ラウンドが行われ、平田憲聖選手は通算17アンダーで11位でした。",
+      "summary": "男子ゴルフのアメリカツアーの大会は1日、メキシコで最終ラウンドが行われ、平田憲聖選手は通算17アンダーで11位でした。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "男子ゴルフのアメリカツアーの大会は1日、メキシコで最終ラウンドが行われ、平田憲聖選手は通算17アンダーで11位でした。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "男子ゴルフのアメリカツアーの大会は1日、メキシコで最終ラウンドが行われ、平田憲聖選手は通算17アンダーで11位でした。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "男子ゴルフのアメリカツアーの大会は1日、メキシコで最終ラウンドが行われ、平田憲聖選手は通算17アンダーで11位でした。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-02T11:22:32+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-11-02T19:20:35.401294+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "男子ゴルフ 米ツアー 最終ラウンド 平田憲聖11位 中島啓太23位",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261102de69374",
+              "publishedAt": "2026-11-02T11:22:32+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-02T11:22:32+09:00",
+          "keyPoints": [
+            "男子ゴルフのアメリカツアーの大会は1日、メキシコで最終ラウンドが行われ、平田憲聖選手は通算17アンダーで11位でした。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "8a34fb94ee415fb0",
+      "slug": "2026-11-02-12-8a34fb94",
+      "publishedAt": "2026-11-02T11:06:13+09:00",
+      "updatedAt": "2026-11-02T19:20:35.401294+09:00",
+      "title": "ワールド子会社に不正アクセス、会員情報のべ約120万件が流出の可能性 「RAGTAG」運営元",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-02T11:06:13+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-02T19:20:35.401294+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "ワールド子会社に不正アクセス、会員情報のべ約120万件が流出の可能性 「RAGTAG」運営元",
+              "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002783",
+              "publishedAt": "2026-11-02T11:06:13+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-02T11:06:13+09:00",
+          "keyPoints": [
+            "ワールド子会社に不正アクセス、会員情報のべ約120万件が流出の可能性 「RAGTAG」運営元"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "7e05b547957b5dd0",
+      "slug": "2026-11-02-12-7e05b547",
+      "publishedAt": "2026-11-02T11:03:07+09:00",
+      "updatedAt": "2026-11-02T19:20:35.401294+09:00",
+      "title": "影山貴彦のテレビ燦々:ヒリヒリする秀作「会社員」 保身に走りながら、「正しさ」に心は揺れ",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-02T11:03:07+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-11-02T19:20:35.401294+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "影山貴彦のテレビ燦々:ヒリヒリする秀作「会社員」 保身に走りながら、「正しさ」に心は揺れ",
+              "url": "https://mainichi.jp/articles/20261102/ddm/018/200/029000c",
+              "publishedAt": "2026-11-02T11:03:07+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-02T11:03:07+09:00",
+          "keyPoints": [
+            "影山貴彦のテレビ燦々:ヒリヒリする秀作「会社員」 保身に走りながら、「正しさ」に心は揺れ"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "e0f9d316c3919ad1",
+      "slug": "2026-11-02-12-e0f9d316",
+      "publishedAt": "2026-11-02T10:48:32+09:00",
+      "updatedAt": "2026-11-02T19:20:35.401294+09:00",
+      "title": "スペイン高速鉄道事故 日本人1人の死亡確認 地元当局が発表",
+      "dek": "スペイン中部で高速鉄道の列車が別の列車に追突し60人以上が死亡した事故で、スペインの地元当局は1日、日本人1人の死亡が確認されたと発表しました。",
+      "summary": "スペイン中部で高速鉄道の列車が別の列車に追突し60人以上が死亡した事故で、スペインの地元当局は1日、日本人1人の死亡が確認されたと発表しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "スペイン中部で高速鉄道の列車が別の列車に追突し60人以上が死亡した事故で、スペインの地元当局は1日、日本人1人の死亡が確認されたと発表しました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "スペイン中部で高速鉄道の列車が別の列車に追突し60人以上が死亡した事故で、スペインの地元当局は1日、日本人1人の死亡が確認されたと発表しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "スペイン中部で高速鉄道の列車が別の列車に追突し60人以上が死亡した事故で、スペインの地元当局は1日、日本人1人の死亡が確認されたと発表しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-02T10:48:32+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-02T19:20:35.401294+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "スペイン高速鉄道事故 日本人1人の死亡確認 地元当局が発表",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261102de69346",
+              "publishedAt": "2026-11-02T10:48:32+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-02T10:48:32+09:00",
+          "keyPoints": [
+            "スペイン中部で高速鉄道の列車が別の列車に追突し60人以上が死亡した事故で、スペインの地元当局は1日、日本人1人の死亡が確認されたと発表しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "2c2c10a76f35ed53",
+      "slug": "2026-11-02-12-2c2c10a7",
+      "publishedAt": "2026-11-02T10:48:11+09:00",
+      "updatedAt": "2026-11-02T19:20:35.401294+09:00",
+      "title": "クラブツーリズムに不正アクセス 個人情報約432万件漏えいの可能性、サイト停止",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-02T10:48:11+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-02T19:20:35.401294+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "クラブツーリズムに不正アクセス 個人情報約432万件漏えいの可能性、サイト停止",
+              "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002782",
+              "publishedAt": "2026-11-02T10:48:11+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-02T10:48:11+09:00",
+          "keyPoints": [
+            "クラブツーリズムに不正アクセス 個人情報約432万件漏えいの可能性、サイト停止"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "786739f1678b42cf",
+      "slug": "2026-11-02-12-786739f1",
+      "publishedAt": "2026-11-02T10:23:14+09:00",
+      "updatedAt": "2026-11-02T19:20:35.401294+09:00",
+      "title": "ロゴ画像用の公開領域に顧客ファイルも保存 GMO系シングルサインオン、4.5万人分漏えい",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-02T10:23:14+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-02T19:20:35.401294+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "ロゴ画像用の公開領域に顧客ファイルも保存 GMO系シングルサインオン、4.5万人分漏えい",
+              "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002780",
+              "publishedAt": "2026-11-02T10:23:14+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-02T10:23:14+09:00",
+          "keyPoints": [
+            "ロゴ画像用の公開領域に顧客ファイルも保存 GMO系シングルサインオン、4.5万人分漏えい"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "243dffbc7fb62f94",
+      "slug": "2026-11-02-12-243dffbc",
+      "publishedAt": "2026-11-02T07:00:00+09:00",
+      "updatedAt": "2026-11-02T19:20:35.401294+09:00",
+      "title": "家事や育児も「労働時間」長いと女性で心の健康リスク↑ 睡眠障害も",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-02T07:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-02T19:20:35.401294+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "家事や育児も「労働時間」長いと女性で心の健康リスク↑ 睡眠障害も",
+              "url": "https://www.asahi.com/articles/ASVBZ0PPMVBZUTFL00VM.html",
+              "publishedAt": "2026-11-02T07:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-02T07:00:00+09:00",
+          "keyPoints": [
+            "家事や育児も「労働時間」長いと女性で心の健康リスク↑ 睡眠障害も"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    }
+  ]
+}

@@ -5,43 +5,42 @@
     "tagline": "事実をつなぎ、背景まで伝える。",
     "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
   },
-  "generatedAt": "2026-11-02T08:59:23.389451+09:00",
-  "summary": "対象時間帯の4配信元のニュースを10本に整理しました。うち重要ニュースは1本です。",
+  "generatedAt": "2026-11-02T19:20:35.401294+09:00",
+  "summary": "対象時間帯の4配信元の主なニュースを9本に整理しました。",
   "generationMode": "structured",
   "edition": {
-    "id": "2026-11-02-06",
+    "id": "2026-11-02-12",
     "date": "2026-11-02",
-    "slot": "06:00",
-    "label": "朝6時版"
+    "slot": "12:00",
+    "label": "昼12時版"
   },
   "coverage": {
-    "from": "2026-11-01T18:00:00+09:00",
-    "to": "2026-11-02T06:00:00+09:00",
-    "start": "2026-11-01T18:00:00+09:00",
-    "end": "2026-11-02T06:00:00+09:00",
+    "from": "2026-11-02T06:00:00+09:00",
+    "to": "2026-11-02T12:00:00+09:00",
+    "start": "2026-11-02T06:00:00+09:00",
+    "end": "2026-11-02T12:00:00+09:00",
     "timezone": "Asia/Tokyo",
-    "label": "11月01日 18:00〜11月02日 06:00"
+    "label": "11月02日 06:00〜11月02日 12:00"
   },
   "stats": {
-    "articleCount": 10,
+    "articleCount": 9,
     "categoryCounts": {
-      "経済": 1,
-      "国内": 4,
-      "海外": 2,
-      "エンタメ": 1,
       "社会": 1,
-      "スポーツ": 1
+      "海外": 2,
+      "スポーツ": 1,
+      "テクノロジー": 3,
+      "エンタメ": 1,
+      "科学": 1
     },
-    "sourceCount": 10,
+    "sourceCount": 9,
     "publisherCount": 4,
     "publisherCounts": {
-      "asahi": 3,
-      "gov-online": 1,
-      "mainichi": 3,
+      "asahi": 2,
+      "itmedia": 3,
+      "mainichi": 1,
       "nhk": 3
     },
     "articleTypeCounts": {
-      "feature": 1,
       "brief": 9
     },
     "feedFailureCount": 2
@@ -52,113 +51,11 @@
   ],
   "articles": [
     {
-      "id": "3b5b01956991255e",
-      "slug": "2026-11-02-06-3b5b0195",
-      "publishedAt": "2026-11-02T00:00:00+09:00",
-      "updatedAt": "2026-11-02T08:59:23.389451+09:00",
-      "title": "お子さんの進学・在学資金を支援! 国の教育ローンをご利用ください",
-      "dek": "11月2日 00:00更新。家計の教育費の負担を軽減し、こどもたちの進学・在学を応援するために設けられているのが、「国の教育ローン」です。",
-      "summary": "家計の教育費の負担を軽減し、こどもたちの進学・在学を応援するために設けられているのが、「国の教育ローン」です。国の教育ローンは、日本政策金融公庫及び沖縄振興開発金融公庫が行う公的な融資制度で、長期固定金利でいつでも必要なときに申し込むことができます。",
-      "whyItMatters": "",
-      "articleType": "feature",
-      "deskLens": "event",
-      "eventKeys": [
-        "お子さんの進学在学資金を支援国の教育ローンをご利用ください"
-      ],
-      "facts": [
-        "家計の教育費の負担を軽減し、こどもたちの進学・在学を応援するために設けられているのが、「国の教育ローン」です。",
-        "国の教育ローンは、日本政策金融公庫及び沖縄振興開発金融公庫が行う公的な融資制度で、長期固定金利でいつでも必要なときに申し込むことができます。",
-        "1 高校・大学などの教育費はいくらかかるの?",
-        "2 「国の教育ローン」とは?",
-        "3 どんな人が利用できるの?",
-        "4 相談や申込みはどうすればいいの?",
-        "コラム1:対象となる入学・在学先 コラム2:国の教育ローンと奨学金の違いは?",
-        "お問い合わせ・相談:教育ローンコールセンター 「専門学校で調理を学んで、調理師を目指したい」「大学の薬学部で勉強して薬剤師になりたい」「アメリカの大学院に留学して研究者になりたい」など――。",
-        "こどもが将来の希望を形にしようとするとき、そのための費用の確保に悩む保護者のかたもいらっしゃるのではないでしょうか。",
-        "小・中学校の義務教育を終えた後、高校や大学、大学院、あるいは専門学校などで学ぶには、どのくらいの費用がかかるものでしょうか。"
-      ],
-      "impactPoints": [
-        "複数の大学を受験すれば、その分の受験料や交通費がかかりますし、場合によっては複数の学校に入学手続きをして入学金を払っておかなければならないこともあるでしょう。"
-      ],
-      "background": "",
-      "watchPoints": [],
-      "body": [
-        "家計の教育費の負担を軽減し、こどもたちの進学・在学を応援するために設けられているのが、「国の教育ローン」です。国の教育ローンは、日本政策金融公庫及び沖縄振興開発金融公庫が行う公的な融資制度で、長期固定金利でいつでも必要なときに申し込むことができます。",
-        "複数の大学を受験すれば、その分の受験料や交通費がかかりますし、場合によっては複数の学校に入学手続きをして入学金を払っておかなければならないこともあるでしょう。"
-      ],
-      "sections": [
-        {
-          "heading": "確認できた事実",
-          "paragraphs": [
-            "家計の教育費の負担を軽減し、こどもたちの進学・在学を応援するために設けられているのが、「国の教育ローン」です。",
-            "国の教育ローンは、日本政策金融公庫及び沖縄振興開発金融公庫が行う公的な融資制度で、長期固定金利でいつでも必要なときに申し込むことができます。",
-            "1 高校・大学などの教育費はいくらかかるの?",
-            "2 「国の教育ローン」とは?",
-            "3 どんな人が利用できるの?",
-            "4 相談や申込みはどうすればいいの?",
-            "コラム1:対象となる入学・在学先 コラム2:国の教育ローンと奨学金の違いは?",
-            "お問い合わせ・相談:教育ローンコールセンター 「専門学校で調理を学んで、調理師を目指したい」「大学の薬学部で勉強して薬剤師になりたい」「アメリカの大学院に留学して研究者になりたい」など――。",
-            "こどもが将来の希望を形にしようとするとき、そのための費用の確保に悩む保護者のかたもいらっしゃるのではないでしょうか。",
-            "小・中学校の義務教育を終えた後、高校や大学、大学院、あるいは専門学校などで学ぶには、どのくらいの費用がかかるものでしょうか。"
-          ]
-        },
-        {
-          "heading": "影響・対象地域",
-          "paragraphs": [
-            "複数の大学を受験すれば、その分の受験料や交通費がかかりますし、場合によっては複数の学校に入学手続きをして入学金を払っておかなければならないこともあるでしょう。"
-          ]
-        }
-      ],
-      "updates": [
-        {
-          "at": "2026-11-02T00:00:00+09:00",
-          "text": "政府広報オンラインの公開情報を確認",
-          "source": "政府広報オンライン"
-        },
-        {
-          "at": "2026-11-02T08:59:23.389451+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "経済",
-      "importance": 5,
-      "sources": [
-        {
-          "name": "政府広報オンライン",
-          "publisherId": "gov-online",
-          "links": [
-            {
-              "title": "お子さんの進学・在学資金を支援!国の教育ローンをご利用ください",
-              "url": "https://www.gov-online.go.jp/article/201512/entry-8156.html",
-              "publishedAt": "2026-11-02T00:00:00+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-11-02T00:00:00+09:00",
-          "keyPoints": [
-            "政府広報オンラインの公開情報をもとにNEWSROOM 18が要約・加工"
-          ],
-          "type": "一次情報",
-          "isPrimary": true
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "経済"
-      ]
-    },
-    {
-      "id": "5322b5e50169f40a",
-      "slug": "2026-11-02-06-5322b5e5",
-      "publishedAt": "2026-11-02T05:45:13+09:00",
-      "updatedAt": "2026-11-02T08:59:23.389451+09:00",
-      "title": "川崎駅周辺で都市型フェス初開催 官民一体でまちを盛り上げ",
+      "id": "54b7ef9995f6cd26",
+      "slug": "2026-11-02-12-54b7ef99",
+      "publishedAt": "2026-11-02T11:30:00+09:00",
+      "updatedAt": "2026-11-02T19:20:35.401294+09:00",
+      "title": "花園予選、7校合同が激戦区の準決へ 初の部員不足・大阪朝鮮高が柱",
       "dek": "",
       "summary": "",
       "whyItMatters": "",
@@ -173,344 +70,12 @@
       "sections": [],
       "updates": [
         {
-          "at": "2026-11-02T05:45:13+09:00",
-          "text": "毎日新聞 ニュース速報の公開情報を確認",
-          "source": "毎日新聞 ニュース速報"
-        },
-        {
-          "at": "2026-11-02T08:59:23.389451+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "国内",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "毎日新聞 ニュース速報",
-          "publisherId": "mainichi",
-          "links": [
-            {
-              "title": "川崎駅周辺で都市型フェス初開催 官民一体でまちを盛り上げ",
-              "url": "https://mainichi.jp/articles/20261101/k00/00m/310/382000c",
-              "publishedAt": "2026-11-02T05:45:13+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-11-02T05:45:13+09:00",
-          "keyPoints": [
-            "川崎駅周辺で都市型フェス初開催 官民一体でまちを盛り上げ"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "国内"
-      ]
-    },
-    {
-      "id": "f0225dacd5443f73",
-      "slug": "2026-11-02-06-f0225dac",
-      "publishedAt": "2026-11-02T05:30:13+09:00",
-      "updatedAt": "2026-11-02T08:59:23.389451+09:00",
-      "title": "東京都議補選・千代田区 無所属の元区議、林則行氏が当選",
-      "dek": "",
-      "summary": "",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [],
-      "sections": [],
-      "updates": [
-        {
-          "at": "2026-11-02T05:30:13+09:00",
-          "text": "毎日新聞 ニュース速報の公開情報を確認",
-          "source": "毎日新聞 ニュース速報"
-        },
-        {
-          "at": "2026-11-02T08:59:23.389451+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "国内",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "毎日新聞 ニュース速報",
-          "publisherId": "mainichi",
-          "links": [
-            {
-              "title": "東京都議補選・千代田区 無所属の元区議、林則行氏が当選",
-              "url": "https://mainichi.jp/articles/20261102/k00/00m/310/001000c",
-              "publishedAt": "2026-11-02T05:30:13+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-11-02T05:30:13+09:00",
-          "keyPoints": [
-            "東京都議補選・千代田区 無所属の元区議、林則行氏が当選"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "国内"
-      ]
-    },
-    {
-      "id": "08a7306fb73491c6",
-      "slug": "2026-11-02-06-08a7306f",
-      "publishedAt": "2026-11-02T05:09:57+09:00",
-      "updatedAt": "2026-11-02T08:59:23.389451+09:00",
-      "title": "アメリカ中間選挙あす投票 トランプ大統領中西部で演説へ",
-      "dek": "トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙は、日本時間の3日投票が始まります。",
-      "summary": "トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙は、日本時間の3日投票が始まります。",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [
-        "トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙は、日本時間の3日投票が始まります。"
-      ],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [
-        "トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙は、日本時間の3日投票が始まります。"
-      ],
-      "sections": [
-        {
-          "heading": "確認できた事実",
-          "paragraphs": [
-            "トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙は、日本時間の3日投票が始まります。"
-          ]
-        }
-      ],
-      "updates": [
-        {
-          "at": "2026-11-02T05:09:57+09:00",
-          "text": "NHK ONE 主要ニュースの公開情報を確認",
-          "source": "NHK ONE 主要ニュース"
-        },
-        {
-          "at": "2026-11-02T08:59:23.389451+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "海外",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "NHK ONE 主要ニュース",
-          "publisherId": "nhk",
-          "links": [
-            {
-              "title": "アメリカ中間選挙あす投票 トランプ大統領中西部で演説へ",
-              "url": "https://news.web.nhk/newsweb/na/nd-20261102de69323",
-              "publishedAt": "2026-11-02T05:09:57+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-11-02T05:09:57+09:00",
-          "keyPoints": [
-            "トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙は、日本時間の3日投票が始まります。"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "海外"
-      ]
-    },
-    {
-      "id": "3e704322c05321a6",
-      "slug": "2026-11-02-06-3e704322",
-      "publishedAt": "2026-11-02T05:01:44+09:00",
-      "updatedAt": "2026-11-02T08:59:23.389451+09:00",
-      "title": "「秋の褒章」に現代美術家の奈良美智さんら",
-      "dek": "長年にわたって、その道一筋に打ち込んできた人や、芸術やスポーツの分野で功績のあった人などに贈られる「秋の褒章」の受章者が発表され、現代美術家の奈良美智さんら、あわせて736人と25の団体が受章すること…。",
-      "summary": "長年にわたって、その道一筋に打ち込んできた人や、芸術やスポーツの分野で功績のあった人などに贈られる「秋の褒章」の受章者が発表され、現代美術家の奈良美智さんら、あわせて736人と25の団体が受章すること…。",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [
-        "長年にわたって、その道一筋に打ち込んできた人や、芸術やスポーツの分野で功績のあった人などに贈られる「秋の褒章」の受章者が発表され、現代美術家の奈良美智さんら、あわせて736人と25の団体が受章すること…。"
-      ],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [
-        "長年にわたって、その道一筋に打ち込んできた人や、芸術やスポーツの分野で功績のあった人などに贈られる「秋の褒章」の受章者が発表され、現代美術家の奈良美智さんら、あわせて736人と25の団体が受章すること…。"
-      ],
-      "sections": [
-        {
-          "heading": "確認できた事実",
-          "paragraphs": [
-            "長年にわたって、その道一筋に打ち込んできた人や、芸術やスポーツの分野で功績のあった人などに贈られる「秋の褒章」の受章者が発表され、現代美術家の奈良美智さんら、あわせて736人と25の団体が受章すること…。"
-          ]
-        }
-      ],
-      "updates": [
-        {
-          "at": "2026-11-02T05:01:44+09:00",
-          "text": "NHK ONE 科学・文化の公開情報を確認",
-          "source": "NHK ONE 科学・文化"
-        },
-        {
-          "at": "2026-11-02T08:59:23.389451+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "エンタメ",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "NHK ONE 科学・文化",
-          "publisherId": "nhk",
-          "links": [
-            {
-              "title": "「秋の褒章」に現代美術家の奈良美智さんら",
-              "url": "https://news.web.nhk/newsweb/na/nd-20261101de69275",
-              "publishedAt": "2026-11-02T05:01:44+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-11-02T05:01:44+09:00",
-          "keyPoints": [
-            "長年にわたって、その道一筋に打ち込んできた人や、芸術やスポーツの分野で功績のあった人などに贈られる「秋の褒章」の受章者が発表され、現代美術家の奈良美智さんら、あわせて736人と25の団体が受章すること…。"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "id": "c79c3dc3395a3e07",
-      "slug": "2026-11-02-06-c79c3dc3",
-      "publishedAt": "2026-11-02T05:00:26+09:00",
-      "updatedAt": "2026-11-02T08:59:23.389451+09:00",
-      "title": "＃ビジュ:ダイエットがやめられない 5キロ減に成功も、崩れた12歳の心",
-      "dek": "",
-      "summary": "",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [],
-      "sections": [],
-      "updates": [
-        {
-          "at": "2026-11-02T05:00:26+09:00",
-          "text": "毎日新聞 ニュース速報の公開情報を確認",
-          "source": "毎日新聞 ニュース速報"
-        },
-        {
-          "at": "2026-11-02T08:59:23.389451+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "国内",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "毎日新聞 ニュース速報",
-          "publisherId": "mainichi",
-          "links": [
-            {
-              "title": "＃ビジュ:ダイエットがやめられない 5キロ減に成功も、崩れた12歳の心",
-              "url": "https://mainichi.jp/articles/20261031/k00/00m/040/074000c",
-              "publishedAt": "2026-11-02T05:00:26+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-11-02T05:00:26+09:00",
-          "keyPoints": [
-            "＃ビジュ:ダイエットがやめられない 5キロ減に成功も、崩れた12歳の心"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "国内"
-      ]
-    },
-    {
-      "id": "a7275204b97ff4c5",
-      "slug": "2026-11-02-06-a7275204",
-      "publishedAt": "2026-11-02T05:00:00+09:00",
-      "updatedAt": "2026-11-02T08:59:23.389451+09:00",
-      "title": "紫綬褒章受ける奈良美智さん 感謝しつつ「物分かりよくはならない」",
-      "dek": "",
-      "summary": "",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [],
-      "sections": [],
-      "updates": [
-        {
-          "at": "2026-11-02T05:00:00+09:00",
+          "at": "2026-11-02T11:30:00+09:00",
           "text": "朝日新聞 最新ニュースの公開情報を確認",
           "source": "朝日新聞 最新ニュース"
         },
         {
-          "at": "2026-11-02T08:59:23.389451+09:00",
+          "at": "2026-11-02T19:20:35.401294+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
@@ -523,16 +88,16 @@
           "publisherId": "asahi",
           "links": [
             {
-              "title": "紫綬褒章受ける奈良美智さん 感謝しつつ「物分かりよくはならない」",
-              "url": "https://www.asahi.com/articles/ASVB04G0LVB0UCVL00GM.html",
-              "publishedAt": "2026-11-02T05:00:00+09:00",
+              "title": "花園予選、7校合同が激戦区の準決へ 初の部員不足・大阪朝鮮高が柱",
+              "url": "https://www.asahi.com/articles/ASVC14QB6VC1PTQP00MM.html",
+              "publishedAt": "2026-11-02T11:30:00+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-11-02T05:00:00+09:00",
+          "publishedAt": "2026-11-02T11:30:00+09:00",
           "keyPoints": [
-            "紫綬褒章受ける奈良美智さん 感謝しつつ「物分かりよくはならない」"
+            "花園予選、7校合同が激戦区の準決へ 初の部員不足・大阪朝鮮高が柱"
           ],
           "type": "報道",
           "isPrimary": false
@@ -548,42 +113,42 @@
       ]
     },
     {
-      "id": "2e0663860c6db107",
-      "slug": "2026-11-02-06-2e066386",
-      "publishedAt": "2026-11-02T04:48:30+09:00",
-      "updatedAt": "2026-11-02T08:59:23.389451+09:00",
-      "title": "イラン 仲介国カタールと協議 駆け引き続く",
-      "dek": "アメリカによるイランへの攻撃再開の可能性が取り沙汰されるなか、イランは1日も仲介国のカタールと協議を行い、間接的にアメリカの反応をうかがっているものとみられます。",
-      "summary": "アメリカによるイランへの攻撃再開の可能性が取り沙汰されるなか、イランは1日も仲介国のカタールと協議を行い、間接的にアメリカの反応をうかがっているものとみられます。",
+      "id": "fe8469f82fe36893",
+      "slug": "2026-11-02-12-fe8469f8",
+      "publishedAt": "2026-11-02T11:25:21+09:00",
+      "updatedAt": "2026-11-02T19:20:35.401294+09:00",
+      "title": "接戦ミシガン州上院選 民主議員が異例の共和候補支持表明",
+      "dek": "アメリカの中間選挙の投票日が目前に迫るなか、上院選挙で接戦が伝えられる中西部ミシガン州で、民主党の下院議員が共和党の候補を支持すると異例の表明をしました。",
+      "summary": "アメリカの中間選挙の投票日が目前に迫るなか、上院選挙で接戦が伝えられる中西部ミシガン州で、民主党の下院議員が共和党の候補を支持すると異例の表明をしました。",
       "whyItMatters": "",
       "articleType": "brief",
       "deskLens": "",
       "eventKeys": [],
-      "facts": [],
+      "facts": [
+        "アメリカの中間選挙の投票日が目前に迫るなか、上院選挙で接戦が伝えられる中西部ミシガン州で、民主党の下院議員が共和党の候補を支持すると異例の表明をしました。"
+      ],
       "impactPoints": [],
       "background": "",
-      "watchPoints": [
-        "アメリカによるイランへの攻撃再開の可能性が取り沙汰されるなか、イランは1日も仲介国のカタールと協議を行い、間接的にアメリカの反応をうかがっているものとみられます。"
-      ],
+      "watchPoints": [],
       "body": [
-        "アメリカによるイランへの攻撃再開の可能性が取り沙汰されるなか、イランは1日も仲介国のカタールと協議を行い、間接的にアメリカの反応をうかがっているものとみられます。"
+        "アメリカの中間選挙の投票日が目前に迫るなか、上院選挙で接戦が伝えられる中西部ミシガン州で、民主党の下院議員が共和党の候補を支持すると異例の表明をしました。"
       ],
       "sections": [
         {
-          "heading": "次に注目",
+          "heading": "確認できた事実",
           "paragraphs": [
-            "アメリカによるイランへの攻撃再開の可能性が取り沙汰されるなか、イランは1日も仲介国のカタールと協議を行い、間接的にアメリカの反応をうかがっているものとみられます。"
+            "アメリカの中間選挙の投票日が目前に迫るなか、上院選挙で接戦が伝えられる中西部ミシガン州で、民主党の下院議員が共和党の候補を支持すると異例の表明をしました。"
           ]
         }
       ],
       "updates": [
         {
-          "at": "2026-11-02T04:48:30+09:00",
+          "at": "2026-11-02T11:25:21+09:00",
           "text": "NHK ONE 国際の公開情報を確認",
           "source": "NHK ONE 国際"
         },
         {
-          "at": "2026-11-02T08:59:23.389451+09:00",
+          "at": "2026-11-02T19:20:35.401294+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
@@ -596,16 +161,16 @@
           "publisherId": "nhk",
           "links": [
             {
-              "title": "イラン 仲介国カタールと協議 駆け引き続く",
-              "url": "https://news.web.nhk/newsweb/na/nd-20261102de69322",
-              "publishedAt": "2026-11-02T04:48:30+09:00",
+              "title": "接戦ミシガン州上院選 民主議員が異例の共和候補支持表明",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261102de69344",
+              "publishedAt": "2026-11-02T11:25:21+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-11-02T04:48:30+09:00",
+          "publishedAt": "2026-11-02T11:25:21+09:00",
           "keyPoints": [
-            "アメリカによるイランへの攻撃再開の可能性が取り沙汰されるなか、イランは1日も仲介国のカタールと協議を行い、間接的にアメリカの反応をうかがっているものとみられます。"
+            "アメリカの中間選挙の投票日が目前に迫るなか、上院選挙で接戦が伝えられる中西部ミシガン州で、民主党の下院議員が共和党の候補を支持すると異例の表明をしました。"
           ],
           "type": "報道",
           "isPrimary": false
@@ -621,93 +186,42 @@
       ]
     },
     {
-      "id": "793e6a353e02f8cd",
-      "slug": "2026-11-02-06-793e6a35",
-      "publishedAt": "2026-11-01T23:45:14+09:00",
-      "updatedAt": "2026-11-02T08:59:23.389451+09:00",
-      "title": "現職の佐藤光氏が3選を果たす 神奈川・茅ケ崎市長選",
-      "dek": "",
-      "summary": "",
+      "id": "fa0bc4471107ead7",
+      "slug": "2026-11-02-12-fa0bc447",
+      "publishedAt": "2026-11-02T11:22:32+09:00",
+      "updatedAt": "2026-11-02T19:20:35.401294+09:00",
+      "title": "男子ゴルフ 米ツアー 最終ラウンド 平田憲聖11位 中島啓太23位",
+      "dek": "男子ゴルフのアメリカツアーの大会は1日、メキシコで最終ラウンドが行われ、平田憲聖選手は通算17アンダーで11位でした。",
+      "summary": "男子ゴルフのアメリカツアーの大会は1日、メキシコで最終ラウンドが行われ、平田憲聖選手は通算17アンダーで11位でした。",
       "whyItMatters": "",
       "articleType": "brief",
       "deskLens": "",
       "eventKeys": [],
-      "facts": [],
+      "facts": [
+        "男子ゴルフのアメリカツアーの大会は1日、メキシコで最終ラウンドが行われ、平田憲聖選手は通算17アンダーで11位でした。"
+      ],
       "impactPoints": [],
       "background": "",
       "watchPoints": [],
-      "body": [],
-      "sections": [],
-      "updates": [
+      "body": [
+        "男子ゴルフのアメリカツアーの大会は1日、メキシコで最終ラウンドが行われ、平田憲聖選手は通算17アンダーで11位でした。"
+      ],
+      "sections": [
         {
-          "at": "2026-11-01T23:45:14+09:00",
-          "text": "朝日新聞 最新ニュースの公開情報を確認",
-          "source": "朝日新聞 最新ニュース"
-        },
-        {
-          "at": "2026-11-02T08:59:23.389451+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "男子ゴルフのアメリカツアーの大会は1日、メキシコで最終ラウンドが行われ、平田憲聖選手は通算17アンダーで11位でした。"
+          ]
         }
       ],
-      "category": "国内",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "朝日新聞 最新ニュース",
-          "publisherId": "asahi",
-          "links": [
-            {
-              "title": "現職の佐藤光氏が3選を果たす 神奈川・茅ケ崎市長選",
-              "url": "https://www.asahi.com/articles/ASVC12DRVVC1ULOB00FM.html",
-              "publishedAt": "2026-11-01T23:45:14+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-11-01T23:45:14+09:00",
-          "keyPoints": [
-            "現職の佐藤光氏が3選を果たす 神奈川・茅ケ崎市長選"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "国内"
-      ]
-    },
-    {
-      "id": "1ec96ed2a0b82384",
-      "slug": "2026-11-02-06-1ec96ed2",
-      "publishedAt": "2026-11-01T22:26:05+09:00",
-      "updatedAt": "2026-11-02T08:59:23.389451+09:00",
-      "title": "国学院大、遠すぎた早大の背中 創価大は3位、大東大はシード権獲得",
-      "dek": "",
-      "summary": "",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [],
-      "sections": [],
       "updates": [
         {
-          "at": "2026-11-01T22:26:05+09:00",
-          "text": "朝日新聞 最新ニュースの公開情報を確認",
-          "source": "朝日新聞 最新ニュース"
+          "at": "2026-11-02T11:22:32+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
         },
         {
-          "at": "2026-11-02T08:59:23.389451+09:00",
+          "at": "2026-11-02T19:20:35.401294+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
@@ -716,20 +230,20 @@
       "importance": 3,
       "sources": [
         {
-          "name": "朝日新聞 最新ニュース",
-          "publisherId": "asahi",
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
           "links": [
             {
-              "title": "国学院大、遠すぎた早大の背中 創価大は3位、大東大はシード権獲得",
-              "url": "https://www.asahi.com/articles/ASVC14DGXVC1UTQP00HM.html",
-              "publishedAt": "2026-11-01T22:26:05+09:00",
+              "title": "男子ゴルフ 米ツアー 最終ラウンド 平田憲聖11位 中島啓太23位",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261102de69374",
+              "publishedAt": "2026-11-02T11:22:32+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-11-01T22:26:05+09:00",
+          "publishedAt": "2026-11-02T11:22:32+09:00",
           "keyPoints": [
-            "国学院大、遠すぎた早大の背中 創価大は3位、大東大はシード権獲得"
+            "男子ゴルフのアメリカツアーの大会は1日、メキシコで最終ラウンドが行われ、平田憲聖選手は通算17アンダーで11位でした。"
           ],
           "type": "報道",
           "isPrimary": false
@@ -742,6 +256,389 @@
       "publisherCount": 1,
       "tags": [
         "スポーツ"
+      ]
+    },
+    {
+      "id": "8a34fb94ee415fb0",
+      "slug": "2026-11-02-12-8a34fb94",
+      "publishedAt": "2026-11-02T11:06:13+09:00",
+      "updatedAt": "2026-11-02T19:20:35.401294+09:00",
+      "title": "ワールド子会社に不正アクセス、会員情報のべ約120万件が流出の可能性 「RAGTAG」運営元",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-02T11:06:13+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-02T19:20:35.401294+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "ワールド子会社に不正アクセス、会員情報のべ約120万件が流出の可能性 「RAGTAG」運営元",
+              "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002783",
+              "publishedAt": "2026-11-02T11:06:13+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-02T11:06:13+09:00",
+          "keyPoints": [
+            "ワールド子会社に不正アクセス、会員情報のべ約120万件が流出の可能性 「RAGTAG」運営元"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "7e05b547957b5dd0",
+      "slug": "2026-11-02-12-7e05b547",
+      "publishedAt": "2026-11-02T11:03:07+09:00",
+      "updatedAt": "2026-11-02T19:20:35.401294+09:00",
+      "title": "影山貴彦のテレビ燦々:ヒリヒリする秀作「会社員」 保身に走りながら、「正しさ」に心は揺れ",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-02T11:03:07+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-11-02T19:20:35.401294+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "影山貴彦のテレビ燦々:ヒリヒリする秀作「会社員」 保身に走りながら、「正しさ」に心は揺れ",
+              "url": "https://mainichi.jp/articles/20261102/ddm/018/200/029000c",
+              "publishedAt": "2026-11-02T11:03:07+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-02T11:03:07+09:00",
+          "keyPoints": [
+            "影山貴彦のテレビ燦々:ヒリヒリする秀作「会社員」 保身に走りながら、「正しさ」に心は揺れ"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "e0f9d316c3919ad1",
+      "slug": "2026-11-02-12-e0f9d316",
+      "publishedAt": "2026-11-02T10:48:32+09:00",
+      "updatedAt": "2026-11-02T19:20:35.401294+09:00",
+      "title": "スペイン高速鉄道事故 日本人1人の死亡確認 地元当局が発表",
+      "dek": "スペイン中部で高速鉄道の列車が別の列車に追突し60人以上が死亡した事故で、スペインの地元当局は1日、日本人1人の死亡が確認されたと発表しました。",
+      "summary": "スペイン中部で高速鉄道の列車が別の列車に追突し60人以上が死亡した事故で、スペインの地元当局は1日、日本人1人の死亡が確認されたと発表しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "スペイン中部で高速鉄道の列車が別の列車に追突し60人以上が死亡した事故で、スペインの地元当局は1日、日本人1人の死亡が確認されたと発表しました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "スペイン中部で高速鉄道の列車が別の列車に追突し60人以上が死亡した事故で、スペインの地元当局は1日、日本人1人の死亡が確認されたと発表しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "スペイン中部で高速鉄道の列車が別の列車に追突し60人以上が死亡した事故で、スペインの地元当局は1日、日本人1人の死亡が確認されたと発表しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-02T10:48:32+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-02T19:20:35.401294+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "スペイン高速鉄道事故 日本人1人の死亡確認 地元当局が発表",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261102de69346",
+              "publishedAt": "2026-11-02T10:48:32+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-02T10:48:32+09:00",
+          "keyPoints": [
+            "スペイン中部で高速鉄道の列車が別の列車に追突し60人以上が死亡した事故で、スペインの地元当局は1日、日本人1人の死亡が確認されたと発表しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "2c2c10a76f35ed53",
+      "slug": "2026-11-02-12-2c2c10a7",
+      "publishedAt": "2026-11-02T10:48:11+09:00",
+      "updatedAt": "2026-11-02T19:20:35.401294+09:00",
+      "title": "クラブツーリズムに不正アクセス 個人情報約432万件漏えいの可能性、サイト停止",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-02T10:48:11+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-02T19:20:35.401294+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "クラブツーリズムに不正アクセス 個人情報約432万件漏えいの可能性、サイト停止",
+              "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002782",
+              "publishedAt": "2026-11-02T10:48:11+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-02T10:48:11+09:00",
+          "keyPoints": [
+            "クラブツーリズムに不正アクセス 個人情報約432万件漏えいの可能性、サイト停止"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "786739f1678b42cf",
+      "slug": "2026-11-02-12-786739f1",
+      "publishedAt": "2026-11-02T10:23:14+09:00",
+      "updatedAt": "2026-11-02T19:20:35.401294+09:00",
+      "title": "ロゴ画像用の公開領域に顧客ファイルも保存 GMO系シングルサインオン、4.5万人分漏えい",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-02T10:23:14+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-02T19:20:35.401294+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "ロゴ画像用の公開領域に顧客ファイルも保存 GMO系シングルサインオン、4.5万人分漏えい",
+              "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002780",
+              "publishedAt": "2026-11-02T10:23:14+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-02T10:23:14+09:00",
+          "keyPoints": [
+            "ロゴ画像用の公開領域に顧客ファイルも保存 GMO系シングルサインオン、4.5万人分漏えい"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "243dffbc7fb62f94",
+      "slug": "2026-11-02-12-243dffbc",
+      "publishedAt": "2026-11-02T07:00:00+09:00",
+      "updatedAt": "2026-11-02T19:20:35.401294+09:00",
+      "title": "家事や育児も「労働時間」長いと女性で心の健康リスク↑ 睡眠障害も",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-02T07:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-02T19:20:35.401294+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "家事や育児も「労働時間」長いと女性で心の健康リスク↑ 睡眠障害も",
+              "url": "https://www.asahi.com/articles/ASVBZ0PPMVBZUTFL00VM.html",
+              "publishedAt": "2026-11-02T07:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-02T07:00:00+09:00",
+          "keyPoints": [
+            "家事や育児も「労働時間」長いと女性で心の健康リスク↑ 睡眠障害も"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
       ]
     }
   ]
