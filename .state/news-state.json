@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-02T12:00:00+09:00",
-  "lastCompletedEdition": "2026-11-02-12",
+  "lastCompletedEnd": "2026-11-02T18:00:00+09:00",
+  "lastCompletedEdition": "2026-11-02-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -23436,7 +23436,128 @@
       "urls": [
         "https://www.asahi.com/articles/ASVBZ0PPMVBZUTFL00VM.html"
       ]
+    },
+    {
+      "editionId": "2026-11-02-18",
+      "title": "火山名桜島火山の状況に関する解説情報",
+      "publishedAt": "2026-11-02T16:00:07+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261102070007_0_VFVO51_010000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261102070044_0_VFVO51_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-02-18",
+      "title": "武部農林水産大臣とジョージ・グラス駐日米国大使との会談",
+      "publishedAt": "2026-11-02T16:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/yusyutu_kokusai/keizai/261102.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-02-18",
+      "title": "ノウフク・アワード2026選定結果及び農福連携サポーターズ2026投票結果を公表しました",
+      "publishedAt": "2026-11-02T13:52:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousin/kouryu/261102.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-02-18",
+      "title": "防災庁発足みんなでつくる災害に強い社会",
+      "publishedAt": "2026-11-02T11:00:00+09:00",
+      "urls": [
+        "https://www.gov-online.go.jp/article/202611/radio-3782.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-02-18",
+      "title": "共産志位議長アジア政党国際会議出席で訪韓",
+      "publishedAt": "2026-11-02T17:53:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261102de69694"
+      ]
+    },
+    {
+      "editionId": "2026-11-02-18",
+      "title": "江戸時代から続く錫山相撲来年で幕過疎化や後継者難鹿児島",
+      "publishedAt": "2026-11-02T17:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC22G2JVC2TLTB00GM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-02-18",
+      "title": "nbaクリッパーズ八村塁今シーズン最多24得点もチームは5連敗",
+      "publishedAt": "2026-11-02T16:39:45+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261102de69596"
+      ]
+    },
+    {
+      "editionId": "2026-11-02-18",
+      "title": "トランプ氏米中間選挙前の地方遊説終える私が立候補と思って",
+      "publishedAt": "2026-11-02T16:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC223PSVC2UHBI01HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-02-18",
+      "title": "山岳救助を迅速化へ兵庫県警が登山アプリヤマップと協定締結",
+      "publishedAt": "2026-11-02T15:10:17+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/02/2000002800"
+      ]
+    },
+    {
+      "editionId": "2026-11-02-18",
+      "title": "アットコスメ不正アクセス約300万人分漏えい肌質髪質も",
+      "publishedAt": "2026-11-02T15:04:20+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261102de69567"
+      ]
+    },
+    {
+      "editionId": "2026-11-02-18",
+      "title": "アットコスメ会員約300万人分の情報漏えい不正アクセスで",
+      "publishedAt": "2026-11-02T14:40:09+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/02/2000002795"
+      ]
+    },
+    {
+      "editionId": "2026-11-02-18",
+      "title": "インドネシア未完の戦争映画ロンガの海小西晴子監督独立の陰ほんろうされる人",
+      "publishedAt": "2026-11-02T14:03:20+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261102/dde/018/040/011000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-02-18",
+      "title": "映画となりのとらんす少女ちゃん性自認迷う時間の大切さ",
+      "publishedAt": "2026-11-02T13:55:34+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261102/dde/012/200/007000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-02-18",
+      "title": "トーク",
+      "publishedAt": "2026-11-02T13:53:25+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261102/dde/012/200/009000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-02-18",
+      "title": "米中間選挙の激戦地ミシガンで民主党内紛トランプ氏大きな動き",
+      "publishedAt": "2026-11-02T13:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC21C8PVC2UHBI007M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-11-02T19:20:35.401294+09:00"
+  "updatedAt": "2026-11-03T04:08:33.366240+09:00"
 }
