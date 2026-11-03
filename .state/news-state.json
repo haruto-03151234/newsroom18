@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-03T12:00:00+09:00",
-  "lastCompletedEdition": "2026-11-03-12",
+  "lastCompletedEnd": "2026-11-03T18:00:00+09:00",
+  "lastCompletedEdition": "2026-11-03-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -23717,7 +23717,63 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261102de69842"
       ]
+    },
+    {
+      "editionId": "2026-11-03-18",
+      "title": "千葉県北東部で地震m47最大震度3",
+      "publishedAt": "2026-11-03T14:44:36+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261103054436_0_VXSE53_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-03-18",
+      "title": "野球日本代表井口資仁監督が始動宮崎で強化合宿",
+      "publishedAt": "2026-11-03T17:32:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261103de70010"
+      ]
+    },
+    {
+      "editionId": "2026-11-03-18",
+      "title": "クマと衝突し特急脱線のjr宗谷線4日から運転再開5日ぶり復旧",
+      "publishedAt": "2026-11-03T17:06:45+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC32HYHVC3IIPE013M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-03-18",
+      "title": "ヒグマと衝突のjr宗谷線4日から全区間で運転再開へ",
+      "publishedAt": "2026-11-03T16:51:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261103de69986"
+      ]
+    },
+    {
+      "editionId": "2026-11-03-18",
+      "title": "トヨタの豊田章男会長に旭日大綬章もっといいクルマ商品力強化",
+      "publishedAt": "2026-11-03T15:51:24+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC323S8VC3ULFA009M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-03-18",
+      "title": "米アップル主力スマートフォン好調で増益半導体高騰の懸念も",
+      "publishedAt": "2026-11-03T15:43:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261103de69962"
+      ]
+    },
+    {
+      "editionId": "2026-11-03-18",
+      "title": "熊本地震で起きた免震世界初の被害破断・衝突懸念が現実に",
+      "publishedAt": "2026-11-03T12:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC21J8TVC2UTFL01YM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-11-03T19:19:37.581138+09:00"
+  "updatedAt": "2026-11-04T01:48:55.499196+09:00"
 }

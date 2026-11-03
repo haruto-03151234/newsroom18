@@ -1,0 +1,555 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-11-04T01:48:55.499196+09:00",
+  "summary": "対象時間帯の3配信元のニュースを7本に整理しました。うち重要ニュースは1本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-11-03-18",
+    "date": "2026-11-03",
+    "slot": "18:00",
+    "label": "夕方6時版"
+  },
+  "coverage": {
+    "from": "2026-11-03T12:00:00+09:00",
+    "to": "2026-11-03T18:00:00+09:00",
+    "start": "2026-11-03T12:00:00+09:00",
+    "end": "2026-11-03T18:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "11月03日 12:00〜11月03日 18:00"
+  },
+  "stats": {
+    "articleCount": 7,
+    "categoryCounts": {
+      "国内": 2,
+      "スポーツ": 1,
+      "社会": 1,
+      "経済": 1,
+      "海外": 1,
+      "科学": 1
+    },
+    "sourceCount": 7,
+    "publisherCount": 3,
+    "publisherCounts": {
+      "asahi": 3,
+      "jma": 1,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 1,
+      "brief": 6
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories"
+  ],
+  "articles": [
+    {
+      "id": "7ec7bf37579b620b",
+      "slug": "2026-11-03-18-7ec7bf37",
+      "publishedAt": "2026-11-03T14:44:36+09:00",
+      "updatedAt": "2026-11-04T01:48:55.499196+09:00",
+      "title": "千葉県北東部で地震 M4.7 最大震度3",
+      "dek": "11月3日14時40分、千葉県北東部を震源とするマグニチュード4.7の地震があり、最大震度3を観測しました。津波の心配はありません。",
+      "summary": "11月3日14時40分、千葉県北東部を震源とするマグニチュード4.7の地震があり、最大震度3を観測しました。津波の心配はありません。千葉県北東部で震度3を観測しました。東金市、旭市、匝瑳市、山武市、多古町、九十九里町、芝山町、横芝光町で震度3を観測しました。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "earthquake:千葉県北東部:2026-11-03t14:40:00+09:00"
+      ],
+      "facts": [
+        "発生時刻は11月3日14時40分です。",
+        "震源は千葉県北東部です。",
+        "地震の規模はマグニチュード4.7です。",
+        "最大震度は3です。",
+        "3日14時40分ころ、地震がありました。"
+      ],
+      "impactPoints": [
+        "この地震による津波の心配はありません。",
+        "千葉県北東部で震度3を観測しました。",
+        "東金市、旭市、匝瑳市、山武市、多古町、九十九里町、芝山町、横芝光町で震度3を観測しました。"
+      ],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "11月3日14時40分、千葉県北東部を震源とするマグニチュード4.7の地震があり、最大震度3を観測しました。津波の心配はありません。千葉県北東部で震度3を観測しました。東金市、旭市、匝瑳市、山武市、多古町、九十九里町、芝山町、横芝光町で震度3を観測しました。",
+        "この地震による津波の心配はありません。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "発生時刻は11月3日14時40分です。",
+            "震源は千葉県北東部です。",
+            "地震の規模はマグニチュード4.7です。",
+            "最大震度は3です。",
+            "3日14時40分ころ、地震がありました。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "この地震による津波の心配はありません。",
+            "千葉県北東部で震度3を観測しました。",
+            "東金市、旭市、匝瑳市、山武市、多古町、九十九里町、芝山町、横芝光町で震度3を観測しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-03T14:44:36+09:00",
+          "text": "気象庁 防災情報（地震・津波・火山）の公開情報を確認",
+          "source": "気象庁 防災情報（地震・津波・火山）"
+        },
+        {
+          "at": "2026-11-04T01:48:55.499196+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（地震・津波・火山）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "千葉県北東部で地震 M4.7 最大震度3",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261103054436_0_VXSE53_010000.xml",
+              "publishedAt": "2026-11-03T14:44:36+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-03T14:44:36+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（地震・津波・火山）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "0bca77d726dfff9d",
+      "slug": "2026-11-03-18-0bca77d7",
+      "publishedAt": "2026-11-03T17:32:00+09:00",
+      "updatedAt": "2026-11-04T01:48:55.499196+09:00",
+      "title": "野球 日本代表 井口資仁監督が始動 宮崎で強化合宿",
+      "dek": "野球の日本代表、井口資仁監督の初采配となる国際大会に向けた代表メンバーの強化合宿が、3日から宮崎市で始まりました。",
+      "summary": "野球の日本代表、井口資仁監督の初采配となる国際大会に向けた代表メンバーの強化合宿が、3日から宮崎市で始まりました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "野球の日本代表、井口資仁監督の初采配となる国際大会に向けた代表メンバーの強化合宿が、3日から宮崎市で始まりました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "野球の日本代表、井口資仁監督の初采配となる国際大会に向けた代表メンバーの強化合宿が、3日から宮崎市で始まりました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "野球の日本代表、井口資仁監督の初采配となる国際大会に向けた代表メンバーの強化合宿が、3日から宮崎市で始まりました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-03T17:32:00+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-11-04T01:48:55.499196+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "野球 日本代表 井口資仁監督が始動 宮崎で強化合宿",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261103de70010",
+              "publishedAt": "2026-11-03T17:32:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-03T17:32:00+09:00",
+          "keyPoints": [
+            "野球の日本代表、井口資仁監督の初采配となる国際大会に向けた代表メンバーの強化合宿が、3日から宮崎市で始まりました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "dceba7bc64329e17",
+      "slug": "2026-11-03-18-dceba7bc",
+      "publishedAt": "2026-11-03T17:06:45+09:00",
+      "updatedAt": "2026-11-04T01:48:55.499196+09:00",
+      "title": "クマと衝突し特急脱線のJR宗谷線、4日から運転再開 5日ぶり復旧",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-03T17:06:45+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-04T01:48:55.499196+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "クマと衝突し特急脱線のJR宗谷線、4日から運転再開 5日ぶり復旧",
+              "url": "https://www.asahi.com/articles/ASVC32HYHVC3IIPE013M.html",
+              "publishedAt": "2026-11-03T17:06:45+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-03T17:06:45+09:00",
+          "keyPoints": [
+            "クマと衝突し特急脱線のJR宗谷線、4日から運転再開 5日ぶり復旧"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "7389752a76991c2c",
+      "slug": "2026-11-03-18-7389752a",
+      "publishedAt": "2026-11-03T16:51:00+09:00",
+      "updatedAt": "2026-11-04T01:48:55.499196+09:00",
+      "title": "ヒグマと衝突のJR宗谷線 4日から全区間で運転再開へ",
+      "dek": "特急列車がヒグマと衝突し、一部の区間で運転を見合わせていたJR宗谷線について、JR北海道は復旧作業が終わったとして、4日からすべての区間で運転を再開すると発表しました。",
+      "summary": "特急列車がヒグマと衝突し、一部の区間で運転を見合わせていたJR宗谷線について、JR北海道は復旧作業が終わったとして、4日からすべての区間で運転を再開すると発表しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "特急列車がヒグマと衝突し、一部の区間で運転を見合わせていたJR宗谷線について、JR北海道は復旧作業が終わったとして、4日からすべての区間で運転を再開すると発表しました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "特急列車がヒグマと衝突し、一部の区間で運転を見合わせていたJR宗谷線について、JR北海道は復旧作業が終わったとして、4日からすべての区間で運転を再開すると発表しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "特急列車がヒグマと衝突し、一部の区間で運転を見合わせていたJR宗谷線について、JR北海道は復旧作業が終わったとして、4日からすべての区間で運転を再開すると発表しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-03T16:51:00+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
+        },
+        {
+          "at": "2026-11-04T01:48:55.499196+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "ヒグマと衝突のJR宗谷線 4日から全区間で運転再開へ",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261103de69986",
+              "publishedAt": "2026-11-03T16:51:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-03T16:51:00+09:00",
+          "keyPoints": [
+            "特急列車がヒグマと衝突し、一部の区間で運転を見合わせていたJR宗谷線について、JR北海道は復旧作業が終わったとして、4日からすべての区間で運転を再開すると発表しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "2d7e693f3930ed76",
+      "slug": "2026-11-03-18-2d7e693f",
+      "publishedAt": "2026-11-03T15:51:24+09:00",
+      "updatedAt": "2026-11-04T01:48:55.499196+09:00",
+      "title": "トヨタの豊田章男会長に旭日大綬章 「もっといいクルマ」商品力強化",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-03T15:51:24+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-04T01:48:55.499196+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "トヨタの豊田章男会長に旭日大綬章 「もっといいクルマ」商品力強化",
+              "url": "https://www.asahi.com/articles/ASVC323S8VC3ULFA009M.html",
+              "publishedAt": "2026-11-03T15:51:24+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-03T15:51:24+09:00",
+          "keyPoints": [
+            "トヨタの豊田章男会長に旭日大綬章 「もっといいクルマ」商品力強化"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "2a3b398dbee41a14",
+      "slug": "2026-11-03-18-2a3b398d",
+      "publishedAt": "2026-11-03T15:43:00+09:00",
+      "updatedAt": "2026-11-04T01:48:55.499196+09:00",
+      "title": "米アップル主力スマートフォン好調で増益 半導体高騰の懸念も",
+      "dek": "アメリカのIT大手アップルの2026年9月までの3か月間の決算は、主力製品であるiPhoneの需要が堅調で増益となりました。",
+      "summary": "アメリカのIT大手アップルの2026年9月までの3か月間の決算は、主力製品であるiPhoneの需要が堅調で増益となりました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "アメリカのIT大手アップルの2026年9月までの3か月間の決算は、主力製品であるiPhoneの需要が堅調で増益となりました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "アメリカのIT大手アップルの2026年9月までの3か月間の決算は、主力製品であるiPhoneの需要が堅調で増益となりました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "アメリカのIT大手アップルの2026年9月までの3か月間の決算は、主力製品であるiPhoneの需要が堅調で増益となりました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-03T15:43:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-04T01:48:55.499196+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "米アップル主力スマートフォン好調で増益 半導体高騰の懸念も",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261103de69962",
+              "publishedAt": "2026-11-03T15:43:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-03T15:43:00+09:00",
+          "keyPoints": [
+            "アメリカのIT大手アップルの2026年9月までの3か月間の決算は、主力製品であるiPhoneの需要が堅調で増益となりました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "cb97ef86ea9d9e76",
+      "slug": "2026-11-03-18-cb97ef86",
+      "publishedAt": "2026-11-03T12:00:00+09:00",
+      "updatedAt": "2026-11-04T01:48:55.499196+09:00",
+      "title": "熊本地震で起きた免震「世界初」の被害 破断・衝突…懸念が現実に",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-03T12:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-04T01:48:55.499196+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "熊本地震で起きた免震「世界初」の被害 破断・衝突…懸念が現実に",
+              "url": "https://www.asahi.com/articles/ASVC21J8TVC2UTFL01YM.html",
+              "publishedAt": "2026-11-03T12:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-03T12:00:00+09:00",
+          "keyPoints": [
+            "熊本地震で起きた免震「世界初」の被害 破断・衝突…懸念が現実に"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    }
+  ]
+}
