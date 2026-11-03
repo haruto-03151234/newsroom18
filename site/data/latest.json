@@ -5,43 +5,43 @@
     "tagline": "事実をつなぎ、背景まで伝える。",
     "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
   },
-  "generatedAt": "2026-11-03T11:41:50.018912+09:00",
-  "summary": "対象時間帯の4配信元の主なニュースを11本に整理しました。",
+  "generatedAt": "2026-11-03T19:19:37.581138+09:00",
+  "summary": "対象時間帯の3配信元の主なニュースを9本に整理しました。",
   "generationMode": "structured",
   "edition": {
-    "id": "2026-11-03-06",
+    "id": "2026-11-03-12",
     "date": "2026-11-03",
-    "slot": "06:00",
-    "label": "朝6時版"
+    "slot": "12:00",
+    "label": "昼12時版"
   },
   "coverage": {
-    "from": "2026-11-02T18:00:00+09:00",
-    "to": "2026-11-03T06:00:00+09:00",
-    "start": "2026-11-02T18:00:00+09:00",
-    "end": "2026-11-03T06:00:00+09:00",
+    "from": "2026-11-03T06:00:00+09:00",
+    "to": "2026-11-03T12:00:00+09:00",
+    "start": "2026-11-03T06:00:00+09:00",
+    "end": "2026-11-03T12:00:00+09:00",
     "timezone": "Asia/Tokyo",
-    "label": "11月02日 18:00〜11月03日 06:00"
+    "label": "11月03日 06:00〜11月03日 12:00"
   },
   "stats": {
-    "articleCount": 11,
+    "articleCount": 9,
     "categoryCounts": {
-      "海外": 2,
+      "スポーツ": 1,
+      "国内": 1,
       "科学": 1,
-      "エンタメ": 3,
+      "海外": 1,
       "社会": 1,
       "テクノロジー": 3,
-      "経済": 1
+      "エンタメ": 1
     },
-    "sourceCount": 11,
-    "publisherCount": 4,
+    "sourceCount": 9,
+    "publisherCount": 3,
     "publisherCounts": {
       "asahi": 3,
       "itmedia": 3,
-      "mainichi": 2,
       "nhk": 3
     },
     "articleTypeCounts": {
-      "brief": 11
+      "brief": 9
     },
     "feedFailureCount": 2
   },
@@ -51,64 +51,66 @@
   ],
   "articles": [
     {
-      "id": "2fe0152bc12079bb",
-      "slug": "2026-11-03-06-2fe0152b",
-      "publishedAt": "2026-11-03T05:43:00+09:00",
-      "updatedAt": "2026-11-03T11:41:50.018912+09:00",
-      "title": "米アンソロピック 売り上げ13倍もAI開発への支出は140兆円余に",
-      "dek": "アメリカのAI開発企業「アンソロピック」はIPO＝新規株式公開に向けた書類の改訂版を公表し、ことし1月から9月までの売り上げが去年の同じ時期の13倍となったことを明らかにしました。",
-      "summary": "アメリカのAI開発企業「アンソロピック」はIPO＝新規株式公開に向けた書類の改訂版を公表し、ことし1月から9月までの売り上げが去年の同じ時期の13倍となったことを明らかにしました。",
+      "id": "15b900da48978f92",
+      "slug": "2026-11-03-12-15b900da",
+      "publishedAt": "2026-11-03T11:59:00+09:00",
+      "updatedAt": "2026-11-03T19:19:37.581138+09:00",
+      "title": "大リーグ 大谷翔平がMVP最終候補に 4年連続の受賞なるか",
+      "dek": "大リーグ、ドジャースの大谷翔平選手がナショナルリーグのMVP＝最優秀選手の最終候補3人に選ばれました。",
+      "summary": "大リーグ、ドジャースの大谷翔平選手がナショナルリーグのMVP＝最優秀選手の最終候補3人に選ばれました。 受賞すれば4年連続5回目となります。",
       "whyItMatters": "",
       "articleType": "brief",
       "deskLens": "",
       "eventKeys": [],
       "facts": [
-        "アメリカのAI開発企業「アンソロピック」はIPO＝新規株式公開に向けた書類の改訂版を公表し、ことし1月から9月までの売り上げが去年の同じ時期の13倍となったことを明らかにしました。"
+        "大リーグ、ドジャースの大谷翔平選手がナショナルリーグのMVP＝最優秀選手の最終候補3人に選ばれました。",
+        "受賞すれば4年連続5回目となります。"
       ],
       "impactPoints": [],
       "background": "",
       "watchPoints": [],
       "body": [
-        "アメリカのAI開発企業「アンソロピック」はIPO＝新規株式公開に向けた書類の改訂版を公表し、ことし1月から9月までの売り上げが去年の同じ時期の13倍となったことを明らかにしました。"
+        "大リーグ、ドジャースの大谷翔平選手がナショナルリーグのMVP＝最優秀選手の最終候補3人に選ばれました。 受賞すれば4年連続5回目となります。"
       ],
       "sections": [
         {
           "heading": "確認できた事実",
           "paragraphs": [
-            "アメリカのAI開発企業「アンソロピック」はIPO＝新規株式公開に向けた書類の改訂版を公表し、ことし1月から9月までの売り上げが去年の同じ時期の13倍となったことを明らかにしました。"
+            "大リーグ、ドジャースの大谷翔平選手がナショナルリーグのMVP＝最優秀選手の最終候補3人に選ばれました。",
+            "受賞すれば4年連続5回目となります。"
           ]
         }
       ],
       "updates": [
         {
-          "at": "2026-11-03T05:43:00+09:00",
-          "text": "NHK ONE 国際の公開情報を確認",
-          "source": "NHK ONE 国際"
+          "at": "2026-11-03T11:59:00+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
         },
         {
-          "at": "2026-11-03T11:41:50.018912+09:00",
+          "at": "2026-11-03T19:19:37.581138+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
       ],
-      "category": "海外",
+      "category": "スポーツ",
       "importance": 3,
       "sources": [
         {
-          "name": "NHK ONE 国際",
+          "name": "NHK ONE スポーツ",
           "publisherId": "nhk",
           "links": [
             {
-              "title": "米アンソロピック 売り上げ13倍もAI開発への支出は140兆円余に",
-              "url": "https://news.web.nhk/newsweb/na/nd-20261103de69869",
-              "publishedAt": "2026-11-03T05:43:00+09:00",
+              "title": "大リーグ 大谷翔平がMVP最終候補に 4年連続の受賞なるか",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261103de69910",
+              "publishedAt": "2026-11-03T11:59:00+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-11-03T05:43:00+09:00",
+          "publishedAt": "2026-11-03T11:59:00+09:00",
           "keyPoints": [
-            "アメリカのAI開発企業「アンソロピック」はIPO＝新規株式公開に向けた書類の改訂版を公表し、ことし1月から9月までの売り上げが去年の同じ時期の13倍となったことを明らかにしました。"
+            "大リーグ、ドジャースの大谷翔平選手がナショナルリーグのMVP＝最優秀選手の最終候補3人に選ばれました。受賞すれば4年連続5回目となります。"
           ],
           "type": "報道",
           "isPrimary": false
@@ -120,76 +122,57 @@
       "continuationOrigins": [],
       "publisherCount": 1,
       "tags": [
-        "海外"
+        "スポーツ"
       ]
     },
     {
-      "id": "1f2771c29121aa10",
-      "slug": "2026-11-03-06-1f2771c2",
-      "publishedAt": "2026-11-03T05:38:09+09:00",
-      "updatedAt": "2026-11-03T11:41:50.018912+09:00",
-      "title": "「花博」国際園芸博覧会 タイで始まる 横浜で来年大規模開催へ",
-      "dek": "いわゆる「花博」として知られる国際園芸博覧会がタイで始まりました。",
-      "summary": "いわゆる「花博」として知られる国際園芸博覧会がタイで始まりました。 2027年には横浜市でより大規模な博覧会が開かれる予定で、会場では期待の声も聞かれました。",
+      "id": "2369c67036e5c865",
+      "slug": "2026-11-03-12-2369c670",
+      "publishedAt": "2026-11-03T11:30:00+09:00",
+      "updatedAt": "2026-11-03T19:19:37.581138+09:00",
+      "title": "憲法ゆかりの「マッカーサールーム」、3D映像で再現 第一生命ビル",
+      "dek": "",
+      "summary": "",
       "whyItMatters": "",
       "articleType": "brief",
       "deskLens": "",
       "eventKeys": [],
-      "facts": [
-        "いわゆる「花博」として知られる国際園芸博覧会がタイで始まりました。"
-      ],
+      "facts": [],
       "impactPoints": [],
       "background": "",
-      "watchPoints": [
-        "2027年には横浜市でより大規模な博覧会が開かれる予定で、会場では期待の声も聞かれました。"
-      ],
-      "body": [
-        "いわゆる「花博」として知られる国際園芸博覧会がタイで始まりました。 2027年には横浜市でより大規模な博覧会が開かれる予定で、会場では期待の声も聞かれました。"
-      ],
-      "sections": [
-        {
-          "heading": "確認できた事実",
-          "paragraphs": [
-            "いわゆる「花博」として知られる国際園芸博覧会がタイで始まりました。"
-          ]
-        },
-        {
-          "heading": "次に注目",
-          "paragraphs": [
-            "2027年には横浜市でより大規模な博覧会が開かれる予定で、会場では期待の声も聞かれました。"
-          ]
-        }
-      ],
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
       "updates": [
         {
-          "at": "2026-11-03T05:38:09+09:00",
-          "text": "NHK ONE 国際の公開情報を確認",
-          "source": "NHK ONE 国際"
+          "at": "2026-11-03T11:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
         },
         {
-          "at": "2026-11-03T11:41:50.018912+09:00",
+          "at": "2026-11-03T19:19:37.581138+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
       ],
-      "category": "海外",
+      "category": "国内",
       "importance": 3,
       "sources": [
         {
-          "name": "NHK ONE 国際",
-          "publisherId": "nhk",
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
           "links": [
             {
-              "title": "「花博」国際園芸博覧会 タイで始まる 横浜で来年大規模開催へ",
-              "url": "https://news.web.nhk/newsweb/na/nd-20261103de69863",
-              "publishedAt": "2026-11-03T05:38:09+09:00",
+              "title": "憲法ゆかりの「マッカーサールーム」、3D映像で再現 第一生命ビル",
+              "url": "https://www.asahi.com/articles/ASVC23Q6ZVC2UTFK01GM.html",
+              "publishedAt": "2026-11-03T11:30:00+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-11-03T05:38:09+09:00",
+          "publishedAt": "2026-11-03T11:30:00+09:00",
           "keyPoints": [
-            "いわゆる「花博」として知られる国際園芸博覧会がタイで始まりました。2027年には横浜市でより大規模な博覧会が開かれる予定で、会場では期待の声も聞かれました。"
+            "憲法ゆかりの「マッカーサールーム」、3D映像で再現 第一生命ビル"
           ],
           "type": "報道",
           "isPrimary": false
@@ -201,46 +184,35 @@
       "continuationOrigins": [],
       "publisherCount": 1,
       "tags": [
-        "海外"
+        "国内"
       ]
     },
     {
-      "id": "26bf4fb538c025aa",
-      "slug": "2026-11-03-06-26bf4fb5",
-      "publishedAt": "2026-11-03T05:02:00+09:00",
-      "updatedAt": "2026-11-03T11:41:50.018912+09:00",
-      "title": "GMO 経営トップ含めセキュリティーリスク対応の体制構築が課題",
-      "dek": "GMOインターネットグループは、不正アクセスの問題が明らかになってから初めてとなる会見を2日、開きました。",
-      "summary": "GMOインターネットグループは、不正アクセスの問題が明らかになってから初めてとなる会見を2日、開きました。",
+      "id": "2e4fb8f50a0e0ed6",
+      "slug": "2026-11-03-12-2e4fb8f5",
+      "publishedAt": "2026-11-03T11:30:00+09:00",
+      "updatedAt": "2026-11-03T19:19:37.581138+09:00",
+      "title": "最強の生物？ 平均気温マイナス18度、南極内陸で新種「地衣生菌」",
+      "dek": "",
+      "summary": "",
       "whyItMatters": "",
       "articleType": "brief",
       "deskLens": "",
       "eventKeys": [],
-      "facts": [
-        "GMOインターネットグループは、不正アクセスの問題が明らかになってから初めてとなる会見を2日、開きました。"
-      ],
+      "facts": [],
       "impactPoints": [],
       "background": "",
       "watchPoints": [],
-      "body": [
-        "GMOインターネットグループは、不正アクセスの問題が明らかになってから初めてとなる会見を2日、開きました。"
-      ],
-      "sections": [
-        {
-          "heading": "確認できた事実",
-          "paragraphs": [
-            "GMOインターネットグループは、不正アクセスの問題が明らかになってから初めてとなる会見を2日、開きました。"
-          ]
-        }
-      ],
+      "body": [],
+      "sections": [],
       "updates": [
         {
-          "at": "2026-11-03T05:02:00+09:00",
-          "text": "NHK ONE 科学・文化の公開情報を確認",
-          "source": "NHK ONE 科学・文化"
+          "at": "2026-11-03T11:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
         },
         {
-          "at": "2026-11-03T11:41:50.018912+09:00",
+          "at": "2026-11-03T19:19:37.581138+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
@@ -249,20 +221,20 @@
       "importance": 3,
       "sources": [
         {
-          "name": "NHK ONE 科学・文化",
-          "publisherId": "nhk",
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
           "links": [
             {
-              "title": "GMO 経営トップ含めセキュリティーリスク対応の体制構築が課題",
-              "url": "https://news.web.nhk/newsweb/na/nd-20261103de69861",
-              "publishedAt": "2026-11-03T05:02:00+09:00",
+              "title": "最強の生物？ 平均気温マイナス18度、南極内陸で新種「地衣生菌」",
+              "url": "https://www.asahi.com/articles/ASVC21JKGVC2UTFL00SM.html",
+              "publishedAt": "2026-11-03T11:30:00+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-11-03T05:02:00+09:00",
+          "publishedAt": "2026-11-03T11:30:00+09:00",
           "keyPoints": [
-            "GMOインターネットグループは、不正アクセスの問題が明らかになってから初めてとなる会見を2日、開きました。"
+            "最強の生物？ 平均気温マイナス18度、南極内陸で新種「地衣生菌」"
           ],
           "type": "報道",
           "isPrimary": false
@@ -278,11 +250,11 @@
       ]
     },
     {
-      "id": "4e6647543a2fdb31",
-      "slug": "2026-11-03-06-4e664754",
-      "publishedAt": "2026-11-03T05:00:00+09:00",
-      "updatedAt": "2026-11-03T11:41:50.018912+09:00",
-      "title": "旭日小綬章のバレエダンサー川口ゆり子さん 「基本」教え続け半世紀",
+      "id": "6a202d36af3fb55e",
+      "slug": "2026-11-03-12-6a202d36",
+      "publishedAt": "2026-11-03T11:00:00+09:00",
+      "updatedAt": "2026-11-03T19:19:37.581138+09:00",
+      "title": "30秒で3億円、中間選挙の広告過熱 CMに「人間が作成しました」",
       "dek": "",
       "summary": "",
       "whyItMatters": "",
@@ -297,17 +269,17 @@
       "sections": [],
       "updates": [
         {
-          "at": "2026-11-03T05:00:00+09:00",
+          "at": "2026-11-03T11:00:00+09:00",
           "text": "朝日新聞 最新ニュースの公開情報を確認",
           "source": "朝日新聞 最新ニュース"
         },
         {
-          "at": "2026-11-03T11:41:50.018912+09:00",
+          "at": "2026-11-03T19:19:37.581138+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
       ],
-      "category": "エンタメ",
+      "category": "海外",
       "importance": 3,
       "sources": [
         {
@@ -315,16 +287,16 @@
           "publisherId": "asahi",
           "links": [
             {
-              "title": "旭日小綬章のバレエダンサー川口ゆり子さん 「基本」教え続け半世紀",
-              "url": "https://www.asahi.com/articles/ASVBZ121CVBZUCVL03WM.html",
-              "publishedAt": "2026-11-03T05:00:00+09:00",
+              "title": "30秒で3億円、中間選挙の広告過熱 CMに「人間が作成しました」",
+              "url": "https://www.asahi.com/articles/ASVC24C95VC2UHBI028M.html",
+              "publishedAt": "2026-11-03T11:00:00+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-11-03T05:00:00+09:00",
+          "publishedAt": "2026-11-03T11:00:00+09:00",
           "keyPoints": [
-            "旭日小綬章のバレエダンサー川口ゆり子さん 「基本」教え続け半世紀"
+            "30秒で3億円、中間選挙の広告過熱 CMに「人間が作成しました」"
           ],
           "type": "報道",
           "isPrimary": false
@@ -336,159 +308,46 @@
       "continuationOrigins": [],
       "publisherCount": 1,
       "tags": [
-        "エンタメ"
+        "海外"
       ]
     },
     {
-      "id": "c32bf24875dcaa2f",
-      "slug": "2026-11-03-06-c32bf248",
-      "publishedAt": "2026-11-03T02:02:18+09:00",
-      "updatedAt": "2026-11-03T11:41:50.018912+09:00",
-      "title": "続・リモコンの片隅から:BS12トゥエルビ 汚れ仕事は ハリーに任せろ！",
-      "dek": "",
-      "summary": "",
+      "id": "ba22abfa3003dda1",
+      "slug": "2026-11-03-12-ba22abfa",
+      "publishedAt": "2026-11-03T10:14:44+09:00",
+      "updatedAt": "2026-11-03T19:19:37.581138+09:00",
+      "title": "スペイン列車事故 日本人2人の死亡確認 地元当局が身元特定",
+      "dek": "スペイン中部で、10月、高速鉄道の列車が別の列車に追突した事故で、地元当局は死亡した69人全員の身元の特定を完了し、日本人2人が含まれると発表しました。",
+      "summary": "スペイン中部で、10月、高速鉄道の列車が別の列車に追突した事故で、地元当局は死亡した69人全員の身元の特定を完了し、日本人2人が含まれると発表しました。",
       "whyItMatters": "",
       "articleType": "brief",
       "deskLens": "",
       "eventKeys": [],
-      "facts": [],
+      "facts": [
+        "スペイン中部で、10月、高速鉄道の列車が別の列車に追突した事故で、地元当局は死亡した69人全員の身元の特定を完了し、日本人2人が含まれると発表しました。"
+      ],
       "impactPoints": [],
       "background": "",
       "watchPoints": [],
-      "body": [],
-      "sections": [],
+      "body": [
+        "スペイン中部で、10月、高速鉄道の列車が別の列車に追突した事故で、地元当局は死亡した69人全員の身元の特定を完了し、日本人2人が含まれると発表しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "スペイン中部で、10月、高速鉄道の列車が別の列車に追突した事故で、地元当局は死亡した69人全員の身元の特定を完了し、日本人2人が含まれると発表しました。"
+          ]
+        }
+      ],
       "updates": [
         {
-          "at": "2026-11-03T02:02:18+09:00",
-          "text": "毎日新聞 エンタメの公開情報を確認",
-          "source": "毎日新聞 エンタメ"
+          "at": "2026-11-03T10:14:44+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
         },
         {
-          "at": "2026-11-03T11:41:50.018912+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "エンタメ",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "毎日新聞 エンタメ",
-          "publisherId": "mainichi",
-          "links": [
-            {
-              "title": "続・リモコンの片隅から:BS12トゥエルビ 汚れ仕事は ハリーに任せろ！",
-              "url": "https://mainichi.jp/articles/20261103/ddm/018/200/013000c",
-              "publishedAt": "2026-11-03T02:02:18+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-11-03T02:02:18+09:00",
-          "keyPoints": [
-            "続・リモコンの片隅から:BS12トゥエルビ 汚れ仕事は ハリーに任せろ！"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "id": "2b2b0942fe81cd04",
-      "slug": "2026-11-03-06-2b2b0942",
-      "publishedAt": "2026-11-03T02:01:40+09:00",
-      "updatedAt": "2026-11-03T11:41:50.018912+09:00",
-      "title": "視聴室:会社員",
-      "dek": "",
-      "summary": "",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [],
-      "sections": [],
-      "updates": [
-        {
-          "at": "2026-11-03T02:01:40+09:00",
-          "text": "毎日新聞 エンタメの公開情報を確認",
-          "source": "毎日新聞 エンタメ"
-        },
-        {
-          "at": "2026-11-03T11:41:50.018912+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "エンタメ",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "毎日新聞 エンタメ",
-          "publisherId": "mainichi",
-          "links": [
-            {
-              "title": "視聴室:会社員",
-              "url": "https://mainichi.jp/articles/20261103/ddm/018/200/101000c",
-              "publishedAt": "2026-11-03T02:01:40+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-11-03T02:01:40+09:00",
-          "keyPoints": [
-            "視聴室:会社員"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "id": "34652ab13701dbd0",
-      "slug": "2026-11-03-06-34652ab1",
-      "publishedAt": "2026-11-03T00:09:56+09:00",
-      "updatedAt": "2026-11-03T11:41:50.018912+09:00",
-      "title": "チェーンソーなどを線路付近に放置した疑い 撮り鉄仲間？ の2人逮捕",
-      "dek": "",
-      "summary": "",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [],
-      "sections": [],
-      "updates": [
-        {
-          "at": "2026-11-03T00:09:56+09:00",
-          "text": "朝日新聞 最新ニュースの公開情報を確認",
-          "source": "朝日新聞 最新ニュース"
-        },
-        {
-          "at": "2026-11-03T11:41:50.018912+09:00",
+          "at": "2026-11-03T19:19:37.581138+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
@@ -497,20 +356,20 @@
       "importance": 3,
       "sources": [
         {
-          "name": "朝日新聞 最新ニュース",
-          "publisherId": "asahi",
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
           "links": [
             {
-              "title": "チェーンソーなどを線路付近に放置した疑い 撮り鉄仲間？の2人逮捕",
-              "url": "https://www.asahi.com/articles/ASVC24WVQVC2IIPE010M.html",
-              "publishedAt": "2026-11-03T00:09:56+09:00",
+              "title": "スペイン列車事故 日本人2人の死亡確認 地元当局が身元特定",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261103de69859",
+              "publishedAt": "2026-11-03T10:14:44+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-11-03T00:09:56+09:00",
+          "publishedAt": "2026-11-03T10:14:44+09:00",
           "keyPoints": [
-            "チェーンソーなどを線路付近に放置した疑い 撮り鉄仲間？ の2人逮捕"
+            "スペイン中部で、10月、高速鉄道の列車が別の列車に追突した事故で、地元当局は死亡した69人全員の身元の特定を完了し、日本人2人が含まれると発表しました。"
           ],
           "type": "報道",
           "isPrimary": false
@@ -526,11 +385,11 @@
       ]
     },
     {
-      "id": "d9118e014e6857b3",
-      "slug": "2026-11-03-06-d9118e01",
-      "publishedAt": "2026-11-02T20:57:33+09:00",
-      "updatedAt": "2026-11-03T11:41:50.018912+09:00",
-      "title": "「命の砂時計」連呼のGMO会見──熊谷代表の発言にXではツッコミ続出",
+      "id": "182e8ca108a56ff9",
+      "slug": "2026-11-03-12-182e8ca1",
+      "publishedAt": "2026-11-03T09:44:48+09:00",
+      "updatedAt": "2026-11-03T19:19:37.581138+09:00",
+      "title": "Apple、第4四半期として過去最高の増収増益 ターナスCEO初の決算「Siri AIはずっと望んでいたSiri」",
       "dek": "",
       "summary": "",
       "whyItMatters": "",
@@ -545,12 +404,12 @@
       "sections": [],
       "updates": [
         {
-          "at": "2026-11-02T20:57:33+09:00",
+          "at": "2026-11-03T09:44:48+09:00",
           "text": "ITmedia NEWSの公開情報を確認",
           "source": "ITmedia NEWS"
         },
         {
-          "at": "2026-11-03T11:41:50.018912+09:00",
+          "at": "2026-11-03T19:19:37.581138+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
@@ -563,16 +422,16 @@
           "publisherId": "itmedia",
           "links": [
             {
-              "title": "「命の砂時計」連呼のGMO会見──熊谷代表の発言にXではツッコミ続出",
-              "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002828",
-              "publishedAt": "2026-11-02T20:57:33+09:00",
+              "title": "Apple、第4四半期として過去最高の増収増益 ターナスCEO初の決算「Siri AIはずっと望んでいたSiri」",
+              "url": "https://www.itmedia.co.jp/news/article/2611/03/2000002840",
+              "publishedAt": "2026-11-03T09:44:48+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-11-02T20:57:33+09:00",
+          "publishedAt": "2026-11-03T09:44:48+09:00",
           "keyPoints": [
-            "「命の砂時計」連呼のGMO会見──熊谷代表の発言にXではツッコミ続出"
+            "Apple、第4四半期として過去最高の増収増益 ターナスCEO初の決算「Siri AIはずっと望んでいたSiri」"
           ],
           "type": "報道",
           "isPrimary": false
@@ -588,11 +447,11 @@
       ]
     },
     {
-      "id": "4dba39da3014d1cc",
-      "slug": "2026-11-03-06-4dba39da",
-      "publishedAt": "2026-11-02T20:47:56+09:00",
-      "updatedAt": "2026-11-03T11:41:50.018912+09:00",
-      "title": "GMOが不正アクセス問題で初の会見 「被害拡大防止で手いっぱい」",
+      "id": "76343d0a0879f5db",
+      "slug": "2026-11-03-12-76343d0a",
+      "publishedAt": "2026-11-03T09:00:00+09:00",
+      "updatedAt": "2026-11-03T19:19:37.581138+09:00",
+      "title": "渦中のGMO記者会見、責任の所在はどこに？ 熊谷代表が語った“グループ内の力関係”",
       "dek": "",
       "summary": "",
       "whyItMatters": "",
@@ -607,74 +466,12 @@
       "sections": [],
       "updates": [
         {
-          "at": "2026-11-02T20:47:56+09:00",
-          "text": "朝日新聞 最新ニュースの公開情報を確認",
-          "source": "朝日新聞 最新ニュース"
-        },
-        {
-          "at": "2026-11-03T11:41:50.018912+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "経済",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "朝日新聞 最新ニュース",
-          "publisherId": "asahi",
-          "links": [
-            {
-              "title": "GMOが不正アクセス問題で初の会見 「被害拡大防止で手いっぱい」",
-              "url": "https://www.asahi.com/articles/ASVC23SLHVC2ULFA00HM.html",
-              "publishedAt": "2026-11-02T20:47:56+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-11-02T20:47:56+09:00",
-          "keyPoints": [
-            "GMOが不正アクセス問題で初の会見 「被害拡大防止で手いっぱい」"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "経済"
-      ]
-    },
-    {
-      "id": "576c804d4278c4f8",
-      "slug": "2026-11-03-06-576c804d",
-      "publishedAt": "2026-11-02T19:27:04+09:00",
-      "updatedAt": "2026-11-03T11:41:50.018912+09:00",
-      "title": "GMO熊谷代表、涙の謝罪会見でも“熊谷節”さく裂──「31年間、もうけるという言葉は使ったことがない」",
-      "dek": "",
-      "summary": "",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [],
-      "sections": [],
-      "updates": [
-        {
-          "at": "2026-11-02T19:27:04+09:00",
+          "at": "2026-11-03T09:00:00+09:00",
           "text": "ITmedia NEWSの公開情報を確認",
           "source": "ITmedia NEWS"
         },
         {
-          "at": "2026-11-03T11:41:50.018912+09:00",
+          "at": "2026-11-03T19:19:37.581138+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
@@ -687,16 +484,16 @@
           "publisherId": "itmedia",
           "links": [
             {
-              "title": "GMO熊谷代表、涙の謝罪会見でも“熊谷節”さく裂──「31年間、もうけるという言葉は使ったことがない」",
-              "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002823",
-              "publishedAt": "2026-11-02T19:27:04+09:00",
+              "title": "渦中のGMO記者会見、責任の所在はどこに？ 熊谷代表が語った“グループ内の力関係”",
+              "url": "https://www.itmedia.co.jp/news/article/2611/03/2000002829",
+              "publishedAt": "2026-11-03T09:00:00+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-11-02T19:27:04+09:00",
+          "publishedAt": "2026-11-03T09:00:00+09:00",
           "keyPoints": [
-            "GMO熊谷代表、涙の謝罪会見でも“熊谷節”さく裂──「31年間、もうけるという言葉は使ったことがない」"
+            "渦中のGMO記者会見、責任の所在はどこに？ 熊谷代表が語った“グループ内の力関係”"
           ],
           "type": "報道",
           "isPrimary": false
@@ -712,11 +509,11 @@
       ]
     },
     {
-      "id": "d7762f1e27f8209b",
-      "slug": "2026-11-03-06-d7762f1e",
-      "publishedAt": "2026-11-02T19:20:14+09:00",
-      "updatedAt": "2026-11-03T11:41:50.018912+09:00",
-      "title": "GMO熊谷代表、会見で改めて謝罪 SNS投稿巡り「配慮が欠けていた」",
+      "id": "582f4a701d829931",
+      "slug": "2026-11-03-12-582f4a70",
+      "publishedAt": "2026-11-03T08:20:20+09:00",
+      "updatedAt": "2026-11-03T19:19:37.581138+09:00",
+      "title": "Anthropic、IPO申請書を修正 7? 9月売上高は約170億ドル、インフラ契約額は約8954億ドル",
       "dek": "",
       "summary": "",
       "whyItMatters": "",
@@ -731,12 +528,12 @@
       "sections": [],
       "updates": [
         {
-          "at": "2026-11-02T19:20:14+09:00",
+          "at": "2026-11-03T08:20:20+09:00",
           "text": "ITmedia NEWSの公開情報を確認",
           "source": "ITmedia NEWS"
         },
         {
-          "at": "2026-11-03T11:41:50.018912+09:00",
+          "at": "2026-11-03T19:19:37.581138+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
@@ -749,16 +546,16 @@
           "publisherId": "itmedia",
           "links": [
             {
-              "title": "GMO熊谷代表、会見で改めて謝罪 SNS投稿巡り「配慮が欠けていた」",
-              "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002806",
-              "publishedAt": "2026-11-02T19:20:14+09:00",
+              "title": "Anthropic、IPO申請書を修正 7?9月売上高は約170億ドル、インフラ契約額は約8954億ドル",
+              "url": "https://www.itmedia.co.jp/news/article/2611/03/2000002831",
+              "publishedAt": "2026-11-03T08:20:20+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-11-02T19:20:14+09:00",
+          "publishedAt": "2026-11-03T08:20:20+09:00",
           "keyPoints": [
-            "GMO熊谷代表、会見で改めて謝罪 SNS投稿巡り「配慮が欠けていた」"
+            "Anthropic、IPO申請書を修正 7? 9月売上高は約170億ドル、インフラ契約額は約8954億ドル"
           ],
           "type": "報道",
           "isPrimary": false
@@ -771,6 +568,79 @@
       "publisherCount": 1,
       "tags": [
         "テクノロジー"
+      ]
+    },
+    {
+      "id": "fe7771473e8cc218",
+      "slug": "2026-11-03-12-fe777147",
+      "publishedAt": "2026-11-03T05:30:00+09:00",
+      "updatedAt": "2026-11-03T19:19:37.581138+09:00",
+      "title": "作家の山中恒さんの手記全文が初公開 憲法公布時期に執筆",
+      "dek": "人気テレビドラマ「あばれはっちゃく」の原作者で子ども向けの著作を数多く残し、ことし3月に94歳で亡くなった作家の山中恒さん。",
+      "summary": "人気テレビドラマ「あばれはっちゃく」の原作者で子ども向けの著作を数多く残し、ことし3月に94歳で亡くなった作家の山中恒さん。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "人気テレビドラマ「あばれはっちゃく」の原作者で子ども向けの著作を数多く残し、ことし3月に94歳で亡くなった作家の山中恒さん。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "人気テレビドラマ「あばれはっちゃく」の原作者で子ども向けの著作を数多く残し、ことし3月に94歳で亡くなった作家の山中恒さん。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "人気テレビドラマ「あばれはっちゃく」の原作者で子ども向けの著作を数多く残し、ことし3月に94歳で亡くなった作家の山中恒さん。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-03T05:30:00+09:00",
+          "text": "NHK ONE 科学・文化の公開情報を確認",
+          "source": "NHK ONE 科学・文化"
+        },
+        {
+          "at": "2026-11-03T19:19:37.581138+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 科学・文化",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "作家の山中恒さんの手記全文が初公開 憲法公布時期に執筆",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261102de69842",
+              "publishedAt": "2026-11-03T05:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-03T05:30:00+09:00",
+          "keyPoints": [
+            "人気テレビドラマ「あばれはっちゃく」の原作者で子ども向けの著作を数多く残し、ことし3月に94歳で亡くなった作家の山中恒さん。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
       ]
     }
   ]

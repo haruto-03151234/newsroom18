@@ -1,0 +1,647 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-11-03T19:19:37.581138+09:00",
+  "summary": "対象時間帯の3配信元の主なニュースを9本に整理しました。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-11-03-12",
+    "date": "2026-11-03",
+    "slot": "12:00",
+    "label": "昼12時版"
+  },
+  "coverage": {
+    "from": "2026-11-03T06:00:00+09:00",
+    "to": "2026-11-03T12:00:00+09:00",
+    "start": "2026-11-03T06:00:00+09:00",
+    "end": "2026-11-03T12:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "11月03日 06:00〜11月03日 12:00"
+  },
+  "stats": {
+    "articleCount": 9,
+    "categoryCounts": {
+      "スポーツ": 1,
+      "国内": 1,
+      "科学": 1,
+      "海外": 1,
+      "社会": 1,
+      "テクノロジー": 3,
+      "エンタメ": 1
+    },
+    "sourceCount": 9,
+    "publisherCount": 3,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 3,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "brief": 9
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories"
+  ],
+  "articles": [
+    {
+      "id": "15b900da48978f92",
+      "slug": "2026-11-03-12-15b900da",
+      "publishedAt": "2026-11-03T11:59:00+09:00",
+      "updatedAt": "2026-11-03T19:19:37.581138+09:00",
+      "title": "大リーグ 大谷翔平がMVP最終候補に 4年連続の受賞なるか",
+      "dek": "大リーグ、ドジャースの大谷翔平選手がナショナルリーグのMVP＝最優秀選手の最終候補3人に選ばれました。",
+      "summary": "大リーグ、ドジャースの大谷翔平選手がナショナルリーグのMVP＝最優秀選手の最終候補3人に選ばれました。 受賞すれば4年連続5回目となります。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "大リーグ、ドジャースの大谷翔平選手がナショナルリーグのMVP＝最優秀選手の最終候補3人に選ばれました。",
+        "受賞すれば4年連続5回目となります。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "大リーグ、ドジャースの大谷翔平選手がナショナルリーグのMVP＝最優秀選手の最終候補3人に選ばれました。 受賞すれば4年連続5回目となります。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "大リーグ、ドジャースの大谷翔平選手がナショナルリーグのMVP＝最優秀選手の最終候補3人に選ばれました。",
+            "受賞すれば4年連続5回目となります。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-03T11:59:00+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-11-03T19:19:37.581138+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "大リーグ 大谷翔平がMVP最終候補に 4年連続の受賞なるか",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261103de69910",
+              "publishedAt": "2026-11-03T11:59:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-03T11:59:00+09:00",
+          "keyPoints": [
+            "大リーグ、ドジャースの大谷翔平選手がナショナルリーグのMVP＝最優秀選手の最終候補3人に選ばれました。受賞すれば4年連続5回目となります。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "2369c67036e5c865",
+      "slug": "2026-11-03-12-2369c670",
+      "publishedAt": "2026-11-03T11:30:00+09:00",
+      "updatedAt": "2026-11-03T19:19:37.581138+09:00",
+      "title": "憲法ゆかりの「マッカーサールーム」、3D映像で再現 第一生命ビル",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-03T11:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-03T19:19:37.581138+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "憲法ゆかりの「マッカーサールーム」、3D映像で再現 第一生命ビル",
+              "url": "https://www.asahi.com/articles/ASVC23Q6ZVC2UTFK01GM.html",
+              "publishedAt": "2026-11-03T11:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-03T11:30:00+09:00",
+          "keyPoints": [
+            "憲法ゆかりの「マッカーサールーム」、3D映像で再現 第一生命ビル"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "2e4fb8f50a0e0ed6",
+      "slug": "2026-11-03-12-2e4fb8f5",
+      "publishedAt": "2026-11-03T11:30:00+09:00",
+      "updatedAt": "2026-11-03T19:19:37.581138+09:00",
+      "title": "最強の生物？ 平均気温マイナス18度、南極内陸で新種「地衣生菌」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-03T11:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-03T19:19:37.581138+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "最強の生物？ 平均気温マイナス18度、南極内陸で新種「地衣生菌」",
+              "url": "https://www.asahi.com/articles/ASVC21JKGVC2UTFL00SM.html",
+              "publishedAt": "2026-11-03T11:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-03T11:30:00+09:00",
+          "keyPoints": [
+            "最強の生物？ 平均気温マイナス18度、南極内陸で新種「地衣生菌」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    },
+    {
+      "id": "6a202d36af3fb55e",
+      "slug": "2026-11-03-12-6a202d36",
+      "publishedAt": "2026-11-03T11:00:00+09:00",
+      "updatedAt": "2026-11-03T19:19:37.581138+09:00",
+      "title": "30秒で3億円、中間選挙の広告過熱 CMに「人間が作成しました」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-03T11:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-03T19:19:37.581138+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "30秒で3億円、中間選挙の広告過熱 CMに「人間が作成しました」",
+              "url": "https://www.asahi.com/articles/ASVC24C95VC2UHBI028M.html",
+              "publishedAt": "2026-11-03T11:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-03T11:00:00+09:00",
+          "keyPoints": [
+            "30秒で3億円、中間選挙の広告過熱 CMに「人間が作成しました」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "ba22abfa3003dda1",
+      "slug": "2026-11-03-12-ba22abfa",
+      "publishedAt": "2026-11-03T10:14:44+09:00",
+      "updatedAt": "2026-11-03T19:19:37.581138+09:00",
+      "title": "スペイン列車事故 日本人2人の死亡確認 地元当局が身元特定",
+      "dek": "スペイン中部で、10月、高速鉄道の列車が別の列車に追突した事故で、地元当局は死亡した69人全員の身元の特定を完了し、日本人2人が含まれると発表しました。",
+      "summary": "スペイン中部で、10月、高速鉄道の列車が別の列車に追突した事故で、地元当局は死亡した69人全員の身元の特定を完了し、日本人2人が含まれると発表しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "スペイン中部で、10月、高速鉄道の列車が別の列車に追突した事故で、地元当局は死亡した69人全員の身元の特定を完了し、日本人2人が含まれると発表しました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "スペイン中部で、10月、高速鉄道の列車が別の列車に追突した事故で、地元当局は死亡した69人全員の身元の特定を完了し、日本人2人が含まれると発表しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "スペイン中部で、10月、高速鉄道の列車が別の列車に追突した事故で、地元当局は死亡した69人全員の身元の特定を完了し、日本人2人が含まれると発表しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-03T10:14:44+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
+        },
+        {
+          "at": "2026-11-03T19:19:37.581138+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "スペイン列車事故 日本人2人の死亡確認 地元当局が身元特定",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261103de69859",
+              "publishedAt": "2026-11-03T10:14:44+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-03T10:14:44+09:00",
+          "keyPoints": [
+            "スペイン中部で、10月、高速鉄道の列車が別の列車に追突した事故で、地元当局は死亡した69人全員の身元の特定を完了し、日本人2人が含まれると発表しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "182e8ca108a56ff9",
+      "slug": "2026-11-03-12-182e8ca1",
+      "publishedAt": "2026-11-03T09:44:48+09:00",
+      "updatedAt": "2026-11-03T19:19:37.581138+09:00",
+      "title": "Apple、第4四半期として過去最高の増収増益 ターナスCEO初の決算「Siri AIはずっと望んでいたSiri」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-03T09:44:48+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-03T19:19:37.581138+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "Apple、第4四半期として過去最高の増収増益 ターナスCEO初の決算「Siri AIはずっと望んでいたSiri」",
+              "url": "https://www.itmedia.co.jp/news/article/2611/03/2000002840",
+              "publishedAt": "2026-11-03T09:44:48+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-03T09:44:48+09:00",
+          "keyPoints": [
+            "Apple、第4四半期として過去最高の増収増益 ターナスCEO初の決算「Siri AIはずっと望んでいたSiri」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "76343d0a0879f5db",
+      "slug": "2026-11-03-12-76343d0a",
+      "publishedAt": "2026-11-03T09:00:00+09:00",
+      "updatedAt": "2026-11-03T19:19:37.581138+09:00",
+      "title": "渦中のGMO記者会見、責任の所在はどこに？ 熊谷代表が語った“グループ内の力関係”",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-03T09:00:00+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-03T19:19:37.581138+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "渦中のGMO記者会見、責任の所在はどこに？ 熊谷代表が語った“グループ内の力関係”",
+              "url": "https://www.itmedia.co.jp/news/article/2611/03/2000002829",
+              "publishedAt": "2026-11-03T09:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-03T09:00:00+09:00",
+          "keyPoints": [
+            "渦中のGMO記者会見、責任の所在はどこに？ 熊谷代表が語った“グループ内の力関係”"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "582f4a701d829931",
+      "slug": "2026-11-03-12-582f4a70",
+      "publishedAt": "2026-11-03T08:20:20+09:00",
+      "updatedAt": "2026-11-03T19:19:37.581138+09:00",
+      "title": "Anthropic、IPO申請書を修正 7? 9月売上高は約170億ドル、インフラ契約額は約8954億ドル",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-03T08:20:20+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-03T19:19:37.581138+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "Anthropic、IPO申請書を修正 7?9月売上高は約170億ドル、インフラ契約額は約8954億ドル",
+              "url": "https://www.itmedia.co.jp/news/article/2611/03/2000002831",
+              "publishedAt": "2026-11-03T08:20:20+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-03T08:20:20+09:00",
+          "keyPoints": [
+            "Anthropic、IPO申請書を修正 7? 9月売上高は約170億ドル、インフラ契約額は約8954億ドル"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "fe7771473e8cc218",
+      "slug": "2026-11-03-12-fe777147",
+      "publishedAt": "2026-11-03T05:30:00+09:00",
+      "updatedAt": "2026-11-03T19:19:37.581138+09:00",
+      "title": "作家の山中恒さんの手記全文が初公開 憲法公布時期に執筆",
+      "dek": "人気テレビドラマ「あばれはっちゃく」の原作者で子ども向けの著作を数多く残し、ことし3月に94歳で亡くなった作家の山中恒さん。",
+      "summary": "人気テレビドラマ「あばれはっちゃく」の原作者で子ども向けの著作を数多く残し、ことし3月に94歳で亡くなった作家の山中恒さん。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "人気テレビドラマ「あばれはっちゃく」の原作者で子ども向けの著作を数多く残し、ことし3月に94歳で亡くなった作家の山中恒さん。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "人気テレビドラマ「あばれはっちゃく」の原作者で子ども向けの著作を数多く残し、ことし3月に94歳で亡くなった作家の山中恒さん。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "人気テレビドラマ「あばれはっちゃく」の原作者で子ども向けの著作を数多く残し、ことし3月に94歳で亡くなった作家の山中恒さん。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-03T05:30:00+09:00",
+          "text": "NHK ONE 科学・文化の公開情報を確認",
+          "source": "NHK ONE 科学・文化"
+        },
+        {
+          "at": "2026-11-03T19:19:37.581138+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 科学・文化",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "作家の山中恒さんの手記全文が初公開 憲法公布時期に執筆",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261102de69842",
+              "publishedAt": "2026-11-03T05:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-03T05:30:00+09:00",
+          "keyPoints": [
+            "人気テレビドラマ「あばれはっちゃく」の原作者で子ども向けの著作を数多く残し、ことし3月に94歳で亡くなった作家の山中恒さん。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    }
+  ]
+}
