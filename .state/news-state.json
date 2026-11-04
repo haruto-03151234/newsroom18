@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-03T18:00:00+09:00",
-  "lastCompletedEdition": "2026-11-03-18",
+  "lastCompletedEnd": "2026-11-04T06:00:00+09:00",
+  "lastCompletedEdition": "2026-11-04-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -23773,7 +23773,65 @@
       "urls": [
         "https://www.asahi.com/articles/ASVC21J8TVC2UTFL01YM.html"
       ]
+    },
+    {
+      "editionId": "2026-11-04-06",
+      "title": "関東甲信地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-04T05:36:26+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261103203626_0_VPCJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261103204422_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261103205426_0_VPFJ50_080000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-04-06",
+      "title": "アメリカ中間選挙投票続く一部は日本時間の午前8時から開票",
+      "publishedAt": "2026-11-04T05:54:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261103de69983"
+      ]
+    },
+    {
+      "editionId": "2026-11-04-06",
+      "title": "それでも共和党支持の理由民主党に託す1票トランプ政権への審判",
+      "publishedAt": "2026-11-04T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC325KVVC3UHBI00BM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-04-06",
+      "title": "欧州発着のフライト爆破予告が相次ぐ少なくとも4社8便に影響",
+      "publishedAt": "2026-11-04T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC36DYSVC3UHBI018M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-04-06",
+      "title": "90歳の軽トラ転落か89歳妻死亡朝に事故夕方に近所の人通報",
+      "publishedAt": "2026-11-03T23:35:48+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC34R1NVC3PTIL00QM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-04-06",
+      "title": "サッカースペイン2部の試合で選手どうしが激突1人死亡",
+      "publishedAt": "2026-11-03T23:15:28+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261103de70067"
+      ]
+    },
+    {
+      "editionId": "2026-11-04-06",
+      "title": "横浜ゴム委託先への不正アクセスでメールアドレスなど漏えい",
+      "publishedAt": "2026-11-03T19:15:32+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261103de70021"
+      ]
     }
   ],
-  "updatedAt": "2026-11-04T01:48:55.499196+09:00"
+  "updatedAt": "2026-11-04T09:57:30.844861+09:00"
 }
