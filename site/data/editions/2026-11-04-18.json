@@ -1,0 +1,1042 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-11-05T01:49:21.334709+09:00",
+  "summary": "対象時間帯の6配信元のニュースを13本に整理しました。うち重要ニュースは2本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-11-04-18",
+    "date": "2026-11-04",
+    "slot": "18:00",
+    "label": "夕方6時版"
+  },
+  "coverage": {
+    "from": "2026-11-04T12:00:00+09:00",
+    "to": "2026-11-04T18:00:00+09:00",
+    "start": "2026-11-04T12:00:00+09:00",
+    "end": "2026-11-04T18:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "11月04日 12:00〜11月04日 18:00"
+  },
+  "stats": {
+    "articleCount": 13,
+    "categoryCounts": {
+      "国内": 1,
+      "経済": 1,
+      "社会": 3,
+      "テクノロジー": 3,
+      "海外": 2,
+      "スポーツ": 1,
+      "エンタメ": 2
+    },
+    "sourceCount": 19,
+    "publisherCount": 6,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 3,
+      "jma": 1,
+      "maff": 1,
+      "mainichi": 2,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 2,
+      "brief": 11
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories"
+  ],
+  "articles": [
+    {
+      "id": "bd40ff2075a78f1f",
+      "slug": "2026-11-04-18-bd40ff20",
+      "publishedAt": "2026-11-04T16:05:27+09:00",
+      "updatedAt": "2026-11-05T01:49:21.334709+09:00",
+      "title": "千葉県気象解説情報（大雨・落雷・突風）",
+      "dek": "11月4日 16:05〜11月4日 16:39更新。千葉県では、5日未明から朝にかけて、低い土地の浸水や河川の増水に、5日明け方から昼前にかけて、土砂災害に注意・警戒してください。",
+      "summary": "千葉県では、5日未明から朝にかけて、低い土地の浸水や河川の増水に、5日明け方から昼前にかけて、土砂災害に注意・警戒してください。また、落雷や竜巻などの激しい突風、降ひょうに注意してください。[気象概況] 5日朝までに、西日本から東日本の南岸に前線がのび、関東の東の前線上に低気圧が発生するでしょう。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "千葉県気象解説情報大雨落雷突風"
+      ],
+      "facts": [
+        "[気象概況] 5日朝までに、西日本から東日本の南岸に前線がのび、関東の東の前線上に低気圧が発生するでしょう。",
+        "低気圧や前線に向かって、日本のはるか東の高気圧の縁や台風第31号の周辺を回って暖かく湿った空気が流れ込むため、千葉県では4日夜遅くから5日昼前にかけて大気の状態が非常に不安定となるでしょう。",
+        "[雨の予想] 千葉県では、4日夜遅くから5日朝にかけて、雷を伴った激しい雨や非常に激しい雨の降る所があるでしょう。",
+        "また、4日。",
+        "低気圧や前線に向かって、日本のはるか東の高気圧の縁や台風第31号の周辺を回って暖かく湿った空気が流れ込むため、茨城県では5日未明から昼前にかけて大気の状態が非常に不安定となるでしょう。",
+        "[雨の予想] 茨城県では、5日明け方から朝にかけて、雷を伴った激しい雨や非常に激しい雨の降る所があるでしょう。",
+        "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど安全確保に努めてください。",
+        "低気圧や前線に向かって、日本のはるか東の高気圧の縁や台風第31号の周辺を回って暖かく湿った空気が流れ込むため、伊豆諸島では5日夜遅くにかけて大気の状態が非常に不安定となるでしょう。",
+        "[雨の予想] 伊豆諸島では、5日昼前にかけて、雷を伴った激しい雨や非常に激しい雨の降る所があるでしょう。"
+      ],
+      "impactPoints": [
+        "千葉県では、5日未明から朝にかけて、低い土地の浸水や河川の増水に、5日明け方から昼前にかけて、土砂災害に注意・警戒してください。",
+        "また、落雷や竜巻などの激しい突風、降ひょうに注意してください。",
+        "4日に予想される1時間降水量は多い所で、 南部 30ミリ 5日に予想される1時間降水量は多い所で、 北西部 50ミリ 北東部 50ミリ 南部 50ミリ 4日18時から5日18時までに予想される24時間降水量は多い所で、 北西部 120ミリ 北東部 130ミリ 南部 130ミリ [防災事項] 千葉県では、5日未明から朝にかけて、低い土地の浸水や河川の増水に、5日明け方から昼前にかけて、土砂災害に注意・警戒してください。",
+        "茨城県では、5日未明から昼前にかけて、低い土地の浸水や河川の増水に十分注意してください。",
+        "5日に予想される1時間降水量は多い所で、 北部 30ミリ 南部 50ミリ 4日18時から5日18時までに予想される24時間降水量は多い所で、 北部 100ミリ 南部 120ミリ [防災事項] 茨城県では、5日未明から昼前にかけて、低い土地の浸水や河川の増水に十分注意してください。",
+        "また、落雷や竜巻などの激しい突風に注意してください。",
+        "伊豆諸島では、4日夜遅くから5日夕方にかけて土砂災害に注意・警戒してください。",
+        "また、5日夜遅くにかけて、落雷や竜巻などの激しい突風に注意してください。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "その後、低気圧は発達しながら北東へ進む見込みです。",
+        "雨雲が予想以上に発達した場合や、発達した雨雲がかかり続けた場合には、警報級の大雨となる可能性があります。",
+        "降ひょうのおそれもあ。",
+        "[気象概況] 4日夜に東シナ海にある前線上に低気圧が発生し、5日朝にかけて対馬海峡に進む見込みです。",
+        "この低気圧に向かって暖かく湿った空気が流れ込み、大気の状態が非常に不安定となる見込みです。",
+        "このため、福岡県では、5日昼前から夕方にかけて局地的に積乱雲が発達し、落雷や竜巻などの激しい突風が発生するおそれがあります。"
+      ],
+      "body": [
+        "千葉県では、5日未明から朝にかけて、低い土地の浸水や河川の増水に、5日明け方から昼前にかけて、土砂災害に注意・警戒してください。また、落雷や竜巻などの激しい突風、降ひょうに注意してください。[気象概況] 5日朝までに、西日本から東日本の南岸に前線がのび、関東の東の前線上に低気圧が発生するでしょう。",
+        "4日に予想される1時間降水量は多い所で、 南部 30ミリ 5日に予想される1時間降水量は多い所で、 北西部 50ミリ 北東部 50ミリ 南部 50ミリ 4日18時から5日18時までに予想される24時間降水量は多い所で、 北西部 120ミリ 北東部 130ミリ 南部 130ミリ [防災事項] 千葉県では、5日未明から朝にかけて、低い土地の浸水や河川の増水に、5日明け方から昼前にかけて、土砂災害に注意・警戒してください。",
+        "茨城県では、5日未明から昼前にかけて、低い土地の浸水や河川の増水に十分注意してください。",
+        "また、落雷や竜巻などの激しい突風に注意してください。",
+        "伊豆諸島では、4日夜遅くから5日夕方にかけて土砂災害に注意・警戒してください。",
+        "また、5日夜遅くにかけて、落雷や竜巻などの激しい突風に注意してください。",
+        "その後、低気圧は発達しながら北東へ進む見込みです。",
+        "雨雲が予想以上に発達した場合や、発達した雨雲がかかり続けた場合には、警報級の大雨となる可能性があります。",
+        "降ひょうのおそれもあ。",
+        "[気象概況] 4日夜に東シナ海にある前線上に低気圧が発生し、5日朝にかけて対馬海峡に進む見込みです。",
+        "この低気圧に向かって暖かく湿った空気が流れ込み、大気の状態が非常に不安定となる見込みです。",
+        "このため、福岡県では、5日昼前から夕方にかけて局地的に積乱雲が発達し、落雷や竜巻などの激しい突風が発生するおそれがあります。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "[気象概況] 5日朝までに、西日本から東日本の南岸に前線がのび、関東の東の前線上に低気圧が発生するでしょう。",
+            "低気圧や前線に向かって、日本のはるか東の高気圧の縁や台風第31号の周辺を回って暖かく湿った空気が流れ込むため、千葉県では4日夜遅くから5日昼前にかけて大気の状態が非常に不安定となるでしょう。",
+            "[雨の予想] 千葉県では、4日夜遅くから5日朝にかけて、雷を伴った激しい雨や非常に激しい雨の降る所があるでしょう。",
+            "また、4日。",
+            "低気圧や前線に向かって、日本のはるか東の高気圧の縁や台風第31号の周辺を回って暖かく湿った空気が流れ込むため、茨城県では5日未明から昼前にかけて大気の状態が非常に不安定となるでしょう。",
+            "[雨の予想] 茨城県では、5日明け方から朝にかけて、雷を伴った激しい雨や非常に激しい雨の降る所があるでしょう。",
+            "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど安全確保に努めてください。",
+            "低気圧や前線に向かって、日本のはるか東の高気圧の縁や台風第31号の周辺を回って暖かく湿った空気が流れ込むため、伊豆諸島では5日夜遅くにかけて大気の状態が非常に不安定となるでしょう。",
+            "[雨の予想] 伊豆諸島では、5日昼前にかけて、雷を伴った激しい雨や非常に激しい雨の降る所があるでしょう。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "千葉県では、5日未明から朝にかけて、低い土地の浸水や河川の増水に、5日明け方から昼前にかけて、土砂災害に注意・警戒してください。",
+            "また、落雷や竜巻などの激しい突風、降ひょうに注意してください。",
+            "4日に予想される1時間降水量は多い所で、 南部 30ミリ 5日に予想される1時間降水量は多い所で、 北西部 50ミリ 北東部 50ミリ 南部 50ミリ 4日18時から5日18時までに予想される24時間降水量は多い所で、 北西部 120ミリ 北東部 130ミリ 南部 130ミリ [防災事項] 千葉県では、5日未明から朝にかけて、低い土地の浸水や河川の増水に、5日明け方から昼前にかけて、土砂災害に注意・警戒してください。",
+            "茨城県では、5日未明から昼前にかけて、低い土地の浸水や河川の増水に十分注意してください。",
+            "5日に予想される1時間降水量は多い所で、 北部 30ミリ 南部 50ミリ 4日18時から5日18時までに予想される24時間降水量は多い所で、 北部 100ミリ 南部 120ミリ [防災事項] 茨城県では、5日未明から昼前にかけて、低い土地の浸水や河川の増水に十分注意してください。",
+            "また、落雷や竜巻などの激しい突風に注意してください。",
+            "伊豆諸島では、4日夜遅くから5日夕方にかけて土砂災害に注意・警戒してください。",
+            "また、5日夜遅くにかけて、落雷や竜巻などの激しい突風に注意してください。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "その後、低気圧は発達しながら北東へ進む見込みです。",
+            "雨雲が予想以上に発達した場合や、発達した雨雲がかかり続けた場合には、警報級の大雨となる可能性があります。",
+            "降ひょうのおそれもあ。",
+            "[気象概況] 4日夜に東シナ海にある前線上に低気圧が発生し、5日朝にかけて対馬海峡に進む見込みです。",
+            "この低気圧に向かって暖かく湿った空気が流れ込み、大気の状態が非常に不安定となる見込みです。",
+            "このため、福岡県では、5日昼前から夕方にかけて局地的に積乱雲が発達し、落雷や竜巻などの激しい突風が発生するおそれがあります。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-04T16:39:15+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-11-05T01:49:21.334709+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "長崎県気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261104070528_0_VPFJ50_420000.xml",
+              "publishedAt": "2026-11-04T16:05:27+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "佐賀県気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261104070606_0_VPFJ50_410000.xml",
+              "publishedAt": "2026-11-04T16:06:05+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "福岡県気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261104070646_0_VPFJ50_400000.xml",
+              "publishedAt": "2026-11-04T16:06:45+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "東京都気象解説情報（大雨・落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261104073321_0_VPFJ50_130000.xml",
+              "publishedAt": "2026-11-04T16:33:20+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "茨城県気象解説情報（大雨・落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261104073402_0_VPFJ50_080000.xml",
+              "publishedAt": "2026-11-04T16:34:02+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "千葉県気象解説情報（大雨・落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261104073916_0_VPFJ50_120000.xml",
+              "publishedAt": "2026-11-04T16:39:15+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-04T16:39:15+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 6,
+      "freshSourceCount": 6,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "62e00b06f9e570f7",
+      "slug": "2026-11-04-18-62e00b06",
+      "publishedAt": "2026-11-04T16:00:00+09:00",
+      "updatedAt": "2026-11-05T01:49:21.334709+09:00",
+      "title": "「第13回“日本の食品”輸出EXPO WINTER」に日本の米から生まれるフードイノベーションが集結！ ！",
+      "dek": "11月4日 16:00更新。プレスリリース 〇 令和8年11月11日(水曜日)から11月13日(金曜日)まで、東京ビッグサイトで開催される「輸出EXPO」に参加。",
+      "summary": "プレスリリース 〇 令和8年11月11日(水曜日)から11月13日(金曜日)まで、東京ビッグサイトで開催される「輸出EXPO」に参加。〇 一般社団法人全日本コメ・コメ関連食品輸出促進協議会と連携し、多彩な米加工品の魅力を国内外のバイヤー等へ発信。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "第13回日本の食品輸出expowinterに日本の米から生まれるフードイノベーションが集結"
+      ],
+      "facts": [
+        "プレスリリース 〇 令和8年11月11日(水曜日)から11月13日(金曜日)まで、東京ビッグサイトで開催される「輸出EXPO」に参加。",
+        "〇 一般社団法人全日本コメ・コメ関連食品輸出促進協議会と連携し、多彩な米加工品の魅力を国内外のバイヤー等へ発信。",
+        "農林水産省は、令和8年11月11日(水曜日)から11月13日(金曜日)まで開催される「第13回“日本の食品”輸出EXPO WINTER」において、米・米加工品の輸出拡大に向けた取組を紹介するとともに、一般社団法人全日本コメ・コメ関連食品輸出促進協議会と連携し、日本の米粉製品や米菓など、多彩な米加工品の魅力を国内外のバイヤー等へ発信します。",
+        "本展示では、日本の米・米加工品の輸出拡大に向けた農林水産省の取組とあわせ、一般社団法人全日本コメ・コメ関連食品輸出促進協議会と連携し、「DISCOVER JAPANESE RICE ~まだ知らない、日本の米・米加工品に出会う~」をコンセプトに、米粉製品や米菓、パックご飯など、日本の米から生まれたフードイノベーションを体現した多彩な米加工品について、用途や利用シーンごとに紹介し、その魅力を発信します。",
+        "主な展示内容は次のとおりです。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "プレスリリース 〇 令和8年11月11日(水曜日)から11月13日(金曜日)まで、東京ビッグサイトで開催される「輸出EXPO」に参加。〇 一般社団法人全日本コメ・コメ関連食品輸出促進協議会と連携し、多彩な米加工品の魅力を国内外のバイヤー等へ発信。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "プレスリリース 〇 令和8年11月11日(水曜日)から11月13日(金曜日)まで、東京ビッグサイトで開催される「輸出EXPO」に参加。",
+            "〇 一般社団法人全日本コメ・コメ関連食品輸出促進協議会と連携し、多彩な米加工品の魅力を国内外のバイヤー等へ発信。",
+            "農林水産省は、令和8年11月11日(水曜日)から11月13日(金曜日)まで開催される「第13回“日本の食品”輸出EXPO WINTER」において、米・米加工品の輸出拡大に向けた取組を紹介するとともに、一般社団法人全日本コメ・コメ関連食品輸出促進協議会と連携し、日本の米粉製品や米菓など、多彩な米加工品の魅力を国内外のバイヤー等へ発信します。",
+            "本展示では、日本の米・米加工品の輸出拡大に向けた農林水産省の取組とあわせ、一般社団法人全日本コメ・コメ関連食品輸出促進協議会と連携し、「DISCOVER JAPANESE RICE ~まだ知らない、日本の米・米加工品に出会う~」をコンセプトに、米粉製品や米菓、パックご飯など、日本の米から生まれたフードイノベーションを体現した多彩な米加工品について、用途や利用シーンごとに紹介し、その魅力を発信します。",
+            "主な展示内容は次のとおりです。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-04T16:00:00+09:00",
+          "text": "農林水産省 報道発表資料の公開情報を確認",
+          "source": "農林水産省 報道発表資料"
+        },
+        {
+          "at": "2026-11-05T01:49:21.334709+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "農林水産省 報道発表資料",
+          "publisherId": "maff",
+          "links": [
+            {
+              "title": "「第13回“日本の食品”輸出EXPO WINTER」に日本の米から生まれるフードイノベーションが集結！！",
+              "url": "https://www.maff.go.jp/j/press/nousan/kikaku/261104.html",
+              "publishedAt": "2026-11-04T16:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-04T16:00:00+09:00",
+          "keyPoints": [
+            "農林水産省 報道発表資料の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "a7e2ad0d3c3dc9e6",
+      "slug": "2026-11-04-18-a7e2ad0d",
+      "publishedAt": "2026-11-04T17:45:08+09:00",
+      "updatedAt": "2026-11-05T01:49:21.334709+09:00",
+      "title": "男児の盗撮容疑で元保育士の男を逮捕 きっかけはアメリカからの情報",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-04T17:45:08+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-05T01:49:21.334709+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "男児の盗撮容疑で元保育士の男を逮捕 きっかけはアメリカからの情報",
+              "url": "https://www.asahi.com/articles/ASVC42R1PVC4ULOB00KM.html",
+              "publishedAt": "2026-11-04T17:45:08+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-04T17:45:08+09:00",
+          "keyPoints": [
+            "男児の盗撮容疑で元保育士の男を逮捕 きっかけはアメリカからの情報"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "3f5120621eca4dea",
+      "slug": "2026-11-04-18-3f512062",
+      "publishedAt": "2026-11-04T17:39:03+09:00",
+      "updatedAt": "2026-11-05T01:49:21.334709+09:00",
+      "title": "議事録も資料もAIが作るなら、人間は何をする？ AIエージェントへ舵を切る「Plaud」を試す",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-04T17:39:03+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-05T01:49:21.334709+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "議事録も資料もAIが作るなら、人間は何をする？ AIエージェントへ舵を切る「Plaud」を試す",
+              "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002764",
+              "publishedAt": "2026-11-04T17:39:03+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-04T17:39:03+09:00",
+          "keyPoints": [
+            "議事録も資料もAIが作るなら、人間は何をする？ AIエージェントへ舵を切る「Plaud」を試す"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "2bb9b9308ba7e500",
+      "slug": "2026-11-04-18-2bb9b930",
+      "publishedAt": "2026-11-04T17:36:19+09:00",
+      "updatedAt": "2026-11-05T01:49:21.334709+09:00",
+      "title": "両陛下、文化勲章受章者らと茶会 「エッフェル塔、素晴らしかった」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-04T17:36:19+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-05T01:49:21.334709+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "両陛下、文化勲章受章者らと茶会 「エッフェル塔、素晴らしかった」",
+              "url": "https://www.asahi.com/articles/ASVC42SL0VC4UTIL003M.html",
+              "publishedAt": "2026-11-04T17:36:19+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-04T17:36:19+09:00",
+          "keyPoints": [
+            "両陛下、文化勲章受章者らと茶会 「エッフェル塔、素晴らしかった」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "e9b325b3753ecaec",
+      "slug": "2026-11-04-18-e9b325b3",
+      "publishedAt": "2026-11-04T17:30:00+09:00",
+      "updatedAt": "2026-11-05T01:49:21.334709+09:00",
+      "title": "大阪府が使う配信サービスでメアド漏洩か アララへの不正アクセスで",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-04T17:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-05T01:49:21.334709+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "大阪府が使う配信サービスでメアド漏洩か アララへの不正アクセスで",
+              "url": "https://www.asahi.com/articles/ASVC42QBHVC4OXIE02DM.html",
+              "publishedAt": "2026-11-04T17:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-04T17:30:00+09:00",
+          "keyPoints": [
+            "大阪府が使う配信サービスでメアド漏洩か アララへの不正アクセスで"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "b627e08f3cfc990c",
+      "slug": "2026-11-04-18-b627e08f",
+      "publishedAt": "2026-11-04T16:55:18+09:00",
+      "updatedAt": "2026-11-05T01:49:21.334709+09:00",
+      "title": "デニーズアプリに不正アクセス 旧アプリ移行処理で認証情報を不正作成される 個人情報漏えいか",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-04T16:55:18+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-05T01:49:21.334709+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "デニーズアプリに不正アクセス 旧アプリ移行処理で認証情報を不正作成される 個人情報漏えいか",
+              "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002878",
+              "publishedAt": "2026-11-04T16:55:18+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-04T16:55:18+09:00",
+          "keyPoints": [
+            "デニーズアプリに不正アクセス 旧アプリ移行処理で認証情報を不正作成される 個人情報漏えいか"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "fa05fd05992a1e3a",
+      "slug": "2026-11-04-18-fa05fd05",
+      "publishedAt": "2026-11-04T16:38:00+09:00",
+      "updatedAt": "2026-11-05T01:49:21.334709+09:00",
+      "title": "アメリカ史上初の黒人女性知事が南部ジョージア州で誕生へ",
+      "dek": "アメリカの複数のメディアは、南部ジョージア州の州知事選挙でキーシャ・ボトムズ氏の当選が確実になったと伝え、アメリカで史上初の黒人の女性知事が誕生する見通しとなりました。",
+      "summary": "アメリカの複数のメディアは、南部ジョージア州の州知事選挙でキーシャ・ボトムズ氏の当選が確実になったと伝え、アメリカで史上初の黒人の女性知事が誕生する見通しとなりました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [
+        "アメリカの複数のメディアは、南部ジョージア州の州知事選挙でキーシャ・ボトムズ氏の当選が確実になったと伝え、アメリカで史上初の黒人の女性知事が誕生する見通しとなりました。"
+      ],
+      "body": [
+        "アメリカの複数のメディアは、南部ジョージア州の州知事選挙でキーシャ・ボトムズ氏の当選が確実になったと伝え、アメリカで史上初の黒人の女性知事が誕生する見通しとなりました。"
+      ],
+      "sections": [
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "アメリカの複数のメディアは、南部ジョージア州の州知事選挙でキーシャ・ボトムズ氏の当選が確実になったと伝え、アメリカで史上初の黒人の女性知事が誕生する見通しとなりました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-04T16:38:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-05T01:49:21.334709+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "アメリカ史上初の黒人女性知事が南部ジョージア州で誕生へ",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261104de70370",
+              "publishedAt": "2026-11-04T16:38:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-04T16:38:00+09:00",
+          "keyPoints": [
+            "アメリカの複数のメディアは、南部ジョージア州の州知事選挙でキーシャ・ボトムズ氏の当選が確実になったと伝え、アメリカで史上初の黒人の女性知事が誕生する見通しとなりました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "82adbe85c2542310",
+      "slug": "2026-11-04-18-82adbe85",
+      "publishedAt": "2026-11-04T16:36:36+09:00",
+      "updatedAt": "2026-11-05T01:49:21.334709+09:00",
+      "title": "NTTの島田明社長、不正アクセス攻撃者の遮断で法制化求める 事前の想定が重要と強調",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-04T16:36:36+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-05T01:49:21.334709+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "NTTの島田明社長、不正アクセス攻撃者の遮断で法制化求める 事前の想定が重要と強調",
+              "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002877",
+              "publishedAt": "2026-11-04T16:36:36+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-04T16:36:36+09:00",
+          "keyPoints": [
+            "NTTの島田明社長、不正アクセス攻撃者の遮断で法制化求める 事前の想定が重要と強調"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "8ae712537283f1dd",
+      "slug": "2026-11-04-18-8ae71253",
+      "publishedAt": "2026-11-04T16:29:57+09:00",
+      "updatedAt": "2026-11-05T01:49:21.334709+09:00",
+      "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月4日の動き）",
+      "dek": "ロシアによるウクライナに対する軍事侵攻が続いています。",
+      "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。 ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けています。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "ロシアによるウクライナに対する軍事侵攻が続いています。",
+        "ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けています。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "ロシアによるウクライナに対する軍事侵攻が続いています。 ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けています。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "ロシアによるウクライナに対する軍事侵攻が続いています。",
+            "ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けています。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-04T16:32:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-05T01:49:21.334709+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "【詳細】ロシア ウクライナに軍事侵攻（11月3日の動き）",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261028de66991",
+              "publishedAt": "2026-11-04T16:29:57+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月4日の動き）",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261028de66992",
+              "publishedAt": "2026-11-04T16:32:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-04T16:32:00+09:00",
+          "keyPoints": [
+            "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けています。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 2,
+      "freshSourceCount": 2,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "de039847aba14c63",
+      "slug": "2026-11-04-18-de039847",
+      "publishedAt": "2026-11-04T14:50:00+09:00",
+      "updatedAt": "2026-11-05T01:49:21.334709+09:00",
+      "title": "ユース五輪 バドミントン 渡邉柚乃が予選全勝で準々決勝へ",
+      "dek": "セネガルで行われている世界の若手アスリートが競うユースオリンピック、バドミントン女子シングルスで、高校2年生の渡邉柚乃選手が予選リーグを3戦全勝で突破して準々決勝に進みました。",
+      "summary": "セネガルで行われている世界の若手アスリートが競うユースオリンピック、バドミントン女子シングルスで、高校2年生の渡邉柚乃選手が予選リーグを3戦全勝で突破して準々決勝に進みました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "セネガルで行われている世界の若手アスリートが競うユースオリンピック、バドミントン女子シングルスで、高校2年生の渡邉柚乃選手が予選リーグを3戦全勝で突破して準々決勝に進みました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "セネガルで行われている世界の若手アスリートが競うユースオリンピック、バドミントン女子シングルスで、高校2年生の渡邉柚乃選手が予選リーグを3戦全勝で突破して準々決勝に進みました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "セネガルで行われている世界の若手アスリートが競うユースオリンピック、バドミントン女子シングルスで、高校2年生の渡邉柚乃選手が予選リーグを3戦全勝で突破して準々決勝に進みました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-04T14:50:00+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-11-05T01:49:21.334709+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "ユース五輪 バドミントン 渡邉柚乃が予選全勝で準々決勝へ",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261104de70314",
+              "publishedAt": "2026-11-04T14:50:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-04T14:50:00+09:00",
+          "keyPoints": [
+            "セネガルで行われている世界の若手アスリートが競うユースオリンピック、バドミントン女子シングルスで、高校2年生の渡邉柚乃選手が予選リーグを3戦全勝で突破して準々決勝に進みました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "ff1536dc7adeb045",
+      "slug": "2026-11-04-18-ff1536dc",
+      "publishedAt": "2026-11-04T14:28:46+09:00",
+      "updatedAt": "2026-11-05T01:49:21.334709+09:00",
+      "title": "特薦盤:ロック・ブラック・ジャズ 中川ヨウ・選",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-04T14:28:46+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-11-05T01:49:21.334709+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "特薦盤:ロック・ブラック・ジャズ 中川ヨウ・選",
+              "url": "https://mainichi.jp/articles/20261104/dde/012/070/005000c",
+              "publishedAt": "2026-11-04T14:28:46+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-04T14:28:46+09:00",
+          "keyPoints": [
+            "特薦盤:ロック・ブラック・ジャズ 中川ヨウ・選"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "879f2aad0cb3c573",
+      "slug": "2026-11-04-18-879f2aad",
+      "publishedAt": "2026-11-04T13:37:14+09:00",
+      "updatedAt": "2026-11-05T01:49:21.334709+09:00",
+      "title": "世界文化賞・音楽部門にブロムシュテット",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-04T13:37:14+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-11-05T01:49:21.334709+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "世界文化賞・音楽部門にブロムシュテット",
+              "url": "https://mainichi.jp/articles/20261104/dde/012/200/007000c",
+              "publishedAt": "2026-11-04T13:37:14+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-04T13:37:14+09:00",
+          "keyPoints": [
+            "世界文化賞・音楽部門にブロムシュテット"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    }
+  ]
+}
