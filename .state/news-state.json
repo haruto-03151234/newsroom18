@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-04T18:00:00+09:00",
-  "lastCompletedEdition": "2026-11-04-18",
+  "lastCompletedEnd": "2026-11-05T06:00:00+09:00",
+  "lastCompletedEdition": "2026-11-05-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -24037,7 +24037,106 @@
       "urls": [
         "https://mainichi.jp/articles/20261104/dde/012/200/007000c"
       ]
+    },
+    {
+      "editionId": "2026-11-05-06",
+      "title": "関東甲信地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-05T05:36:21+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261104203621_0_VPCJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261104204451_0_VPFJ50_080000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261104204528_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261104204642_0_VPFJ50_120000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-06",
+      "title": "東京都気象防災速報竜巻注意",
+      "publishedAt": "2026-11-05T05:23:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261104202309_0_VPHW50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-06",
+      "title": "鹿児島県奄美地方を除く気象解説情報落雷・突風",
+      "publishedAt": "2026-11-05T04:55:51+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261104195552_0_VPFJ50_460100.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-06",
+      "title": "トランプ大統領敗北理由はイランでもまた同じ決断する",
+      "publishedAt": "2026-11-05T05:57:47+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de70714"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-06",
+      "title": "トランプ大統領の外交方針を注視米中間選挙受け日本政府",
+      "publishedAt": "2026-11-05T04:56:46+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de70687"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-06",
+      "title": "東京国際映画祭",
+      "publishedAt": "2026-11-05T02:58:55+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261105/ddm/041/200/025000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-06",
+      "title": "今のままで賛成あり得ない消費減税・支援金法案衆院審議が山場",
+      "publishedAt": "2026-11-04T20:48:11+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC43RBLVC4ULFA011M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-06",
+      "title": "ユーチューバーを恐喝未遂容疑で再逮捕中傷動画投稿事件京都府警",
+      "publishedAt": "2026-11-04T20:04:57+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC43H40VC4PLZB00NM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-06",
+      "title": "巨人がドラフト指名した14歳関蓮太郎が会見中学卒業後に契約へ",
+      "publishedAt": "2026-11-04T20:04:11+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC431QCVC4UTQP00RM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-06",
+      "title": "維新不正アクセス受け個人情報の消去義務化で法改正など提言",
+      "publishedAt": "2026-11-04T19:58:19+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261104de70597"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-06",
+      "title": "中国メーカー出荷前のandroid端末に犯罪用のバックドアを設置かgoogleが取引停止",
+      "publishedAt": "2026-11-04T18:51:41+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/04/2000002884"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-06",
+      "title": "無印良品クレカmujicardカード番号全ケタ約109万件漏えいか不正アクセスで続報",
+      "publishedAt": "2026-11-04T18:33:11+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/04/2000002885"
+      ]
     }
   ],
-  "updatedAt": "2026-11-05T01:49:21.334709+09:00"
+  "updatedAt": "2026-11-05T10:07:26.973102+09:00"
 }
