@@ -1,0 +1,1107 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-11-06T02:04:12.420696+09:00",
+  "summary": "対象時間帯の6配信元のニュースを14本に整理しました。うち重要ニュースは3本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-11-05-18",
+    "date": "2026-11-05",
+    "slot": "18:00",
+    "label": "夕方6時版"
+  },
+  "coverage": {
+    "from": "2026-11-05T12:00:00+09:00",
+    "to": "2026-11-05T18:00:00+09:00",
+    "start": "2026-11-05T12:00:00+09:00",
+    "end": "2026-11-05T18:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "11月05日 12:00〜11月05日 18:00"
+  },
+  "stats": {
+    "articleCount": 14,
+    "categoryCounts": {
+      "国内": 2,
+      "経済": 1,
+      "海外": 2,
+      "スポーツ": 2,
+      "エンタメ": 3,
+      "科学": 1,
+      "テクノロジー": 3
+    },
+    "sourceCount": 18,
+    "publisherCount": 6,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 3,
+      "jma": 2,
+      "mainichi": 2,
+      "mof": 1,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 2,
+      "brief": 12
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories"
+  ],
+  "articles": [
+    {
+      "id": "8d516c7d9d3ab623",
+      "slug": "2026-11-05-18-8d516c7d",
+      "publishedAt": "2026-11-05T16:33:49+09:00",
+      "updatedAt": "2026-11-06T02:04:12.420696+09:00",
+      "title": "東京都気象解説情報（大雨・落雷・突風）",
+      "dek": "11月5日 16:33更新。伊豆諸島では警報級の大雨となる可能性は低くなりましたが、伊豆諸島南部では、6日朝にかけて土砂災害、落雷や竜巻などの激しい突風に注意してください。",
+      "summary": "伊豆諸島では警報級の大雨となる可能性は低くなりましたが、伊豆諸島南部では、6日朝にかけて土砂災害、落雷や竜巻などの激しい突風に注意してください。[気象概況] 前線が東海道沖から伊豆諸島付近を通って日本に東にのび、前線上の関東の東には低気圧があって北東へ進んでいます。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "東京都気象解説情報大雨落雷突風"
+      ],
+      "facts": [
+        "[気象概況] 前線が東海道沖から伊豆諸島付近を通って日本に東にのび、前線上の関東の東には低気圧があって北東へ進んでいます。",
+        "低気圧や前線に向かって暖かく湿った空気が流れ込むため、伊豆諸島南部では6日朝にかけて大気の状態が非常に不安定となるでしょう。",
+        "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど安全確保に努めてください。"
+      ],
+      "impactPoints": [
+        "[雨の実況] 降り始め(4日00時)から5日15時までの降水量(アメダスによる速報値) 新島川原 303.5ミリ 神津島空港 243.5ミリ 三宅島神着 206.0ミリ 大島元町 172.5ミリ [防災事項] 伊豆諸島南部では、6日朝にかけて、落雷や竜巻などの激しい突風に注意してください。",
+        "また、6日朝にかけて土砂災害に注意してください。",
+        "これで、「東京都気象解説情報(大雨・落雷・突風)」は終了します。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "伊豆諸島では警報級の大雨となる可能性は低くなりましたが、伊豆諸島南部では、6日朝にかけて土砂災害、落雷や竜巻などの激しい突風に注意してください。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。"
+      ],
+      "body": [
+        "伊豆諸島では警報級の大雨となる可能性は低くなりましたが、伊豆諸島南部では、6日朝にかけて土砂災害、落雷や竜巻などの激しい突風に注意してください。[気象概況] 前線が東海道沖から伊豆諸島付近を通って日本に東にのび、前線上の関東の東には低気圧があって北東へ進んでいます。",
+        "[雨の実況] 降り始め(4日00時)から5日15時までの降水量(アメダスによる速報値) 新島川原 303.5ミリ 神津島空港 243.5ミリ 三宅島神着 206.0ミリ 大島元町 172.5ミリ [防災事項] 伊豆諸島南部では、6日朝にかけて、落雷や竜巻などの激しい突風に注意してください。",
+        "また、6日朝にかけて土砂災害に注意してください。",
+        "これで、「東京都気象解説情報(大雨・落雷・突風)」は終了します。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "[気象概況] 前線が東海道沖から伊豆諸島付近を通って日本に東にのび、前線上の関東の東には低気圧があって北東へ進んでいます。",
+            "低気圧や前線に向かって暖かく湿った空気が流れ込むため、伊豆諸島南部では6日朝にかけて大気の状態が非常に不安定となるでしょう。",
+            "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど安全確保に努めてください。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "[雨の実況] 降り始め(4日00時)から5日15時までの降水量(アメダスによる速報値) 新島川原 303.5ミリ 神津島空港 243.5ミリ 三宅島神着 206.0ミリ 大島元町 172.5ミリ [防災事項] 伊豆諸島南部では、6日朝にかけて、落雷や竜巻などの激しい突風に注意してください。",
+            "また、6日朝にかけて土砂災害に注意してください。",
+            "これで、「東京都気象解説情報(大雨・落雷・突風)」は終了します。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "伊豆諸島では警報級の大雨となる可能性は低くなりましたが、伊豆諸島南部では、6日朝にかけて土砂災害、落雷や竜巻などの激しい突風に注意してください。",
+            "[補足事項] 今後発表する防災気象情報に留意してください。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-05T16:33:49+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-11-06T02:04:12.420696+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "東京都気象解説情報（大雨・落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261105073349_0_VPFJ50_130000.xml",
+              "publishedAt": "2026-11-05T16:33:49+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T16:33:49+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "bbf1d8e36942f1a1",
+      "slug": "2026-11-05-18-bbf1d8e3",
+      "publishedAt": "2026-11-05T16:14:39+09:00",
+      "updatedAt": "2026-11-06T02:04:12.420696+09:00",
+      "title": "石川県気象解説情報（落雷・突風・降ひょう）",
+      "dek": "11月5日 16:14〜11月5日 16:25更新。石川県では、5日夜遅くから6日明け方にかけて、落雷や竜巻などの激しい突風、降ひょう、急な強い雨に注意してください。",
+      "summary": "石川県では、5日夜遅くから6日明け方にかけて、落雷や竜巻などの激しい突風、降ひょう、急な強い雨に注意してください。[気象概況] 日本海西部には前線を伴った低気圧があって、北東に進んでいます。石川県では、この低気圧に向かって暖かく湿った空気が流れ込むため、大気の状態が非常に不安定となり、局地的に積乱雲が発達する見込みです。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "石川県気象解説情報落雷突風降ひょう"
+      ],
+      "facts": [
+        "[気象概況] 日本海西部には前線を伴った低気圧があって、北東に進んでいます。",
+        "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど、安全確保に努めてください。",
+        "[補足事項] これで情報を終了します。"
+      ],
+      "impactPoints": [
+        "石川県では、5日夜遅くから6日明け方にかけて、落雷や竜巻などの激しい突風、降ひょう、急な強い雨に注意してください。",
+        "[防災事項] 石川県では、5日夜遅くから6日明け方にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "これで、「石川県気象解説情報(落雷・突風・降ひょう)」は、終了します。",
+        "[お知らせ] 令和6年能登半島地震で揺れの大きかった珠洲市は土砂災害の警報等を、令和8年8月27日からの大雨での河川の堤防損傷等を鑑み、羽咋市では大雨警報等を通常より引き下げた暫定基準で運用しています。",
+        "山口県では、5日夜のはじめ頃まで落雷や突風、急な強い雨に注意してください。",
+        "このため、5日夜のはじめ頃まで落雷や突風、急な強い雨に注意してください。",
+        "[防災事項] 落雷や突風、急な強い雨に注意してください。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "石川県では、この低気圧に向かって暖かく湿った空気が流れ込むため、大気の状態が非常に不安定となり、局地的に積乱雲が発達する見込みです。",
+        "ひょうの降るおそれもありますので、農作物や農業施設の管理にも注意してください。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "[気象概況] 前線を伴った低気圧が対馬海峡にあり、5日夜にかけて衰弱しながら日本海へ進む見込みです。",
+        "この低気圧に向かって暖かく湿った空気が流れ込み、山口県では大気の状態が不安定となる見込みです。",
+        "九州北部地方では、落雷や竜巻などの激しい突風のおそれはなくなりました。"
+      ],
+      "body": [
+        "石川県では、5日夜遅くから6日明け方にかけて、落雷や竜巻などの激しい突風、降ひょう、急な強い雨に注意してください。[気象概況] 日本海西部には前線を伴った低気圧があって、北東に進んでいます。石川県では、この低気圧に向かって暖かく湿った空気が流れ込むため、大気の状態が非常に不安定となり、局地的に積乱雲が発達する見込みです。",
+        "[防災事項] 石川県では、5日夜遅くから6日明け方にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "これで、「石川県気象解説情報(落雷・突風・降ひょう)」は、終了します。",
+        "[お知らせ] 令和6年能登半島地震で揺れの大きかった珠洲市は土砂災害の警報等を、令和8年8月27日からの大雨での河川の堤防損傷等を鑑み、羽咋市では大雨警報等を通常より引き下げた暫定基準で運用しています。",
+        "山口県では、5日夜のはじめ頃まで落雷や突風、急な強い雨に注意してください。",
+        "このため、5日夜のはじめ頃まで落雷や突風、急な強い雨に注意してください。",
+        "[防災事項] 落雷や突風、急な強い雨に注意してください。",
+        "ひょうの降るおそれもありますので、農作物や農業施設の管理にも注意してください。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "[気象概況] 前線を伴った低気圧が対馬海峡にあり、5日夜にかけて衰弱しながら日本海へ進む見込みです。",
+        "この低気圧に向かって暖かく湿った空気が流れ込み、山口県では大気の状態が不安定となる見込みです。",
+        "九州北部地方では、落雷や竜巻などの激しい突風のおそれはなくなりました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "[気象概況] 日本海西部には前線を伴った低気圧があって、北東に進んでいます。",
+            "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど、安全確保に努めてください。",
+            "[補足事項] これで情報を終了します。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "石川県では、5日夜遅くから6日明け方にかけて、落雷や竜巻などの激しい突風、降ひょう、急な強い雨に注意してください。",
+            "[防災事項] 石川県では、5日夜遅くから6日明け方にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+            "これで、「石川県気象解説情報(落雷・突風・降ひょう)」は、終了します。",
+            "[お知らせ] 令和6年能登半島地震で揺れの大きかった珠洲市は土砂災害の警報等を、令和8年8月27日からの大雨での河川の堤防損傷等を鑑み、羽咋市では大雨警報等を通常より引き下げた暫定基準で運用しています。",
+            "山口県では、5日夜のはじめ頃まで落雷や突風、急な強い雨に注意してください。",
+            "このため、5日夜のはじめ頃まで落雷や突風、急な強い雨に注意してください。",
+            "[防災事項] 落雷や突風、急な強い雨に注意してください。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "石川県では、この低気圧に向かって暖かく湿った空気が流れ込むため、大気の状態が非常に不安定となり、局地的に積乱雲が発達する見込みです。",
+            "ひょうの降るおそれもありますので、農作物や農業施設の管理にも注意してください。",
+            "[補足事項] 今後発表する防災気象情報に留意してください。",
+            "[気象概況] 前線を伴った低気圧が対馬海峡にあり、5日夜にかけて衰弱しながら日本海へ進む見込みです。",
+            "この低気圧に向かって暖かく湿った空気が流れ込み、山口県では大気の状態が不安定となる見込みです。",
+            "九州北部地方では、落雷や竜巻などの激しい突風のおそれはなくなりました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-05T16:25:34+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-11-06T02:04:12.420696+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "石川県気象解説情報（落雷・突風・降ひょう）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261105071440_0_VPFJ50_170000.xml",
+              "publishedAt": "2026-11-05T16:14:39+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "熊本県気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261105071451_0_VPFJ50_430000.xml",
+              "publishedAt": "2026-11-05T16:14:50+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "福岡県気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261105072503_0_VPFJ50_400000.xml",
+              "publishedAt": "2026-11-05T16:25:02+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "山口県気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261105072504_0_VPFJ50_350000.xml",
+              "publishedAt": "2026-11-05T16:25:03+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "九州北部地方（山口県を含む）気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261105072535_0_VPCJ50_400000.xml",
+              "publishedAt": "2026-11-05T16:25:34+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T16:25:34+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 5,
+      "freshSourceCount": 5,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "88066f238630c58b",
+      "slug": "2026-11-05-18-88066f23",
+      "publishedAt": "2026-11-05T13:00:00+09:00",
+      "updatedAt": "2026-11-06T02:04:12.420696+09:00",
+      "title": "全国財務局管内経済情勢報告概要（令和8年10月）",
+      "dek": "北海道財務局 東北財務局 関東財務局 北陸財務局 東海財務局 近畿財務局 中国財務局 四国財務局 九州財務局 福岡財務支局 沖縄総合事務局 財務省大臣官房総合政策課 TEL 03-3581-4111(内線2252,2225)。",
+      "summary": "北海道財務局 東北財務局 関東財務局 北陸財務局 東海財務局 近畿財務局 中国財務局 四国財務局 九州財務局 福岡財務支局 沖縄総合事務局 財務省大臣官房総合政策課 TEL 03-3581-4111(内線2252,2225)。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "北海道財務局 東北財務局 関東財務局 北陸財務局 東海財務局 近畿財務局 中国財務局 四国財務局 九州財務局 福岡財務支局 沖縄総合事務局 財務省大臣官房総合政策課 TEL 03-3581-4111(内線2252,2225)。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "北海道財務局 東北財務局 関東財務局 北陸財務局 東海財務局 近畿財務局 中国財務局 四国財務局 九州財務局 福岡財務支局 沖縄総合事務局 財務省大臣官房総合政策課 TEL 03-3581-4111(内線2252,2225)。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "北海道財務局 東北財務局 関東財務局 北陸財務局 東海財務局 近畿財務局 中国財務局 四国財務局 九州財務局 福岡財務支局 沖縄総合事務局 財務省大臣官房総合政策課 TEL 03-3581-4111(内線2252,2225)。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-05T13:00:00+09:00",
+          "text": "財務省 政策・経済発表の公開情報を確認",
+          "source": "財務省 政策・経済発表"
+        },
+        {
+          "at": "2026-11-06T02:04:12.420696+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "財務省 政策・経済発表",
+          "publisherId": "mof",
+          "links": [
+            {
+              "title": "全国財務局管内経済情勢報告概要（令和8年10月）",
+              "url": "https://www.mof.go.jp/about_mof/zaimu/kannai/202603/index.html",
+              "publishedAt": "2026-11-05T13:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T13:00:00+09:00",
+          "keyPoints": [
+            "財務省 政策・経済発表の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "239599c5c89195b9",
+      "slug": "2026-11-05-18-239599c5",
+      "publishedAt": "2026-11-05T17:59:00+09:00",
+      "updatedAt": "2026-11-06T02:04:12.420696+09:00",
+      "title": "官民ファンド 三井化学にJSR売却へ 1.3兆円規模の大型再編へ",
+      "dek": "官民ファンド「産業革新投資機構」が、傘下の半導体材料大手「JSR」を化学メーカーの三井化学に売却する方向で調整を進めていることがわかりました。",
+      "summary": "官民ファンド「産業革新投資機構」が、傘下の半導体材料大手「JSR」を化学メーカーの三井化学に売却する方向で調整を進めていることがわかりました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "官民ファンド「産業革新投資機構」が、傘下の半導体材料大手「JSR」を化学メーカーの三井化学に売却する方向で調整を進めていることがわかりました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "官民ファンド「産業革新投資機構」が、傘下の半導体材料大手「JSR」を化学メーカーの三井化学に売却する方向で調整を進めていることがわかりました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "官民ファンド「産業革新投資機構」が、傘下の半導体材料大手「JSR」を化学メーカーの三井化学に売却する方向で調整を進めていることがわかりました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-05T17:59:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-06T02:04:12.420696+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "官民ファンド 三井化学にJSR売却へ 1.3兆円規模の大型再編へ",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261105de71078",
+              "publishedAt": "2026-11-05T17:59:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T17:59:00+09:00",
+          "keyPoints": [
+            "官民ファンド「産業革新投資機構」が、傘下の半導体材料大手「JSR」を化学メーカーの三井化学に売却する方向で調整を進めていることがわかりました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "edc0934cade4f9e1",
+      "slug": "2026-11-05-18-edc0934c",
+      "publishedAt": "2026-11-05T17:52:00+09:00",
+      "updatedAt": "2026-11-06T02:04:12.420696+09:00",
+      "title": "日本サッカー協会の田嶋幸三名誉会長、FIFA会長選に立候補表明",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-05T17:52:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-06T02:04:12.420696+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "日本サッカー協会の田嶋幸三名誉会長、FIFA会長選に立候補表明",
+              "url": "https://www.asahi.com/articles/ASVC52TXXVC5UTQP00JM.html",
+              "publishedAt": "2026-11-05T17:52:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T17:52:00+09:00",
+          "keyPoints": [
+            "日本サッカー協会の田嶋幸三名誉会長、FIFA会長選に立候補表明"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "08974012ba657d56",
+      "slug": "2026-11-05-18-08974012",
+      "publishedAt": "2026-11-05T17:50:00+09:00",
+      "updatedAt": "2026-11-06T02:04:12.420696+09:00",
+      "title": "サッカー協会 田嶋幸三名誉会長がFIFAの会長選立候補へ",
+      "dek": "日本サッカー協会の田嶋幸三名誉会長が来年予定されているFIFA＝国際サッカー連盟の会長選挙に立候補することを表明しました。",
+      "summary": "日本サッカー協会の田嶋幸三名誉会長が来年予定されているFIFA＝国際サッカー連盟の会長選挙に立候補することを表明しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [
+        "日本サッカー協会の田嶋幸三名誉会長が来年予定されているFIFA＝国際サッカー連盟の会長選挙に立候補することを表明しました。"
+      ],
+      "body": [
+        "日本サッカー協会の田嶋幸三名誉会長が来年予定されているFIFA＝国際サッカー連盟の会長選挙に立候補することを表明しました。"
+      ],
+      "sections": [
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "日本サッカー協会の田嶋幸三名誉会長が来年予定されているFIFA＝国際サッカー連盟の会長選挙に立候補することを表明しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-05T17:50:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-06T02:04:12.420696+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "サッカー協会 田嶋幸三名誉会長がFIFAの会長選立候補へ",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261105de71141",
+              "publishedAt": "2026-11-05T17:50:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T17:50:00+09:00",
+          "keyPoints": [
+            "日本サッカー協会の田嶋幸三名誉会長が来年予定されているFIFA＝国際サッカー連盟の会長選挙に立候補することを表明しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "552e5096136b3998",
+      "slug": "2026-11-05-18-552e5096",
+      "publishedAt": "2026-11-05T17:48:13+09:00",
+      "updatedAt": "2026-11-06T02:04:12.420696+09:00",
+      "title": "イタリアの映画監督ティント・ブラスさん死去 「カリギュラ」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-05T17:48:13+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-06T02:04:12.420696+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "イタリアの映画監督ティント・ブラスさん死去 「カリギュラ」",
+              "url": "https://www.asahi.com/articles/ASVC52S20VC5UCVL028M.html",
+              "publishedAt": "2026-11-05T17:48:13+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T17:48:13+09:00",
+          "keyPoints": [
+            "イタリアの映画監督ティント・ブラスさん死去 「カリギュラ」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "c011aea34dd48b3f",
+      "slug": "2026-11-05-18-c011aea3",
+      "publishedAt": "2026-11-05T17:30:00+09:00",
+      "updatedAt": "2026-11-06T02:04:12.420696+09:00",
+      "title": "仁科記念賞に東大・中辻氏 反強磁性体の異常ホール効果の実験的発見",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-05T17:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-06T02:04:12.420696+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "仁科記念賞に東大・中辻氏 反強磁性体の異常ホール効果の実験的発見",
+              "url": "https://www.asahi.com/articles/ASVC52GV4VC5UTFL001M.html",
+              "publishedAt": "2026-11-05T17:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T17:30:00+09:00",
+          "keyPoints": [
+            "仁科記念賞に東大・中辻氏 反強磁性体の異常ホール効果の実験的発見"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    },
+    {
+      "id": "917f568180b4fb75",
+      "slug": "2026-11-05-18-917f5681",
+      "publishedAt": "2026-11-05T17:19:11+09:00",
+      "updatedAt": "2026-11-06T02:04:12.420696+09:00",
+      "title": "医療機関のサイバーセキュリティー強化へ ランサムウエア攻撃で診療への長期影響リスク",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-05T17:19:11+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-06T02:04:12.420696+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "医療機関のサイバーセキュリティー強化へ ランサムウエア攻撃で診療への長期影響リスク",
+              "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002921",
+              "publishedAt": "2026-11-05T17:19:11+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T17:19:11+09:00",
+          "keyPoints": [
+            "医療機関のサイバーセキュリティー強化へ ランサムウエア攻撃で診療への長期影響リスク"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "7099240407c2bc83",
+      "slug": "2026-11-05-18-70992404",
+      "publishedAt": "2026-11-05T15:27:38+09:00",
+      "updatedAt": "2026-11-06T02:04:12.420696+09:00",
+      "title": "【更新】ドコモ、全国で通信障害 通話・データとも利用しづらく",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-05T15:27:38+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-06T02:04:12.420696+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "【更新】ドコモ、全国で通信障害 通話・データとも利用しづらく",
+              "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002904",
+              "publishedAt": "2026-11-05T15:27:38+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T15:27:38+09:00",
+          "keyPoints": [
+            "【更新】ドコモ、全国で通信障害 通話・データとも利用しづらく"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "71a2d3e8348a5240",
+      "slug": "2026-11-05-18-71a2d3e8",
+      "publishedAt": "2026-11-05T15:20:33+09:00",
+      "updatedAt": "2026-11-06T02:04:12.420696+09:00",
+      "title": "ドコモ通信障害は「5G SA」契約者のみ 4G選択→再起動で利用できる可能性も",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-05T15:20:33+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-06T02:04:12.420696+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "ドコモ通信障害は「5G SA」契約者のみ 4G選択→再起動で利用できる可能性も",
+              "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002912",
+              "publishedAt": "2026-11-05T15:20:33+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T15:20:33+09:00",
+          "keyPoints": [
+            "ドコモ通信障害は「5G SA」契約者のみ 4G選択→再起動で利用できる可能性も"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "cd3dc9cc88fd4e15",
+      "slug": "2026-11-05-18-cd3dc9cc",
+      "publishedAt": "2026-11-05T14:13:04+09:00",
+      "updatedAt": "2026-11-06T02:04:12.420696+09:00",
+      "title": "古典ことのは帳:／42 堅実な暮らしに値打ち",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-05T14:13:04+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-11-06T02:04:12.420696+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "古典ことのは帳:／42 堅実な暮らしに値打ち",
+              "url": "https://mainichi.jp/articles/20261105/dde/018/070/009000c",
+              "publishedAt": "2026-11-05T14:13:04+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T14:13:04+09:00",
+          "keyPoints": [
+            "古典ことのは帳:／42 堅実な暮らしに値打ち"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "c7c305af7002ef26",
+      "slug": "2026-11-05-18-c7c305af",
+      "publishedAt": "2026-11-05T13:25:00+09:00",
+      "updatedAt": "2026-11-06T02:04:12.420696+09:00",
+      "title": "大相撲九州場所 右ひざ手術明けの横綱 豊昇龍が出場を明言",
+      "dek": "大相撲で、ことし7月に右ひざを手術し、先場所を休場した横綱 豊昇龍が、今月8日に初日を迎える九州場所への出場を明言しました。",
+      "summary": "大相撲で、ことし7月に右ひざを手術し、先場所を休場した横綱 豊昇龍が、今月8日に初日を迎える九州場所への出場を明言しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "大相撲で、ことし7月に右ひざを手術し、先場所を休場した横綱 豊昇龍が、今月8日に初日を迎える九州場所への出場を明言しました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "大相撲で、ことし7月に右ひざを手術し、先場所を休場した横綱 豊昇龍が、今月8日に初日を迎える九州場所への出場を明言しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "大相撲で、ことし7月に右ひざを手術し、先場所を休場した横綱 豊昇龍が、今月8日に初日を迎える九州場所への出場を明言しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-05T13:25:00+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-11-06T02:04:12.420696+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "大相撲九州場所 右ひざ手術明けの横綱 豊昇龍が出場を明言",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261105de70896",
+              "publishedAt": "2026-11-05T13:25:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T13:25:00+09:00",
+          "keyPoints": [
+            "大相撲で、ことし7月に右ひざを手術し、先場所を休場した横綱 豊昇龍が、今月8日に初日を迎える九州場所への出場を明言しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "9a72c7d2f2ab78b6",
+      "slug": "2026-11-05-18-9a72c7d2",
+      "publishedAt": "2026-11-05T13:19:12+09:00",
+      "updatedAt": "2026-11-06T02:04:12.420696+09:00",
+      "title": "「VIVANT」チョッキー役 タイ人俳優オームさん 「日本からの応援驚き」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-05T13:19:12+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-11-06T02:04:12.420696+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "「VIVANT」チョッキー役 タイ人俳優オームさん 「日本からの応援驚き」",
+              "url": "https://mainichi.jp/articles/20261105/dde/007/200/029000c",
+              "publishedAt": "2026-11-05T13:19:12+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T13:19:12+09:00",
+          "keyPoints": [
+            "「VIVANT」チョッキー役 タイ人俳優オームさん 「日本からの応援驚き」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    }
+  ]
+}

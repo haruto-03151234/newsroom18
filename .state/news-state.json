@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-05T12:00:00+09:00",
-  "lastCompletedEdition": "2026-11-05-12",
+  "lastCompletedEnd": "2026-11-05T18:00:00+09:00",
+  "lastCompletedEdition": "2026-11-05-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -24228,7 +24228,123 @@
       "urls": [
         "https://www.asahi.com/articles/ASVC43FHQVC4ULFA00QM.html"
       ]
+    },
+    {
+      "editionId": "2026-11-05-18",
+      "title": "東京都気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-05T16:33:49+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261105073349_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-18",
+      "title": "石川県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-05T16:14:39+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261105071440_0_VPFJ50_170000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261105071451_0_VPFJ50_430000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261105072503_0_VPFJ50_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261105072504_0_VPFJ50_350000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261105072535_0_VPCJ50_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-18",
+      "title": "全国財務局管内経済情勢報告概要令和8年10月",
+      "publishedAt": "2026-11-05T13:00:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/about_mof/zaimu/kannai/202603/index.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-18",
+      "title": "官民ファンド三井化学にjsr売却へ13兆円規模の大型再編へ",
+      "publishedAt": "2026-11-05T17:59:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de71078"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-18",
+      "title": "日本サッカー協会の田嶋幸三名誉会長fifa会長選に立候補表明",
+      "publishedAt": "2026-11-05T17:52:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC52TXXVC5UTQP00JM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-18",
+      "title": "サッカー協会田嶋幸三名誉会長がfifaの会長選立候補へ",
+      "publishedAt": "2026-11-05T17:50:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de71141"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-18",
+      "title": "イタリアの映画監督ティント・ブラスさん死去カリギュラ",
+      "publishedAt": "2026-11-05T17:48:13+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC52S20VC5UCVL028M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-18",
+      "title": "仁科記念賞に東大・中辻氏反強磁性体の異常ホール効果の実験的発見",
+      "publishedAt": "2026-11-05T17:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC52GV4VC5UTFL001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-18",
+      "title": "医療機関のサイバーセキュリティー強化へランサムウエア攻撃で診療への長期影響リスク",
+      "publishedAt": "2026-11-05T17:19:11+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/05/2000002921"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-18",
+      "title": "更新ドコモ全国で通信障害通話・データとも利用しづらく",
+      "publishedAt": "2026-11-05T15:27:38+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/05/2000002904"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-18",
+      "title": "ドコモ通信障害は5gsa契約者のみ4g選択再起動で利用できる可能性も",
+      "publishedAt": "2026-11-05T15:20:33+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/05/2000002912"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-18",
+      "title": "古典ことのは帳",
+      "publishedAt": "2026-11-05T14:13:04+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261105/dde/018/070/009000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-18",
+      "title": "大相撲九州場所右ひざ手術明けの横綱豊昇龍が出場を明言",
+      "publishedAt": "2026-11-05T13:25:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de70896"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-18",
+      "title": "vivantチョッキー役タイ人俳優オームさん日本からの応援驚き",
+      "publishedAt": "2026-11-05T13:19:12+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261105/dde/007/200/029000c"
+      ]
     }
   ],
-  "updatedAt": "2026-11-05T19:05:53.232379+09:00"
+  "updatedAt": "2026-11-06T02:04:12.420696+09:00"
 }
