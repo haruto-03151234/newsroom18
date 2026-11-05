@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-05T06:00:00+09:00",
-  "lastCompletedEdition": "2026-11-05-06",
+  "lastCompletedEnd": "2026-11-05T12:00:00+09:00",
+  "lastCompletedEdition": "2026-11-05-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -24136,7 +24136,99 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2611/04/2000002885"
       ]
+    },
+    {
+      "editionId": "2026-11-05-12",
+      "title": "千葉県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-05T10:07:17+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261105010718_0_VPFJ50_350000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261105010720_0_VPFJ50_430000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261105014507_0_VPFJ50_120000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261105014824_0_VPFJ50_080000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261105015135_0_VPFJ50_300000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-12",
+      "title": "長崎県気象防災速報竜巻注意",
+      "publishedAt": "2026-11-05T09:33:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261105003311_0_VPHW50_420000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-12",
+      "title": "人気ゲームnikke公式pcランチャーで不正プログラム実行かcdn上でスクリプト改ざんユーザーは対策を",
+      "publishedAt": "2026-11-05T11:54:38+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/05/2000002895"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-12",
+      "title": "スペイン列車事故日本人2人の死亡確認外務省幹部",
+      "publishedAt": "2026-11-05T11:52:34+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de70726"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-12",
+      "title": "北朝鮮メディア4日に対空ミサイルと巡航ミサイルを発射",
+      "publishedAt": "2026-11-05T11:32:24+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de70802"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-12",
+      "title": "グーグル学校向け学習サービスのai機能を制限",
+      "publishedAt": "2026-11-05T11:27:07+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de70783"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-12",
+      "title": "aiが中学生の日記にコメントストレス分析も韓国で進む導入",
+      "publishedAt": "2026-11-05T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC23D86VC2UHMC00MM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-12",
+      "title": "openaiimages26発表生成速度50向上gifアニメの生成も可能に",
+      "publishedAt": "2026-11-05T10:59:38+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/05/2000002894"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-12",
+      "title": "米中間選挙で民主党が上下両院を奪還ai規制強化に現実味it大手の株価は上昇",
+      "publishedAt": "2026-11-05T07:11:20+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/05/2000002888"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-12",
+      "title": "人気ゴルフ漫画の大井とんぼとアスリート契約社会課題の解消に",
+      "publishedAt": "2026-11-05T06:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC436CSVC4UTQP00TM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-05-12",
+      "title": "首相肝いり地域未来戦略市町村の申請低調政府はてこ入れ躍起",
+      "publishedAt": "2026-11-05T06:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC43FHQVC4ULFA00QM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-11-05T10:07:26.973102+09:00"
+  "updatedAt": "2026-11-05T19:05:53.232379+09:00"
 }

@@ -1,0 +1,910 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-11-05T19:05:53.232379+09:00",
+  "summary": "対象時間帯の4配信元のニュースを11本に整理しました。うち重要ニュースは2本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-11-05-12",
+    "date": "2026-11-05",
+    "slot": "12:00",
+    "label": "昼12時版"
+  },
+  "coverage": {
+    "from": "2026-11-05T06:00:00+09:00",
+    "to": "2026-11-05T12:00:00+09:00",
+    "start": "2026-11-05T06:00:00+09:00",
+    "end": "2026-11-05T12:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "11月05日 06:00〜11月05日 12:00"
+  },
+  "stats": {
+    "articleCount": 11,
+    "categoryCounts": {
+      "国内": 3,
+      "エンタメ": 2,
+      "海外": 3,
+      "科学": 1,
+      "テクノロジー": 1,
+      "スポーツ": 1
+    },
+    "sourceCount": 15,
+    "publisherCount": 4,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 3,
+      "jma": 2,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 2,
+      "brief": 9
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories"
+  ],
+  "articles": [
+    {
+      "id": "a8dca324e33c74f9",
+      "slug": "2026-11-05-12-a8dca324",
+      "publishedAt": "2026-11-05T10:07:17+09:00",
+      "updatedAt": "2026-11-05T19:05:53.232379+09:00",
+      "title": "千葉県気象解説情報（大雨・落雷・突風）",
+      "dek": "11月5日 10:07〜11月5日 10:51更新。千葉県では、警報級の大雨となる可能性は低くなりましたが、引き続き5日昼過ぎにかけて、土砂災害に注意してください。",
+      "summary": "千葉県では、警報級の大雨となる可能性は低くなりましたが、引き続き5日昼過ぎにかけて、土砂災害に注意してください。[気象概況] 前線が日本の南から伊豆諸島付近を通って関東の東にのび、前線上の関東の東には低気圧があって北東に進んでいます。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "千葉県気象解説情報大雨落雷突風"
+      ],
+      "facts": [
+        "[気象概況] 前線が日本の南から伊豆諸島付近を通って関東の東にのび、前線上の関東の東には低気圧があって北東に進んでいます。",
+        "この低気圧に向かって暖かく湿った空気が流れ込むため、和歌山県では、5日夜のはじめ頃から6日明け方にかけて、大気の状態が非常に不安定となり、局地的に雷雲が発達するでしょう。",
+        "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど、安全確保に努めてください。"
+      ],
+      "impactPoints": [
+        "[雨の実況] 降り始め(4日08時)から5日10時までの降水量(アメダスによる速報値) 鴨川 135.0ミリ 館山 125.0ミリ 大多喜 117.0ミリ 勝浦 116.5ミリ 君津市坂畑 95.0ミリ [防災事項] 千葉県では、5日昼過ぎにかけて、土砂災害に注意してください。",
+        "これで、「千葉県気象解説情報(大雨・落雷・突風)」は終了します。",
+        "[お知らせ] 令和8年8月千葉豪雨と令和8年台風第25号の大雨による河川の堤防損傷等の状況を考慮し、大雨に関する警報等の発表基準(流域雨量指数基準)を通常より引き下げた暫定基準で運用している市町があります。",
+        "和歌山県では、5日夜のはじめ頃から6日明け方にかけて、竜巻などの激しい突風や落雷、急な強い雨に注意してください。",
+        "[防災事項] 落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "熊本県では、5日夕方にかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "山口県では、5日夕方にかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "これで、「茨城県気象解説情報(大雨・落雷・突風)」は終了します。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "千葉県では、警報級の大雨となる可能性は低くなりましたが、引き続き5日昼過ぎにかけて、土砂災害に注意してください。",
+        "この後、低気圧は発達しながら5日夜には三陸沖へ進む見込みです。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "[気象概況] 前線を伴った低気圧が対馬海峡付近にあって、5日夜にかけて日本海に進む見込みです。",
+        "次の「和歌山県気象解説情報(落雷・突風)」は5日16時頃に発表する予定です。",
+        "[気象概況] 5日は、前線を伴った低気圧が対馬海峡を通過する見込みです。"
+      ],
+      "body": [
+        "千葉県では、警報級の大雨となる可能性は低くなりましたが、引き続き5日昼過ぎにかけて、土砂災害に注意してください。[気象概況] 前線が日本の南から伊豆諸島付近を通って関東の東にのび、前線上の関東の東には低気圧があって北東に進んでいます。",
+        "[雨の実況] 降り始め(4日08時)から5日10時までの降水量(アメダスによる速報値) 鴨川 135.0ミリ 館山 125.0ミリ 大多喜 117.0ミリ 勝浦 116.5ミリ 君津市坂畑 95.0ミリ [防災事項] 千葉県では、5日昼過ぎにかけて、土砂災害に注意してください。",
+        "これで、「千葉県気象解説情報(大雨・落雷・突風)」は終了します。",
+        "[お知らせ] 令和8年8月千葉豪雨と令和8年台風第25号の大雨による河川の堤防損傷等の状況を考慮し、大雨に関する警報等の発表基準(流域雨量指数基準)を通常より引き下げた暫定基準で運用している市町があります。",
+        "和歌山県では、5日夜のはじめ頃から6日明け方にかけて、竜巻などの激しい突風や落雷、急な強い雨に注意してください。",
+        "[防災事項] 落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "熊本県では、5日夕方にかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "山口県では、5日夕方にかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "これで、「茨城県気象解説情報(大雨・落雷・突風)」は終了します。",
+        "この後、低気圧は発達しながら5日夜には三陸沖へ進む見込みです。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "[気象概況] 前線を伴った低気圧が対馬海峡付近にあって、5日夜にかけて日本海に進む見込みです。",
+        "次の「和歌山県気象解説情報(落雷・突風)」は5日16時頃に発表する予定です。",
+        "[気象概況] 5日は、前線を伴った低気圧が対馬海峡を通過する見込みです。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "[気象概況] 前線が日本の南から伊豆諸島付近を通って関東の東にのび、前線上の関東の東には低気圧があって北東に進んでいます。",
+            "この低気圧に向かって暖かく湿った空気が流れ込むため、和歌山県では、5日夜のはじめ頃から6日明け方にかけて、大気の状態が非常に不安定となり、局地的に雷雲が発達するでしょう。",
+            "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど、安全確保に努めてください。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "[雨の実況] 降り始め(4日08時)から5日10時までの降水量(アメダスによる速報値) 鴨川 135.0ミリ 館山 125.0ミリ 大多喜 117.0ミリ 勝浦 116.5ミリ 君津市坂畑 95.0ミリ [防災事項] 千葉県では、5日昼過ぎにかけて、土砂災害に注意してください。",
+            "これで、「千葉県気象解説情報(大雨・落雷・突風)」は終了します。",
+            "[お知らせ] 令和8年8月千葉豪雨と令和8年台風第25号の大雨による河川の堤防損傷等の状況を考慮し、大雨に関する警報等の発表基準(流域雨量指数基準)を通常より引き下げた暫定基準で運用している市町があります。",
+            "和歌山県では、5日夜のはじめ頃から6日明け方にかけて、竜巻などの激しい突風や落雷、急な強い雨に注意してください。",
+            "[防災事項] 落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+            "熊本県では、5日夕方にかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+            "山口県では、5日夕方にかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+            "これで、「茨城県気象解説情報(大雨・落雷・突風)」は終了します。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "千葉県では、警報級の大雨となる可能性は低くなりましたが、引き続き5日昼過ぎにかけて、土砂災害に注意してください。",
+            "この後、低気圧は発達しながら5日夜には三陸沖へ進む見込みです。",
+            "[補足事項] 今後発表する防災気象情報に留意してください。",
+            "[気象概況] 前線を伴った低気圧が対馬海峡付近にあって、5日夜にかけて日本海に進む見込みです。",
+            "次の「和歌山県気象解説情報(落雷・突風)」は5日16時頃に発表する予定です。",
+            "[気象概況] 5日は、前線を伴った低気圧が対馬海峡を通過する見込みです。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-05T10:51:34+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-11-05T19:05:53.232379+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "山口県気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261105010718_0_VPFJ50_350000.xml",
+              "publishedAt": "2026-11-05T10:07:17+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "熊本県気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261105010720_0_VPFJ50_430000.xml",
+              "publishedAt": "2026-11-05T10:07:19+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "千葉県気象解説情報（大雨・落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261105014507_0_VPFJ50_120000.xml",
+              "publishedAt": "2026-11-05T10:45:07+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "茨城県気象解説情報（大雨・落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261105014824_0_VPFJ50_080000.xml",
+              "publishedAt": "2026-11-05T10:48:24+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "和歌山県気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261105015135_0_VPFJ50_300000.xml",
+              "publishedAt": "2026-11-05T10:51:34+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T10:51:34+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 5,
+      "freshSourceCount": 5,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "56e1b0954d4d9599",
+      "slug": "2026-11-05-12-56e1b095",
+      "publishedAt": "2026-11-05T09:33:00+09:00",
+      "updatedAt": "2026-11-05T19:05:53.232379+09:00",
+      "title": "長崎県気象防災速報（竜巻注意）",
+      "dek": "11月5日 09:33更新。長崎県壱岐・対馬は、竜巻などの激しい突風が発生しやすい気象状況になっています。",
+      "summary": "長崎県壱岐・対馬は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "長崎県気象防災速報竜巻注意"
+      ],
+      "facts": [
+        "雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。",
+        "竜巻注意情報: 長崎県。",
+        "竜巻注意情報: 壱岐・対馬。",
+        "竜巻注意情報: 壱岐。",
+        "竜巻注意情報: 上対馬。",
+        "竜巻注意情報: 下対馬。",
+        "竜巻注意情報: 壱岐市。",
+        "なし: 南部。",
+        "なし: 北部。"
+      ],
+      "impactPoints": [
+        "長崎県壱岐・対馬は、竜巻などの激しい突風が発生しやすい気象状況になっています。",
+        "空の様子に注意してください。",
+        "落雷、ひょう、急な強い雨にも注意してください。"
+      ],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "長崎県壱岐・対馬は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。",
+        "落雷、ひょう、急な強い雨にも注意してください。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。",
+            "竜巻注意情報: 長崎県。",
+            "竜巻注意情報: 壱岐・対馬。",
+            "竜巻注意情報: 壱岐。",
+            "竜巻注意情報: 上対馬。",
+            "竜巻注意情報: 下対馬。",
+            "竜巻注意情報: 壱岐市。",
+            "なし: 南部。",
+            "なし: 北部。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "長崎県壱岐・対馬は、竜巻などの激しい突風が発生しやすい気象状況になっています。",
+            "空の様子に注意してください。",
+            "落雷、ひょう、急な強い雨にも注意してください。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-05T09:33:00+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-11-05T19:05:53.232379+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "長崎県気象防災速報（竜巻注意）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261105003311_0_VPHW50_420000.xml",
+              "publishedAt": "2026-11-05T09:33:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T09:33:00+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "88aa52c0b1e0c81b",
+      "slug": "2026-11-05-12-88aa52c0",
+      "publishedAt": "2026-11-05T11:54:38+09:00",
+      "updatedAt": "2026-11-05T19:05:53.232379+09:00",
+      "title": "人気ゲーム「NIKKE」公式PCランチャーで不正プログラム実行か CDN上でスクリプト改ざん ユーザーは対策を",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-05T11:54:38+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-05T19:05:53.232379+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "人気ゲーム「NIKKE」公式PCランチャーで不正プログラム実行か CDN上でスクリプト改ざん ユーザーは対策を",
+              "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002895",
+              "publishedAt": "2026-11-05T11:54:38+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T11:54:38+09:00",
+          "keyPoints": [
+            "人気ゲーム「NIKKE」公式PCランチャーで不正プログラム実行か CDN上でスクリプト改ざん ユーザーは対策を"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "e2ce027810414d13",
+      "slug": "2026-11-05-12-e2ce0278",
+      "publishedAt": "2026-11-05T11:52:34+09:00",
+      "updatedAt": "2026-11-05T19:05:53.232379+09:00",
+      "title": "スペイン列車事故 日本人2人の死亡確認 外務省幹部",
+      "dek": "外務省幹部によりますと、スペイン中部で高速鉄道の列車が別の列車に追突した事故で、乗客名簿に名前が記載されていた日本人2人の死亡を確認したということです。",
+      "summary": "外務省幹部によりますと、スペイン中部で高速鉄道の列車が別の列車に追突した事故で、乗客名簿に名前が記載されていた日本人2人の死亡を確認したということです。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "外務省幹部によりますと、スペイン中部で高速鉄道の列車が別の列車に追突した事故で、乗客名簿に名前が記載されていた日本人2人の死亡を確認したということです。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "外務省幹部によりますと、スペイン中部で高速鉄道の列車が別の列車に追突した事故で、乗客名簿に名前が記載されていた日本人2人の死亡を確認したということです。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "外務省幹部によりますと、スペイン中部で高速鉄道の列車が別の列車に追突した事故で、乗客名簿に名前が記載されていた日本人2人の死亡を確認したということです。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-05T11:52:34+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-05T19:05:53.232379+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "スペイン列車事故 日本人2人の死亡確認 外務省幹部",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261105de70726",
+              "publishedAt": "2026-11-05T11:52:34+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T11:52:34+09:00",
+          "keyPoints": [
+            "外務省幹部によりますと、スペイン中部で高速鉄道の列車が別の列車に追突した事故で、乗客名簿に名前が記載されていた日本人2人の死亡を確認したということです。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "268975e51ed833db",
+      "slug": "2026-11-05-12-268975e5",
+      "publishedAt": "2026-11-05T11:32:24+09:00",
+      "updatedAt": "2026-11-05T19:05:53.232379+09:00",
+      "title": "北朝鮮メディア 「4日に対空ミサイルと巡航ミサイルを発射」",
+      "dek": "北朝鮮のメディアは、新型の対空ミサイルの発射実験のほか、巡航ミサイルの発射訓練が、4日行われたと伝えました。",
+      "summary": "北朝鮮のメディアは、新型の対空ミサイルの発射実験のほか、巡航ミサイルの発射訓練が、4日行われたと伝えました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "北朝鮮のメディアは、新型の対空ミサイルの発射実験のほか、巡航ミサイルの発射訓練が、4日行われたと伝えました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "北朝鮮のメディアは、新型の対空ミサイルの発射実験のほか、巡航ミサイルの発射訓練が、4日行われたと伝えました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "北朝鮮のメディアは、新型の対空ミサイルの発射実験のほか、巡航ミサイルの発射訓練が、4日行われたと伝えました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-05T11:32:24+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-05T19:05:53.232379+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "北朝鮮メディア 「4日に対空ミサイルと巡航ミサイルを発射」",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261105de70802",
+              "publishedAt": "2026-11-05T11:32:24+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T11:32:24+09:00",
+          "keyPoints": [
+            "北朝鮮のメディアは、新型の対空ミサイルの発射実験のほか、巡航ミサイルの発射訓練が、4日行われたと伝えました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "c6d47ab197c482c1",
+      "slug": "2026-11-05-12-c6d47ab1",
+      "publishedAt": "2026-11-05T11:27:07+09:00",
+      "updatedAt": "2026-11-05T19:05:53.232379+09:00",
+      "title": "グーグル 学校向け学習サービスのAI機能を制限",
+      "dek": "アメリカのIT大手「グーグル」は世界各地の学校向けの学習サービスについて、児童や生徒がAIを使って安易に答えにいきつくことなどに懸念が示されているとして、AIや検索の機能を制限できるようにする方針を明…。",
+      "summary": "アメリカのIT大手「グーグル」は世界各地の学校向けの学習サービスについて、児童や生徒がAIを使って安易に答えにいきつくことなどに懸念が示されているとして、AIや検索の機能を制限できるようにする方針を明…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "アメリカのIT大手「グーグル」は世界各地の学校向けの学習サービスについて、児童や生徒がAIを使って安易に答えにいきつくことなどに懸念が示されているとして、AIや検索の機能を制限できるようにする方針を明…。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "アメリカのIT大手「グーグル」は世界各地の学校向けの学習サービスについて、児童や生徒がAIを使って安易に答えにいきつくことなどに懸念が示されているとして、AIや検索の機能を制限できるようにする方針を明…。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "アメリカのIT大手「グーグル」は世界各地の学校向けの学習サービスについて、児童や生徒がAIを使って安易に答えにいきつくことなどに懸念が示されているとして、AIや検索の機能を制限できるようにする方針を明…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-05T11:27:07+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-05T19:05:53.232379+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "グーグル 学校向け学習サービスのAI機能を制限",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261105de70783",
+              "publishedAt": "2026-11-05T11:27:07+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T11:27:07+09:00",
+          "keyPoints": [
+            "アメリカのIT大手「グーグル」は世界各地の学校向けの学習サービスについて、児童や生徒がAIを使って安易に答えにいきつくことなどに懸念が示されているとして、AIや検索の機能を制限できるようにする方針を明…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "a1b8607e7b3b9826",
+      "slug": "2026-11-05-12-a1b8607e",
+      "publishedAt": "2026-11-05T11:00:00+09:00",
+      "updatedAt": "2026-11-05T19:05:53.232379+09:00",
+      "title": "AIが中学生の日記にコメント、ストレス分析も 韓国で進む導入",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-05T11:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-05T19:05:53.232379+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "AIが中学生の日記にコメント、ストレス分析も 韓国で進む導入",
+              "url": "https://www.asahi.com/articles/ASVC23D86VC2UHMC00MM.html",
+              "publishedAt": "2026-11-05T11:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T11:00:00+09:00",
+          "keyPoints": [
+            "AIが中学生の日記にコメント、ストレス分析も 韓国で進む導入"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    },
+    {
+      "id": "148939d3e85ea69f",
+      "slug": "2026-11-05-12-148939d3",
+      "publishedAt": "2026-11-05T10:59:38+09:00",
+      "updatedAt": "2026-11-05T19:05:53.232379+09:00",
+      "title": "OpenAI、「Images 2.6」発表 生成速度50％向上、GIFアニメの生成も可能に",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-05T10:59:38+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-05T19:05:53.232379+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "OpenAI、「Images 2.6」発表 生成速度50％向上、GIFアニメの生成も可能に",
+              "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002894",
+              "publishedAt": "2026-11-05T10:59:38+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T10:59:38+09:00",
+          "keyPoints": [
+            "OpenAI、「Images 2.6」発表 生成速度50％向上、GIFアニメの生成も可能に"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "9b13742935e45937",
+      "slug": "2026-11-05-12-9b137429",
+      "publishedAt": "2026-11-05T07:11:20+09:00",
+      "updatedAt": "2026-11-05T19:05:53.232379+09:00",
+      "title": "米中間選挙で民主党が上下両院を奪還 AI規制強化に現実味、IT大手の株価は上昇",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-05T07:11:20+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-05T19:05:53.232379+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "米中間選挙で民主党が上下両院を奪還 AI規制強化に現実味、IT大手の株価は上昇",
+              "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002888",
+              "publishedAt": "2026-11-05T07:11:20+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T07:11:20+09:00",
+          "keyPoints": [
+            "米中間選挙で民主党が上下両院を奪還 AI規制強化に現実味、IT大手の株価は上昇"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "4ac9a45837225587",
+      "slug": "2026-11-05-12-4ac9a458",
+      "publishedAt": "2026-11-05T06:00:00+09:00",
+      "updatedAt": "2026-11-05T19:05:53.232379+09:00",
+      "title": "人気ゴルフ漫画の大井とんぼとアスリート契約 「社会課題の解消に」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-05T06:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-05T19:05:53.232379+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "人気ゴルフ漫画の大井とんぼとアスリート契約 「社会課題の解消に」",
+              "url": "https://www.asahi.com/articles/ASVC436CSVC4UTQP00TM.html",
+              "publishedAt": "2026-11-05T06:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T06:00:00+09:00",
+          "keyPoints": [
+            "人気ゴルフ漫画の大井とんぼとアスリート契約 「社会課題の解消に」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "eef4aee5ce3591dd",
+      "slug": "2026-11-05-12-eef4aee5",
+      "publishedAt": "2026-11-05T06:00:00+09:00",
+      "updatedAt": "2026-11-05T19:05:53.232379+09:00",
+      "title": "首相肝いり「地域未来戦略」、市町村の申請低調 政府はてこ入れ躍起",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-05T06:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-05T19:05:53.232379+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "首相肝いり「地域未来戦略」、市町村の申請低調 政府はてこ入れ躍起",
+              "url": "https://www.asahi.com/articles/ASVC43FHQVC4ULFA00QM.html",
+              "publishedAt": "2026-11-05T06:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T06:00:00+09:00",
+          "keyPoints": [
+            "首相肝いり「地域未来戦略」、市町村の申請低調 政府はてこ入れ躍起"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    }
+  ]
+}
