@@ -1,0 +1,740 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-11-06T19:10:35.551889+09:00",
+  "summary": "対象時間帯の4配信元のニュースを10本に整理しました。うち重要ニュースは1本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-11-06-12",
+    "date": "2026-11-06",
+    "slot": "12:00",
+    "label": "昼12時版"
+  },
+  "coverage": {
+    "from": "2026-11-06T06:00:00+09:00",
+    "to": "2026-11-06T12:00:00+09:00",
+    "start": "2026-11-06T06:00:00+09:00",
+    "end": "2026-11-06T12:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "11月06日 06:00〜11月06日 12:00"
+  },
+  "stats": {
+    "articleCount": 10,
+    "categoryCounts": {
+      "経済": 1,
+      "テクノロジー": 3,
+      "海外": 3,
+      "エンタメ": 1,
+      "社会": 1,
+      "科学": 1
+    },
+    "sourceCount": 10,
+    "publisherCount": 4,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 3,
+      "maff": 1,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 1,
+      "brief": 9
+    },
+    "feedFailureCount": 3
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories",
+    "農林水産省 報道発表資料"
+  ],
+  "articles": [
+    {
+      "id": "51e5c84a57c76122",
+      "slug": "2026-11-06-12-51e5c84a",
+      "publishedAt": "2026-11-06T11:00:00+09:00",
+      "updatedAt": "2026-11-06T19:10:35.551889+09:00",
+      "title": "令和8年度（第65回）農林水産祭「実りのフェスティバル」の開催について",
+      "dek": "11月6日 11:00更新。プレスリリース 〇実りのフェスティバルは昭和37年から実施し、今年で65回目の開催。",
+      "summary": "プレスリリース 〇実りのフェスティバルは昭和37年から実施し、今年で65回目の開催。〇今年度の農林水産祭天皇杯受賞者を紹介する「天皇杯コーナー」をはじめ、農林水産省の各種施策展示や、都道府県、農林水産関係団体等の協力を得て都道府県の農林水産業の紹介、郷土特産物の展示、販売、試飲・試食を行います。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "令和8年度第65回農林水産祭実りのフェスティバルの開催について"
+      ],
+      "facts": [
+        "プレスリリース 〇実りのフェスティバルは昭和37年から実施し、今年で65回目の開催。",
+        "〇今年度の農林水産祭天皇杯受賞者を紹介する「天皇杯コーナー」をはじめ、農林水産省の各種施策展示や、都道府県、農林水産関係団体等の協力を得て都道府県の農林水産業の紹介、郷土特産物の展示、販売、試飲・試食を行います。",
+        "農林水産省は、公益財団法人日本農林漁業振興会との共催で、令和8年11月13日(金曜日)から11月14日(土曜日)まで、サンシャインシティワールドインポートマートビル4階展示ホールAにおいて、令和8年度(第65回)農林水産祭「実りのフェスティバル」を開催します。",
+        "皆様の御来場をお待ちしています。",
+        "農林水産祭「実りのフェスティバル」(※)は、農林水産業と食に対する理解の増進と農林水産物の消費拡大等に資するため、都道府県、農林水産関係団体等の協力を得て、農林水産業啓発展及び地域農林水産展を開催するものです。",
+        "(※)農林水産省と公益財団法人日本農林漁業振興会の共催によリ、昭和37年から開催しています。",
+        "令和8年11月13日(金曜日)10時00分から17時00分まで 令和8年11月14日(土曜日)10時00分から16時00分まで 会場:サンシャインシティワールドインポートマートビル4階展示ホールA 所在地:東京都豊島区東池袋 3-1 入場:無料 「天皇杯コーナー」において、農林水産祭における天皇杯を受賞した農林水産業者とその業績並びに内閣総理大臣賞受賞者及び日本農林漁業振興会会長賞受賞者を御紹介します。",
+        "なお、表彰は11月23日(月曜日)11時40分から明治神宮会館で開催する農林水産祭式典において行われます。",
+        "「政府特別展示コーナー」において、「農業×スポーツで広がる新たな未来」や「未来につなぐ ~品種の力を再発見~」等の各種施策に関する取組なども展示します。",
+        "「農林水産関係団体コーナー」において、農林水産物に関する展示、販売、試飲・試食のほか、来場者参加イベントとして「体験乗馬」などを行います。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "プレスリリース 〇実りのフェスティバルは昭和37年から実施し、今年で65回目の開催。〇今年度の農林水産祭天皇杯受賞者を紹介する「天皇杯コーナー」をはじめ、農林水産省の各種施策展示や、都道府県、農林水産関係団体等の協力を得て都道府県の農林水産業の紹介、郷土特産物の展示、販売、試飲・試食を行います。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "プレスリリース 〇実りのフェスティバルは昭和37年から実施し、今年で65回目の開催。",
+            "〇今年度の農林水産祭天皇杯受賞者を紹介する「天皇杯コーナー」をはじめ、農林水産省の各種施策展示や、都道府県、農林水産関係団体等の協力を得て都道府県の農林水産業の紹介、郷土特産物の展示、販売、試飲・試食を行います。",
+            "農林水産省は、公益財団法人日本農林漁業振興会との共催で、令和8年11月13日(金曜日)から11月14日(土曜日)まで、サンシャインシティワールドインポートマートビル4階展示ホールAにおいて、令和8年度(第65回)農林水産祭「実りのフェスティバル」を開催します。",
+            "皆様の御来場をお待ちしています。",
+            "農林水産祭「実りのフェスティバル」(※)は、農林水産業と食に対する理解の増進と農林水産物の消費拡大等に資するため、都道府県、農林水産関係団体等の協力を得て、農林水産業啓発展及び地域農林水産展を開催するものです。",
+            "(※)農林水産省と公益財団法人日本農林漁業振興会の共催によリ、昭和37年から開催しています。",
+            "令和8年11月13日(金曜日)10時00分から17時00分まで 令和8年11月14日(土曜日)10時00分から16時00分まで 会場:サンシャインシティワールドインポートマートビル4階展示ホールA 所在地:東京都豊島区東池袋 3-1 入場:無料 「天皇杯コーナー」において、農林水産祭における天皇杯を受賞した農林水産業者とその業績並びに内閣総理大臣賞受賞者及び日本農林漁業振興会会長賞受賞者を御紹介します。",
+            "なお、表彰は11月23日(月曜日)11時40分から明治神宮会館で開催する農林水産祭式典において行われます。",
+            "「政府特別展示コーナー」において、「農業×スポーツで広がる新たな未来」や「未来につなぐ ~品種の力を再発見~」等の各種施策に関する取組なども展示します。",
+            "「農林水産関係団体コーナー」において、農林水産物に関する展示、販売、試飲・試食のほか、来場者参加イベントとして「体験乗馬」などを行います。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-06T11:00:00+09:00",
+          "text": "農林水産省 報道発表資料の公開情報を確認",
+          "source": "農林水産省 報道発表資料"
+        },
+        {
+          "at": "2026-11-06T19:10:35.551889+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "農林水産省 報道発表資料",
+          "publisherId": "maff",
+          "links": [
+            {
+              "title": "令和8年度（第65回）農林水産祭「実りのフェスティバル」の開催について",
+              "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/261106.html",
+              "publishedAt": "2026-11-06T11:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-06T11:00:00+09:00",
+          "keyPoints": [
+            "農林水産省 報道発表資料の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "2b3c0298745622d4",
+      "slug": "2026-11-06-12-2b3c0298",
+      "publishedAt": "2026-11-06T11:58:44+09:00",
+      "updatedAt": "2026-11-06T19:10:35.551889+09:00",
+      "title": "ソニー、プレステサービスの不正アクセス「措置を講じている」 被害状況は公表せず",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-06T11:58:44+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-06T19:10:35.551889+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "ソニー、プレステサービスの不正アクセス「措置を講じている」 被害状況は公表せず",
+              "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002947",
+              "publishedAt": "2026-11-06T11:58:44+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-06T11:58:44+09:00",
+          "keyPoints": [
+            "ソニー、プレステサービスの不正アクセス「措置を講じている」 被害状況は公表せず"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "54e7e395397a83c3",
+      "slug": "2026-11-06-12-54e7e395",
+      "publishedAt": "2026-11-06T11:40:36+09:00",
+      "updatedAt": "2026-11-06T19:10:35.551889+09:00",
+      "title": "中東情報収集と海賊対処 自衛隊活動期限1年延長決定 政府",
+      "dek": "政府は、中東地域で日本に関係する船舶の安全を確保するのに必要な情報の収集などを行っている自衛隊の護衛艦と航空機について、活動の期限を1年延長することを決めました。",
+      "summary": "政府は、中東地域で日本に関係する船舶の安全を確保するのに必要な情報の収集などを行っている自衛隊の護衛艦と航空機について、活動の期限を1年延長することを決めました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "政府は、中東地域で日本に関係する船舶の安全を確保するのに必要な情報の収集などを行っている自衛隊の護衛艦と航空機について、活動の期限を1年延長することを決めました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "政府は、中東地域で日本に関係する船舶の安全を確保するのに必要な情報の収集などを行っている自衛隊の護衛艦と航空機について、活動の期限を1年延長することを決めました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "政府は、中東地域で日本に関係する船舶の安全を確保するのに必要な情報の収集などを行っている自衛隊の護衛艦と航空機について、活動の期限を1年延長することを決めました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-06T11:40:36+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-06T19:10:35.551889+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "中東情報収集と海賊対処 自衛隊活動期限1年延長決定 政府",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261106de71400",
+              "publishedAt": "2026-11-06T11:40:36+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-06T11:40:36+09:00",
+          "keyPoints": [
+            "政府は、中東地域で日本に関係する船舶の安全を確保するのに必要な情報の収集などを行っている自衛隊の護衛艦と航空機について、活動の期限を1年延長することを決めました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "e682c9068c7c3f46",
+      "slug": "2026-11-06-12-e682c906",
+      "publishedAt": "2026-11-06T11:38:00+09:00",
+      "updatedAt": "2026-11-06T19:10:35.551889+09:00",
+      "title": "アメリカ 中間選挙の大敗受け ルビオ国務長官の去就報道相次ぐ",
+      "dek": "アメリカのメディア・ブルームバーグは、共和党が大敗した中間選挙の結果を受け、ルビオ国務長官がトランプ政権からの離脱を検討していると報じました。",
+      "summary": "アメリカのメディア・ブルームバーグは、共和党が大敗した中間選挙の結果を受け、ルビオ国務長官がトランプ政権からの離脱を検討していると報じました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "アメリカのメディア・ブルームバーグは、共和党が大敗した中間選挙の結果を受け、ルビオ国務長官がトランプ政権からの離脱を検討していると報じました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "アメリカのメディア・ブルームバーグは、共和党が大敗した中間選挙の結果を受け、ルビオ国務長官がトランプ政権からの離脱を検討していると報じました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "アメリカのメディア・ブルームバーグは、共和党が大敗した中間選挙の結果を受け、ルビオ国務長官がトランプ政権からの離脱を検討していると報じました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-06T11:38:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-06T19:10:35.551889+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "アメリカ 中間選挙の大敗受け ルビオ国務長官の去就報道相次ぐ",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261105de71260",
+              "publishedAt": "2026-11-06T11:38:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-06T11:38:00+09:00",
+          "keyPoints": [
+            "アメリカのメディア・ブルームバーグは、共和党が大敗した中間選挙の結果を受け、ルビオ国務長官がトランプ政権からの離脱を検討していると報じました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "3a3fdf3a91303618",
+      "slug": "2026-11-06-12-3a3fdf3a",
+      "publishedAt": "2026-11-06T11:11:45+09:00",
+      "updatedAt": "2026-11-06T19:10:35.551889+09:00",
+      "title": "宝くじ公式サイトが一時停止、利用者のパスワードが「意図せず変更」 影響範囲は調査中",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-06T11:11:45+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-06T19:10:35.551889+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "宝くじ公式サイトが一時停止、利用者のパスワードが「意図せず変更」 影響範囲は調査中",
+              "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002943",
+              "publishedAt": "2026-11-06T11:11:45+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-06T11:11:45+09:00",
+          "keyPoints": [
+            "宝くじ公式サイトが一時停止、利用者のパスワードが「意図せず変更」 影響範囲は調査中"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "e69b87676a79b418",
+      "slug": "2026-11-06-12-e69b8767",
+      "publishedAt": "2026-11-06T11:10:51+09:00",
+      "updatedAt": "2026-11-06T19:10:35.551889+09:00",
+      "title": "Microsoft、Windows向け「Xbox」アプリの起動を最大60％高速化 Web版やクラウドも刷新",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-06T11:10:51+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-06T19:10:35.551889+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "Microsoft、Windows向け「Xbox」アプリの起動を最大60％高速化 Web版やクラウドも刷新",
+              "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002942",
+              "publishedAt": "2026-11-06T11:10:51+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-06T11:10:51+09:00",
+          "keyPoints": [
+            "Microsoft、Windows向け「Xbox」アプリの起動を最大60％高速化 Web版やクラウドも刷新"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "dc494376b28bbf22",
+      "slug": "2026-11-06-12-dc494376",
+      "publishedAt": "2026-11-06T11:00:00+09:00",
+      "updatedAt": "2026-11-06T19:10:35.551889+09:00",
+      "title": "「推し活」を加速させた「AKB商法」 本人が幸せならそれでいい？",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-06T11:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-06T19:10:35.551889+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "「推し活」を加速させた「AKB商法」 本人が幸せならそれでいい？",
+              "url": "https://www.asahi.com/articles/ASVC32462VC3UCVL04QM.html",
+              "publishedAt": "2026-11-06T11:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-06T11:00:00+09:00",
+          "keyPoints": [
+            "「推し活」を加速させた「AKB商法」 本人が幸せならそれでいい？"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "a3d2adcd7e724e4c",
+      "slug": "2026-11-06-12-a3d2adcd",
+      "publishedAt": "2026-11-06T10:19:22+09:00",
+      "updatedAt": "2026-11-06T19:10:35.551889+09:00",
+      "title": "メラニア夫人“ウクライナの局地的な停戦を永続的な平和へ”",
+      "dek": "ロシアとウクライナの局地的な停戦を仲介したアメリカのトランプ大統領の夫人メラニア氏が、交渉に関わった両国の代表をホワイトハウスに招き、局地的な停戦の経験をきっかけに和平への機運が高まることに期待を示し…。",
+      "summary": "ロシアとウクライナの局地的な停戦を仲介したアメリカのトランプ大統領の夫人メラニア氏が、交渉に関わった両国の代表をホワイトハウスに招き、局地的な停戦の経験をきっかけに和平への機運が高まることに期待を示し…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "ロシアとウクライナの局地的な停戦を仲介したアメリカのトランプ大統領の夫人メラニア氏が、交渉に関わった両国の代表をホワイトハウスに招き、局地的な停戦の経験をきっかけに和平への機運が高まることに期待を示し…。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "ロシアとウクライナの局地的な停戦を仲介したアメリカのトランプ大統領の夫人メラニア氏が、交渉に関わった両国の代表をホワイトハウスに招き、局地的な停戦の経験をきっかけに和平への機運が高まることに期待を示し…。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "ロシアとウクライナの局地的な停戦を仲介したアメリカのトランプ大統領の夫人メラニア氏が、交渉に関わった両国の代表をホワイトハウスに招き、局地的な停戦の経験をきっかけに和平への機運が高まることに期待を示し…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-06T10:19:22+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-06T19:10:35.551889+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "メラニア夫人“ウクライナの局地的な停戦を永続的な平和へ”",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261106de71316",
+              "publishedAt": "2026-11-06T10:19:22+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-06T10:19:22+09:00",
+          "keyPoints": [
+            "ロシアとウクライナの局地的な停戦を仲介したアメリカのトランプ大統領の夫人メラニア氏が、交渉に関わった両国の代表をホワイトハウスに招き、局地的な停戦の経験をきっかけに和平への機運が高まることに期待を示し…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "381edcd12eba3c5d",
+      "slug": "2026-11-06-12-381edcd1",
+      "publishedAt": "2026-11-06T08:00:00+09:00",
+      "updatedAt": "2026-11-06T19:10:35.551889+09:00",
+      "title": "札幌・すすきので「最北の花街」の灯を守る 芸妓11人の新たな挑戦",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-06T08:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-06T19:10:35.551889+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "札幌・すすきので「最北の花街」の灯を守る 芸妓11人の新たな挑戦",
+              "url": "https://www.asahi.com/articles/ASVC524QSVC5IIPE00NM.html",
+              "publishedAt": "2026-11-06T08:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-06T08:00:00+09:00",
+          "keyPoints": [
+            "札幌・すすきので「最北の花街」の灯を守る 芸妓11人の新たな挑戦"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "e6392155e52f8855",
+      "slug": "2026-11-06-12-e6392155",
+      "publishedAt": "2026-11-06T07:00:00+09:00",
+      "updatedAt": "2026-11-06T19:10:35.551889+09:00",
+      "title": "クビアカにとって日本は理想的、気候や植生分析 市民参加が防除の鍵",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-06T07:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-06T19:10:35.551889+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "クビアカにとって日本は理想的、気候や植生分析 市民参加が防除の鍵",
+              "url": "https://www.asahi.com/articles/ASVC513WSVC5UTFL003M.html",
+              "publishedAt": "2026-11-06T07:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-06T07:00:00+09:00",
+          "keyPoints": [
+            "クビアカにとって日本は理想的、気候や植生分析 市民参加が防除の鍵"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    }
+  ]
+}
