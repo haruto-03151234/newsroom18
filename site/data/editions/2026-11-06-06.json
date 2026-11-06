@@ -1,0 +1,702 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-11-06T10:13:52.703698+09:00",
+  "summary": "対象時間帯の5配信元のニュースを9本に整理しました。うち重要ニュースは2本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-11-06-06",
+    "date": "2026-11-06",
+    "slot": "06:00",
+    "label": "朝6時版"
+  },
+  "coverage": {
+    "from": "2026-11-05T18:00:00+09:00",
+    "to": "2026-11-06T06:00:00+09:00",
+    "start": "2026-11-05T18:00:00+09:00",
+    "end": "2026-11-06T06:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "11月05日 18:00〜11月06日 06:00"
+  },
+  "stats": {
+    "articleCount": 9,
+    "categoryCounts": {
+      "国内": 2,
+      "経済": 1,
+      "海外": 2,
+      "社会": 1,
+      "エンタメ": 1,
+      "科学": 1,
+      "スポーツ": 1
+    },
+    "sourceCount": 9,
+    "publisherCount": 5,
+    "publisherCounts": {
+      "asahi": 3,
+      "jma": 1,
+      "maff": 1,
+      "mainichi": 1,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 1,
+      "brief": 8
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories"
+  ],
+  "articles": [
+    {
+      "id": "8035cb8e9167125a",
+      "slug": "2026-11-06-06-8035cb8e",
+      "publishedAt": "2026-11-06T04:23:00+09:00",
+      "updatedAt": "2026-11-06T10:13:52.703698+09:00",
+      "title": "東京都気象防災速報（竜巻注意）",
+      "dek": "11月6日 04:23更新。伊豆諸島南部は、竜巻などの激しい突風が発生しやすい気象状況になっています。",
+      "summary": "伊豆諸島南部は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。落雷、ひょう、急な強い雨にも注意してください。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "東京都気象防災速報竜巻注意"
+      ],
+      "facts": [
+        "雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。",
+        "竜巻注意情報: 伊豆諸島南部。",
+        "竜巻注意情報: 八丈島。",
+        "竜巻注意情報: 三宅島。",
+        "竜巻注意情報: 三宅村。",
+        "竜巻注意情報: 御蔵島村。",
+        "竜巻注意情報: 八丈町。",
+        "竜巻注意情報: 青ヶ島村。",
+        "なし: 東京地方。"
+      ],
+      "impactPoints": [
+        "伊豆諸島南部は、竜巻などの激しい突風が発生しやすい気象状況になっています。",
+        "空の様子に注意してください。",
+        "落雷、ひょう、急な強い雨にも注意してください。"
+      ],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "伊豆諸島南部は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。落雷、ひょう、急な強い雨にも注意してください。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。",
+            "竜巻注意情報: 伊豆諸島南部。",
+            "竜巻注意情報: 八丈島。",
+            "竜巻注意情報: 三宅島。",
+            "竜巻注意情報: 三宅村。",
+            "竜巻注意情報: 御蔵島村。",
+            "竜巻注意情報: 八丈町。",
+            "竜巻注意情報: 青ヶ島村。",
+            "なし: 東京地方。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "伊豆諸島南部は、竜巻などの激しい突風が発生しやすい気象状況になっています。",
+            "空の様子に注意してください。",
+            "落雷、ひょう、急な強い雨にも注意してください。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-06T04:23:00+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-11-06T10:13:52.703698+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "東京都気象防災速報（竜巻注意）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261105192308_0_VPHW50_130000.xml",
+              "publishedAt": "2026-11-06T04:23:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-06T04:23:00+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "a05df1b9b1bd6daa",
+      "slug": "2026-11-06-06-a05df1b9",
+      "publishedAt": "2026-11-05T18:04:00+09:00",
+      "updatedAt": "2026-11-06T10:13:52.703698+09:00",
+      "title": "国連気候変動枠組条約第31回締約国会議（COP31）における農林水産省主催セミナーについて",
+      "dek": "プレスリリース 〇農林水産省は、 COP31においてセミナーを開催し、我が国の農林水産分野における気候変動対策の取組を発信。",
+      "summary": "プレスリリース 〇農林水産省は、 COP31においてセミナーを開催し、我が国の農林水産分野における気候変動対策の取組を発信。 16時00分~17時15分 11月14日（土曜日）10時00分~11時15分 イノベーションから実装へ：循環型の農業食料システムに向けた気候変動対策の拡大 マレーシア、インド、フィリピンにおける最新の国際共同研究による成果及び現場での普及や民間投資、政策形成に繋げている事例を紹介する。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "プレスリリース 〇農林水産省は、 COP31においてセミナーを開催し、我が国の農林水産分野における気候変動対策の取組を発信。",
+        "16時00分~17時15分 11月14日（土曜日）10時00分~11時15分 イノベーションから実装へ：循環型の農業食料システムに向けた気候変動対策の拡大 マレーシア、インド、フィリピンにおける最新の国際共同研究による成果及び現場での普及や民間投資、政策形成に繋げている事例を紹介する。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "プレスリリース 〇農林水産省は、 COP31においてセミナーを開催し、我が国の農林水産分野における気候変動対策の取組を発信。 16時00分~17時15分 11月14日（土曜日）10時00分~11時15分 イノベーションから実装へ：循環型の農業食料システムに向けた気候変動対策の拡大 マレーシア、インド、フィリピンにおける最新の国際共同研究による成果及び現場での普及や民間投資、政策形成に繋げている事例を紹介する。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "プレスリリース 〇農林水産省は、 COP31においてセミナーを開催し、我が国の農林水産分野における気候変動対策の取組を発信。",
+            "16時00分~17時15分 11月14日（土曜日）10時00分~11時15分 イノベーションから実装へ：循環型の農業食料システムに向けた気候変動対策の拡大 マレーシア、インド、フィリピンにおける最新の国際共同研究による成果及び現場での普及や民間投資、政策形成に繋げている事例を紹介する。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-05T18:04:00+09:00",
+          "text": "農林水産省 報道発表資料の公開情報を確認",
+          "source": "農林水産省 報道発表資料"
+        },
+        {
+          "at": "2026-11-06T10:13:52.703698+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "農林水産省 報道発表資料",
+          "publisherId": "maff",
+          "links": [
+            {
+              "title": "国連気候変動枠組条約第31回締約国会議（COP31）における農林水産省主催セミナーについて",
+              "url": "https://www.maff.go.jp/j/press/kanbo/b_kankyo/261105.html",
+              "publishedAt": "2026-11-05T18:04:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T18:04:00+09:00",
+          "keyPoints": [
+            "農林水産省 報道発表資料の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "3e81a0a291ebd4be",
+      "slug": "2026-11-06-06-3e81a0a2",
+      "publishedAt": "2026-11-06T05:52:00+09:00",
+      "updatedAt": "2026-11-06T10:13:52.703698+09:00",
+      "title": "フランスで再び大規模デモ 高校で火災など混乱も",
+      "dek": "フランスでは物価高対策などを訴える大規模なデモが再び行われ、一部では指定された場所以外で若者がデモをしようとしたり、高校で火災が発生したりするなど混乱も見られました。",
+      "summary": "フランスでは物価高対策などを訴える大規模なデモが再び行われ、一部では指定された場所以外で若者がデモをしようとしたり、高校で火災が発生したりするなど混乱も見られました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "フランスでは物価高対策などを訴える大規模なデモが再び行われ、一部では指定された場所以外で若者がデモをしようとしたり、高校で火災が発生したりするなど混乱も見られました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "フランスでは物価高対策などを訴える大規模なデモが再び行われ、一部では指定された場所以外で若者がデモをしようとしたり、高校で火災が発生したりするなど混乱も見られました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "フランスでは物価高対策などを訴える大規模なデモが再び行われ、一部では指定された場所以外で若者がデモをしようとしたり、高校で火災が発生したりするなど混乱も見られました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-06T05:52:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-06T10:13:52.703698+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "フランスで再び大規模デモ 高校で火災など混乱も",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261106de71327",
+              "publishedAt": "2026-11-06T05:52:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-06T05:52:00+09:00",
+          "keyPoints": [
+            "フランスでは物価高対策などを訴える大規模なデモが再び行われ、一部では指定された場所以外で若者がデモをしようとしたり、高校で火災が発生したりするなど混乱も見られました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "97c5cb242d2c15b4",
+      "slug": "2026-11-06-06-97c5cb24",
+      "publishedAt": "2026-11-06T05:45:00+09:00",
+      "updatedAt": "2026-11-06T10:13:52.703698+09:00",
+      "title": "アイダホでは「州の銃」投票も 多様な米中間選挙、選ばれたのは……",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-06T05:45:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-06T10:13:52.703698+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "アイダホでは「州の銃」投票も 多様な米中間選挙、選ばれたのは……",
+              "url": "https://www.asahi.com/articles/ASVC55SYJVC5UHBI00GM.html",
+              "publishedAt": "2026-11-06T05:45:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-06T05:45:00+09:00",
+          "keyPoints": [
+            "アイダホでは「州の銃」投票も 多様な米中間選挙、選ばれたのは……"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "193ab3ff26c76f99",
+      "slug": "2026-11-06-06-193ab3ff",
+      "publishedAt": "2026-11-06T05:23:00+09:00",
+      "updatedAt": "2026-11-06T10:13:52.703698+09:00",
+      "title": "原発賠償で国から東電への支援15兆円余 回収に最長39年と試算",
+      "dek": "福島第一原子力発電所の事故にともなう賠償などのため、国が東京電力に支援している15兆円余りの資金の回収に、最長であと39年が必要だとの試算を会計検査院が公表しました。",
+      "summary": "福島第一原子力発電所の事故にともなう賠償などのため、国が東京電力に支援している15兆円余りの資金の回収に、最長であと39年が必要だとの試算を会計検査院が公表しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "福島第一原子力発電所の事故にともなう賠償などのため、国が東京電力に支援している15兆円余りの資金の回収に、最長であと39年が必要だとの試算を会計検査院が公表しました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "福島第一原子力発電所の事故にともなう賠償などのため、国が東京電力に支援している15兆円余りの資金の回収に、最長であと39年が必要だとの試算を会計検査院が公表しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "福島第一原子力発電所の事故にともなう賠償などのため、国が東京電力に支援している15兆円余りの資金の回収に、最長であと39年が必要だとの試算を会計検査院が公表しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-06T05:23:00+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
+        },
+        {
+          "at": "2026-11-06T10:13:52.703698+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "原発賠償で国から東電への支援15兆円余 回収に最長39年と試算",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261106de71317",
+              "publishedAt": "2026-11-06T05:23:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-06T05:23:00+09:00",
+          "keyPoints": [
+            "福島第一原子力発電所の事故にともなう賠償などのため、国が東京電力に支援している15兆円余りの資金の回収に、最長であと39年が必要だとの試算を会計検査院が公表しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "50e9bb14e182df36",
+      "slug": "2026-11-06-06-50e9bb14",
+      "publishedAt": "2026-11-06T05:00:00+09:00",
+      "updatedAt": "2026-11-06T10:13:52.703698+09:00",
+      "title": "政府、ICC分担金を前倒しで拠出検討 制裁発動前に活動支える狙い",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-06T05:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-06T10:13:52.703698+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "政府、ICC分担金を前倒しで拠出検討 制裁発動前に活動支える狙い",
+              "url": "https://www.asahi.com/articles/ASVC54HZKVC5UTFK00HM.html",
+              "publishedAt": "2026-11-06T05:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-06T05:00:00+09:00",
+          "keyPoints": [
+            "政府、ICC分担金を前倒しで拠出検討 制裁発動前に活動支える狙い"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "0e9181cad5d1e5de",
+      "slug": "2026-11-06-06-0e9181ca",
+      "publishedAt": "2026-11-06T02:01:33+09:00",
+      "updatedAt": "2026-11-06T10:13:52.703698+09:00",
+      "title": "視聴室:真田十勇士 SHADOWS OF THE TEN NINJA",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-06T02:01:33+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-11-06T10:13:52.703698+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "視聴室:真田十勇士 SHADOWS OF THE TEN NINJA",
+              "url": "https://mainichi.jp/articles/20261106/ddm/018/200/008000c",
+              "publishedAt": "2026-11-06T02:01:33+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-06T02:01:33+09:00",
+          "keyPoints": [
+            "視聴室:真田十勇士 SHADOWS OF THE TEN NINJA"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "2f880b6c5a20f0d2",
+      "slug": "2026-11-06-06-2f880b6c",
+      "publishedAt": "2026-11-05T22:29:35+09:00",
+      "updatedAt": "2026-11-06T10:13:52.703698+09:00",
+      "title": "相次ぐ不正アクセス対策で予備費支出へ 政府",
+      "dek": "不正アクセスによる情報漏えいが相次ぐ中、政府は、6日にも緊急対策パッケージを決定するのに合わせて、警察のシステム整備などの費用として、今年度予算の予備費からおよそ100億円を支出する方針です。",
+      "summary": "不正アクセスによる情報漏えいが相次ぐ中、政府は、6日にも緊急対策パッケージを決定するのに合わせて、警察のシステム整備などの費用として、今年度予算の予備費からおよそ100億円を支出する方針です。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "不正アクセスによる情報漏えいが相次ぐ中、政府は、6日にも緊急対策パッケージを決定するのに合わせて、警察のシステム整備などの費用として、今年度予算の予備費からおよそ100億円を支出する方針です。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "不正アクセスによる情報漏えいが相次ぐ中、政府は、6日にも緊急対策パッケージを決定するのに合わせて、警察のシステム整備などの費用として、今年度予算の予備費からおよそ100億円を支出する方針です。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "不正アクセスによる情報漏えいが相次ぐ中、政府は、6日にも緊急対策パッケージを決定するのに合わせて、警察のシステム整備などの費用として、今年度予算の予備費からおよそ100億円を支出する方針です。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-05T22:29:35+09:00",
+          "text": "NHK ONE 科学・文化の公開情報を確認",
+          "source": "NHK ONE 科学・文化"
+        },
+        {
+          "at": "2026-11-06T10:13:52.703698+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 科学・文化",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "相次ぐ不正アクセス対策で予備費支出へ 政府",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261105de71273",
+              "publishedAt": "2026-11-05T22:29:35+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T22:29:35+09:00",
+          "keyPoints": [
+            "不正アクセスによる情報漏えいが相次ぐ中、政府は、6日にも緊急対策パッケージを決定するのに合わせて、警察のシステム整備などの費用として、今年度予算の予備費からおよそ100億円を支出する方針です。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    },
+    {
+      "id": "38367427c8881d41",
+      "slug": "2026-11-06-06-38367427",
+      "publishedAt": "2026-11-05T22:22:39+09:00",
+      "updatedAt": "2026-11-06T10:13:52.703698+09:00",
+      "title": "ポルトガル代表、ロナルドが代表引退 W杯史上初の6大会連続ゴール",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-05T22:22:39+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-06T10:13:52.703698+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "ポルトガル代表、ロナルドが代表引退 W杯史上初の6大会連続ゴール",
+              "url": "https://www.asahi.com/articles/ASVC54252VC5UTQP00RM.html",
+              "publishedAt": "2026-11-05T22:22:39+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-05T22:22:39+09:00",
+          "keyPoints": [
+            "ポルトガル代表、ロナルドが代表引退 W杯史上初の6大会連続ゴール"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    }
+  ]
+}

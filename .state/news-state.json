@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-05T18:00:00+09:00",
-  "lastCompletedEdition": "2026-11-05-18",
+  "lastCompletedEnd": "2026-11-06T06:00:00+09:00",
+  "lastCompletedEdition": "2026-11-06-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -24344,7 +24344,79 @@
       "urls": [
         "https://mainichi.jp/articles/20261105/dde/007/200/029000c"
       ]
+    },
+    {
+      "editionId": "2026-11-06-06",
+      "title": "東京都気象防災速報竜巻注意",
+      "publishedAt": "2026-11-06T04:23:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261105192308_0_VPHW50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-06-06",
+      "title": "国連気候変動枠組条約第31回締約国会議cop31における農林水産省主催セミナーについて",
+      "publishedAt": "2026-11-05T18:04:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/kanbo/b_kankyo/261105.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-06-06",
+      "title": "フランスで再び大規模デモ高校で火災など混乱も",
+      "publishedAt": "2026-11-06T05:52:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71327"
+      ]
+    },
+    {
+      "editionId": "2026-11-06-06",
+      "title": "アイダホでは州の銃投票も多様な米中間選挙選ばれたのは",
+      "publishedAt": "2026-11-06T05:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC55SYJVC5UHBI00GM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-06-06",
+      "title": "原発賠償で国から東電への支援15兆円余回収に最長39年と試算",
+      "publishedAt": "2026-11-06T05:23:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71317"
+      ]
+    },
+    {
+      "editionId": "2026-11-06-06",
+      "title": "政府icc分担金を前倒しで拠出検討制裁発動前に活動支える狙い",
+      "publishedAt": "2026-11-06T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC54HZKVC5UTFK00HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-06-06",
+      "title": "視聴室真田十勇士shadowsofthetenninja",
+      "publishedAt": "2026-11-06T02:01:33+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261106/ddm/018/200/008000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-06-06",
+      "title": "相次ぐ不正アクセス対策で予備費支出へ政府",
+      "publishedAt": "2026-11-05T22:29:35+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261105de71273"
+      ]
+    },
+    {
+      "editionId": "2026-11-06-06",
+      "title": "ポルトガル代表ロナルドが代表引退w杯史上初の6大会連続ゴール",
+      "publishedAt": "2026-11-05T22:22:39+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC54252VC5UTQP00RM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-11-06T02:04:12.420696+09:00"
+  "updatedAt": "2026-11-06T10:13:52.703698+09:00"
 }
