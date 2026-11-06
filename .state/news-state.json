@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-06T12:00:00+09:00",
-  "lastCompletedEdition": "2026-11-06-12",
+  "lastCompletedEnd": "2026-11-06T18:00:00+09:00",
+  "lastCompletedEdition": "2026-11-06-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -24496,7 +24496,138 @@
       "urls": [
         "https://www.asahi.com/articles/ASVC513WSVC5UTFL003M.html"
       ]
+    },
+    {
+      "editionId": "2026-11-06-18",
+      "title": "富山県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-06T16:47:23+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261106074724_0_VPFJ50_160000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-06-18",
+      "title": "石川県気象解説情報高波・落雷・突風",
+      "publishedAt": "2026-11-06T16:27:30+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261106072730_0_VPFJ50_150000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261106074515_0_VPFJ50_170000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-06-18",
+      "title": "火山名諏訪之瀬島火山の状況に関する解説情報",
+      "publishedAt": "2026-11-06T16:02:46+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261106070247_0_VFVO51_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261106070340_0_VFVO51_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261106070409_0_VFVO51_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-06-18",
+      "title": "秋田県における野鳥の高病原性鳥インフルエンザウイルスの検出事例について",
+      "publishedAt": "2026-11-06T15:01:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/douei/261106.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-06-18",
+      "title": "関税・外国為替等審議会関税分科会令和8年11月6日開催配付資料",
+      "publishedAt": "2026-11-06T12:00:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_customs/material/kana20261106.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-06-18",
+      "title": "ロート製薬不正アクセスで約280万人分の個人情報漏えい",
+      "publishedAt": "2026-11-06T17:57:19+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71619"
+      ]
+    },
+    {
+      "editionId": "2026-11-06-18",
+      "title": "政府相次ぐ情報漏えいで事業者に注意喚起基本的な対策が不十分な事例を複数確認",
+      "publishedAt": "2026-11-06T17:52:16+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/06/2000002976"
+      ]
+    },
+    {
+      "editionId": "2026-11-06-18",
+      "title": "首都圏で相次いだ闇バイト強盗事件で2被告に無期懲役判決千葉地裁",
+      "publishedAt": "2026-11-06T17:37:01+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC62PX0VC6OXIE01FM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-06-18",
+      "title": "羽田滑走路の破損とパンク事案国交省因果関係は特定できず",
+      "publishedAt": "2026-11-06T17:34:14+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC62PGYVC6UTIL018M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-06-18",
+      "title": "セキュリティ啓発団体に不正アクセス個人情報最大15万件漏えいか",
+      "publishedAt": "2026-11-06T17:24:24+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/06/2000002978"
+      ]
+    },
+    {
+      "editionId": "2026-11-06-18",
+      "title": "広島通算76勝の東浜巨投手をソフトバンクからトレードで獲得",
+      "publishedAt": "2026-11-06T17:12:48+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71646"
+      ]
+    },
+    {
+      "editionId": "2026-11-06-18",
+      "title": "ユースオリンピック卓球男子川上流星が金メダル獲得",
+      "publishedAt": "2026-11-06T15:01:21+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71510"
+      ]
+    },
+    {
+      "editionId": "2026-11-06-18",
+      "title": "フジテレビ27年に全ドラマで生成ai活用へ一部工程で工数を最大8割削減も",
+      "publishedAt": "2026-11-06T14:13:16+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/06/2000002962"
+      ]
+    },
+    {
+      "editionId": "2026-11-06-18",
+      "title": "師走の京へまねき書き",
+      "publishedAt": "2026-11-06T13:50:29+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261106/dde/041/200/014000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-06-18",
+      "title": "シネマの週末・この1本",
+      "publishedAt": "2026-11-06T13:22:18+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261106/dde/012/070/009000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-06-18",
+      "title": "ルビオ米国務長官の去就観測相次ぐ中間選挙の大敗受け国防長官も",
+      "publishedAt": "2026-11-06T12:56:57+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC576KPVC5UHBI003M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-11-06T19:10:35.551889+09:00"
+  "updatedAt": "2026-11-07T01:34:39.534562+09:00"
 }
