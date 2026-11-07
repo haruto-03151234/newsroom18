@@ -1,0 +1,446 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-11-07T18:27:28.424603+09:00",
+  "summary": "対象時間帯の2配信元の主なニュースを6本に整理しました。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-11-07-12",
+    "date": "2026-11-07",
+    "slot": "12:00",
+    "label": "昼12時版"
+  },
+  "coverage": {
+    "from": "2026-11-07T06:00:00+09:00",
+    "to": "2026-11-07T12:00:00+09:00",
+    "start": "2026-11-07T06:00:00+09:00",
+    "end": "2026-11-07T12:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "11月07日 06:00〜11月07日 12:00"
+  },
+  "stats": {
+    "articleCount": 6,
+    "categoryCounts": {
+      "国内": 2,
+      "海外": 1,
+      "社会": 1,
+      "経済": 1,
+      "スポーツ": 1
+    },
+    "sourceCount": 6,
+    "publisherCount": 2,
+    "publisherCounts": {
+      "asahi": 3,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "brief": 6
+    },
+    "feedFailureCount": 3
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories",
+    "農林水産省 報道発表資料"
+  ],
+  "articles": [
+    {
+      "id": "5331a2fcb88ea937",
+      "slug": "2026-11-07-12-5331a2fc",
+      "publishedAt": "2026-11-07T11:54:00+09:00",
+      "updatedAt": "2026-11-07T18:27:28.424603+09:00",
+      "title": "冬型強まり北日本中心に暴風警戒 大雪に十分注意を",
+      "dek": "強い冬型の気圧配置の影響で、北日本では雪を伴って非常に強い風が吹き大荒れの天気となっています。",
+      "summary": "強い冬型の気圧配置の影響で、北日本では雪を伴って非常に強い風が吹き大荒れの天気となっています。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [
+        "強い冬型の気圧配置の影響で、北日本では雪を伴って非常に強い風が吹き大荒れの天気となっています。"
+      ],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "強い冬型の気圧配置の影響で、北日本では雪を伴って非常に強い風が吹き大荒れの天気となっています。"
+      ],
+      "sections": [
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "強い冬型の気圧配置の影響で、北日本では雪を伴って非常に強い風が吹き大荒れの天気となっています。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-07T11:54:00+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
+        },
+        {
+          "at": "2026-11-07T18:27:28.424603+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "冬型強まり北日本中心に暴風警戒 大雪に十分注意を",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261107de72009",
+              "publishedAt": "2026-11-07T11:54:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-07T11:54:00+09:00",
+          "keyPoints": [
+            "強い冬型の気圧配置の影響で、北日本では雪を伴って非常に強い風が吹き大荒れの天気となっています。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "985051f0d1902945",
+      "slug": "2026-11-07-12-985051f0",
+      "publishedAt": "2026-11-07T11:41:00+09:00",
+      "updatedAt": "2026-11-07T18:27:28.424603+09:00",
+      "title": "GMO 管理者が全情報アクセス可能 リスク指摘も十分対策されず",
+      "dek": "GMOインターネットグループのサービスが不正アクセスを受けた問題で、2年前、子会社が、「アクティブディレクトリ」という機能を通じて管理者がすべての利用者の情報にアクセスできる状況になっており、リスクが…。",
+      "summary": "GMOインターネットグループのサービスが不正アクセスを受けた問題で、2年前、子会社が、「アクティブディレクトリ」という機能を通じて管理者がすべての利用者の情報にアクセスできる状況になっており、リスクが…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "GMOインターネットグループのサービスが不正アクセスを受けた問題で、2年前、子会社が、「アクティブディレクトリ」という機能を通じて管理者がすべての利用者の情報にアクセスできる状況になっており、リスクが…。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "GMOインターネットグループのサービスが不正アクセスを受けた問題で、2年前、子会社が、「アクティブディレクトリ」という機能を通じて管理者がすべての利用者の情報にアクセスできる状況になっており、リスクが…。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "GMOインターネットグループのサービスが不正アクセスを受けた問題で、2年前、子会社が、「アクティブディレクトリ」という機能を通じて管理者がすべての利用者の情報にアクセスできる状況になっており、リスクが…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-07T11:41:00+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
+        },
+        {
+          "at": "2026-11-07T18:27:28.424603+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "GMO 管理者が全情報アクセス可能 リスク指摘も十分対策されず",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261107de72062",
+              "publishedAt": "2026-11-07T11:41:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-07T11:41:00+09:00",
+          "keyPoints": [
+            "GMOインターネットグループのサービスが不正アクセスを受けた問題で、2年前、子会社が、「アクティブディレクトリ」という機能を通じて管理者がすべての利用者の情報にアクセスできる状況になっており、リスクが…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "592214964b59268a",
+      "slug": "2026-11-07-12-59221496",
+      "publishedAt": "2026-11-07T09:24:30+09:00",
+      "updatedAt": "2026-11-07T18:27:28.424603+09:00",
+      "title": "米アトランタでパンダ2頭の公開始まる 全米で計6頭に、日本はゼロ",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-07T09:24:30+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-07T18:27:28.424603+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "米アトランタでパンダ2頭の公開始まる 全米で計6頭に、日本はゼロ",
+              "url": "https://www.asahi.com/articles/ASVC700RXVC7UHBI005M.html",
+              "publishedAt": "2026-11-07T09:24:30+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-07T09:24:30+09:00",
+          "keyPoints": [
+            "米アトランタでパンダ2頭の公開始まる 全米で計6頭に、日本はゼロ"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "957be4db628de15b",
+      "slug": "2026-11-07-12-957be4db",
+      "publishedAt": "2026-11-07T09:05:00+09:00",
+      "updatedAt": "2026-11-07T18:27:28.424603+09:00",
+      "title": "富士山が世界の「地質遺産100選」に 噴火の多様さや研究蓄積評価",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-07T09:05:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-07T18:27:28.424603+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "富士山が世界の「地質遺産100選」に 噴火の多様さや研究蓄積評価",
+              "url": "https://www.asahi.com/articles/ASVC635WZVC6OXIE032M.html",
+              "publishedAt": "2026-11-07T09:05:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-07T09:05:00+09:00",
+          "keyPoints": [
+            "富士山が世界の「地質遺産100選」に 噴火の多様さや研究蓄積評価"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "b451fea8ede7f887",
+      "slug": "2026-11-07-12-b451fea8",
+      "publishedAt": "2026-11-07T09:00:00+09:00",
+      "updatedAt": "2026-11-07T18:27:28.424603+09:00",
+      "title": "JAL幹部が語る国内線の価値「非航空事業へのタッチポイント」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-07T09:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-07T18:27:28.424603+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "JAL幹部が語る国内線の価値「非航空事業へのタッチポイント」",
+              "url": "https://www.asahi.com/articles/ASVC5571JVC5UTIL03BM.html",
+              "publishedAt": "2026-11-07T09:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-07T09:00:00+09:00",
+          "keyPoints": [
+            "JAL幹部が語る国内線の価値「非航空事業へのタッチポイント」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "07604738c2dff4c0",
+      "slug": "2026-11-07-12-07604738",
+      "publishedAt": "2026-11-07T06:19:11+09:00",
+      "updatedAt": "2026-11-07T18:27:28.424603+09:00",
+      "title": "ラグビー日本代表 国際大会初戦 ウェールズ戦を前に最終調整",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-07T06:19:11+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-11-07T18:27:28.424603+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "ラグビー日本代表 国際大会初戦 ウェールズ戦を前に最終調整",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261107de71986",
+              "publishedAt": "2026-11-07T06:19:11+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-07T06:19:11+09:00",
+          "keyPoints": [
+            "ラグビー日本代表 国際大会初戦 ウェールズ戦を前に最終調整"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    }
+  ]
+}

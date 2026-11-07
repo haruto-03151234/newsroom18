@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-07T06:00:00+09:00",
-  "lastCompletedEdition": "2026-11-07-06",
+  "lastCompletedEnd": "2026-11-07T12:00:00+09:00",
+  "lastCompletedEdition": "2026-11-07-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -24709,7 +24709,55 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261106de71809"
       ]
+    },
+    {
+      "editionId": "2026-11-07-12",
+      "title": "冬型強まり北日本中心に暴風警戒大雪に十分注意を",
+      "publishedAt": "2026-11-07T11:54:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261107de72009"
+      ]
+    },
+    {
+      "editionId": "2026-11-07-12",
+      "title": "gmo管理者が全情報アクセス可能リスク指摘も十分対策されず",
+      "publishedAt": "2026-11-07T11:41:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261107de72062"
+      ]
+    },
+    {
+      "editionId": "2026-11-07-12",
+      "title": "米アトランタでパンダ2頭の公開始まる全米で計6頭に日本はゼロ",
+      "publishedAt": "2026-11-07T09:24:30+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC700RXVC7UHBI005M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-07-12",
+      "title": "富士山が世界の地質遺産100選に噴火の多様さや研究蓄積評価",
+      "publishedAt": "2026-11-07T09:05:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC635WZVC6OXIE032M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-07-12",
+      "title": "jal幹部が語る国内線の価値非航空事業へのタッチポイント",
+      "publishedAt": "2026-11-07T09:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC5571JVC5UTIL03BM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-07-12",
+      "title": "ラグビー日本代表国際大会初戦ウェールズ戦を前に最終調整",
+      "publishedAt": "2026-11-07T06:19:11+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261107de71986"
+      ]
     }
   ],
-  "updatedAt": "2026-11-07T09:27:59.767395+09:00"
+  "updatedAt": "2026-11-07T18:27:28.424603+09:00"
 }
