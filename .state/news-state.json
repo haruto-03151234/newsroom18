@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-07T12:00:00+09:00",
-  "lastCompletedEdition": "2026-11-07-12",
+  "lastCompletedEnd": "2026-11-07T18:00:00+09:00",
+  "lastCompletedEdition": "2026-11-07-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -24757,7 +24757,73 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261107de71986"
       ]
+    },
+    {
+      "editionId": "2026-11-07-18",
+      "title": "北陸地方気象解説情報高波・落雷・突風",
+      "publishedAt": "2026-11-07T15:52:17+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261107065218_0_VPCJ50_150000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261107073023_0_VPFJ50_150000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261107073420_0_VPFJ50_170000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-07-18",
+      "title": "全般気象解説情報台風第32号",
+      "publishedAt": "2026-11-07T13:22:44+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261107042245_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-07-18",
+      "title": "プロボウラーの中山律子さん死去84歳ボウリングブーム火付け役",
+      "publishedAt": "2026-11-07T17:25:40+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC72QY0VC7OXIE00NM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-07-18",
+      "title": "バスケ河村勇輝下部のgリーグ初戦で存在感示すも右足負傷",
+      "publishedAt": "2026-11-07T17:16:53+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261107de72143"
+      ]
+    },
+    {
+      "editionId": "2026-11-07-18",
+      "title": "報道にもジェンダー平等を日韓女性記者フォーラム日本で初開催",
+      "publishedAt": "2026-11-07T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC71V8ZVC7UTFL00ZM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-07-18",
+      "title": "米・イラン間接協議カタールが仲介案2日目にホルムズ海峡開放",
+      "publishedAt": "2026-11-07T16:40:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC72D06VC7UHBI00XM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-07-18",
+      "title": "自民党執行部石破氏らに文書で説明要請消費税法案採決退席で",
+      "publishedAt": "2026-11-07T16:21:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261107de72136"
+      ]
+    },
+    {
+      "editionId": "2026-11-07-18",
+      "title": "大手金融機関破綻の南米パラグアイで大統領が罷免され混乱続く",
+      "publishedAt": "2026-11-07T15:01:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261107de72104"
+      ]
     }
   ],
-  "updatedAt": "2026-11-07T18:27:28.424603+09:00"
+  "updatedAt": "2026-11-08T00:23:26.375873+09:00"
 }
