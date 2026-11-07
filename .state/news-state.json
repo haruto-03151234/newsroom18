@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-06T18:00:00+09:00",
-  "lastCompletedEdition": "2026-11-06-18",
+  "lastCompletedEnd": "2026-11-07T06:00:00+09:00",
+  "lastCompletedEdition": "2026-11-07-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -24627,7 +24627,89 @@
       "urls": [
         "https://www.asahi.com/articles/ASVC576KPVC5UHBI003M.html"
       ]
+    },
+    {
+      "editionId": "2026-11-07-06",
+      "title": "富山県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-07T05:30:49+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261106203049_0_VPFJ50_160000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-07-06",
+      "title": "石川県気象解説情報高波・落雷・突風",
+      "publishedAt": "2026-11-07T04:58:33+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261106195833_0_VPCJ50_150000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261106203219_0_VPFJ50_150000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261106203446_0_VPFJ50_170000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-07-06",
+      "title": "関東東方沖で地震m61最大震度3",
+      "publishedAt": "2026-11-06T19:56:15+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261106105615_0_VXSE53_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-07-06",
+      "title": "テスラサイバートラックの生産を段階的に終了へ",
+      "publishedAt": "2026-11-07T05:54:09+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261107de71991"
+      ]
+    },
+    {
+      "editionId": "2026-11-07-06",
+      "title": "秋田県警の交通課警察官が飲酒運転の疑い任意捜査を切り替えて逮捕",
+      "publishedAt": "2026-11-07T03:35:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC65T8VVC6UBUB008M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-07-06",
+      "title": "解説人語なぜfifa会長選に立候補田嶋幸三氏の勝算は",
+      "publishedAt": "2026-11-06T23:10:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC63S3KVC6UEFT00NM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-07-06",
+      "title": "nttドコモ最大29万件余の顧客情報流出で社長陳謝",
+      "publishedAt": "2026-11-06T21:53:25+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71859"
+      ]
+    },
+    {
+      "editionId": "2026-11-07-06",
+      "title": "平清盛が造営した福原京の道路遺構か平安後期貴族の日記に記述",
+      "publishedAt": "2026-11-06T20:45:49+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC635L8VC6PIHB00FM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-07-06",
+      "title": "ロート製薬約280万人分の個人情報漏えい9715件は通話音声データとクレカ情報が流出",
+      "publishedAt": "2026-11-06T19:31:25+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/06/2000002984"
+      ]
+    },
+    {
+      "editionId": "2026-11-07-06",
+      "title": "三井ダイレクト損保東京海上ダイレクト損保契約者情報漏えい",
+      "publishedAt": "2026-11-06T18:59:07+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261106de71809"
+      ]
     }
   ],
-  "updatedAt": "2026-11-07T01:34:39.534562+09:00"
+  "updatedAt": "2026-11-07T09:27:59.767395+09:00"
 }
