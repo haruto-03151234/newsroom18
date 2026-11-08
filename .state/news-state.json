@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-07T18:00:00+09:00",
-  "lastCompletedEdition": "2026-11-07-18",
+  "lastCompletedEnd": "2026-11-08T06:00:00+09:00",
+  "lastCompletedEdition": "2026-11-08-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -24823,7 +24823,95 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261107de72104"
       ]
+    },
+    {
+      "editionId": "2026-11-08-06",
+      "title": "静岡県西部で地震m57最大震度5強",
+      "publishedAt": "2026-11-08T01:13:53+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261107161354_0_VXSE62_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-08-06",
+      "title": "茨城県沖で地震m56最大震度3",
+      "publishedAt": "2026-11-07T20:12:22+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261107111222_0_VXSE53_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-08-06",
+      "title": "ウクライナ人道支援拠点狙ったロシアの空爆死者55人に",
+      "publishedAt": "2026-11-08T05:57:04+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261107de72225"
+      ]
+    },
+    {
+      "editionId": "2026-11-08-06",
+      "title": "大相撲九州場所初日見どころ横綱大の里は義ノ富士と対戦",
+      "publishedAt": "2026-11-08T05:48:39+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261108de72315"
+      ]
+    },
+    {
+      "editionId": "2026-11-08-06",
+      "title": "半島の現場から惨禍伝える力にソウル近郊の本土決戦痕跡が果たす役割",
+      "publishedAt": "2026-11-08T05:00:17+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261106/k00/00m/030/049000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-08-06",
+      "title": "松尾貴史のちょっと違和感",
+      "publishedAt": "2026-11-08T03:44:54+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261108/ddm/012/070/024000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-08-06",
+      "title": "今週のnhk連続テレビ小説",
+      "publishedAt": "2026-11-08T02:01:42+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261108/ddm/018/200/020000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-08-06",
+      "title": "神戸淡路鳴門道で高速バス火災乗客21人にけがなし明石大橋付近",
+      "publishedAt": "2026-11-07T22:17:46+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC74CYCVC7PXLB004M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-08-06",
+      "title": "nz総選挙大接戦も与党わずかにリード政権交代なら日本に影響も",
+      "publishedAt": "2026-11-07T22:14:49+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC73FDJVC7UHBI01LM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-08-06",
+      "title": "自民石破前首相らに文書で説明要請退席理由具体的かつ詳細に",
+      "publishedAt": "2026-11-07T20:14:36+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC73PHXVC7UTFK00FM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-08-06",
+      "title": "物価高の波大学の学園祭にも早稲田祭の運営少しでも安く",
+      "publishedAt": "2026-11-07T19:45:54+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261107de72163"
+      ]
     }
   ],
-  "updatedAt": "2026-11-08T00:23:26.375873+09:00"
+  "updatedAt": "2026-11-08T09:03:09.055155+09:00"
 }
