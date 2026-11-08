@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-08T06:00:00+09:00",
-  "lastCompletedEdition": "2026-11-08-06",
+  "lastCompletedEnd": "2026-11-08T12:00:00+09:00",
+  "lastCompletedEdition": "2026-11-08-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -24911,7 +24911,63 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261107de72163"
       ]
+    },
+    {
+      "editionId": "2026-11-08-12",
+      "title": "熊本県天草・芦北地方で地震m43最大震度4",
+      "publishedAt": "2026-11-08T10:56:53+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261108015653_0_VXSE53_270000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-08-12",
+      "title": "65万人を魅了全国から集った2万発が秋の夜空彩る土浦全国花火",
+      "publishedAt": "2026-11-08T11:33:01+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC801XTVC8UJHB00CM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-08-12",
+      "title": "トランプ大統領総合格闘技団体代表に報道官打診",
+      "publishedAt": "2026-11-08T11:03:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261108de72412"
+      ]
+    },
+    {
+      "editionId": "2026-11-08-12",
+      "title": "イスラエル第2党アイゼンコット氏に組閣要請へ",
+      "publishedAt": "2026-11-08T09:50:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261108de72392"
+      ]
+    },
+    {
+      "editionId": "2026-11-08-12",
+      "title": "片岡仁左衛門休演のトラウマ乗り越え河内山に挑む顔見世興行",
+      "publishedAt": "2026-11-08T09:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBJ0SG6VBJUCVL00GM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-08-12",
+      "title": "蛍光灯の製造禁止27年末に迫るled化率6割超も更新に課題",
+      "publishedAt": "2026-11-08T07:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC40SDKVC4PLFA00TM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-08-12",
+      "title": "ラグビー日本代表ウェールズと競り合うも敗戦英国遠征",
+      "publishedAt": "2026-11-08T07:19:04+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261107de72220"
+      ]
     }
   ],
-  "updatedAt": "2026-11-08T09:03:09.055155+09:00"
+  "updatedAt": "2026-11-08T18:43:58.082932+09:00"
 }
