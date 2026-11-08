@@ -1,7 +1,25 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T18:43:58.082932+09:00",
+  "updatedAt": "2026-11-09T00:45:47.944645+09:00",
   "editions": [
+    {
+      "id": "2026-11-08-18",
+      "path": "data/editions/2026-11-08-18.json",
+      "dataUrl": "data/editions/2026-11-08-18.json",
+      "generatedAt": "2026-11-09T00:45:47.944645+09:00",
+      "date": "2026-11-08",
+      "time": "18:00",
+      "label": "夕方6時版",
+      "coverageLabel": "11月08日 12:00〜11月08日 18:00",
+      "headline": "DeNA 戸柱恭孝 海外FA権を行使へ 球団は引き続き残留交渉予定",
+      "articleCount": 6,
+      "categories": {
+        "スポーツ": 2,
+        "社会": 2,
+        "海外": 1,
+        "科学": 1
+      }
+    },
     {
       "id": "2026-11-08-12",
       "path": "data/editions/2026-11-08-12.json",

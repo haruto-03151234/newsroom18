@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-08T12:00:00+09:00",
-  "lastCompletedEdition": "2026-11-08-12",
+  "lastCompletedEnd": "2026-11-08T18:00:00+09:00",
+  "lastCompletedEdition": "2026-11-08-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -24967,7 +24967,56 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261107de72220"
       ]
+    },
+    {
+      "editionId": "2026-11-08-18",
+      "title": "dena戸柱恭孝海外fa権を行使へ球団は引き続き残留交渉予定",
+      "publishedAt": "2026-11-08T17:22:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261108de72516"
+      ]
+    },
+    {
+      "editionId": "2026-11-08-18",
+      "title": "フィギュアgp中国大会三浦佳生が優勝ファイナル進出決定",
+      "publishedAt": "2026-11-08T17:19:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261108de72511"
+      ]
+    },
+    {
+      "editionId": "2026-11-08-18",
+      "title": "大阪・梅田の書店で従業員が刺される男を傷害容疑で現行犯逮捕",
+      "publishedAt": "2026-11-08T17:15:28+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC82QDTVC8OXIE00HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-08-18",
+      "title": "静岡県内では3人がけが深夜の緊急地震速報に釣り人パニックに",
+      "publishedAt": "2026-11-08T16:49:29+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC80FVWVC8UTPB003M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-08-18",
+      "title": "随時更新ロシアウクライナに軍事侵攻11月8日の動き",
+      "publishedAt": "2026-11-08T12:50:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de66995",
+        "https://news.web.nhk/newsweb/na/nd-20261028de66996"
+      ]
+    },
+    {
+      "editionId": "2026-11-08-18",
+      "title": "私たちの祖先真核生物の誕生に迫る培養アーキアとバクテリア共生",
+      "publishedAt": "2026-11-08T12:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC61V4RVC6UTFL014M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-11-08T18:43:58.082932+09:00"
+  "updatedAt": "2026-11-09T00:45:47.944645+09:00"
 }
