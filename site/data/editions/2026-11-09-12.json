@@ -1,0 +1,787 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-11-09T19:41:23.710348+09:00",
+  "summary": "対象時間帯の4配信元のニュースを11本に整理しました。うち重要ニュースは2本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-11-09-12",
+    "date": "2026-11-09",
+    "slot": "12:00",
+    "label": "昼12時版"
+  },
+  "coverage": {
+    "from": "2026-11-09T06:00:00+09:00",
+    "to": "2026-11-09T12:00:00+09:00",
+    "start": "2026-11-09T06:00:00+09:00",
+    "end": "2026-11-09T12:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "11月09日 06:00〜11月09日 12:00"
+  },
+  "stats": {
+    "articleCount": 11,
+    "categoryCounts": {
+      "経済": 2,
+      "テクノロジー": 3,
+      "海外": 4,
+      "国内": 1,
+      "スポーツ": 1
+    },
+    "sourceCount": 11,
+    "publisherCount": 4,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 3,
+      "mof": 2,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "brief": 11
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories"
+  ],
+  "articles": [
+    {
+      "id": "d1421690f1e70c6a",
+      "slug": "2026-11-09-12-d1421690",
+      "publishedAt": "2026-11-09T08:50:00+09:00",
+      "updatedAt": "2026-11-09T19:41:23.710348+09:00",
+      "title": "外国為替資金特別会計の外貨建資産の内訳及び運用収入の内訳等",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-09T08:50:00+09:00",
+          "text": "財務省 政策・経済発表の公開情報を確認",
+          "source": "財務省 政策・経済発表"
+        },
+        {
+          "at": "2026-11-09T19:41:23.710348+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "財務省 政策・経済発表",
+          "publisherId": "mof",
+          "links": [
+            {
+              "title": "外国為替資金特別会計の外貨建資産の内訳及び運用収入の内訳等",
+              "url": "https://www.mof.go.jp/policy/international_policy/reference/gaitametokkai/index.html",
+              "publishedAt": "2026-11-09T08:50:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-09T08:50:00+09:00",
+          "keyPoints": [
+            "財務省 政策・経済発表の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "d8c3ec7c9f07be1c",
+      "slug": "2026-11-09-12-d8c3ec7c",
+      "publishedAt": "2026-11-09T08:50:00+09:00",
+      "updatedAt": "2026-11-09T19:41:23.710348+09:00",
+      "title": "外国為替平衡操作の実施状況(令和8年7月～令和8年9月)",
+      "dek": "令和8年11月9日 財務省 ○令和8年7月～令和8年9月期における外国為替平衡操作額 15兆3,993億円 ○実施内容 実施日 金額 売買通貨 令和8年7月30日 7兆9,756億円 米ドル売り 日本円買い 令和8年7月31日 5兆5,523億円 令和8年8月3日 1兆8,714",
+      "summary": "令和8年11月9日 財務省 ○令和8年7月～令和8年9月期における外国為替平衡操作額 15兆3,993億円 ○実施内容 実施日 金額 売買通貨 令和8年7月30日 7兆9,756億円 米ドル売り 日本円買い 令和8年7月31日 5兆5,523億円 令和8年8月3日 1兆8,714億円。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "令和8年11月9日 財務省 ○令和8年7月～令和8年9月期における外国為替平衡操作額 15兆3,993億円 ○実施内容 実施日 金額 売買通貨 令和8年7月30日 7兆9,756億円 米ドル売り 日本円買い 令和8年7月31日 5兆5,523億円 令和8年8月3日 1兆8,714億円。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "令和8年11月9日 財務省 ○令和8年7月～令和8年9月期における外国為替平衡操作額 15兆3,993億円 ○実施内容 実施日 金額 売買通貨 令和8年7月30日 7兆9,756億円 米ドル売り 日本円買い 令和8年7月31日 5兆5,523億円 令和8年8月3日 1兆8,714億円。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "令和8年11月9日 財務省 ○令和8年7月～令和8年9月期における外国為替平衡操作額 15兆3,993億円 ○実施内容 実施日 金額 売買通貨 令和8年7月30日 7兆9,756億円 米ドル売り 日本円買い 令和8年7月31日 5兆5,523億円 令和8年8月3日 1兆8,714億円。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-09T08:50:00+09:00",
+          "text": "財務省 政策・経済発表の公開情報を確認",
+          "source": "財務省 政策・経済発表"
+        },
+        {
+          "at": "2026-11-09T19:41:23.710348+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "財務省 政策・経済発表",
+          "publisherId": "mof",
+          "links": [
+            {
+              "title": "外国為替平衡操作の実施状況(令和8年7月～令和8年9月)",
+              "url": "https://www.mof.go.jp/policy/international_policy/reference/feio/data/quarter/2026_3Q.html",
+              "publishedAt": "2026-11-09T08:50:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-09T08:50:00+09:00",
+          "keyPoints": [
+            "財務省 政策・経済発表の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "0da58b07d722d602",
+      "slug": "2026-11-09-12-0da58b07",
+      "publishedAt": "2026-11-09T11:42:45+09:00",
+      "updatedAt": "2026-11-09T19:41:23.710348+09:00",
+      "title": "ネット印刷「ラクスル」に不正アクセス 入稿データ一部漏えいか 名刺やはがき記載の個人情報も",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-09T11:42:45+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-09T19:41:23.710348+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "ネット印刷「ラクスル」に不正アクセス 入稿データ一部漏えいか 名刺やはがき記載の個人情報も",
+              "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003004",
+              "publishedAt": "2026-11-09T11:42:45+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-09T11:42:45+09:00",
+          "keyPoints": [
+            "ネット印刷「ラクスル」に不正アクセス 入稿データ一部漏えいか 名刺やはがき記載の個人情報も"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "44cd75929a4779e0",
+      "slug": "2026-11-09-12-44cd7592",
+      "publishedAt": "2026-11-09T11:30:10+09:00",
+      "updatedAt": "2026-11-09T19:41:23.710348+09:00",
+      "title": "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-09T11:30:10+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-09T19:41:23.710348+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念",
+              "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002926",
+              "publishedAt": "2026-11-09T11:30:10+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-09T11:30:10+09:00",
+          "keyPoints": [
+            "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "1192bded15dbce79",
+      "slug": "2026-11-09-12-1192bded",
+      "publishedAt": "2026-11-09T11:00:00+09:00",
+      "updatedAt": "2026-11-09T19:41:23.710348+09:00",
+      "title": "クラウドインフラのシェア、AWSが26％に後退 Google Cloudは16％に上昇 市場全体は過去最大の高成長率へ 2026年第3四半期調査",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-09T11:00:00+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-09T19:41:23.710348+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "クラウドインフラのシェア、AWSが26％に後退 Google Cloudは16％に上昇 市場全体は過去最大の高成長率へ 2026年第3四半期調査",
+              "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003001",
+              "publishedAt": "2026-11-09T11:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-09T11:00:00+09:00",
+          "keyPoints": [
+            "クラウドインフラのシェア、AWSが26％に後退 Google Cloudは16％に上昇 市場全体は過去最大の高成長率へ 2026年第3四半期調査"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "d525efaaf7a2948b",
+      "slug": "2026-11-09-12-d525efaa",
+      "publishedAt": "2026-11-09T11:00:00+09:00",
+      "updatedAt": "2026-11-09T19:41:23.710348+09:00",
+      "title": "アフリカのペンギン、9年で絶滅状態の危機 熱波や中東の紛争が打撃",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-09T11:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-09T19:41:23.710348+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "アフリカのペンギン、9年で絶滅状態の危機 熱波や中東の紛争が打撃",
+              "url": "https://www.asahi.com/articles/ASVC665KXVC6UHBI028M.html",
+              "publishedAt": "2026-11-09T11:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-09T11:00:00+09:00",
+          "keyPoints": [
+            "アフリカのペンギン、9年で絶滅状態の危機 熱波や中東の紛争が打撃"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "05faee4412e3a082",
+      "slug": "2026-11-09-12-05faee44",
+      "publishedAt": "2026-11-09T09:21:00+09:00",
+      "updatedAt": "2026-11-09T19:41:23.710348+09:00",
+      "title": "エヌビディアがフアンCEO調査 中国情報機関協力女性と親密報道",
+      "dek": "アメリカの半導体大手「エヌビディア」は、ジェンスン・フアンCEOが中国の情報機関の協力者である女性と親密な関係にあったと報じられたことを受け、調査を開始すると発表しました。",
+      "summary": "アメリカの半導体大手「エヌビディア」は、ジェンスン・フアンCEOが中国の情報機関の協力者である女性と親密な関係にあったと報じられたことを受け、調査を開始すると発表しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "アメリカの半導体大手「エヌビディア」は、ジェンスン・フアンCEOが中国の情報機関の協力者である女性と親密な関係にあったと報じられたことを受け、調査を開始すると発表しました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "アメリカの半導体大手「エヌビディア」は、ジェンスン・フアンCEOが中国の情報機関の協力者である女性と親密な関係にあったと報じられたことを受け、調査を開始すると発表しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "アメリカの半導体大手「エヌビディア」は、ジェンスン・フアンCEOが中国の情報機関の協力者である女性と親密な関係にあったと報じられたことを受け、調査を開始すると発表しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-09T09:21:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-09T19:41:23.710348+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "エヌビディアがフアンCEO調査 中国情報機関協力女性と親密報道",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261109de72697",
+              "publishedAt": "2026-11-09T09:21:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-09T09:21:00+09:00",
+          "keyPoints": [
+            "アメリカの半導体大手「エヌビディア」は、ジェンスン・フアンCEOが中国の情報機関の協力者である女性と親密な関係にあったと報じられたことを受け、調査を開始すると発表しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "aa075289b56883e0",
+      "slug": "2026-11-09-12-aa075289",
+      "publishedAt": "2026-11-09T08:37:47+09:00",
+      "updatedAt": "2026-11-09T19:41:23.710348+09:00",
+      "title": "COP31 きょう開幕へ 各国が足並みそろえられるか焦点に",
+      "dek": "世界各地で気候変動の影響とみられる災害が相次ぐなか、温室効果ガスの排出削減など具体的な対策の実行に向けて、各国が足…。",
+      "summary": "気候変動対策を話し合う国連の会議「COP31」が、日本時間の9日、トルコで開幕します。 世界各地で気候変動の影響とみられる災害が相次ぐなか、温室効果ガスの排出削減など具体的な対策の実行に向けて、各国が足…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "気候変動対策を話し合う国連の会議「COP31」が、日本時間の9日、トルコで開幕します。"
+      ],
+      "impactPoints": [
+        "世界各地で気候変動の影響とみられる災害が相次ぐなか、温室効果ガスの排出削減など具体的な対策の実行に向けて、各国が足…。"
+      ],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "気候変動対策を話し合う国連の会議「COP31」が、日本時間の9日、トルコで開幕します。 世界各地で気候変動の影響とみられる災害が相次ぐなか、温室効果ガスの排出削減など具体的な対策の実行に向けて、各国が足…。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "気候変動対策を話し合う国連の会議「COP31」が、日本時間の9日、トルコで開幕します。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "世界各地で気候変動の影響とみられる災害が相次ぐなか、温室効果ガスの排出削減など具体的な対策の実行に向けて、各国が足…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-09T08:37:47+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-09T19:41:23.710348+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "COP31 きょう開幕へ 各国が足並みそろえられるか焦点に",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261108de72633",
+              "publishedAt": "2026-11-09T08:37:47+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-09T08:37:47+09:00",
+          "keyPoints": [
+            "気候変動対策を話し合う国連の会議「COP31」が、日本時間の9日、トルコで開幕します。世界各地で気候変動の影響とみられる災害が相次ぐなか、温室効果ガスの排出削減など具体的な対策の実行に向けて、各国が足…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "e223eeee27f689dc",
+      "slug": "2026-11-09-12-e223eeee",
+      "publishedAt": "2026-11-09T06:30:00+09:00",
+      "updatedAt": "2026-11-09T19:41:23.710348+09:00",
+      "title": "【ライブ予告】福岡市長選と新宿・品川両区長選、15日夜に開票速報",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-09T06:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-09T19:41:23.710348+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "【ライブ予告】福岡市長選と新宿・品川両区長選、15日夜に開票速報",
+              "url": "https://www.asahi.com/articles/ASVBY1DR7VBYOXIE02MM.html",
+              "publishedAt": "2026-11-09T06:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-09T06:30:00+09:00",
+          "keyPoints": [
+            "【ライブ予告】福岡市長選と新宿・品川両区長選、15日夜に開票速報"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "a4cc230a62ae5f17",
+      "slug": "2026-11-09-12-a4cc230a",
+      "publishedAt": "2026-11-09T06:00:00+09:00",
+      "updatedAt": "2026-11-09T19:41:23.710348+09:00",
+      "title": "「ファミマ×千代の富士」大ヒット 昭和の大横綱、令和になぜ？",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-09T06:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-09T19:41:23.710348+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "「ファミマ×千代の富士」大ヒット 昭和の大横綱、令和になぜ？",
+              "url": "https://www.asahi.com/articles/ASVC63QXMVC6UTQP012M.html",
+              "publishedAt": "2026-11-09T06:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-09T06:00:00+09:00",
+          "keyPoints": [
+            "「ファミマ×千代の富士」大ヒット 昭和の大横綱、令和になぜ？"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "317039c55bf6e519",
+      "slug": "2026-11-09-12-317039c5",
+      "publishedAt": "2026-11-09T05:44:00+09:00",
+      "updatedAt": "2026-11-09T19:41:23.710348+09:00",
+      "title": "ポーランドで6人死亡の銃乱射事件 検察がテロ容疑で捜査",
+      "dek": "ポーランドで男が無差別に銃を乱射し6人が死亡した事件で、現地の検察は、拘束された容疑者の男についてテロの疑いで捜査を開始したことを明らかにしました。",
+      "summary": "ポーランドで男が無差別に銃を乱射し6人が死亡した事件で、現地の検察は、拘束された容疑者の男についてテロの疑いで捜査を開始したことを明らかにしました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "ポーランドで男が無差別に銃を乱射し6人が死亡した事件で、現地の検察は、拘束された容疑者の男についてテロの疑いで捜査を開始したことを明らかにしました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "ポーランドで男が無差別に銃を乱射し6人が死亡した事件で、現地の検察は、拘束された容疑者の男についてテロの疑いで捜査を開始したことを明らかにしました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "ポーランドで男が無差別に銃を乱射し6人が死亡した事件で、現地の検察は、拘束された容疑者の男についてテロの疑いで捜査を開始したことを明らかにしました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-09T05:44:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-09T19:41:23.710348+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "ポーランドで6人死亡の銃乱射事件 検察がテロ容疑で捜査",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261109de72678",
+              "publishedAt": "2026-11-09T05:44:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-09T05:44:00+09:00",
+          "keyPoints": [
+            "ポーランドで男が無差別に銃を乱射し6人が死亡した事件で、現地の検察は、拘束された容疑者の男についてテロの疑いで捜査を開始したことを明らかにしました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    }
+  ]
+}

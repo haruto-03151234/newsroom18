@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-09T06:00:00+09:00",
-  "lastCompletedEdition": "2026-11-09-06",
+  "lastCompletedEnd": "2026-11-09T12:00:00+09:00",
+  "lastCompletedEdition": "2026-11-09-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -25096,7 +25096,95 @@
       "urls": [
         "https://www.asahi.com/articles/ASVC83TN8VC8PIHB00NM.html"
       ]
+    },
+    {
+      "editionId": "2026-11-09-12",
+      "title": "外国為替資金特別会計の外貨建資産の内訳及び運用収入の内訳等",
+      "publishedAt": "2026-11-09T08:50:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/policy/international_policy/reference/gaitametokkai/index.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-12",
+      "title": "外国為替平衡操作の実施状況令和8年7月令和8年9月",
+      "publishedAt": "2026-11-09T08:50:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/policy/international_policy/reference/feio/data/quarter/2026_3Q.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-12",
+      "title": "ネット印刷ラクスルに不正アクセス入稿データ一部漏えいか名刺やはがき記載の個人情報も",
+      "publishedAt": "2026-11-09T11:42:45+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/09/2000003004"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-12",
+      "title": "情報漏えい続出でフィッシングに変化その人専用詐欺メール登場の懸念",
+      "publishedAt": "2026-11-09T11:30:10+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/09/2000002926"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-12",
+      "title": "クラウドインフラのシェアawsが26に後退googlecloudは16に上昇市場全体は過去最大の高成長率へ2026年第3四半期調査",
+      "publishedAt": "2026-11-09T11:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/09/2000003001"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-12",
+      "title": "アフリカのペンギン9年で絶滅状態の危機熱波や中東の紛争が打撃",
+      "publishedAt": "2026-11-09T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC665KXVC6UHBI028M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-12",
+      "title": "エヌビディアがフアンceo調査中国情報機関協力女性と親密報道",
+      "publishedAt": "2026-11-09T09:21:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261109de72697"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-12",
+      "title": "cop31きょう開幕へ各国が足並みそろえられるか焦点に",
+      "publishedAt": "2026-11-09T08:37:47+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261108de72633"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-12",
+      "title": "ライブ予告福岡市長選と新宿・品川両区長選15日夜に開票速報",
+      "publishedAt": "2026-11-09T06:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBY1DR7VBYOXIE02MM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-12",
+      "title": "ファミマ千代の富士大ヒット昭和の大横綱令和になぜ",
+      "publishedAt": "2026-11-09T06:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC63QXMVC6UTQP012M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-12",
+      "title": "ポーランドで6人死亡の銃乱射事件検察がテロ容疑で捜査",
+      "publishedAt": "2026-11-09T05:44:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261109de72678"
+      ]
     }
   ],
-  "updatedAt": "2026-11-09T09:12:30.691114+09:00"
+  "updatedAt": "2026-11-09T19:41:23.710348+09:00"
 }

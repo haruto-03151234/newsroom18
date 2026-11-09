@@ -5,43 +5,42 @@
     "tagline": "事実をつなぎ、背景まで伝える。",
     "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
   },
-  "generatedAt": "2026-11-09T09:12:30.691114+09:00",
-  "summary": "対象時間帯の4配信元のニュースを10本に整理しました。うち重要ニュースは1本です。",
+  "generatedAt": "2026-11-09T19:41:23.710348+09:00",
+  "summary": "対象時間帯の4配信元のニュースを11本に整理しました。うち重要ニュースは2本です。",
   "generationMode": "structured",
   "edition": {
-    "id": "2026-11-09-06",
+    "id": "2026-11-09-12",
     "date": "2026-11-09",
-    "slot": "06:00",
-    "label": "朝6時版"
+    "slot": "12:00",
+    "label": "昼12時版"
   },
   "coverage": {
-    "from": "2026-11-08T18:00:00+09:00",
-    "to": "2026-11-09T06:00:00+09:00",
-    "start": "2026-11-08T18:00:00+09:00",
-    "end": "2026-11-09T06:00:00+09:00",
+    "from": "2026-11-09T06:00:00+09:00",
+    "to": "2026-11-09T12:00:00+09:00",
+    "start": "2026-11-09T06:00:00+09:00",
+    "end": "2026-11-09T12:00:00+09:00",
     "timezone": "Asia/Tokyo",
-    "label": "11月08日 18:00〜11月09日 06:00"
+    "label": "11月09日 06:00〜11月09日 12:00"
   },
   "stats": {
-    "articleCount": 10,
+    "articleCount": 11,
     "categoryCounts": {
-      "国内": 4,
-      "海外": 3,
-      "社会": 1,
-      "スポーツ": 1,
-      "エンタメ": 1
+      "経済": 2,
+      "テクノロジー": 3,
+      "海外": 4,
+      "国内": 1,
+      "スポーツ": 1
     },
-    "sourceCount": 10,
+    "sourceCount": 11,
     "publisherCount": 4,
     "publisherCounts": {
       "asahi": 3,
-      "jma": 1,
-      "mainichi": 3,
+      "itmedia": 3,
+      "mof": 2,
       "nhk": 3
     },
     "articleTypeCounts": {
-      "feature": 1,
-      "brief": 9
+      "brief": 11
     },
     "feedFailureCount": 2
   },
@@ -51,253 +50,11 @@
   ],
   "articles": [
     {
-      "id": "87ae13d48e7df874",
-      "slug": "2026-11-09-06-87ae13d4",
-      "publishedAt": "2026-11-09T05:19:50+09:00",
-      "updatedAt": "2026-11-09T09:12:30.691114+09:00",
-      "title": "宮城県沖で地震 M4.5 最大震度3",
-      "dek": "11月9日5時16分、宮城県沖を震源とするマグニチュード4.5の地震があり、最大震度3を観測しました。津波の心配はありません。",
-      "summary": "11月9日5時16分、宮城県沖を震源とするマグニチュード4.5の地震があり、最大震度3を観測しました。津波の心配はありません。岩手県内陸南部、宮城県北部、宮城県中部で震度3を観測しました。一関市、石巻市、気仙沼市で震度3を観測しました。",
-      "whyItMatters": "",
-      "articleType": "feature",
-      "deskLens": "event",
-      "eventKeys": [
-        "earthquake:宮城県沖:2026-11-09t05:16:00+09:00"
-      ],
-      "facts": [
-        "発生時刻は11月9日5時16分です。",
-        "震源は宮城県沖です。",
-        "地震の規模はマグニチュード4.5です。",
-        "最大震度は3です。",
-        "9日05時16分ころ、地震がありました。"
-      ],
-      "impactPoints": [
-        "この地震による津波の心配はありません。",
-        "岩手県内陸南部、宮城県北部、宮城県中部で震度3を観測しました。",
-        "一関市、石巻市、気仙沼市で震度3を観測しました。"
-      ],
-      "background": "",
-      "watchPoints": [],
-      "body": [
-        "11月9日5時16分、宮城県沖を震源とするマグニチュード4.5の地震があり、最大震度3を観測しました。津波の心配はありません。岩手県内陸南部、宮城県北部、宮城県中部で震度3を観測しました。一関市、石巻市、気仙沼市で震度3を観測しました。",
-        "この地震による津波の心配はありません。"
-      ],
-      "sections": [
-        {
-          "heading": "確認できた事実",
-          "paragraphs": [
-            "発生時刻は11月9日5時16分です。",
-            "震源は宮城県沖です。",
-            "地震の規模はマグニチュード4.5です。",
-            "最大震度は3です。",
-            "9日05時16分ころ、地震がありました。"
-          ]
-        },
-        {
-          "heading": "影響・対象地域",
-          "paragraphs": [
-            "この地震による津波の心配はありません。",
-            "岩手県内陸南部、宮城県北部、宮城県中部で震度3を観測しました。",
-            "一関市、石巻市、気仙沼市で震度3を観測しました。"
-          ]
-        }
-      ],
-      "updates": [
-        {
-          "at": "2026-11-09T05:19:50+09:00",
-          "text": "気象庁 防災情報（地震・津波・火山）の公開情報を確認",
-          "source": "気象庁 防災情報（地震・津波・火山）"
-        },
-        {
-          "at": "2026-11-09T09:12:30.691114+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "国内",
-      "importance": 5,
-      "sources": [
-        {
-          "name": "気象庁 防災情報（地震・津波・火山）",
-          "publisherId": "jma",
-          "links": [
-            {
-              "title": "宮城県沖で地震 M4.5 最大震度3",
-              "url": "https://www.data.jma.go.jp/developer/xml/data/20261108201951_0_VXSE53_010000.xml",
-              "publishedAt": "2026-11-09T05:19:50+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-11-09T05:19:50+09:00",
-          "keyPoints": [
-            "気象庁 防災情報（地震・津波・火山）の公開情報をもとにNEWSROOM 18が要約・加工"
-          ],
-          "type": "一次情報",
-          "isPrimary": true
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "国内"
-      ]
-    },
-    {
-      "id": "4997503039a6cd15",
-      "slug": "2026-11-09-06-49975030",
-      "publishedAt": "2026-11-09T05:51:54+09:00",
-      "updatedAt": "2026-11-09T09:12:30.691114+09:00",
-      "title": "フーシ派“サウジアラビア国営石油会社施設など攻撃”報復主張",
-      "dek": "サウジアラビアと隣国イエメンの反政府勢力フーシ派による攻撃の応酬が続く中、フーシ派は8日、サウジアラビアの首都リヤドにある国営石油会社の施設などを攻撃したと発表しました。",
-      "summary": "サウジアラビアと隣国イエメンの反政府勢力フーシ派による攻撃の応酬が続く中、フーシ派は8日、サウジアラビアの首都リヤドにある国営石油会社の施設などを攻撃したと発表しました。",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [
-        "サウジアラビアと隣国イエメンの反政府勢力フーシ派による攻撃の応酬が続く中、フーシ派は8日、サウジアラビアの首都リヤドにある国営石油会社の施設などを攻撃したと発表しました。"
-      ],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [
-        "サウジアラビアと隣国イエメンの反政府勢力フーシ派による攻撃の応酬が続く中、フーシ派は8日、サウジアラビアの首都リヤドにある国営石油会社の施設などを攻撃したと発表しました。"
-      ],
-      "sections": [
-        {
-          "heading": "確認できた事実",
-          "paragraphs": [
-            "サウジアラビアと隣国イエメンの反政府勢力フーシ派による攻撃の応酬が続く中、フーシ派は8日、サウジアラビアの首都リヤドにある国営石油会社の施設などを攻撃したと発表しました。"
-          ]
-        }
-      ],
-      "updates": [
-        {
-          "at": "2026-11-09T05:51:54+09:00",
-          "text": "NHK ONE 国際の公開情報を確認",
-          "source": "NHK ONE 国際"
-        },
-        {
-          "at": "2026-11-09T09:12:30.691114+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "海外",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "NHK ONE 国際",
-          "publisherId": "nhk",
-          "links": [
-            {
-              "title": "フーシ派“サウジアラビア国営石油会社施設など攻撃”報復主張",
-              "url": "https://news.web.nhk/newsweb/na/nd-20261109de72663",
-              "publishedAt": "2026-11-09T05:51:54+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-11-09T05:51:54+09:00",
-          "keyPoints": [
-            "サウジアラビアと隣国イエメンの反政府勢力フーシ派による攻撃の応酬が続く中、フーシ派は8日、サウジアラビアの首都リヤドにある国営石油会社の施設などを攻撃したと発表しました。"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "海外"
-      ]
-    },
-    {
-      "id": "20f369d9acb983a5",
-      "slug": "2026-11-09-06-20f369d9",
-      "publishedAt": "2026-11-09T05:48:50+09:00",
-      "updatedAt": "2026-11-09T09:12:30.691114+09:00",
-      "title": "イスラエル大統領 野党アイゼンコット氏に組閣要請",
-      "dek": "イスラエルでは、先の総選挙で第2党となった野党の党首で、ネタニヤフ首相を上回る議員の推薦を集めたアイゼンコット氏が大統領から組閣を要請され、次の連立政権の樹立に取り組むことになりました。",
-      "summary": "イスラエルでは、先の総選挙で第2党となった野党の党首で、ネタニヤフ首相を上回る議員の推薦を集めたアイゼンコット氏が大統領から組閣を要請され、次の連立政権の樹立に取り組むことになりました。",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [
-        "イスラエルでは、先の総選挙で第2党となった野党の党首で、ネタニヤフ首相を上回る議員の推薦を集めたアイゼンコット氏が大統領から組閣を要請され、次の連立政権の樹立に取り組むことになりました。"
-      ],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [
-        "イスラエルでは、先の総選挙で第2党となった野党の党首で、ネタニヤフ首相を上回る議員の推薦を集めたアイゼンコット氏が大統領から組閣を要請され、次の連立政権の樹立に取り組むことになりました。"
-      ],
-      "sections": [
-        {
-          "heading": "確認できた事実",
-          "paragraphs": [
-            "イスラエルでは、先の総選挙で第2党となった野党の党首で、ネタニヤフ首相を上回る議員の推薦を集めたアイゼンコット氏が大統領から組閣を要請され、次の連立政権の樹立に取り組むことになりました。"
-          ]
-        }
-      ],
-      "updates": [
-        {
-          "at": "2026-11-09T05:48:50+09:00",
-          "text": "NHK ONE 主要ニュースの公開情報を確認",
-          "source": "NHK ONE 主要ニュース"
-        },
-        {
-          "at": "2026-11-09T09:12:30.691114+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "海外",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "NHK ONE 主要ニュース",
-          "publisherId": "nhk",
-          "links": [
-            {
-              "title": "イスラエル大統領 野党アイゼンコット氏に組閣要請",
-              "url": "https://news.web.nhk/newsweb/na/nd-20261109de72659",
-              "publishedAt": "2026-11-09T05:48:50+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-11-09T05:48:50+09:00",
-          "keyPoints": [
-            "イスラエルでは、先の総選挙で第2党となった野党の党首で、ネタニヤフ首相を上回る議員の推薦を集めたアイゼンコット氏が大統領から組閣を要請され、次の連立政権の樹立に取り組むことになりました。"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "海外"
-      ]
-    },
-    {
-      "id": "db9b2209e4498a94",
-      "slug": "2026-11-09-06-db9b2209",
-      "publishedAt": "2026-11-09T05:30:10+09:00",
-      "updatedAt": "2026-11-09T09:12:30.691114+09:00",
-      "title": "福井遺体、26歳女性と確認 交際相手を送検、殺人容疑も視野",
+      "id": "d1421690f1e70c6a",
+      "slug": "2026-11-09-12-d1421690",
+      "publishedAt": "2026-11-09T08:50:00+09:00",
+      "updatedAt": "2026-11-09T19:41:23.710348+09:00",
+      "title": "外国為替資金特別会計の外貨建資産の内訳及び運用収入の内訳等",
       "dek": "",
       "summary": "",
       "whyItMatters": "",
@@ -312,34 +69,169 @@
       "sections": [],
       "updates": [
         {
-          "at": "2026-11-09T05:30:10+09:00",
-          "text": "毎日新聞 ニュース速報の公開情報を確認",
-          "source": "毎日新聞 ニュース速報"
+          "at": "2026-11-09T08:50:00+09:00",
+          "text": "財務省 政策・経済発表の公開情報を確認",
+          "source": "財務省 政策・経済発表"
         },
         {
-          "at": "2026-11-09T09:12:30.691114+09:00",
+          "at": "2026-11-09T19:41:23.710348+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
       ],
-      "category": "社会",
-      "importance": 3,
+      "category": "経済",
+      "importance": 5,
       "sources": [
         {
-          "name": "毎日新聞 ニュース速報",
-          "publisherId": "mainichi",
+          "name": "財務省 政策・経済発表",
+          "publisherId": "mof",
           "links": [
             {
-              "title": "福井遺体、26歳女性と確認 交際相手を送検、殺人容疑も視野",
-              "url": "https://mainichi.jp/articles/20261109/k00/00m/040/001000c",
-              "publishedAt": "2026-11-09T05:30:10+09:00",
+              "title": "外国為替資金特別会計の外貨建資産の内訳及び運用収入の内訳等",
+              "url": "https://www.mof.go.jp/policy/international_policy/reference/gaitametokkai/index.html",
+              "publishedAt": "2026-11-09T08:50:00+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-11-09T05:30:10+09:00",
+          "publishedAt": "2026-11-09T08:50:00+09:00",
           "keyPoints": [
-            "福井遺体、26歳女性と確認 交際相手を送検、殺人容疑も視野"
+            "財務省 政策・経済発表の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "d8c3ec7c9f07be1c",
+      "slug": "2026-11-09-12-d8c3ec7c",
+      "publishedAt": "2026-11-09T08:50:00+09:00",
+      "updatedAt": "2026-11-09T19:41:23.710348+09:00",
+      "title": "外国為替平衡操作の実施状況(令和8年7月～令和8年9月)",
+      "dek": "令和8年11月9日 財務省 ○令和8年7月～令和8年9月期における外国為替平衡操作額 15兆3,993億円 ○実施内容 実施日 金額 売買通貨 令和8年7月30日 7兆9,756億円 米ドル売り 日本円買い 令和8年7月31日 5兆5,523億円 令和8年8月3日 1兆8,714",
+      "summary": "令和8年11月9日 財務省 ○令和8年7月～令和8年9月期における外国為替平衡操作額 15兆3,993億円 ○実施内容 実施日 金額 売買通貨 令和8年7月30日 7兆9,756億円 米ドル売り 日本円買い 令和8年7月31日 5兆5,523億円 令和8年8月3日 1兆8,714億円。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "令和8年11月9日 財務省 ○令和8年7月～令和8年9月期における外国為替平衡操作額 15兆3,993億円 ○実施内容 実施日 金額 売買通貨 令和8年7月30日 7兆9,756億円 米ドル売り 日本円買い 令和8年7月31日 5兆5,523億円 令和8年8月3日 1兆8,714億円。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "令和8年11月9日 財務省 ○令和8年7月～令和8年9月期における外国為替平衡操作額 15兆3,993億円 ○実施内容 実施日 金額 売買通貨 令和8年7月30日 7兆9,756億円 米ドル売り 日本円買い 令和8年7月31日 5兆5,523億円 令和8年8月3日 1兆8,714億円。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "令和8年11月9日 財務省 ○令和8年7月～令和8年9月期における外国為替平衡操作額 15兆3,993億円 ○実施内容 実施日 金額 売買通貨 令和8年7月30日 7兆9,756億円 米ドル売り 日本円買い 令和8年7月31日 5兆5,523億円 令和8年8月3日 1兆8,714億円。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-09T08:50:00+09:00",
+          "text": "財務省 政策・経済発表の公開情報を確認",
+          "source": "財務省 政策・経済発表"
+        },
+        {
+          "at": "2026-11-09T19:41:23.710348+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "財務省 政策・経済発表",
+          "publisherId": "mof",
+          "links": [
+            {
+              "title": "外国為替平衡操作の実施状況(令和8年7月～令和8年9月)",
+              "url": "https://www.mof.go.jp/policy/international_policy/reference/feio/data/quarter/2026_3Q.html",
+              "publishedAt": "2026-11-09T08:50:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-09T08:50:00+09:00",
+          "keyPoints": [
+            "財務省 政策・経済発表の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "0da58b07d722d602",
+      "slug": "2026-11-09-12-0da58b07",
+      "publishedAt": "2026-11-09T11:42:45+09:00",
+      "updatedAt": "2026-11-09T19:41:23.710348+09:00",
+      "title": "ネット印刷「ラクスル」に不正アクセス 入稿データ一部漏えいか 名刺やはがき記載の個人情報も",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-09T11:42:45+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-09T19:41:23.710348+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "ネット印刷「ラクスル」に不正アクセス 入稿データ一部漏えいか 名刺やはがき記載の個人情報も",
+              "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003004",
+              "publishedAt": "2026-11-09T11:42:45+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-09T11:42:45+09:00",
+          "keyPoints": [
+            "ネット印刷「ラクスル」に不正アクセス 入稿データ一部漏えいか 名刺やはがき記載の個人情報も"
           ],
           "type": "報道",
           "isPrimary": false
@@ -351,46 +243,437 @@
       "continuationOrigins": [],
       "publisherCount": 1,
       "tags": [
-        "社会"
+        "テクノロジー"
       ]
     },
     {
-      "id": "b24349f6ed244148",
-      "slug": "2026-11-09-06-b24349f6",
-      "publishedAt": "2026-11-09T05:27:55+09:00",
-      "updatedAt": "2026-11-09T09:12:30.691114+09:00",
-      "title": "大相撲九州場所 2日目見どころ 横綱 豊昇龍は朝乃山と対戦",
-      "dek": "大相撲九州場所は2日目、けがから復帰の場所で白星発進とした横綱 豊昇龍は、大関経験者の前頭筆頭、朝乃山と対戦します。",
-      "summary": "大相撲九州場所は2日目、けがから復帰の場所で白星発進とした横綱 豊昇龍は、大関経験者の前頭筆頭、朝乃山と対戦します。",
+      "id": "44cd75929a4779e0",
+      "slug": "2026-11-09-12-44cd7592",
+      "publishedAt": "2026-11-09T11:30:10+09:00",
+      "updatedAt": "2026-11-09T19:41:23.710348+09:00",
+      "title": "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-09T11:30:10+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-09T19:41:23.710348+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念",
+              "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002926",
+              "publishedAt": "2026-11-09T11:30:10+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-09T11:30:10+09:00",
+          "keyPoints": [
+            "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "1192bded15dbce79",
+      "slug": "2026-11-09-12-1192bded",
+      "publishedAt": "2026-11-09T11:00:00+09:00",
+      "updatedAt": "2026-11-09T19:41:23.710348+09:00",
+      "title": "クラウドインフラのシェア、AWSが26％に後退 Google Cloudは16％に上昇 市場全体は過去最大の高成長率へ 2026年第3四半期調査",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-09T11:00:00+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-09T19:41:23.710348+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "クラウドインフラのシェア、AWSが26％に後退 Google Cloudは16％に上昇 市場全体は過去最大の高成長率へ 2026年第3四半期調査",
+              "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003001",
+              "publishedAt": "2026-11-09T11:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-09T11:00:00+09:00",
+          "keyPoints": [
+            "クラウドインフラのシェア、AWSが26％に後退 Google Cloudは16％に上昇 市場全体は過去最大の高成長率へ 2026年第3四半期調査"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "d525efaaf7a2948b",
+      "slug": "2026-11-09-12-d525efaa",
+      "publishedAt": "2026-11-09T11:00:00+09:00",
+      "updatedAt": "2026-11-09T19:41:23.710348+09:00",
+      "title": "アフリカのペンギン、9年で絶滅状態の危機 熱波や中東の紛争が打撃",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-09T11:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-09T19:41:23.710348+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "アフリカのペンギン、9年で絶滅状態の危機 熱波や中東の紛争が打撃",
+              "url": "https://www.asahi.com/articles/ASVC665KXVC6UHBI028M.html",
+              "publishedAt": "2026-11-09T11:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-09T11:00:00+09:00",
+          "keyPoints": [
+            "アフリカのペンギン、9年で絶滅状態の危機 熱波や中東の紛争が打撃"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "05faee4412e3a082",
+      "slug": "2026-11-09-12-05faee44",
+      "publishedAt": "2026-11-09T09:21:00+09:00",
+      "updatedAt": "2026-11-09T19:41:23.710348+09:00",
+      "title": "エヌビディアがフアンCEO調査 中国情報機関協力女性と親密報道",
+      "dek": "アメリカの半導体大手「エヌビディア」は、ジェンスン・フアンCEOが中国の情報機関の協力者である女性と親密な関係にあったと報じられたことを受け、調査を開始すると発表しました。",
+      "summary": "アメリカの半導体大手「エヌビディア」は、ジェンスン・フアンCEOが中国の情報機関の協力者である女性と親密な関係にあったと報じられたことを受け、調査を開始すると発表しました。",
       "whyItMatters": "",
       "articleType": "brief",
       "deskLens": "",
       "eventKeys": [],
       "facts": [
-        "大相撲九州場所は2日目、けがから復帰の場所で白星発進とした横綱 豊昇龍は、大関経験者の前頭筆頭、朝乃山と対戦します。"
+        "アメリカの半導体大手「エヌビディア」は、ジェンスン・フアンCEOが中国の情報機関の協力者である女性と親密な関係にあったと報じられたことを受け、調査を開始すると発表しました。"
       ],
       "impactPoints": [],
       "background": "",
       "watchPoints": [],
       "body": [
-        "大相撲九州場所は2日目、けがから復帰の場所で白星発進とした横綱 豊昇龍は、大関経験者の前頭筆頭、朝乃山と対戦します。"
+        "アメリカの半導体大手「エヌビディア」は、ジェンスン・フアンCEOが中国の情報機関の協力者である女性と親密な関係にあったと報じられたことを受け、調査を開始すると発表しました。"
       ],
       "sections": [
         {
           "heading": "確認できた事実",
           "paragraphs": [
-            "大相撲九州場所は2日目、けがから復帰の場所で白星発進とした横綱 豊昇龍は、大関経験者の前頭筆頭、朝乃山と対戦します。"
+            "アメリカの半導体大手「エヌビディア」は、ジェンスン・フアンCEOが中国の情報機関の協力者である女性と親密な関係にあったと報じられたことを受け、調査を開始すると発表しました。"
           ]
         }
       ],
       "updates": [
         {
-          "at": "2026-11-09T05:27:55+09:00",
-          "text": "NHK ONE スポーツの公開情報を確認",
-          "source": "NHK ONE スポーツ"
+          "at": "2026-11-09T09:21:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
         },
         {
-          "at": "2026-11-09T09:12:30.691114+09:00",
+          "at": "2026-11-09T19:41:23.710348+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "エヌビディアがフアンCEO調査 中国情報機関協力女性と親密報道",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261109de72697",
+              "publishedAt": "2026-11-09T09:21:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-09T09:21:00+09:00",
+          "keyPoints": [
+            "アメリカの半導体大手「エヌビディア」は、ジェンスン・フアンCEOが中国の情報機関の協力者である女性と親密な関係にあったと報じられたことを受け、調査を開始すると発表しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "aa075289b56883e0",
+      "slug": "2026-11-09-12-aa075289",
+      "publishedAt": "2026-11-09T08:37:47+09:00",
+      "updatedAt": "2026-11-09T19:41:23.710348+09:00",
+      "title": "COP31 きょう開幕へ 各国が足並みそろえられるか焦点に",
+      "dek": "世界各地で気候変動の影響とみられる災害が相次ぐなか、温室効果ガスの排出削減など具体的な対策の実行に向けて、各国が足…。",
+      "summary": "気候変動対策を話し合う国連の会議「COP31」が、日本時間の9日、トルコで開幕します。 世界各地で気候変動の影響とみられる災害が相次ぐなか、温室効果ガスの排出削減など具体的な対策の実行に向けて、各国が足…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "気候変動対策を話し合う国連の会議「COP31」が、日本時間の9日、トルコで開幕します。"
+      ],
+      "impactPoints": [
+        "世界各地で気候変動の影響とみられる災害が相次ぐなか、温室効果ガスの排出削減など具体的な対策の実行に向けて、各国が足…。"
+      ],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "気候変動対策を話し合う国連の会議「COP31」が、日本時間の9日、トルコで開幕します。 世界各地で気候変動の影響とみられる災害が相次ぐなか、温室効果ガスの排出削減など具体的な対策の実行に向けて、各国が足…。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "気候変動対策を話し合う国連の会議「COP31」が、日本時間の9日、トルコで開幕します。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "世界各地で気候変動の影響とみられる災害が相次ぐなか、温室効果ガスの排出削減など具体的な対策の実行に向けて、各国が足…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-09T08:37:47+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-09T19:41:23.710348+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "COP31 きょう開幕へ 各国が足並みそろえられるか焦点に",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261108de72633",
+              "publishedAt": "2026-11-09T08:37:47+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-09T08:37:47+09:00",
+          "keyPoints": [
+            "気候変動対策を話し合う国連の会議「COP31」が、日本時間の9日、トルコで開幕します。世界各地で気候変動の影響とみられる災害が相次ぐなか、温室効果ガスの排出削減など具体的な対策の実行に向けて、各国が足…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "e223eeee27f689dc",
+      "slug": "2026-11-09-12-e223eeee",
+      "publishedAt": "2026-11-09T06:30:00+09:00",
+      "updatedAt": "2026-11-09T19:41:23.710348+09:00",
+      "title": "【ライブ予告】福岡市長選と新宿・品川両区長選、15日夜に開票速報",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-09T06:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-09T19:41:23.710348+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "【ライブ予告】福岡市長選と新宿・品川両区長選、15日夜に開票速報",
+              "url": "https://www.asahi.com/articles/ASVBY1DR7VBYOXIE02MM.html",
+              "publishedAt": "2026-11-09T06:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-09T06:30:00+09:00",
+          "keyPoints": [
+            "【ライブ予告】福岡市長選と新宿・品川両区長選、15日夜に開票速報"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "a4cc230a62ae5f17",
+      "slug": "2026-11-09-12-a4cc230a",
+      "publishedAt": "2026-11-09T06:00:00+09:00",
+      "updatedAt": "2026-11-09T19:41:23.710348+09:00",
+      "title": "「ファミマ×千代の富士」大ヒット 昭和の大横綱、令和になぜ？",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-09T06:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-09T19:41:23.710348+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
@@ -399,20 +682,20 @@
       "importance": 3,
       "sources": [
         {
-          "name": "NHK ONE スポーツ",
-          "publisherId": "nhk",
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
           "links": [
             {
-              "title": "大相撲九州場所 2日目見どころ 横綱 豊昇龍は朝乃山と対戦",
-              "url": "https://news.web.nhk/newsweb/na/nd-20261108de72604",
-              "publishedAt": "2026-11-09T05:27:55+09:00",
+              "title": "「ファミマ×千代の富士」大ヒット 昭和の大横綱、令和になぜ？",
+              "url": "https://www.asahi.com/articles/ASVC63QXMVC6UTQP012M.html",
+              "publishedAt": "2026-11-09T06:00:00+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-11-09T05:27:55+09:00",
+          "publishedAt": "2026-11-09T06:00:00+09:00",
           "keyPoints": [
-            "大相撲九州場所は2日目、けがから復帰の場所で白星発進とした横綱 豊昇龍は、大関経験者の前頭筆頭、朝乃山と対戦します。"
+            "「ファミマ×千代の富士」大ヒット 昭和の大横綱、令和になぜ？"
           ],
           "type": "報道",
           "isPrimary": false
@@ -428,155 +711,42 @@
       ]
     },
     {
-      "id": "521036c9eb28b6f5",
-      "slug": "2026-11-09-06-521036c9",
-      "publishedAt": "2026-11-09T05:01:18+09:00",
-      "updatedAt": "2026-11-09T09:12:30.691114+09:00",
-      "title": "高支持率支えた野党支持層の「高市離れ」 転機となった政策は…",
-      "dek": "",
-      "summary": "",
+      "id": "317039c55bf6e519",
+      "slug": "2026-11-09-12-317039c5",
+      "publishedAt": "2026-11-09T05:44:00+09:00",
+      "updatedAt": "2026-11-09T19:41:23.710348+09:00",
+      "title": "ポーランドで6人死亡の銃乱射事件 検察がテロ容疑で捜査",
+      "dek": "ポーランドで男が無差別に銃を乱射し6人が死亡した事件で、現地の検察は、拘束された容疑者の男についてテロの疑いで捜査を開始したことを明らかにしました。",
+      "summary": "ポーランドで男が無差別に銃を乱射し6人が死亡した事件で、現地の検察は、拘束された容疑者の男についてテロの疑いで捜査を開始したことを明らかにしました。",
       "whyItMatters": "",
       "articleType": "brief",
       "deskLens": "",
       "eventKeys": [],
-      "facts": [],
+      "facts": [
+        "ポーランドで男が無差別に銃を乱射し6人が死亡した事件で、現地の検察は、拘束された容疑者の男についてテロの疑いで捜査を開始したことを明らかにしました。"
+      ],
       "impactPoints": [],
       "background": "",
       "watchPoints": [],
-      "body": [],
-      "sections": [],
+      "body": [
+        "ポーランドで男が無差別に銃を乱射し6人が死亡した事件で、現地の検察は、拘束された容疑者の男についてテロの疑いで捜査を開始したことを明らかにしました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "ポーランドで男が無差別に銃を乱射し6人が死亡した事件で、現地の検察は、拘束された容疑者の男についてテロの疑いで捜査を開始したことを明らかにしました。"
+          ]
+        }
+      ],
       "updates": [
         {
-          "at": "2026-11-09T05:01:18+09:00",
-          "text": "毎日新聞 ニュース速報の公開情報を確認",
-          "source": "毎日新聞 ニュース速報"
+          "at": "2026-11-09T05:44:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
         },
         {
-          "at": "2026-11-09T09:12:30.691114+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "国内",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "毎日新聞 ニュース速報",
-          "publisherId": "mainichi",
-          "links": [
-            {
-              "title": "高支持率支えた野党支持層の「高市離れ」 転機となった政策は…",
-              "url": "https://mainichi.jp/articles/20261106/k00/00m/010/249000c",
-              "publishedAt": "2026-11-09T05:01:18+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-11-09T05:01:18+09:00",
-          "keyPoints": [
-            "高支持率支えた野党支持層の「高市離れ」 転機となった政策は…"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "国内"
-      ]
-    },
-    {
-      "id": "4b887f3d04b22294",
-      "slug": "2026-11-09-06-4b887f3d",
-      "publishedAt": "2026-11-09T05:00:16+09:00",
-      "updatedAt": "2026-11-09T09:12:30.691114+09:00",
-      "title": "高市内閣の支持率調査、下落する層と変わらぬ層 それぞれの理由",
-      "dek": "",
-      "summary": "",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [],
-      "sections": [],
-      "updates": [
-        {
-          "at": "2026-11-09T05:00:16+09:00",
-          "text": "毎日新聞 ニュース速報の公開情報を確認",
-          "source": "毎日新聞 ニュース速報"
-        },
-        {
-          "at": "2026-11-09T09:12:30.691114+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "国内",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "毎日新聞 ニュース速報",
-          "publisherId": "mainichi",
-          "links": [
-            {
-              "title": "高市内閣の支持率調査、下落する層と変わらぬ層 それぞれの理由",
-              "url": "https://mainichi.jp/articles/20261106/k00/00m/010/210000c",
-              "publishedAt": "2026-11-09T05:00:16+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-11-09T05:00:16+09:00",
-          "keyPoints": [
-            "高市内閣の支持率調査、下落する層と変わらぬ層 それぞれの理由"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "国内"
-      ]
-    },
-    {
-      "id": "a041d8aeb6e68f03",
-      "slug": "2026-11-09-06-a041d8ae",
-      "publishedAt": "2026-11-09T04:36:06+09:00",
-      "updatedAt": "2026-11-09T09:12:30.691114+09:00",
-      "title": "イスラエル大統領、反ネタニヤフ氏陣営に組閣を要請 連立協議難航か",
-      "dek": "",
-      "summary": "",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [],
-      "sections": [],
-      "updates": [
-        {
-          "at": "2026-11-09T04:36:06+09:00",
-          "text": "朝日新聞 最新ニュースの公開情報を確認",
-          "source": "朝日新聞 最新ニュース"
-        },
-        {
-          "at": "2026-11-09T09:12:30.691114+09:00",
+          "at": "2026-11-09T19:41:23.710348+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
@@ -585,20 +755,20 @@
       "importance": 3,
       "sources": [
         {
-          "name": "朝日新聞 最新ニュース",
-          "publisherId": "asahi",
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
           "links": [
             {
-              "title": "イスラエル大統領、反ネタニヤフ氏陣営に組閣を要請 連立協議難航か",
-              "url": "https://www.asahi.com/articles/ASVC772P3VC7UHBI023M.html",
-              "publishedAt": "2026-11-09T04:36:06+09:00",
+              "title": "ポーランドで6人死亡の銃乱射事件 検察がテロ容疑で捜査",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261109de72678",
+              "publishedAt": "2026-11-09T05:44:00+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-11-09T04:36:06+09:00",
+          "publishedAt": "2026-11-09T05:44:00+09:00",
           "keyPoints": [
-            "イスラエル大統領、反ネタニヤフ氏陣営に組閣を要請 連立協議難航か"
+            "ポーランドで男が無差別に銃を乱射し6人が死亡した事件で、現地の検察は、拘束された容疑者の男についてテロの疑いで捜査を開始したことを明らかにしました。"
           ],
           "type": "報道",
           "isPrimary": false
@@ -611,130 +781,6 @@
       "publisherCount": 1,
       "tags": [
         "海外"
-      ]
-    },
-    {
-      "id": "f88482a819c791e2",
-      "slug": "2026-11-09-06-f88482a8",
-      "publishedAt": "2026-11-08T22:50:00+09:00",
-      "updatedAt": "2026-11-09T09:12:30.691114+09:00",
-      "title": "「VIVANT」映画化、12月公開へ ドラマ最終回でTBSが発表",
-      "dek": "",
-      "summary": "",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [],
-      "sections": [],
-      "updates": [
-        {
-          "at": "2026-11-08T22:50:00+09:00",
-          "text": "朝日新聞 最新ニュースの公開情報を確認",
-          "source": "朝日新聞 最新ニュース"
-        },
-        {
-          "at": "2026-11-09T09:12:30.691114+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "エンタメ",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "朝日新聞 最新ニュース",
-          "publisherId": "asahi",
-          "links": [
-            {
-              "title": "「VIVANT」映画化、12月公開へ ドラマ最終回でTBSが発表",
-              "url": "https://www.asahi.com/articles/ASVC84H0SVC8UCVL02GM.html",
-              "publishedAt": "2026-11-08T22:50:00+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-11-08T22:50:00+09:00",
-          "keyPoints": [
-            "「VIVANT」映画化、12月公開へ ドラマ最終回でTBSが発表"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "エンタメ"
-      ]
-    },
-    {
-      "id": "cb40faba23cca620",
-      "slug": "2026-11-09-06-cb40faba",
-      "publishedAt": "2026-11-08T21:06:41+09:00",
-      "updatedAt": "2026-11-09T09:12:30.691114+09:00",
-      "title": "再選目指す現職と弁護士の新顔が立候補 兵庫・尼崎市長選挙が告示",
-      "dek": "",
-      "summary": "",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [],
-      "sections": [],
-      "updates": [
-        {
-          "at": "2026-11-08T21:06:41+09:00",
-          "text": "朝日新聞 最新ニュースの公開情報を確認",
-          "source": "朝日新聞 最新ニュース"
-        },
-        {
-          "at": "2026-11-09T09:12:30.691114+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "国内",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "朝日新聞 最新ニュース",
-          "publisherId": "asahi",
-          "links": [
-            {
-              "title": "再選目指す現職と弁護士の新顔が立候補 兵庫・尼崎市長選挙が告示",
-              "url": "https://www.asahi.com/articles/ASVC83TN8VC8PIHB00NM.html",
-              "publishedAt": "2026-11-08T21:06:41+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-11-08T21:06:41+09:00",
-          "keyPoints": [
-            "再選目指す現職と弁護士の新顔が立候補 兵庫・尼崎市長選挙が告示"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "国内"
       ]
     }
   ]
