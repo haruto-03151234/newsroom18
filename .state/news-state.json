@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-09T12:00:00+09:00",
-  "lastCompletedEdition": "2026-11-09-12",
+  "lastCompletedEnd": "2026-11-09T18:00:00+09:00",
+  "lastCompletedEdition": "2026-11-09-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -25184,7 +25184,144 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261109de72678"
       ]
+    },
+    {
+      "editionId": "2026-11-09-18",
+      "title": "南海トラフ地震関連解説情報",
+      "publishedAt": "2026-11-09T17:00:14+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261109080015_0_VYSE52_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-18",
+      "title": "fatf金融活動作業部会声明が公表されました",
+      "publishedAt": "2026-11-09T17:00:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/policy/international_policy/convention/fatf/20261106180337.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-18",
+      "title": "東京都気象解説情報台風第32号",
+      "publishedAt": "2026-11-09T16:49:14+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261109074915_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261109075008_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-18",
+      "title": "火山名口永良部島火山の状況に関する解説情報",
+      "publishedAt": "2026-11-09T16:01:57+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261109070157_0_VFVO51_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-18",
+      "title": "トゥンクトゥンクがやってくる東京ビッグサイト等で横浜グリーンエクスポをpr",
+      "publishedAt": "2026-11-09T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousan/kaki/261109.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-18",
+      "title": "みんなで支えよう体罰などによらない子育て",
+      "publishedAt": "2026-11-09T11:00:00+09:00",
+      "urls": [
+        "https://www.gov-online.go.jp/article/202611/radio-3830.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-18",
+      "title": "秋葉原スマートごみ箱22台新設ごみを自動で約5分の1に圧縮たまり具合は遠隔で把握",
+      "publishedAt": "2026-11-09T17:45:47+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/09/2000003031"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-18",
+      "title": "小学生7人に車で衝突減刑望まない大阪・西成の殺人未遂事件",
+      "publishedAt": "2026-11-09T17:32:02+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC92R18VC9PTIL00ZM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-18",
+      "title": "単身渡航ワイナリーでイタリア語習得ゼロからの挑戦の日とは",
+      "publishedAt": "2026-11-09T17:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVBY4D42VBYUHBI01XM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-18",
+      "title": "石破前首相ら戒告首相経験者で初自民消費減税法案の採決退席で",
+      "publishedAt": "2026-11-09T17:27:07+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC9161NVC9UTFK008M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-18",
+      "title": "住友生命健康関連プログラム利用者約8万人分個人情報漏えい",
+      "publishedAt": "2026-11-09T17:09:57+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261109de72962"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-18",
+      "title": "評舞踊giotgiot",
+      "publishedAt": "2026-11-09T16:46:15+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261109/dde/012/200/028000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-18",
+      "title": "anaベトナム航空とダイヤや運賃など調整の共同事業開始へ",
+      "publishedAt": "2026-11-09T16:44:48+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261109de72963"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-18",
+      "title": "口座番号や顔写真要配慮個人情報もステップゴルフ不正アクセス最大215万件漏えいの可能性",
+      "publishedAt": "2026-11-09T16:10:20+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/09/2000003021"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-18",
+      "title": "モニターにも値上げの波アイオーデータは10月に実施eizoも12月以降にメーカー各社に聞いた",
+      "publishedAt": "2026-11-09T15:54:28+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/09/2000003015"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-18",
+      "title": "アメリカ男子ゴルフ平田憲聖21アンダーで自己最高の4位",
+      "publishedAt": "2026-11-09T15:04:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261109de72842"
+      ]
+    },
+    {
+      "editionId": "2026-11-09-18",
+      "title": "otobutaimbsなど放送",
+      "publishedAt": "2026-11-09T13:36:53+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261109/dde/012/200/021000c"
+      ]
     }
   ],
-  "updatedAt": "2026-11-09T19:41:23.710348+09:00"
+  "updatedAt": "2026-11-10T04:28:03.553792+09:00"
 }
