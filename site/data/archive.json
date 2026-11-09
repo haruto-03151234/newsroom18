@@ -1,7 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T00:45:47.944645+09:00",
+  "updatedAt": "2026-11-09T09:12:30.691114+09:00",
   "editions": [
+    {
+      "id": "2026-11-09-06",
+      "path": "data/editions/2026-11-09-06.json",
+      "dataUrl": "data/editions/2026-11-09-06.json",
+      "generatedAt": "2026-11-09T09:12:30.691114+09:00",
+      "date": "2026-11-09",
+      "time": "06:00",
+      "label": "朝6時版",
+      "coverageLabel": "11月08日 18:00〜11月09日 06:00",
+      "headline": "宮城県沖で地震 M4.5 最大震度3",
+      "articleCount": 10,
+      "categories": {
+        "国内": 4,
+        "海外": 3,
+        "社会": 1,
+        "スポーツ": 1,
+        "エンタメ": 1
+      }
+    },
     {
       "id": "2026-11-08-18",
       "path": "data/editions/2026-11-08-18.json",
