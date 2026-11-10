@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-09T18:00:00+09:00",
-  "lastCompletedEdition": "2026-11-09-18",
+  "lastCompletedEnd": "2026-11-10T06:00:00+09:00",
+  "lastCompletedEdition": "2026-11-10-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -25321,7 +25321,103 @@
       "urls": [
         "https://mainichi.jp/articles/20261109/dde/012/200/021000c"
       ]
+    },
+    {
+      "editionId": "2026-11-10-06",
+      "title": "全般気象解説情報台風第32号",
+      "publishedAt": "2026-11-10T04:48:15+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261109194815_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-06",
+      "title": "武部農林水産大臣とチン・ヴィエット・フン・ベトナム農業・環境大臣との会談について",
+      "publishedAt": "2026-11-09T20:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/yusyutu_kokusai/chiiki/261109.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-06",
+      "title": "ロシアの独立系新聞最後の日30年余の歴史に幕",
+      "publishedAt": "2026-11-10T05:44:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73218"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-06",
+      "title": "大相撲九州場所3日目見どころ豊昇龍は藤凌駕と初顔合わせ",
+      "publishedAt": "2026-11-10T05:07:10+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261109de73181"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-06",
+      "title": "防衛省ai活用の基本方針改定へai主権盛り込む方向",
+      "publishedAt": "2026-11-10T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC94353VC9UTFK01BM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-06",
+      "title": "ジャニーズ事務所性被害",
+      "publishedAt": "2026-11-10T02:02:20+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261110/ddm/041/040/089000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-06",
+      "title": "耳寄りな話・tbsラジオ",
+      "publishedAt": "2026-11-10T02:01:18+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261110/ddm/018/200/023000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-06",
+      "title": "イノシシに62歳女性体当たりされ重傷西宮の住宅街で犬の散歩中",
+      "publishedAt": "2026-11-09T23:43:38+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC94QJ5VC9PIHB005M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-06",
+      "title": "日本ベトナム首脳会談安保推進で一致重要鉱物や原子力で連携",
+      "publishedAt": "2026-11-09T23:33:22+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261109de72912"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-06",
+      "title": "次の地震へのエネルギーたまり始める東日本大震災の震源域で確認",
+      "publishedAt": "2026-11-09T20:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC93HBNVC9UTFL012M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-06",
+      "title": "ニトリに不正アクセス最大3762万件の個人情報流出の可能性法人会員も対象に",
+      "publishedAt": "2026-11-09T19:40:53+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/09/2000003039"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-06",
+      "title": "無印良品ネットストア再開延期リスト型攻撃を確認新たに約27万件漏えいか",
+      "publishedAt": "2026-11-09T19:25:46+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/09/2000003038"
+      ]
     }
   ],
-  "updatedAt": "2026-11-10T04:28:03.553792+09:00"
+  "updatedAt": "2026-11-10T12:01:22.147783+09:00"
 }

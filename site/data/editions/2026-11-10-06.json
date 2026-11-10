@@ -1,0 +1,908 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-11-10T12:01:22.147783+09:00",
+  "summary": "対象時間帯の6配信元のニュースを12本に整理しました。うち重要ニュースは2本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-11-10-06",
+    "date": "2026-11-10",
+    "slot": "06:00",
+    "label": "朝6時版"
+  },
+  "coverage": {
+    "from": "2026-11-09T18:00:00+09:00",
+    "to": "2026-11-10T06:00:00+09:00",
+    "start": "2026-11-09T18:00:00+09:00",
+    "end": "2026-11-10T06:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "11月09日 18:00〜11月10日 06:00"
+  },
+  "stats": {
+    "articleCount": 12,
+    "categoryCounts": {
+      "国内": 2,
+      "経済": 1,
+      "海外": 2,
+      "スポーツ": 1,
+      "エンタメ": 2,
+      "社会": 1,
+      "科学": 1,
+      "テクノロジー": 2
+    },
+    "sourceCount": 12,
+    "publisherCount": 6,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 2,
+      "jma": 1,
+      "maff": 1,
+      "mainichi": 2,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 2,
+      "brief": 10
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories"
+  ],
+  "articles": [
+    {
+      "id": "6f1deb75522faabf",
+      "slug": "2026-11-10-06-6f1deb75",
+      "publishedAt": "2026-11-10T04:48:15+09:00",
+      "updatedAt": "2026-11-10T12:01:22.147783+09:00",
+      "title": "全般気象解説情報（台風第３２号）",
+      "dek": "11月10日 04:48更新。強い台風第32号は、11日にかけて東寄りに進み、小笠原諸島には10日夜遅くから11日未明にかけて最接近する見込みです。",
+      "summary": "強い台風第32号は、11日にかけて東寄りに進み、小笠原諸島には10日夜遅くから11日未明にかけて最接近する見込みです。小笠原諸島では11日にかけて、暴風やうねりを伴う高波に警戒し、土砂災害に注意・警戒してください。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "全般気象解説情報台風第32号"
+      ],
+      "facts": [
+        "[気象概況] 強い台風第32号は、10日3時には日本の南にあって、1時間におよそ20キロの速さで東北東へ進んでいます。",
+        "台風の接近に伴い、小笠原諸島では、非常に強い風が吹き、うねりを伴う大しけとなる所があるでしょう。",
+        "[風の予想] 小笠原諸島では、非常に強い風の吹く所があるでしょう。",
+        "10日から11日にかけて予想される最大風速(最大瞬間風速) 小笠原諸島 25メートル (35メートル) [波の予想] 小笠原諸島では、うねりを伴い大しけとなる所があるでしょう。",
+        "また、。"
+      ],
+      "impactPoints": [
+        "小笠原諸島では11日にかけて、暴風やうねりを伴う高波に警戒し、土砂災害に注意・警戒してください。",
+        "中心の気圧は970ヘクトパスカル、中心付近の最大風速は40メートル、最大瞬間風速は55メートルで中心から半径75キロ以内では風速25メートル以上の暴風となっています。",
+        "10日から11日にかけて予想される波の高さ 小笠原諸島 6メートル うねりを伴う [雨の予想] 小笠原諸島では、雷を伴う激しい雨が降り、大雨となる所があるでしょう。",
+        "10日6時から11日6時までに予想される24時間降水量は多い所で、 小笠原諸島 100ミリ [防災事項] 小笠原諸島では11日にかけて暴風やうねりを伴う高波に警戒し、土砂災害に注意・警戒してください。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "強い台風第32号は、11日にかけて東寄りに進み、小笠原諸島には10日夜遅くから11日未明にかけて最接近する見込みです。"
+      ],
+      "body": [
+        "強い台風第32号は、11日にかけて東寄りに進み、小笠原諸島には10日夜遅くから11日未明にかけて最接近する見込みです。小笠原諸島では11日にかけて、暴風やうねりを伴う高波に警戒し、土砂災害に注意・警戒してください。",
+        "中心の気圧は970ヘクトパスカル、中心付近の最大風速は40メートル、最大瞬間風速は55メートルで中心から半径75キロ以内では風速25メートル以上の暴風となっています。",
+        "10日から11日にかけて予想される波の高さ 小笠原諸島 6メートル うねりを伴う [雨の予想] 小笠原諸島では、雷を伴う激しい雨が降り、大雨となる所があるでしょう。",
+        "10日6時から11日6時までに予想される24時間降水量は多い所で、 小笠原諸島 100ミリ [防災事項] 小笠原諸島では11日にかけて暴風やうねりを伴う高波に警戒し、土砂災害に注意・警戒してください。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "[気象概況] 強い台風第32号は、10日3時には日本の南にあって、1時間におよそ20キロの速さで東北東へ進んでいます。",
+            "台風の接近に伴い、小笠原諸島では、非常に強い風が吹き、うねりを伴う大しけとなる所があるでしょう。",
+            "[風の予想] 小笠原諸島では、非常に強い風の吹く所があるでしょう。",
+            "10日から11日にかけて予想される最大風速(最大瞬間風速) 小笠原諸島 25メートル (35メートル) [波の予想] 小笠原諸島では、うねりを伴い大しけとなる所があるでしょう。",
+            "また、。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "小笠原諸島では11日にかけて、暴風やうねりを伴う高波に警戒し、土砂災害に注意・警戒してください。",
+            "中心の気圧は970ヘクトパスカル、中心付近の最大風速は40メートル、最大瞬間風速は55メートルで中心から半径75キロ以内では風速25メートル以上の暴風となっています。",
+            "10日から11日にかけて予想される波の高さ 小笠原諸島 6メートル うねりを伴う [雨の予想] 小笠原諸島では、雷を伴う激しい雨が降り、大雨となる所があるでしょう。",
+            "10日6時から11日6時までに予想される24時間降水量は多い所で、 小笠原諸島 100ミリ [防災事項] 小笠原諸島では11日にかけて暴風やうねりを伴う高波に警戒し、土砂災害に注意・警戒してください。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "強い台風第32号は、11日にかけて東寄りに進み、小笠原諸島には10日夜遅くから11日未明にかけて最接近する見込みです。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-10T04:48:15+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-11-10T12:01:22.147783+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "全般気象解説情報（台風第３２号）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261109194815_0_VPZJ50_010000.xml",
+              "publishedAt": "2026-11-10T04:48:15+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T04:48:15+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "f8870c3ddbaca991",
+      "slug": "2026-11-10-06-f8870c3d",
+      "publishedAt": "2026-11-09T20:00:00+09:00",
+      "updatedAt": "2026-11-10T12:01:22.147783+09:00",
+      "title": "武部農林水産大臣とチン・ヴィエット・フン・ベトナム農業・環境大臣との会談について",
+      "dek": "11月9日 20:00更新。プレスリリース 令和8年11月6日(金曜日)、武部農林水産大臣は、チン・ヴィエット・フン・ベトナム農業・環境大臣の表敬を受け、会談を行いましたので、概要をお知らせいたします。",
+      "summary": "プレスリリース 令和8年11月6日(金曜日)、武部農林水産大臣は、チン・ヴィエット・フン・ベトナム農業・環境大臣の表敬を受け、会談を行いましたので、概要をお知らせいたします。令和8年11月6日(金曜日)15時00分から15時40分まで 会談では、日越の農業分野について意見交換を行うとともに、日越間の協力関係について確認しました。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "武部農林水産大臣とチンヴィエットフンベトナム農業環境大臣との会談について"
+      ],
+      "facts": [
+        "プレスリリース 令和8年11月6日(金曜日)、武部農林水産大臣は、チン・ヴィエット・フン・ベトナム農業・環境大臣の表敬を受け、会談を行いましたので、概要をお知らせいたします。",
+        "令和8年11月6日(金曜日)15時00分から15時40分まで 会談では、日越の農業分野について意見交換を行うとともに、日越間の協力関係について確認しました。",
+        "輸出・国際局国際地域課 担当者:東南アジア班 代表:03-3502-8111(内線3472) ダイヤルイン:03-3501-8087。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [
+        "また、ベトナム産ポメロの日本向け輸出及び日本産ぶどうのベトナム向け輸出が来季から可能となる見通しであることを確認しました。"
+      ],
+      "body": [
+        "プレスリリース 令和8年11月6日(金曜日)、武部農林水産大臣は、チン・ヴィエット・フン・ベトナム農業・環境大臣の表敬を受け、会談を行いましたので、概要をお知らせいたします。令和8年11月6日(金曜日)15時00分から15時40分まで 会談では、日越の農業分野について意見交換を行うとともに、日越間の協力関係について確認しました。",
+        "また、ベトナム産ポメロの日本向け輸出及び日本産ぶどうのベトナム向け輸出が来季から可能となる見通しであることを確認しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "プレスリリース 令和8年11月6日(金曜日)、武部農林水産大臣は、チン・ヴィエット・フン・ベトナム農業・環境大臣の表敬を受け、会談を行いましたので、概要をお知らせいたします。",
+            "令和8年11月6日(金曜日)15時00分から15時40分まで 会談では、日越の農業分野について意見交換を行うとともに、日越間の協力関係について確認しました。",
+            "輸出・国際局国際地域課 担当者:東南アジア班 代表:03-3502-8111(内線3472) ダイヤルイン:03-3501-8087。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "また、ベトナム産ポメロの日本向け輸出及び日本産ぶどうのベトナム向け輸出が来季から可能となる見通しであることを確認しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-09T20:00:00+09:00",
+          "text": "農林水産省 報道発表資料の公開情報を確認",
+          "source": "農林水産省 報道発表資料"
+        },
+        {
+          "at": "2026-11-10T12:01:22.147783+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "農林水産省 報道発表資料",
+          "publisherId": "maff",
+          "links": [
+            {
+              "title": "武部農林水産大臣とチン・ヴィエット・フン・ベトナム農業・環境大臣との会談について",
+              "url": "https://www.maff.go.jp/j/press/yusyutu_kokusai/chiiki/261109.html",
+              "publishedAt": "2026-11-09T20:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-09T20:00:00+09:00",
+          "keyPoints": [
+            "農林水産省 報道発表資料の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "f189cf1d61ebd206",
+      "slug": "2026-11-10-06-f189cf1d",
+      "publishedAt": "2026-11-10T05:44:00+09:00",
+      "updatedAt": "2026-11-10T12:01:22.147783+09:00",
+      "title": "ロシアの独立系新聞「最後の日」 30年余の歴史に幕",
+      "dek": "プーチン政権への批判を繰り返してきたロシアの独立系新聞「ノーバヤ・ガゼータ」が9日、30年あまりの歴史に幕を閉じました。",
+      "summary": "プーチン政権への批判を繰り返してきたロシアの独立系新聞「ノーバヤ・ガゼータ」が9日、30年あまりの歴史に幕を閉じました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "プーチン政権への批判を繰り返してきたロシアの独立系新聞「ノーバヤ・ガゼータ」が9日、30年あまりの歴史に幕を閉じました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "プーチン政権への批判を繰り返してきたロシアの独立系新聞「ノーバヤ・ガゼータ」が9日、30年あまりの歴史に幕を閉じました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "プーチン政権への批判を繰り返してきたロシアの独立系新聞「ノーバヤ・ガゼータ」が9日、30年あまりの歴史に幕を閉じました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-10T05:44:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-10T12:01:22.147783+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "ロシアの独立系新聞「最後の日」 30年余の歴史に幕",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261110de73218",
+              "publishedAt": "2026-11-10T05:44:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T05:44:00+09:00",
+          "keyPoints": [
+            "プーチン政権への批判を繰り返してきたロシアの独立系新聞「ノーバヤ・ガゼータ」が9日、30年あまりの歴史に幕を閉じました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "1b975d4de4bc888c",
+      "slug": "2026-11-10-06-1b975d4d",
+      "publishedAt": "2026-11-10T05:07:10+09:00",
+      "updatedAt": "2026-11-10T12:01:22.147783+09:00",
+      "title": "大相撲九州場所 3日目見どころ 豊昇龍は藤凌駕と初顔合わせ",
+      "dek": "大相撲九州場所は3日目、けがから復帰の場所で初日から2連勝とした横綱・豊昇龍は、前頭筆頭の23歳、藤凌駕の初挑戦を受けます。",
+      "summary": "大相撲九州場所は3日目、けがから復帰の場所で初日から2連勝とした横綱・豊昇龍は、前頭筆頭の23歳、藤凌駕の初挑戦を受けます。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "大相撲九州場所は3日目、けがから復帰の場所で初日から2連勝とした横綱・豊昇龍は、前頭筆頭の23歳、藤凌駕の初挑戦を受けます。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "大相撲九州場所は3日目、けがから復帰の場所で初日から2連勝とした横綱・豊昇龍は、前頭筆頭の23歳、藤凌駕の初挑戦を受けます。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "大相撲九州場所は3日目、けがから復帰の場所で初日から2連勝とした横綱・豊昇龍は、前頭筆頭の23歳、藤凌駕の初挑戦を受けます。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-10T05:07:10+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-11-10T12:01:22.147783+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "大相撲九州場所 3日目見どころ 豊昇龍は藤凌駕と初顔合わせ",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261109de73181",
+              "publishedAt": "2026-11-10T05:07:10+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T05:07:10+09:00",
+          "keyPoints": [
+            "大相撲九州場所は3日目、けがから復帰の場所で初日から2連勝とした横綱・豊昇龍は、前頭筆頭の23歳、藤凌駕の初挑戦を受けます。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "3e8bfee2fdd0f55f",
+      "slug": "2026-11-10-06-3e8bfee2",
+      "publishedAt": "2026-11-10T05:00:00+09:00",
+      "updatedAt": "2026-11-10T12:01:22.147783+09:00",
+      "title": "防衛省、AI活用の基本方針改定へ 「AI主権」盛り込む方向",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-10T05:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-10T12:01:22.147783+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "防衛省、AI活用の基本方針改定へ 「AI主権」盛り込む方向",
+              "url": "https://www.asahi.com/articles/ASVC94353VC9UTFK01BM.html",
+              "publishedAt": "2026-11-10T05:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T05:00:00+09:00",
+          "keyPoints": [
+            "防衛省、AI活用の基本方針改定へ 「AI主権」盛り込む方向"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "0c12dc3a3dd18632",
+      "slug": "2026-11-10-06-0c12dc3a",
+      "publishedAt": "2026-11-10T02:02:20+09:00",
+      "updatedAt": "2026-11-10T12:01:22.147783+09:00",
+      "title": "ジャニーズ事務所性被害:旧ジャニーズ性加害 確認訴訟和解",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-10T02:02:20+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-11-10T12:01:22.147783+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "ジャニーズ事務所性被害:旧ジャニーズ性加害 確認訴訟和解",
+              "url": "https://mainichi.jp/articles/20261110/ddm/041/040/089000c",
+              "publishedAt": "2026-11-10T02:02:20+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T02:02:20+09:00",
+          "keyPoints": [
+            "ジャニーズ事務所性被害:旧ジャニーズ性加害 確認訴訟和解"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "16f6b6b12bb6fae9",
+      "slug": "2026-11-10-06-16f6b6b1",
+      "publishedAt": "2026-11-10T02:01:18+09:00",
+      "updatedAt": "2026-11-10T12:01:22.147783+09:00",
+      "title": "“耳寄り”な話・ＴＢＳラジオ:駆け抜ける爆笑問題 マイクの前で30年",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-10T02:01:18+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-11-10T12:01:22.147783+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "“耳寄り”な話・ＴＢＳラジオ:駆け抜ける爆笑問題 マイクの前で30年",
+              "url": "https://mainichi.jp/articles/20261110/ddm/018/200/023000c",
+              "publishedAt": "2026-11-10T02:01:18+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T02:01:18+09:00",
+          "keyPoints": [
+            "“耳寄り”な話・ＴＢＳラジオ:駆け抜ける爆笑問題 マイクの前で30年"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "20b73d486f3671de",
+      "slug": "2026-11-10-06-20b73d48",
+      "publishedAt": "2026-11-09T23:43:38+09:00",
+      "updatedAt": "2026-11-10T12:01:22.147783+09:00",
+      "title": "イノシシ？ に62歳女性体当たりされ重傷 西宮の住宅街で犬の散歩中",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-09T23:43:38+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-10T12:01:22.147783+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "イノシシ？に62歳女性体当たりされ重傷 西宮の住宅街で犬の散歩中",
+              "url": "https://www.asahi.com/articles/ASVC94QJ5VC9PIHB005M.html",
+              "publishedAt": "2026-11-09T23:43:38+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-09T23:43:38+09:00",
+          "keyPoints": [
+            "イノシシ？ に62歳女性体当たりされ重傷 西宮の住宅街で犬の散歩中"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "7993fb48d5f9d92e",
+      "slug": "2026-11-10-06-7993fb48",
+      "publishedAt": "2026-11-09T23:33:22+09:00",
+      "updatedAt": "2026-11-10T12:01:22.147783+09:00",
+      "title": "日本ベトナム首脳会談 安保推進で一致 重要鉱物や原子力で連携",
+      "dek": "高市総理大臣はベトナムの最高指導者のトー・ラム共産党書記長と首脳会談を行い、安全保障面での協力推進で一致するとともに、重要鉱物のサプライチェーンの強じん化や原子力分野で連携していくことを確認しました。",
+      "summary": "高市総理大臣はベトナムの最高指導者のトー・ラム共産党書記長と首脳会談を行い、安全保障面での協力推進で一致するとともに、重要鉱物のサプライチェーンの強じん化や原子力分野で連携していくことを確認しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "高市総理大臣はベトナムの最高指導者のトー・ラム共産党書記長と首脳会談を行い、安全保障面での協力推進で一致するとともに、重要鉱物のサプライチェーンの強じん化や原子力分野で連携していくことを確認しました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "高市総理大臣はベトナムの最高指導者のトー・ラム共産党書記長と首脳会談を行い、安全保障面での協力推進で一致するとともに、重要鉱物のサプライチェーンの強じん化や原子力分野で連携していくことを確認しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "高市総理大臣はベトナムの最高指導者のトー・ラム共産党書記長と首脳会談を行い、安全保障面での協力推進で一致するとともに、重要鉱物のサプライチェーンの強じん化や原子力分野で連携していくことを確認しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-09T23:33:22+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-10T12:01:22.147783+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "日本ベトナム首脳会談 安保推進で一致 重要鉱物や原子力で連携",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261109de72912",
+              "publishedAt": "2026-11-09T23:33:22+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-09T23:33:22+09:00",
+          "keyPoints": [
+            "高市総理大臣はベトナムの最高指導者のトー・ラム共産党書記長と首脳会談を行い、安全保障面での協力推進で一致するとともに、重要鉱物のサプライチェーンの強じん化や原子力分野で連携していくことを確認しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "660375d57e4ea97c",
+      "slug": "2026-11-10-06-660375d5",
+      "publishedAt": "2026-11-09T20:30:00+09:00",
+      "updatedAt": "2026-11-10T12:01:22.147783+09:00",
+      "title": "次の地震へのエネルギー、たまり始める 東日本大震災の震源域で確認",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-09T20:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-10T12:01:22.147783+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "次の地震へのエネルギー、たまり始める 東日本大震災の震源域で確認",
+              "url": "https://www.asahi.com/articles/ASVC93HBNVC9UTFL012M.html",
+              "publishedAt": "2026-11-09T20:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-09T20:30:00+09:00",
+          "keyPoints": [
+            "次の地震へのエネルギー、たまり始める 東日本大震災の震源域で確認"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    },
+    {
+      "id": "05a1fa6e73206d08",
+      "slug": "2026-11-10-06-05a1fa6e",
+      "publishedAt": "2026-11-09T19:40:53+09:00",
+      "updatedAt": "2026-11-10T12:01:22.147783+09:00",
+      "title": "ニトリに不正アクセス、最大3762万件の個人情報流出の可能性 法人会員も対象に",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-09T19:40:53+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-10T12:01:22.147783+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "ニトリに不正アクセス、最大3762万件の個人情報流出の可能性 法人会員も対象に",
+              "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003039",
+              "publishedAt": "2026-11-09T19:40:53+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-09T19:40:53+09:00",
+          "keyPoints": [
+            "ニトリに不正アクセス、最大3762万件の個人情報流出の可能性 法人会員も対象に"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "890d7b648129b143",
+      "slug": "2026-11-10-06-890d7b64",
+      "publishedAt": "2026-11-09T19:25:46+09:00",
+      "updatedAt": "2026-11-10T12:01:22.147783+09:00",
+      "title": "無印良品、ネットストア再開延期 リスト型攻撃を確認、新たに約27万件漏えいか",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-09T19:25:46+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-10T12:01:22.147783+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "無印良品、ネットストア再開延期 リスト型攻撃を確認、新たに約27万件漏えいか",
+              "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003038",
+              "publishedAt": "2026-11-09T19:25:46+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-09T19:25:46+09:00",
+          "keyPoints": [
+            "無印良品、ネットストア再開延期 リスト型攻撃を確認、新たに約27万件漏えいか"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    }
+  ]
+}
