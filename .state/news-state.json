@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-10T12:00:00+09:00",
-  "lastCompletedEdition": "2026-11-10-12",
+  "lastCompletedEnd": "2026-11-10T18:00:00+09:00",
+  "lastCompletedEdition": "2026-11-10-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -25505,7 +25505,128 @@
       "urls": [
         "https://www.asahi.com/articles/ASVC52SD0VC5UTFL006M.html"
       ]
+    },
+    {
+      "editionId": "2026-11-10-18",
+      "title": "全般気象解説情報台風第32号",
+      "publishedAt": "2026-11-10T16:45:22+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261110074523_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261110075111_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-18",
+      "title": "募集開始米粉の優良な取組を発掘・表彰する新たなアワードを創設",
+      "publishedAt": "2026-11-10T16:23:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousan/b_taisaku/261110.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-18",
+      "title": "火山名全国の活火山火山の状況に関する解説情報",
+      "publishedAt": "2026-11-10T16:00:06+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261110070006_0_VFVO51_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-18",
+      "title": "開発難航イプシロンs今年度中の打ち上げ目指しリハーサル",
+      "publishedAt": "2026-11-10T17:51:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73652"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-18",
+      "title": "巨人ドラフト1位指名であいさつ織田翔希投手は同席せず",
+      "publishedAt": "2026-11-10T17:46:57+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73588"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-18",
+      "title": "サイバー攻撃急増で人の手では対応しきれないソフトバンク宮川社長終わりの見えないパッチ修正に疲弊しきっていると吐露",
+      "publishedAt": "2026-11-10T17:23:42+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/10/2000003069"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-18",
+      "title": "パ・リーグ来季日程ソフトバンクは楽天と開幕戦",
+      "publishedAt": "2026-11-10T17:18:40+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73569"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-18",
+      "title": "ワンピース日本人形にポケモン羽子板久月が鎌倉に海外客向け新店舗",
+      "publishedAt": "2026-11-10T17:15:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCB26L2VCBULOB00RM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-18",
+      "title": "ケンタッキー一部メニュー画像に生成ai実験販売の商品などsnsは違和感の声も",
+      "publishedAt": "2026-11-10T16:13:36+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/10/2000003070"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-18",
+      "title": "日本が最大の市場ベルルッティceoが語る顧客との愛の物語",
+      "publishedAt": "2026-11-10T16:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC92CP9VC9UCVL01MM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-18",
+      "title": "マイナカードを使うコンビニ交付に障害自治体が相次ぎ公表富士フイルム系システムで通信異常か",
+      "publishedAt": "2026-11-10T14:29:01+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/10/2000003062"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-18",
+      "title": "フォーカス岸井ゆきのドラマユージニア雑賀満喜子役今この作品しかない",
+      "publishedAt": "2026-11-10T14:05:00+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261110/dde/012/200/005000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-18",
+      "title": "medianow松井新監督始動ここに力を入れてドンやくみつる",
+      "publishedAt": "2026-11-10T14:00:58+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261110/dde/012/070/001000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-18",
+      "title": "自由求める若者中壢事件映画化台湾民主化の芽今に",
+      "publishedAt": "2026-11-10T13:16:29+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261110/dde/001/200/028000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-18",
+      "title": "イランへの再攻撃必要ないトランプ氏中間選挙大敗で慎重に",
+      "publishedAt": "2026-11-10T12:50:09+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCB0R3HVCBUHBI00HM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-11-10T19:38:17.214016+09:00"
+  "updatedAt": "2026-11-11T01:45:45.651318+09:00"
 }

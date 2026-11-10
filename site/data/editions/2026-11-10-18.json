@@ -1,0 +1,1148 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-11-11T01:45:45.651318+09:00",
+  "summary": "対象時間帯の6配信元のニュースを15本に整理しました。うち重要ニュースは3本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-11-10-18",
+    "date": "2026-11-10",
+    "slot": "18:00",
+    "label": "夕方6時版"
+  },
+  "coverage": {
+    "from": "2026-11-10T12:00:00+09:00",
+    "to": "2026-11-10T18:00:00+09:00",
+    "start": "2026-11-10T12:00:00+09:00",
+    "end": "2026-11-10T18:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "11月10日 12:00〜11月10日 18:00"
+  },
+  "stats": {
+    "articleCount": 15,
+    "categoryCounts": {
+      "国内": 2,
+      "経済": 1,
+      "科学": 1,
+      "スポーツ": 2,
+      "テクノロジー": 2,
+      "エンタメ": 5,
+      "社会": 1,
+      "海外": 1
+    },
+    "sourceCount": 16,
+    "publisherCount": 6,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 3,
+      "jma": 2,
+      "maff": 1,
+      "mainichi": 3,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 2,
+      "brief": 13
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories"
+  ],
+  "articles": [
+    {
+      "id": "aa61bb9e5bca2d20",
+      "slug": "2026-11-10-18-aa61bb9e",
+      "publishedAt": "2026-11-10T16:45:22+09:00",
+      "updatedAt": "2026-11-11T01:45:45.651318+09:00",
+      "title": "全般気象解説情報（台風第３２号）",
+      "dek": "11月10日 16:45〜11月10日 16:51更新。非常に強い台風第32号は、11日にかけて東寄りに進み、小笠原諸島には10日夜遅くから11日未明にかけて最接近する見込みです。",
+      "summary": "非常に強い台風第32号は、11日にかけて東寄りに進み、小笠原諸島には10日夜遅くから11日未明にかけて最接近する見込みです。小笠原諸島では10日は、暴風に厳重に警戒してください。また、11日にかけて、暴風やうねりを伴う高波に警戒し、土砂災害にも注意・警戒してください。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "全般気象解説情報台風第32号"
+      ],
+      "facts": [
+        "[気象概況] 非常に強い台風第32号は、10日16時には父島の南西にあって、1時間におよそ30キロの速さで東へ進んでいます。",
+        "台風の接近に伴い、小笠原諸島では、猛烈な風が吹き、うねりを伴う大しけとなる所があるでしょう。",
+        "[風の予想] 小笠原諸島では、猛烈な風の吹く所があるでしょう。",
+        "10日に予想される最大風速(最大瞬間風速) 小笠原諸島 30メートル (45メートル) 11日に予想される最大風速(最大瞬間風速) 小笠原諸島 25メートル (35メートル) [波の予想] 小笠原諸島では、うねりを伴い大しけとなる所があるでしょう。",
+        "10日18時から11日18時までに予想される24時間降。",
+        "[気象概況] 非常に強い台風第32号は、10日15時には父島の南西約310キロにあって、1時間におよそ30キロの速さで東へ進んでいます。",
+        "10日に予想される最大風速(最大瞬間風速) 小笠原諸島 30メートル (45メートル) 11日に予想される最大風速(最大瞬間風速) 小笠原諸島 25メートル (35メートル) [波の予想] 小笠原諸島では、10日夜のはじめ頃から11日夕方にかけて、うねりを伴う大しけとなる所があるでしょう。",
+        "10日に予想される波の高さ 小笠原諸島 7メートル うねりを伴う 11日に予想される波の高さ 小笠原諸。"
+      ],
+      "impactPoints": [
+        "小笠原諸島では10日は、暴風に厳重に警戒してください。",
+        "また、11日にかけて、暴風やうねりを伴う高波に警戒し、土砂災害にも注意・警戒してください。",
+        "中心の気圧は955ヘクトパスカル、中心付近の最大風速は45メートル、最大瞬間風速は60メートルで中心から半径95キロ以内では風速25メートル以上の暴風となっています。",
+        "10日に予想される波の高さ 小笠原諸島 7メートル うねりを伴う 11日に予想される波の高さ 小笠原諸島 6メートル うねりを伴う [雨の予想] 小笠原諸島では、台風本体の雨雲により、雷を伴って非常に激しい雨が降り、大雨となる所があるでしょう。",
+        "台風第32号の影響で、小笠原諸島では、10日夜遅くは暴風に厳重に警戒し、10日夜のはじめ頃から11日夕方にかけてうねりを伴う高波に警戒してください。",
+        "また、10日夜のはじめ頃から11日昼前にかけて、土砂災害に注意・警戒してください。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "非常に強い台風第32号は、11日にかけて東寄りに進み、小笠原諸島には10日夜遅くから11日未明にかけて最接近する見込みです。",
+        "小笠原諸島には10日夜遅くから11日未明にかけて最接近する見込みです。",
+        "[風の予想] 小笠原諸島では、10日夜遅くは、飛来物によって負傷したり、走行中のトラックが横転するおそれもある猛烈な風が吹く見込みです。"
+      ],
+      "body": [
+        "非常に強い台風第32号は、11日にかけて東寄りに進み、小笠原諸島には10日夜遅くから11日未明にかけて最接近する見込みです。小笠原諸島では10日は、暴風に厳重に警戒してください。また、11日にかけて、暴風やうねりを伴う高波に警戒し、土砂災害にも注意・警戒してください。",
+        "中心の気圧は955ヘクトパスカル、中心付近の最大風速は45メートル、最大瞬間風速は60メートルで中心から半径95キロ以内では風速25メートル以上の暴風となっています。",
+        "10日に予想される波の高さ 小笠原諸島 7メートル うねりを伴う 11日に予想される波の高さ 小笠原諸島 6メートル うねりを伴う [雨の予想] 小笠原諸島では、台風本体の雨雲により、雷を伴って非常に激しい雨が降り、大雨となる所があるでしょう。",
+        "台風第32号の影響で、小笠原諸島では、10日夜遅くは暴風に厳重に警戒し、10日夜のはじめ頃から11日夕方にかけてうねりを伴う高波に警戒してください。",
+        "また、10日夜のはじめ頃から11日昼前にかけて、土砂災害に注意・警戒してください。",
+        "[風の予想] 小笠原諸島では、10日夜遅くは、飛来物によって負傷したり、走行中のトラックが横転するおそれもある猛烈な風が吹く見込みです。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "[気象概況] 非常に強い台風第32号は、10日16時には父島の南西にあって、1時間におよそ30キロの速さで東へ進んでいます。",
+            "台風の接近に伴い、小笠原諸島では、猛烈な風が吹き、うねりを伴う大しけとなる所があるでしょう。",
+            "[風の予想] 小笠原諸島では、猛烈な風の吹く所があるでしょう。",
+            "10日に予想される最大風速(最大瞬間風速) 小笠原諸島 30メートル (45メートル) 11日に予想される最大風速(最大瞬間風速) 小笠原諸島 25メートル (35メートル) [波の予想] 小笠原諸島では、うねりを伴い大しけとなる所があるでしょう。",
+            "10日18時から11日18時までに予想される24時間降。",
+            "[気象概況] 非常に強い台風第32号は、10日15時には父島の南西約310キロにあって、1時間におよそ30キロの速さで東へ進んでいます。",
+            "10日に予想される最大風速(最大瞬間風速) 小笠原諸島 30メートル (45メートル) 11日に予想される最大風速(最大瞬間風速) 小笠原諸島 25メートル (35メートル) [波の予想] 小笠原諸島では、10日夜のはじめ頃から11日夕方にかけて、うねりを伴う大しけとなる所があるでしょう。",
+            "10日に予想される波の高さ 小笠原諸島 7メートル うねりを伴う 11日に予想される波の高さ 小笠原諸。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "小笠原諸島では10日は、暴風に厳重に警戒してください。",
+            "また、11日にかけて、暴風やうねりを伴う高波に警戒し、土砂災害にも注意・警戒してください。",
+            "中心の気圧は955ヘクトパスカル、中心付近の最大風速は45メートル、最大瞬間風速は60メートルで中心から半径95キロ以内では風速25メートル以上の暴風となっています。",
+            "10日に予想される波の高さ 小笠原諸島 7メートル うねりを伴う 11日に予想される波の高さ 小笠原諸島 6メートル うねりを伴う [雨の予想] 小笠原諸島では、台風本体の雨雲により、雷を伴って非常に激しい雨が降り、大雨となる所があるでしょう。",
+            "台風第32号の影響で、小笠原諸島では、10日夜遅くは暴風に厳重に警戒し、10日夜のはじめ頃から11日夕方にかけてうねりを伴う高波に警戒してください。",
+            "また、10日夜のはじめ頃から11日昼前にかけて、土砂災害に注意・警戒してください。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "非常に強い台風第32号は、11日にかけて東寄りに進み、小笠原諸島には10日夜遅くから11日未明にかけて最接近する見込みです。",
+            "小笠原諸島には10日夜遅くから11日未明にかけて最接近する見込みです。",
+            "[風の予想] 小笠原諸島では、10日夜遅くは、飛来物によって負傷したり、走行中のトラックが横転するおそれもある猛烈な風が吹く見込みです。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-10T16:51:10+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-11-11T01:45:45.651318+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "東京都気象解説情報（台風第３２号）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261110074523_0_VPFJ50_130000.xml",
+              "publishedAt": "2026-11-10T16:45:22+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "全般気象解説情報（台風第３２号）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261110075111_0_VPZJ50_010000.xml",
+              "publishedAt": "2026-11-10T16:51:10+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T16:51:10+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 2,
+      "freshSourceCount": 2,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "fec9c844bcc17e3f",
+      "slug": "2026-11-10-18-fec9c844",
+      "publishedAt": "2026-11-10T16:23:00+09:00",
+      "updatedAt": "2026-11-11T01:45:45.651318+09:00",
+      "title": "【募集開始! 】米粉の優良な取組を発掘・表彰する新たなアワードを創設",
+      "dek": "プレスリリース 〇米粉の消費拡大や需要創出に向け、新たな表彰制度「米粉アワード」を創設。",
+      "summary": "プレスリリース 〇米粉の消費拡大や需要創出に向け、新たな表彰制度「米粉アワード」を創設。 〇応募期間は、令和8年11月10日(火曜日)から12月11日（金曜日）まで。 E-mail: komeko-award★mail.gnavi.co.jp ※ ★を@に置き換えてメールしてください。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "プレスリリース 〇米粉の消費拡大や需要創出に向け、新たな表彰制度「米粉アワード」を創設。",
+        "〇応募期間は、令和8年11月10日(火曜日)から12月11日（金曜日）まで。",
+        "E-mail: komeko-award★mail.gnavi.co.jp ※ ★を@に置き換えてメールしてください。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "プレスリリース 〇米粉の消費拡大や需要創出に向け、新たな表彰制度「米粉アワード」を創設。 〇応募期間は、令和8年11月10日(火曜日)から12月11日（金曜日）まで。 E-mail: komeko-award★mail.gnavi.co.jp ※ ★を@に置き換えてメールしてください。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "プレスリリース 〇米粉の消費拡大や需要創出に向け、新たな表彰制度「米粉アワード」を創設。",
+            "〇応募期間は、令和8年11月10日(火曜日)から12月11日（金曜日）まで。",
+            "E-mail: komeko-award★mail.gnavi.co.jp ※ ★を@に置き換えてメールしてください。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-10T16:23:00+09:00",
+          "text": "農林水産省 報道発表資料の公開情報を確認",
+          "source": "農林水産省 報道発表資料"
+        },
+        {
+          "at": "2026-11-11T01:45:45.651318+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "農林水産省 報道発表資料",
+          "publisherId": "maff",
+          "links": [
+            {
+              "title": "【募集開始!】米粉の優良な取組を発掘・表彰する新たなアワードを創設",
+              "url": "https://www.maff.go.jp/j/press/nousan/b_taisaku/261110.html",
+              "publishedAt": "2026-11-10T16:23:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T16:23:00+09:00",
+          "keyPoints": [
+            "農林水産省 報道発表資料の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "ceb88a8e87d203f2",
+      "slug": "2026-11-10-18-ceb88a8e",
+      "publishedAt": "2026-11-10T16:00:06+09:00",
+      "updatedAt": "2026-11-11T01:45:45.651318+09:00",
+      "title": "火山名 全国の活火山 火山の状況に関する解説情報",
+      "dek": "11月10日 16:00更新。本日、全国の活火山の活動状況や警戒事項を取りまとめた月間火山概況(令和8年10月)を発表しました。",
+      "summary": "本日、全国の活火山の活動状況や警戒事項を取りまとめた月間火山概況(令和8年10月)を発表しました。その概要は以下のとおりです。詳しくは月間火山概況及び火山活動解説資料を参照ください。レベル3(入山規制): 桜島。レベル2(火口周辺規制): 十勝岳、北海道駒ヶ岳、阿蘇山、霧島山(新燃岳)、薩摩硫黄島、諏訪之瀬島。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "火山名全国の活火山火山の状況に関する解説情報"
+      ],
+      "facts": [
+        "その概要は以下のとおりです。",
+        "詳しくは月間火山概況及び火山活動解説資料を参照ください。"
+      ],
+      "impactPoints": [
+        "本日、全国の活火山の活動状況や警戒事項を取りまとめた月間火山概況(令和8年10月)を発表しました。",
+        "レベル3(入山規制): 桜島。",
+        "レベル2(火口周辺規制): 十勝岳、北海道駒ヶ岳、阿蘇山、霧島山(新燃岳)、薩摩硫黄島、諏訪之瀬島。",
+        "火口周辺危険: 西之島、硫黄島。",
+        "周辺海域警戒: 須美寿島、福徳岡ノ場。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "活火山であることに留意(海底火山): ベヨネース列岩、孀婦岩、海形海山、海徳海山、噴火浅根、北福徳堆、南日吉海山、日光海山、若尊、西表島北北東海底火山。"
+      ],
+      "body": [
+        "本日、全国の活火山の活動状況や警戒事項を取りまとめた月間火山概況(令和8年10月)を発表しました。その概要は以下のとおりです。詳しくは月間火山概況及び火山活動解説資料を参照ください。レベル3(入山規制): 桜島。レベル2(火口周辺規制): 十勝岳、北海道駒ヶ岳、阿蘇山、霧島山(新燃岳)、薩摩硫黄島、諏訪之瀬島。",
+        "火口周辺危険: 西之島、硫黄島。",
+        "周辺海域警戒: 須美寿島、福徳岡ノ場。",
+        "活火山であることに留意(海底火山): ベヨネース列岩、孀婦岩、海形海山、海徳海山、噴火浅根、北福徳堆、南日吉海山、日光海山、若尊、西表島北北東海底火山。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "その概要は以下のとおりです。",
+            "詳しくは月間火山概況及び火山活動解説資料を参照ください。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "本日、全国の活火山の活動状況や警戒事項を取りまとめた月間火山概況(令和8年10月)を発表しました。",
+            "レベル3(入山規制): 桜島。",
+            "レベル2(火口周辺規制): 十勝岳、北海道駒ヶ岳、阿蘇山、霧島山(新燃岳)、薩摩硫黄島、諏訪之瀬島。",
+            "火口周辺危険: 西之島、硫黄島。",
+            "周辺海域警戒: 須美寿島、福徳岡ノ場。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "活火山であることに留意(海底火山): ベヨネース列岩、孀婦岩、海形海山、海徳海山、噴火浅根、北福徳堆、南日吉海山、日光海山、若尊、西表島北北東海底火山。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-10T16:00:06+09:00",
+          "text": "気象庁 防災情報（地震・津波・火山）の公開情報を確認",
+          "source": "気象庁 防災情報（地震・津波・火山）"
+        },
+        {
+          "at": "2026-11-11T01:45:45.651318+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（地震・津波・火山）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "火山名 全国の活火山 火山の状況に関する解説情報",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261110070006_0_VFVO51_010000.xml",
+              "publishedAt": "2026-11-10T16:00:06+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T16:00:06+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（地震・津波・火山）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "4c427a8b5f264ffe",
+      "slug": "2026-11-10-18-4c427a8b",
+      "publishedAt": "2026-11-10T17:51:00+09:00",
+      "updatedAt": "2026-11-11T01:45:45.651318+09:00",
+      "title": "開発難航「イプシロンS」 今年度中の打ち上げ目指しリハーサル",
+      "dek": "開発が難航している小型ロケット「イプシロンS」の打ち上げの手順を確認するリハーサルが10日、鹿児島県の内之浦宇宙空間観測所で行われました。",
+      "summary": "開発が難航している小型ロケット「イプシロンS」の打ち上げの手順を確認するリハーサルが10日、鹿児島県の内之浦宇宙空間観測所で行われました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "開発が難航している小型ロケット「イプシロンS」の打ち上げの手順を確認するリハーサルが10日、鹿児島県の内之浦宇宙空間観測所で行われました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "開発が難航している小型ロケット「イプシロンS」の打ち上げの手順を確認するリハーサルが10日、鹿児島県の内之浦宇宙空間観測所で行われました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "開発が難航している小型ロケット「イプシロンS」の打ち上げの手順を確認するリハーサルが10日、鹿児島県の内之浦宇宙空間観測所で行われました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-10T17:51:00+09:00",
+          "text": "NHK ONE 科学・文化の公開情報を確認",
+          "source": "NHK ONE 科学・文化"
+        },
+        {
+          "at": "2026-11-11T01:45:45.651318+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 科学・文化",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "開発難航「イプシロンS」 今年度中の打ち上げ目指しリハーサル",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261110de73652",
+              "publishedAt": "2026-11-10T17:51:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T17:51:00+09:00",
+          "keyPoints": [
+            "開発が難航している小型ロケット「イプシロンS」の打ち上げの手順を確認するリハーサルが10日、鹿児島県の内之浦宇宙空間観測所で行われました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    },
+    {
+      "id": "87b732df54a8fcaf",
+      "slug": "2026-11-10-18-87b732df",
+      "publishedAt": "2026-11-10T17:46:57+09:00",
+      "updatedAt": "2026-11-11T01:45:45.651318+09:00",
+      "title": "巨人 ドラフト1位指名であいさつ 織田翔希投手は同席せず",
+      "dek": "プロ野球、巨人はドラフト会議で1位で指名した横浜高校の織田翔希投手のあいさつに訪れましたが、アメリカで野球を続けることを表明している織田投手は同席しませんでした。",
+      "summary": "プロ野球、巨人はドラフト会議で1位で指名した横浜高校の織田翔希投手のあいさつに訪れましたが、アメリカで野球を続けることを表明している織田投手は同席しませんでした。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "プロ野球、巨人はドラフト会議で1位で指名した横浜高校の織田翔希投手のあいさつに訪れましたが、アメリカで野球を続けることを表明している織田投手は同席しませんでした。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "プロ野球、巨人はドラフト会議で1位で指名した横浜高校の織田翔希投手のあいさつに訪れましたが、アメリカで野球を続けることを表明している織田投手は同席しませんでした。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "プロ野球、巨人はドラフト会議で1位で指名した横浜高校の織田翔希投手のあいさつに訪れましたが、アメリカで野球を続けることを表明している織田投手は同席しませんでした。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-10T17:46:57+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
+        },
+        {
+          "at": "2026-11-11T01:45:45.651318+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "巨人 ドラフト1位指名であいさつ 織田翔希投手は同席せず",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261110de73588",
+              "publishedAt": "2026-11-10T17:46:57+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T17:46:57+09:00",
+          "keyPoints": [
+            "プロ野球、巨人はドラフト会議で1位で指名した横浜高校の織田翔希投手のあいさつに訪れましたが、アメリカで野球を続けることを表明している織田投手は同席しませんでした。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "e0ca7dcbf0a9ce1f",
+      "slug": "2026-11-10-18-e0ca7dcb",
+      "publishedAt": "2026-11-10T17:23:42+09:00",
+      "updatedAt": "2026-11-11T01:45:45.651318+09:00",
+      "title": "サイバー攻撃急増で「人の手では対応しきれない」──ソフトバンク宮川社長、終わりの見えないパッチ修正に「疲弊しきっている」と吐露",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-10T17:23:42+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-11T01:45:45.651318+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "サイバー攻撃急増で「人の手では対応しきれない」──ソフトバンク宮川社長、終わりの見えないパッチ修正に「疲弊しきっている」と吐露",
+              "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003069",
+              "publishedAt": "2026-11-10T17:23:42+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T17:23:42+09:00",
+          "keyPoints": [
+            "サイバー攻撃急増で「人の手では対応しきれない」──ソフトバンク宮川社長、終わりの見えないパッチ修正に「疲弊しきっている」と吐露"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "8df80da8c13633c6",
+      "slug": "2026-11-10-18-8df80da8",
+      "publishedAt": "2026-11-10T17:18:40+09:00",
+      "updatedAt": "2026-11-11T01:45:45.651318+09:00",
+      "title": "パ・リーグ来季日程 ソフトバンクは楽天と開幕戦",
+      "dek": "プロ野球、パ・リーグの来シーズンの公式戦の日程が発表され、リーグ4連覇がかかるソフトバンクは、開幕戦で楽天と対戦することになりました。",
+      "summary": "プロ野球、パ・リーグの来シーズンの公式戦の日程が発表され、リーグ4連覇がかかるソフトバンクは、開幕戦で楽天と対戦することになりました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "プロ野球、パ・リーグの来シーズンの公式戦の日程が発表され、リーグ4連覇がかかるソフトバンクは、開幕戦で楽天と対戦することになりました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "プロ野球、パ・リーグの来シーズンの公式戦の日程が発表され、リーグ4連覇がかかるソフトバンクは、開幕戦で楽天と対戦することになりました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "プロ野球、パ・リーグの来シーズンの公式戦の日程が発表され、リーグ4連覇がかかるソフトバンクは、開幕戦で楽天と対戦することになりました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-10T17:18:40+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-11-11T01:45:45.651318+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "パ・リーグ来季日程 ソフトバンクは楽天と開幕戦",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261110de73569",
+              "publishedAt": "2026-11-10T17:18:40+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T17:18:40+09:00",
+          "keyPoints": [
+            "プロ野球、パ・リーグの来シーズンの公式戦の日程が発表され、リーグ4連覇がかかるソフトバンクは、開幕戦で楽天と対戦することになりました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "48bc8791786ace82",
+      "slug": "2026-11-10-18-48bc8791",
+      "publishedAt": "2026-11-10T17:15:00+09:00",
+      "updatedAt": "2026-11-11T01:45:45.651318+09:00",
+      "title": "ワンピース日本人形にポケモン羽子板 久月が鎌倉に海外客向け新店舗",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-10T17:15:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-11T01:45:45.651318+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "ワンピース日本人形にポケモン羽子板 久月が鎌倉に海外客向け新店舗",
+              "url": "https://www.asahi.com/articles/ASVCB26L2VCBULOB00RM.html",
+              "publishedAt": "2026-11-10T17:15:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T17:15:00+09:00",
+          "keyPoints": [
+            "ワンピース日本人形にポケモン羽子板 久月が鎌倉に海外客向け新店舗"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "43856e2d8950541d",
+      "slug": "2026-11-10-18-43856e2d",
+      "publishedAt": "2026-11-10T16:13:36+09:00",
+      "updatedAt": "2026-11-11T01:45:45.651318+09:00",
+      "title": "ケンタッキー、一部メニュー画像に生成AI 実験販売の商品など SNSは「違和感」の声も",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-10T16:13:36+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-11T01:45:45.651318+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "ケンタッキー、一部メニュー画像に生成AI 実験販売の商品など SNSは「違和感」の声も",
+              "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003070",
+              "publishedAt": "2026-11-10T16:13:36+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T16:13:36+09:00",
+          "keyPoints": [
+            "ケンタッキー、一部メニュー画像に生成AI 実験販売の商品など SNSは「違和感」の声も"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "beeec2f550ac848d",
+      "slug": "2026-11-10-18-beeec2f5",
+      "publishedAt": "2026-11-10T16:00:00+09:00",
+      "updatedAt": "2026-11-11T01:45:45.651318+09:00",
+      "title": "日本が最大の市場 ベルルッティCEOが語る顧客との「愛の物語」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-10T16:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-11T01:45:45.651318+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "日本が最大の市場 ベルルッティCEOが語る顧客との「愛の物語」",
+              "url": "https://www.asahi.com/articles/ASVC92CP9VC9UCVL01MM.html",
+              "publishedAt": "2026-11-10T16:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T16:00:00+09:00",
+          "keyPoints": [
+            "日本が最大の市場 ベルルッティCEOが語る顧客との「愛の物語」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "93f6d4c3875d7253",
+      "slug": "2026-11-10-18-93f6d4c3",
+      "publishedAt": "2026-11-10T14:29:01+09:00",
+      "updatedAt": "2026-11-11T01:45:45.651318+09:00",
+      "title": "マイナカードを使うコンビニ交付に障害 自治体が相次ぎ公表 富士フイルム系システムで通信異常か",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-10T14:29:01+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-11T01:45:45.651318+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "マイナカードを使うコンビニ交付に障害 自治体が相次ぎ公表 富士フイルム系システムで通信異常か",
+              "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003062",
+              "publishedAt": "2026-11-10T14:29:01+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T14:29:01+09:00",
+          "keyPoints": [
+            "マイナカードを使うコンビニ交付に障害 自治体が相次ぎ公表 富士フイルム系システムで通信異常か"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "732e6e7b1472ae30",
+      "slug": "2026-11-10-18-732e6e7b",
+      "publishedAt": "2026-11-10T14:05:00+09:00",
+      "updatedAt": "2026-11-11T01:45:45.651318+09:00",
+      "title": "フォーカス:岸井ゆきの ドラマ「ユージニア」雑賀満喜子役 今、この作品しかない",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-10T14:05:00+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-11-11T01:45:45.651318+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "フォーカス:岸井ゆきの ドラマ「ユージニア」雑賀満喜子役 今、この作品しかない",
+              "url": "https://mainichi.jp/articles/20261110/dde/012/200/005000c",
+              "publishedAt": "2026-11-10T14:05:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T14:05:00+09:00",
+          "keyPoints": [
+            "フォーカス:岸井ゆきの ドラマ「ユージニア」雑賀満喜子役 今、この作品しかない"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "7777fd88d551da0e",
+      "slug": "2026-11-10-18-7777fd88",
+      "publishedAt": "2026-11-10T14:00:58+09:00",
+      "updatedAt": "2026-11-11T01:45:45.651318+09:00",
+      "title": "ＭｅｄｉａＮＯＷ！ :松井新監督始動 「ここに力を入れて、ドン！ 」＝やくみつる",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-10T14:00:58+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-11-11T01:45:45.651318+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "ＭｅｄｉａＮＯＷ！:松井新監督始動 「ここに力を入れて、ドン！」＝やくみつる",
+              "url": "https://mainichi.jp/articles/20261110/dde/012/070/001000c",
+              "publishedAt": "2026-11-10T14:00:58+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T14:00:58+09:00",
+          "keyPoints": [
+            "ＭｅｄｉａＮＯＷ！ :松井新監督始動 「ここに力を入れて、ドン！ 」＝やくみつる"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "b1b3a535ba5965f9",
+      "slug": "2026-11-10-18-b1b3a535",
+      "publishedAt": "2026-11-10T13:16:29+09:00",
+      "updatedAt": "2026-11-11T01:45:45.651318+09:00",
+      "title": "自由求める若者「中壢事件」映画化 台湾民主化の芽、今に",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-10T13:16:29+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-11-11T01:45:45.651318+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "自由求める若者「中壢事件」映画化 台湾民主化の芽、今に",
+              "url": "https://mainichi.jp/articles/20261110/dde/001/200/028000c",
+              "publishedAt": "2026-11-10T13:16:29+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T13:16:29+09:00",
+          "keyPoints": [
+            "自由求める若者「中壢事件」映画化 台湾民主化の芽、今に"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "f838094e37e20d64",
+      "slug": "2026-11-10-18-f838094e",
+      "publishedAt": "2026-11-10T12:50:09+09:00",
+      "updatedAt": "2026-11-11T01:45:45.651318+09:00",
+      "title": "イランへの再攻撃「必要ない」 トランプ氏、中間選挙大敗で慎重に？",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-10T12:50:09+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-11T01:45:45.651318+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "イランへの再攻撃「必要ない」 トランプ氏、中間選挙大敗で慎重に？",
+              "url": "https://www.asahi.com/articles/ASVCB0R3HVCBUHBI00HM.html",
+              "publishedAt": "2026-11-10T12:50:09+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T12:50:09+09:00",
+          "keyPoints": [
+            "イランへの再攻撃「必要ない」 トランプ氏、中間選挙大敗で慎重に？"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    }
+  ]
+}
