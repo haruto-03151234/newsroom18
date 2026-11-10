@@ -1,0 +1,835 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-11-10T19:38:17.214016+09:00",
+  "summary": "対象時間帯の5配信元のニュースを11本に整理しました。うち重要ニュースは2本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-11-10-12",
+    "date": "2026-11-10",
+    "slot": "12:00",
+    "label": "昼12時版"
+  },
+  "coverage": {
+    "from": "2026-11-10T06:00:00+09:00",
+    "to": "2026-11-10T12:00:00+09:00",
+    "start": "2026-11-10T06:00:00+09:00",
+    "end": "2026-11-10T12:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "11月10日 06:00〜11月10日 12:00"
+  },
+  "stats": {
+    "articleCount": 11,
+    "categoryCounts": {
+      "国内": 1,
+      "経済": 1,
+      "テクノロジー": 3,
+      "海外": 5,
+      "社会": 1
+    },
+    "sourceCount": 11,
+    "publisherCount": 5,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 3,
+      "jma": 1,
+      "maff": 1,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 2,
+      "brief": 9
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories"
+  ],
+  "articles": [
+    {
+      "id": "536bebe546918832",
+      "slug": "2026-11-10-12-536bebe5",
+      "publishedAt": "2026-11-10T11:21:12+09:00",
+      "updatedAt": "2026-11-10T19:38:17.214016+09:00",
+      "title": "東京都気象解説情報（台風第３２号）",
+      "dek": "11月10日 11:21更新。台風第32号の影響で、小笠原諸島では、10日夜遅くは暴風に厳重に警戒し、10日夜のはじめ頃から11日夕方にかけてうねりを伴う高波に警戒してください。",
+      "summary": "台風第32号の影響で、小笠原諸島では、10日夜遅くは暴風に厳重に警戒し、10日夜のはじめ頃から11日夕方にかけてうねりを伴う高波に警戒してください。また、10日夜のはじめ頃から11日昼前にかけて、土砂災害に注意・警戒してください。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "東京都気象解説情報台風第32号"
+      ],
+      "facts": [
+        "[気象概況] 非常に強い台風第32号は、10日9時には日本の南にあって、1時間におよそ25キロの速さで東へ進んでいます。",
+        "台風の接近に伴い、小笠原諸島では、猛烈な風が吹き、うねりを伴う大しけとなる所があるでしょう。",
+        "10日に予想される最大風速(最大瞬間風速) 小笠原諸島 30メートル (45メートル) 11日に予想される最大風速(最大瞬間風速) 小笠原諸島 25メートル (35メートル) [波の予想] 小笠原諸島では、10日夜のはじめ頃から11日夕方にかけて、うねりを伴い大しけとなる所があるでしょう。",
+        "10日に予想される波の高さ 小笠原諸島 7メートル うねりを伴う 11日に予想される波の高さ 小笠原諸島 6メー。"
+      ],
+      "impactPoints": [
+        "台風第32号の影響で、小笠原諸島では、10日夜遅くは暴風に厳重に警戒し、10日夜のはじめ頃から11日夕方にかけてうねりを伴う高波に警戒してください。",
+        "また、10日夜のはじめ頃から11日昼前にかけて、土砂災害に注意・警戒してください。",
+        "中心の気圧は955ヘクトパスカル、中心付近の最大風速は45メートル、最大瞬間風速は60メートルで中心から半径95キロ以内では風速25メートル以上の暴風となっています。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "小笠原諸島には10日夜のはじめ頃から11日未明にかけて最接近する見込みです。",
+        "[風の予想] 小笠原諸島では、10日夜遅くは、飛来物によって負傷したり、走行中のトラックが横転するおそれもある猛烈な風が吹く見込みです。"
+      ],
+      "body": [
+        "台風第32号の影響で、小笠原諸島では、10日夜遅くは暴風に厳重に警戒し、10日夜のはじめ頃から11日夕方にかけてうねりを伴う高波に警戒してください。また、10日夜のはじめ頃から11日昼前にかけて、土砂災害に注意・警戒してください。",
+        "中心の気圧は955ヘクトパスカル、中心付近の最大風速は45メートル、最大瞬間風速は60メートルで中心から半径95キロ以内では風速25メートル以上の暴風となっています。",
+        "小笠原諸島には10日夜のはじめ頃から11日未明にかけて最接近する見込みです。",
+        "[風の予想] 小笠原諸島では、10日夜遅くは、飛来物によって負傷したり、走行中のトラックが横転するおそれもある猛烈な風が吹く見込みです。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "[気象概況] 非常に強い台風第32号は、10日9時には日本の南にあって、1時間におよそ25キロの速さで東へ進んでいます。",
+            "台風の接近に伴い、小笠原諸島では、猛烈な風が吹き、うねりを伴う大しけとなる所があるでしょう。",
+            "10日に予想される最大風速(最大瞬間風速) 小笠原諸島 30メートル (45メートル) 11日に予想される最大風速(最大瞬間風速) 小笠原諸島 25メートル (35メートル) [波の予想] 小笠原諸島では、10日夜のはじめ頃から11日夕方にかけて、うねりを伴い大しけとなる所があるでしょう。",
+            "10日に予想される波の高さ 小笠原諸島 7メートル うねりを伴う 11日に予想される波の高さ 小笠原諸島 6メー。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "台風第32号の影響で、小笠原諸島では、10日夜遅くは暴風に厳重に警戒し、10日夜のはじめ頃から11日夕方にかけてうねりを伴う高波に警戒してください。",
+            "また、10日夜のはじめ頃から11日昼前にかけて、土砂災害に注意・警戒してください。",
+            "中心の気圧は955ヘクトパスカル、中心付近の最大風速は45メートル、最大瞬間風速は60メートルで中心から半径95キロ以内では風速25メートル以上の暴風となっています。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "小笠原諸島には10日夜のはじめ頃から11日未明にかけて最接近する見込みです。",
+            "[風の予想] 小笠原諸島では、10日夜遅くは、飛来物によって負傷したり、走行中のトラックが横転するおそれもある猛烈な風が吹く見込みです。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-10T11:21:12+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-11-10T19:38:17.214016+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "東京都気象解説情報（台風第３２号）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261110022112_0_VPFJ50_130000.xml",
+              "publishedAt": "2026-11-10T11:21:12+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T11:21:12+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "880f2fc39591b103",
+      "slug": "2026-11-10-12-880f2fc3",
+      "publishedAt": "2026-11-10T10:36:00+09:00",
+      "updatedAt": "2026-11-10T19:38:17.214016+09:00",
+      "title": "食料システム法に基づく指導について",
+      "dek": "11月10日 10:36更新。プレスリリース 〇食料システム法に基づき実施した食品等取引実態調査において回答のあった事業者のうち、主食用米の調達先に対して努力義務違反を行った疑いのある19事業者に対して、指導書を発出。",
+      "summary": "プレスリリース 〇食料システム法に基づき実施した食品等取引実態調査において回答のあった事業者のうち、主食用米の調達先に対して努力義務違反を行った疑いのある19事業者に対して、指導書を発出。以下「食料システム法」という。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "食料システム法に基づく指導について"
+      ],
+      "facts": [
+        "プレスリリース 〇食料システム法に基づき実施した食品等取引実態調査において回答のあった事業者のうち、主食用米の調達先に対して努力義務違反を行った疑いのある19事業者に対して、指導書を発出。",
+        "以下「食料システム法」という。",
+        "第34条第1項に基づき実施した食品等取引実態調査に対する回答を踏まえ、主食用米を調達している事業者(19者)に対し、指導を行いました。",
+        "食料システム法においては、飲食料品等の売買その他の取引を対象として、次の努力義務を課しています(食料システム法第36条各号)。",
+        "今般、農林水産省が実施した食品等取引実態調査において、主食用米を調達している事業者(19者)から、根拠資料に基づく協議の申出に対し、次のいずれかの対応を行ったとの回答があったことから、食料システム法第38条に基づく指導を行いました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "プレスリリース 〇食料システム法に基づき実施した食品等取引実態調査において回答のあった事業者のうち、主食用米の調達先に対して努力義務違反を行った疑いのある19事業者に対して、指導書を発出。以下「食料システム法」という。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "プレスリリース 〇食料システム法に基づき実施した食品等取引実態調査において回答のあった事業者のうち、主食用米の調達先に対して努力義務違反を行った疑いのある19事業者に対して、指導書を発出。",
+            "以下「食料システム法」という。",
+            "第34条第1項に基づき実施した食品等取引実態調査に対する回答を踏まえ、主食用米を調達している事業者(19者)に対し、指導を行いました。",
+            "食料システム法においては、飲食料品等の売買その他の取引を対象として、次の努力義務を課しています(食料システム法第36条各号)。",
+            "今般、農林水産省が実施した食品等取引実態調査において、主食用米を調達している事業者(19者)から、根拠資料に基づく協議の申出に対し、次のいずれかの対応を行ったとの回答があったことから、食料システム法第38条に基づく指導を行いました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-10T10:36:00+09:00",
+          "text": "農林水産省 報道発表資料の公開情報を確認",
+          "source": "農林水産省 報道発表資料"
+        },
+        {
+          "at": "2026-11-10T19:38:17.214016+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "農林水産省 報道発表資料",
+          "publisherId": "maff",
+          "links": [
+            {
+              "title": "食料システム法に基づく指導について",
+              "url": "https://www.maff.go.jp/j/press/shokuhin/kikaku/261110.html",
+              "publishedAt": "2026-11-10T10:36:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T10:36:00+09:00",
+          "keyPoints": [
+            "農林水産省 報道発表資料の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "de7cbad86afd2e94",
+      "slug": "2026-11-10-12-de7cbad8",
+      "publishedAt": "2026-11-10T11:55:20+09:00",
+      "updatedAt": "2026-11-10T19:38:17.214016+09:00",
+      "title": "アクセスキー直書き→委託先がテスト用イメージをネット公開 「ラフールサーベイ」約2.4万人の情報漏えい",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-10T11:55:20+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-10T19:38:17.214016+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "アクセスキー直書き→委託先がテスト用イメージをネット公開 「ラフールサーベイ」約2.4万人の情報漏えい",
+              "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003052",
+              "publishedAt": "2026-11-10T11:55:20+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T11:55:20+09:00",
+          "keyPoints": [
+            "アクセスキー直書き→委託先がテスト用イメージをネット公開 「ラフールサーベイ」約2.4万人の情報漏えい"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "2f7eb8d0e4e4572a",
+      "slug": "2026-11-10-12-2f7eb8d0",
+      "publishedAt": "2026-11-10T11:55:08+09:00",
+      "updatedAt": "2026-11-10T19:38:17.214016+09:00",
+      "title": "三井化学、JSRを1兆8400億円で買収 「国内トップクラスの半導体材料企業に」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-10T11:55:08+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-10T19:38:17.214016+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "三井化学、JSRを1兆8400億円で買収 「国内トップクラスの半導体材料企業に」",
+              "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003045",
+              "publishedAt": "2026-11-10T11:55:08+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T11:55:08+09:00",
+          "keyPoints": [
+            "三井化学、JSRを1兆8400億円で買収 「国内トップクラスの半導体材料企業に」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "1c84f21720502f35",
+      "slug": "2026-11-10-12-1c84f217",
+      "publishedAt": "2026-11-10T11:43:35+09:00",
+      "updatedAt": "2026-11-10T19:38:17.214016+09:00",
+      "title": "高市首相 高性能AI進展で\"国際社会連携を\" 仏政府主催の会合で",
+      "dek": "高市総理大臣は、9日夜、フランス政府が主催したAIに関する会合にオンラインで出席し、高性能AIの進展はサイバー攻撃への悪用など、安全保障上の新たな脅威ともなっているとして国際社会が連携して対応すること…。",
+      "summary": "高市総理大臣は、9日夜、フランス政府が主催したAIに関する会合にオンラインで出席し、高性能AIの進展はサイバー攻撃への悪用など、安全保障上の新たな脅威ともなっているとして国際社会が連携して対応すること…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "高市総理大臣は、9日夜、フランス政府が主催したAIに関する会合にオンラインで出席し、高性能AIの進展はサイバー攻撃への悪用など、安全保障上の新たな脅威ともなっているとして国際社会が連携して対応すること…。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "高市総理大臣は、9日夜、フランス政府が主催したAIに関する会合にオンラインで出席し、高性能AIの進展はサイバー攻撃への悪用など、安全保障上の新たな脅威ともなっているとして国際社会が連携して対応すること…。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "高市総理大臣は、9日夜、フランス政府が主催したAIに関する会合にオンラインで出席し、高性能AIの進展はサイバー攻撃への悪用など、安全保障上の新たな脅威ともなっているとして国際社会が連携して対応すること…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-10T11:43:35+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-10T19:38:17.214016+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "高市首相 高性能AI進展で\"国際社会連携を\" 仏政府主催の会合で",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261110de73220",
+              "publishedAt": "2026-11-10T11:43:35+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T11:43:35+09:00",
+          "keyPoints": [
+            "高市総理大臣は、9日夜、フランス政府が主催したAIに関する会合にオンラインで出席し、高性能AIの進展はサイバー攻撃への悪用など、安全保障上の新たな脅威ともなっているとして国際社会が連携して対応すること…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "3ffe25b92486417b",
+      "slug": "2026-11-10-12-3ffe25b9",
+      "publishedAt": "2026-11-10T11:32:00+09:00",
+      "updatedAt": "2026-11-10T19:38:17.214016+09:00",
+      "title": "米中間選挙後初 日米外相が意見交換 安全保障協力推進で一致",
+      "dek": "フランスを訪れている茂木外務大臣は、アメリカの中間選挙後、初めてルビオ国務長官と意見を交わし、日米同盟の抑止力と対処力の強化に向けて安全保障分野での協力を一層進めていくことで一致しました。",
+      "summary": "フランスを訪れている茂木外務大臣は、アメリカの中間選挙後、初めてルビオ国務長官と意見を交わし、日米同盟の抑止力と対処力の強化に向けて安全保障分野での協力を一層進めていくことで一致しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "フランスを訪れている茂木外務大臣は、アメリカの中間選挙後、初めてルビオ国務長官と意見を交わし、日米同盟の抑止力と対処力の強化に向けて安全保障分野での協力を一層進めていくことで一致しました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "フランスを訪れている茂木外務大臣は、アメリカの中間選挙後、初めてルビオ国務長官と意見を交わし、日米同盟の抑止力と対処力の強化に向けて安全保障分野での協力を一層進めていくことで一致しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "フランスを訪れている茂木外務大臣は、アメリカの中間選挙後、初めてルビオ国務長官と意見を交わし、日米同盟の抑止力と対処力の強化に向けて安全保障分野での協力を一層進めていくことで一致しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-10T11:32:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-10T19:38:17.214016+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "米中間選挙後初 日米外相が意見交換 安全保障協力推進で一致",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261110de73223",
+              "publishedAt": "2026-11-10T11:32:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T11:32:00+09:00",
+          "keyPoints": [
+            "フランスを訪れている茂木外務大臣は、アメリカの中間選挙後、初めてルビオ国務長官と意見を交わし、日米同盟の抑止力と対処力の強化に向けて安全保障分野での協力を一層進めていくことで一致しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "f727b74db975511c",
+      "slug": "2026-11-10-12-f727b74d",
+      "publishedAt": "2026-11-10T11:30:57+09:00",
+      "updatedAt": "2026-11-10T19:38:17.214016+09:00",
+      "title": "エヌビディアCEOめぐる中国スパイ疑惑、FBIが捜査 トランプ氏",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-10T11:30:57+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-10T19:38:17.214016+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "エヌビディアCEOめぐる中国スパイ疑惑、FBIが捜査 トランプ氏",
+              "url": "https://www.asahi.com/articles/ASVCB0GM3VCBUHBI00FM.html",
+              "publishedAt": "2026-11-10T11:30:57+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T11:30:57+09:00",
+          "keyPoints": [
+            "エヌビディアCEOめぐる中国スパイ疑惑、FBIが捜査 トランプ氏"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "16f90bcc97175c12",
+      "slug": "2026-11-10-12-16f90bcc",
+      "publishedAt": "2026-11-10T11:30:00+09:00",
+      "updatedAt": "2026-11-10T19:38:17.214016+09:00",
+      "title": "米・ロ・ウ協議、9カ月ぶり再開 トランプ氏の姿勢、欧州の関与焦点",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-10T11:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-10T19:38:17.214016+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "米・ロ・ウ協議、9カ月ぶり再開 トランプ氏の姿勢、欧州の関与焦点",
+              "url": "https://www.asahi.com/articles/ASVC972HWVC9UHBI03LM.html",
+              "publishedAt": "2026-11-10T11:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T11:30:00+09:00",
+          "keyPoints": [
+            "米・ロ・ウ協議、9カ月ぶり再開 トランプ氏の姿勢、欧州の関与焦点"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "2afe56b08f42f346",
+      "slug": "2026-11-10-12-2afe56b0",
+      "publishedAt": "2026-11-10T11:26:43+09:00",
+      "updatedAt": "2026-11-10T19:38:17.214016+09:00",
+      "title": "NTTデータ、住友生命から受託したシステムに不正アクセス 「Vitality」利用者約8万人の情報漏えい",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-10T11:26:43+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-10T19:38:17.214016+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "NTTデータ、住友生命から受託したシステムに不正アクセス 「Vitality」利用者約8万人の情報漏えい",
+              "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003051",
+              "publishedAt": "2026-11-10T11:26:43+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T11:26:43+09:00",
+          "keyPoints": [
+            "NTTデータ、住友生命から受託したシステムに不正アクセス 「Vitality」利用者約8万人の情報漏えい"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "5697bd3faa91b3c9",
+      "slug": "2026-11-10-12-5697bd3f",
+      "publishedAt": "2026-11-10T11:26:00+09:00",
+      "updatedAt": "2026-11-10T19:38:17.214016+09:00",
+      "title": "マーシャル諸島 ハイネ大統領が来日へ 高市首相と会談も",
+      "dek": "太平洋島しょ国、マーシャル諸島のハイネ大統領が今月、日本を訪れ、高市総理大臣と会談することになりました。",
+      "summary": "太平洋島しょ国、マーシャル諸島のハイネ大統領が今月、日本を訪れ、高市総理大臣と会談することになりました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "太平洋島しょ国、マーシャル諸島のハイネ大統領が今月、日本を訪れ、高市総理大臣と会談することになりました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "太平洋島しょ国、マーシャル諸島のハイネ大統領が今月、日本を訪れ、高市総理大臣と会談することになりました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "太平洋島しょ国、マーシャル諸島のハイネ大統領が今月、日本を訪れ、高市総理大臣と会談することになりました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-10T11:26:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-10T19:38:17.214016+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "マーシャル諸島 ハイネ大統領が来日へ 高市首相と会談も",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261110de73311",
+              "publishedAt": "2026-11-10T11:26:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T11:26:00+09:00",
+          "keyPoints": [
+            "太平洋島しょ国、マーシャル諸島のハイネ大統領が今月、日本を訪れ、高市総理大臣と会談することになりました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "de0b00f1ffd1834e",
+      "slug": "2026-11-10-12-de0b00f1",
+      "publishedAt": "2026-11-10T06:30:00+09:00",
+      "updatedAt": "2026-11-10T19:38:17.214016+09:00",
+      "title": "「つわりは我慢」の時代こえて進み始めた研究 ヒト以外の動物も症状",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-10T06:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-10T19:38:17.214016+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "「つわりは我慢」の時代こえて進み始めた研究 ヒト以外の動物も症状",
+              "url": "https://www.asahi.com/articles/ASVC52SD0VC5UTFL006M.html",
+              "publishedAt": "2026-11-10T06:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T06:30:00+09:00",
+          "keyPoints": [
+            "「つわりは我慢」の時代こえて進み始めた研究 ヒト以外の動物も症状"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    }
+  ]
+}

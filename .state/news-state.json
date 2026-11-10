@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-10T06:00:00+09:00",
-  "lastCompletedEdition": "2026-11-10-06",
+  "lastCompletedEnd": "2026-11-10T12:00:00+09:00",
+  "lastCompletedEdition": "2026-11-10-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -25417,7 +25417,95 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2611/09/2000003038"
       ]
+    },
+    {
+      "editionId": "2026-11-10-12",
+      "title": "東京都気象解説情報台風第32号",
+      "publishedAt": "2026-11-10T11:21:12+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261110022112_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-12",
+      "title": "食料システム法に基づく指導について",
+      "publishedAt": "2026-11-10T10:36:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/shokuhin/kikaku/261110.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-12",
+      "title": "アクセスキー直書き委託先がテスト用イメージをネット公開ラフールサーベイ約24万人の情報漏えい",
+      "publishedAt": "2026-11-10T11:55:20+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/10/2000003052"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-12",
+      "title": "三井化学jsrを1兆8400億円で買収国内トップクラスの半導体材料企業に",
+      "publishedAt": "2026-11-10T11:55:08+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/10/2000003045"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-12",
+      "title": "高市首相高性能ai進展で国際社会連携を仏政府主催の会合で",
+      "publishedAt": "2026-11-10T11:43:35+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73220"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-12",
+      "title": "米中間選挙後初日米外相が意見交換安全保障協力推進で一致",
+      "publishedAt": "2026-11-10T11:32:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73223"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-12",
+      "title": "エヌビディアceoめぐる中国スパイ疑惑fbiが捜査トランプ氏",
+      "publishedAt": "2026-11-10T11:30:57+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCB0GM3VCBUHBI00FM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-12",
+      "title": "米・ロ・ウ協議9カ月ぶり再開トランプ氏の姿勢欧州の関与焦点",
+      "publishedAt": "2026-11-10T11:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC972HWVC9UHBI03LM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-12",
+      "title": "nttデータ住友生命から受託したシステムに不正アクセスvitality利用者約8万人の情報漏えい",
+      "publishedAt": "2026-11-10T11:26:43+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/10/2000003051"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-12",
+      "title": "マーシャル諸島ハイネ大統領が来日へ高市首相と会談も",
+      "publishedAt": "2026-11-10T11:26:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73311"
+      ]
+    },
+    {
+      "editionId": "2026-11-10-12",
+      "title": "つわりは我慢の時代こえて進み始めた研究ヒト以外の動物も症状",
+      "publishedAt": "2026-11-10T06:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC52SD0VC5UTFL006M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-11-10T12:01:22.147783+09:00"
+  "updatedAt": "2026-11-10T19:38:17.214016+09:00"
 }
