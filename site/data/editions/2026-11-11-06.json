@@ -1,0 +1,954 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-11-11T09:56:05.180905+09:00",
+  "summary": "対象時間帯の5配信元のニュースを13本に整理しました。うち重要ニュースは1本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-11-11-06",
+    "date": "2026-11-11",
+    "slot": "06:00",
+    "label": "朝6時版"
+  },
+  "coverage": {
+    "from": "2026-11-10T18:00:00+09:00",
+    "to": "2026-11-11T06:00:00+09:00",
+    "start": "2026-11-10T18:00:00+09:00",
+    "end": "2026-11-11T06:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "11月10日 18:00〜11月11日 06:00"
+  },
+  "stats": {
+    "articleCount": 13,
+    "categoryCounts": {
+      "国内": 4,
+      "海外": 2,
+      "スポーツ": 1,
+      "社会": 2,
+      "エンタメ": 1,
+      "科学": 1,
+      "経済": 2
+    },
+    "sourceCount": 14,
+    "publisherCount": 5,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 3,
+      "jma": 1,
+      "mainichi": 3,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 1,
+      "brief": 12
+    },
+    "feedFailureCount": 1
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース"
+  ],
+  "articles": [
+    {
+      "id": "e3e083507b8dfc64",
+      "slug": "2026-11-11-06-e3e08350",
+      "publishedAt": "2026-11-11T04:56:27+09:00",
+      "updatedAt": "2026-11-11T09:56:05.180905+09:00",
+      "title": "東京都気象解説情報（台風第３２号）",
+      "dek": "11月11日 04:56〜11月11日 05:12更新。強い台風第32号は、小笠原近海を東北東へ進んでおり、次第に小笠原諸島から遠ざかる見込みです。",
+      "summary": "強い台風第32号は、小笠原近海を東北東へ進んでおり、次第に小笠原諸島から遠ざかる見込みです。小笠原諸島では11日は、うねりを伴う高波に警戒してください。[気象概況] 強い台風第32号は、11日3時には父島の東約210キロにあって、1時間におよそ45キロの速さで東北東へ進んでいます。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "東京都気象解説情報台風第32号"
+      ],
+      "facts": [
+        "[気象概況] 強い台風第32号は、11日3時には父島の東約210キロにあって、1時間におよそ45キロの速さで東北東へ進んでいます。",
+        "[波の予想] 小笠原諸島では、11日夕方にかけて、うねりを伴い大しけとなる所があるでしょう。",
+        "これで、「東京都気象解説情報(台風第32号)」は終了します。",
+        "[波の予想] 小笠原諸島では、うねりを伴い大しけとなる所があるでしょう。",
+        "これで、「全般気象解説情報(台風第32号)」は終了します。"
+      ],
+      "impactPoints": [
+        "小笠原諸島では11日は、うねりを伴う高波に警戒してください。",
+        "中心の気圧は970ヘクトパスカル、中心付近の最大風速は40メートル、最大瞬間風速は55メートルで中心から半径75キロ以内では風速25メートル以上の暴風となっています。",
+        "11日に予想される波の高さ 小笠原諸島 6メートル うねりを伴う [防災事項] 小笠原諸島では11日夕方にかけて、うねりを伴う高波に警戒してください。",
+        "11日に予想される波の高さ 小笠原諸島 6メートル うねりを伴う [防災事項] 小笠原諸島では11日は、うねりを伴う高波に警戒してください。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "強い台風第32号は、小笠原近海を東北東へ進んでおり、次第に小笠原諸島から遠ざかる見込みです。",
+        "今後、台風は小笠原諸島から次第に遠ざかりますが、小笠原諸島では11日は、うねりを伴い大しけとなる所があるでしょう。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。"
+      ],
+      "body": [
+        "強い台風第32号は、小笠原近海を東北東へ進んでおり、次第に小笠原諸島から遠ざかる見込みです。小笠原諸島では11日は、うねりを伴う高波に警戒してください。[気象概況] 強い台風第32号は、11日3時には父島の東約210キロにあって、1時間におよそ45キロの速さで東北東へ進んでいます。",
+        "中心の気圧は970ヘクトパスカル、中心付近の最大風速は40メートル、最大瞬間風速は55メートルで中心から半径75キロ以内では風速25メートル以上の暴風となっています。",
+        "11日に予想される波の高さ 小笠原諸島 6メートル うねりを伴う [防災事項] 小笠原諸島では11日夕方にかけて、うねりを伴う高波に警戒してください。",
+        "11日に予想される波の高さ 小笠原諸島 6メートル うねりを伴う [防災事項] 小笠原諸島では11日は、うねりを伴う高波に警戒してください。",
+        "今後、台風は小笠原諸島から次第に遠ざかりますが、小笠原諸島では11日は、うねりを伴い大しけとなる所があるでしょう。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "[気象概況] 強い台風第32号は、11日3時には父島の東約210キロにあって、1時間におよそ45キロの速さで東北東へ進んでいます。",
+            "[波の予想] 小笠原諸島では、11日夕方にかけて、うねりを伴い大しけとなる所があるでしょう。",
+            "これで、「東京都気象解説情報(台風第32号)」は終了します。",
+            "[波の予想] 小笠原諸島では、うねりを伴い大しけとなる所があるでしょう。",
+            "これで、「全般気象解説情報(台風第32号)」は終了します。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "小笠原諸島では11日は、うねりを伴う高波に警戒してください。",
+            "中心の気圧は970ヘクトパスカル、中心付近の最大風速は40メートル、最大瞬間風速は55メートルで中心から半径75キロ以内では風速25メートル以上の暴風となっています。",
+            "11日に予想される波の高さ 小笠原諸島 6メートル うねりを伴う [防災事項] 小笠原諸島では11日夕方にかけて、うねりを伴う高波に警戒してください。",
+            "11日に予想される波の高さ 小笠原諸島 6メートル うねりを伴う [防災事項] 小笠原諸島では11日は、うねりを伴う高波に警戒してください。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "強い台風第32号は、小笠原近海を東北東へ進んでおり、次第に小笠原諸島から遠ざかる見込みです。",
+            "今後、台風は小笠原諸島から次第に遠ざかりますが、小笠原諸島では11日は、うねりを伴い大しけとなる所があるでしょう。",
+            "[補足事項] 今後発表する防災気象情報に留意してください。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-11T05:12:37+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-11-11T09:56:05.180905+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "全般気象解説情報（台風第３２号）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261110195628_0_VPZJ50_010000.xml",
+              "publishedAt": "2026-11-11T04:56:27+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "東京都気象解説情報（台風第３２号）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261110201238_0_VPFJ50_130000.xml",
+              "publishedAt": "2026-11-11T05:12:37+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-11T05:12:37+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 2,
+      "freshSourceCount": 2,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "b9eaa84c46d4eac4",
+      "slug": "2026-11-11-06-b9eaa84c",
+      "publishedAt": "2026-11-11T05:45:12+09:00",
+      "updatedAt": "2026-11-11T09:56:05.180905+09:00",
+      "title": "リニア名古屋駅、用地取得や安全対策で工期に遅れ 完成は未定",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-11T05:45:12+09:00",
+          "text": "毎日新聞 ニュース速報の公開情報を確認",
+          "source": "毎日新聞 ニュース速報"
+        },
+        {
+          "at": "2026-11-11T09:56:05.180905+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 ニュース速報",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "リニア名古屋駅、用地取得や安全対策で工期に遅れ 完成は未定",
+              "url": "https://mainichi.jp/articles/20261110/k00/00m/310/037000c",
+              "publishedAt": "2026-11-11T05:45:12+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-11T05:45:12+09:00",
+          "keyPoints": [
+            "リニア名古屋駅、用地取得や安全対策で工期に遅れ 完成は未定"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "ce417d40ec383a8b",
+      "slug": "2026-11-11-06-ce417d40",
+      "publishedAt": "2026-11-11T05:30:00+09:00",
+      "updatedAt": "2026-11-11T09:56:05.180905+09:00",
+      "title": "ヘグセス氏、自身への弾劾は「茶番」 イラン攻撃は歴史的勝利と主張",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-11T05:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-11T09:56:05.180905+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "ヘグセス氏、自身への弾劾は「茶番」 イラン攻撃は歴史的勝利と主張",
+              "url": "https://www.asahi.com/articles/ASVCB5WBHVCBUHBI02HM.html",
+              "publishedAt": "2026-11-11T05:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-11T05:30:00+09:00",
+          "keyPoints": [
+            "ヘグセス氏、自身への弾劾は「茶番」 イラン攻撃は歴史的勝利と主張"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "70a29ed98ba50c41",
+      "slug": "2026-11-11-06-70a29ed9",
+      "publishedAt": "2026-11-11T05:25:00+09:00",
+      "updatedAt": "2026-11-11T09:56:05.180905+09:00",
+      "title": "大相撲九州場所 4日目見どころ 大の里は藤青雲と対戦",
+      "dek": "大相撲九州場所は4日目、2場所連続優勝を目指す横綱・大の里は西前頭2枚目まで番付をあげてきた藤青雲の初挑戦を受けます。",
+      "summary": "大相撲九州場所は4日目、2場所連続優勝を目指す横綱・大の里は西前頭2枚目まで番付をあげてきた藤青雲の初挑戦を受けます。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "大相撲九州場所は4日目、2場所連続優勝を目指す横綱・大の里は西前頭2枚目まで番付をあげてきた藤青雲の初挑戦を受けます。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "大相撲九州場所は4日目、2場所連続優勝を目指す横綱・大の里は西前頭2枚目まで番付をあげてきた藤青雲の初挑戦を受けます。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "大相撲九州場所は4日目、2場所連続優勝を目指す横綱・大の里は西前頭2枚目まで番付をあげてきた藤青雲の初挑戦を受けます。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-11T05:25:00+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-11-11T09:56:05.180905+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "大相撲九州場所 4日目見どころ 大の里は藤青雲と対戦",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261111de73834",
+              "publishedAt": "2026-11-11T05:25:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-11T05:25:00+09:00",
+          "keyPoints": [
+            "大相撲九州場所は4日目、2場所連続優勝を目指す横綱・大の里は西前頭2枚目まで番付をあげてきた藤青雲の初挑戦を受けます。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "268df7b3f8f85fe6",
+      "slug": "2026-11-11-06-268df7b3",
+      "publishedAt": "2026-11-11T05:15:15+09:00",
+      "updatedAt": "2026-11-11T09:56:05.180905+09:00",
+      "title": "復興、希望、再生…祈りの刺しゅう画、宮城・南三陸で展示",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-11T05:15:15+09:00",
+          "text": "毎日新聞 ニュース速報の公開情報を確認",
+          "source": "毎日新聞 ニュース速報"
+        },
+        {
+          "at": "2026-11-11T09:56:05.180905+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 ニュース速報",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "復興、希望、再生…祈りの刺しゅう画、宮城・南三陸で展示",
+              "url": "https://mainichi.jp/articles/20261110/k00/00m/310/085000c",
+              "publishedAt": "2026-11-11T05:15:15+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-11T05:15:15+09:00",
+          "keyPoints": [
+            "復興、希望、再生…祈りの刺しゅう画、宮城・南三陸で展示"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "ebbef294cc63e4f4",
+      "slug": "2026-11-11-06-ebbef294",
+      "publishedAt": "2026-11-11T05:00:00+09:00",
+      "updatedAt": "2026-11-11T09:56:05.180905+09:00",
+      "title": "自民総裁選の対応は？ 石破前首相の退席は？ 林前総務相は何を語ったか",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-11T05:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-11T09:56:05.180905+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "自民総裁選の対応は？石破前首相の退席は？林前総務相は何を語ったか",
+              "url": "https://www.asahi.com/articles/ASVCB3J9TVCBUTFK00GM.html",
+              "publishedAt": "2026-11-11T05:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-11T05:00:00+09:00",
+          "keyPoints": [
+            "自民総裁選の対応は？ 石破前首相の退席は？ 林前総務相は何を語ったか"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "7797c672c501e67f",
+      "slug": "2026-11-11-06-7797c672",
+      "publishedAt": "2026-11-11T05:00:00+09:00",
+      "updatedAt": "2026-11-11T09:56:05.180905+09:00",
+      "title": "「盗撮」→「法律で規制」が話題のAI眼鏡 海外では大ヒットなのに、日本での普及は限定的 ビジネスでの活用事例を探る",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-11T05:00:00+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-11T09:56:05.180905+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "「盗撮」→「法律で規制」が話題のAI眼鏡 海外では大ヒットなのに、日本での普及は限定的 ビジネスでの活用事例を探る",
+              "url": "https://www.itmedia.co.jp/news/article/2611/11/2000002913",
+              "publishedAt": "2026-11-11T05:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-11T05:00:00+09:00",
+          "keyPoints": [
+            "「盗撮」→「法律で規制」が話題のAI眼鏡 海外では大ヒットなのに、日本での普及は限定的 ビジネスでの活用事例を探る"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "81cc4442a843ebbc",
+      "slug": "2026-11-11-06-81cc4442",
+      "publishedAt": "2026-11-11T05:00:00+09:00",
+      "updatedAt": "2026-11-11T09:56:05.180905+09:00",
+      "title": "裁判のネット中継、もたらすものとは 元裁判官に聞く公開のあり方",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-11T05:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-11T09:56:05.180905+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "裁判のネット中継、もたらすものとは 元裁判官に聞く公開のあり方",
+              "url": "https://www.asahi.com/articles/ASVC92G2BVC9UTIL008M.html",
+              "publishedAt": "2026-11-11T05:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-11T05:00:00+09:00",
+          "keyPoints": [
+            "裁判のネット中継、もたらすものとは 元裁判官に聞く公開のあり方"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "9d42913f8dcb9764",
+      "slug": "2026-11-11-06-9d42913f",
+      "publishedAt": "2026-11-11T04:56:00+09:00",
+      "updatedAt": "2026-11-11T09:56:05.180905+09:00",
+      "title": "タマホーム社員 火災保険不正請求の疑い 損保各社調査求める",
+      "dek": "住宅メーカーのタマホームの社員が火災保険の保険金を不正に請求していた疑いがあるとして、損害保険各社が会社に対し、詳しい調査を求めていることが分かりました。",
+      "summary": "住宅メーカーのタマホームの社員が火災保険の保険金を不正に請求していた疑いがあるとして、損害保険各社が会社に対し、詳しい調査を求めていることが分かりました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "住宅メーカーのタマホームの社員が火災保険の保険金を不正に請求していた疑いがあるとして、損害保険各社が会社に対し、詳しい調査を求めていることが分かりました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "住宅メーカーのタマホームの社員が火災保険の保険金を不正に請求していた疑いがあるとして、損害保険各社が会社に対し、詳しい調査を求めていることが分かりました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "住宅メーカーのタマホームの社員が火災保険の保険金を不正に請求していた疑いがあるとして、損害保険各社が会社に対し、詳しい調査を求めていることが分かりました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-11T04:56:00+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
+        },
+        {
+          "at": "2026-11-11T09:56:05.180905+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "タマホーム社員 火災保険不正請求の疑い 損保各社調査求める",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261111de73843",
+              "publishedAt": "2026-11-11T04:56:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-11T04:56:00+09:00",
+          "keyPoints": [
+            "住宅メーカーのタマホームの社員が火災保険の保険金を不正に請求していた疑いがあるとして、損害保険各社が会社に対し、詳しい調査を求めていることが分かりました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "bed43832ee911b5d",
+      "slug": "2026-11-11-06-bed43832",
+      "publishedAt": "2026-11-11T02:01:27+09:00",
+      "updatedAt": "2026-11-11T09:56:05.180905+09:00",
+      "title": "視聴室:青の花 器の森",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-11T02:01:27+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-11-11T09:56:05.180905+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "視聴室:青の花 器の森",
+              "url": "https://mainichi.jp/articles/20261111/ddm/018/200/012000c",
+              "publishedAt": "2026-11-11T02:01:27+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-11T02:01:27+09:00",
+          "keyPoints": [
+            "視聴室:青の花 器の森"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "73e3d0e2e6699c20",
+      "slug": "2026-11-11-06-73e3d0e2",
+      "publishedAt": "2026-11-10T20:41:28+09:00",
+      "updatedAt": "2026-11-11T09:56:05.180905+09:00",
+      "title": "ソフト99 クレカ情報含む 最大約13万人の個人情報漏えいか",
+      "dek": "自動車用品などを手がける「ソフト99コーポレーション」は自社の通販サイトが不正アクセスを受け、顧客の個人情報最大およそ13万人分が漏えいした可能性があると発表しました。",
+      "summary": "自動車用品などを手がける「ソフト99コーポレーション」は自社の通販サイトが不正アクセスを受け、顧客の個人情報最大およそ13万人分が漏えいした可能性があると発表しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [
+        "自動車用品などを手がける「ソフト99コーポレーション」は自社の通販サイトが不正アクセスを受け、顧客の個人情報最大およそ13万人分が漏えいした可能性があると発表しました。"
+      ],
+      "body": [
+        "自動車用品などを手がける「ソフト99コーポレーション」は自社の通販サイトが不正アクセスを受け、顧客の個人情報最大およそ13万人分が漏えいした可能性があると発表しました。"
+      ],
+      "sections": [
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "自動車用品などを手がける「ソフト99コーポレーション」は自社の通販サイトが不正アクセスを受け、顧客の個人情報最大およそ13万人分が漏えいした可能性があると発表しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-10T20:41:28+09:00",
+          "text": "NHK ONE 科学・文化の公開情報を確認",
+          "source": "NHK ONE 科学・文化"
+        },
+        {
+          "at": "2026-11-11T09:56:05.180905+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 科学・文化",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "ソフト99 クレカ情報含む 最大約13万人の個人情報漏えいか",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261110de73798",
+              "publishedAt": "2026-11-10T20:41:28+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T20:41:28+09:00",
+          "keyPoints": [
+            "自動車用品などを手がける「ソフト99コーポレーション」は自社の通販サイトが不正アクセスを受け、顧客の個人情報最大およそ13万人分が漏えいした可能性があると発表しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    },
+    {
+      "id": "9ee0bfff4c05d2c3",
+      "slug": "2026-11-11-06-9ee0bfff",
+      "publishedAt": "2026-11-10T20:01:53+09:00",
+      "updatedAt": "2026-11-11T09:56:05.180905+09:00",
+      "title": "ソフトバンクG、マスク氏の「債務不履行」投稿に「全くの事実無根」 7～9月期決算は1兆円超の赤字",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-10T20:01:53+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-11T09:56:05.180905+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "ソフトバンクG、マスク氏の「債務不履行」投稿に「全くの事実無根」 7～9月期決算は1兆円超の赤字",
+              "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003079",
+              "publishedAt": "2026-11-10T20:01:53+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T20:01:53+09:00",
+          "keyPoints": [
+            "ソフトバンクG、マスク氏の「債務不履行」投稿に「全くの事実無根」 7～9月期決算は1兆円超の赤字"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "35568a363f8e85cc",
+      "slug": "2026-11-11-06-35568a36",
+      "publishedAt": "2026-11-10T18:50:02+09:00",
+      "updatedAt": "2026-11-11T09:56:05.180905+09:00",
+      "title": "スキマバイト「シェアフル」に不正アクセス 最大750万アカウント漏えいか 給与振込用の口座情報なども",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-10T18:50:02+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-11T09:56:05.180905+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "スキマバイト「シェアフル」に不正アクセス 最大750万アカウント漏えいか 給与振込用の口座情報なども",
+              "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003072",
+              "publishedAt": "2026-11-10T18:50:02+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-10T18:50:02+09:00",
+          "keyPoints": [
+            "スキマバイト「シェアフル」に不正アクセス 最大750万アカウント漏えいか 給与振込用の口座情報なども"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    }
+  ]
+}

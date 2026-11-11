@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-10T18:00:00+09:00",
-  "lastCompletedEdition": "2026-11-10-18",
+  "lastCompletedEnd": "2026-11-11T06:00:00+09:00",
+  "lastCompletedEdition": "2026-11-11-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -25626,7 +25626,112 @@
       "urls": [
         "https://www.asahi.com/articles/ASVCB0R3HVCBUHBI00HM.html"
       ]
+    },
+    {
+      "editionId": "2026-11-11-06",
+      "title": "東京都気象解説情報台風第32号",
+      "publishedAt": "2026-11-11T04:56:27+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261110195628_0_VPZJ50_010000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261110201238_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-06",
+      "title": "リニア名古屋駅用地取得や安全対策で工期に遅れ完成は未定",
+      "publishedAt": "2026-11-11T05:45:12+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261110/k00/00m/310/037000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-06",
+      "title": "ヘグセス氏自身への弾劾は茶番イラン攻撃は歴史的勝利と主張",
+      "publishedAt": "2026-11-11T05:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCB5WBHVCBUHBI02HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-06",
+      "title": "大相撲九州場所4日目見どころ大の里は藤青雲と対戦",
+      "publishedAt": "2026-11-11T05:25:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de73834"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-06",
+      "title": "復興希望再生祈りの刺しゅう画宮城・南三陸で展示",
+      "publishedAt": "2026-11-11T05:15:15+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261110/k00/00m/310/085000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-06",
+      "title": "自民総裁選の対応は石破前首相の退席は林前総務相は何を語ったか",
+      "publishedAt": "2026-11-11T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCB3J9TVCBUTFK00GM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-06",
+      "title": "盗撮法律で規制が話題のai眼鏡海外では大ヒットなのに日本での普及は限定的ビジネスでの活用事例を探る",
+      "publishedAt": "2026-11-11T05:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/11/2000002913"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-06",
+      "title": "裁判のネット中継もたらすものとは元裁判官に聞く公開のあり方",
+      "publishedAt": "2026-11-11T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC92G2BVC9UTIL008M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-06",
+      "title": "タマホーム社員火災保険不正請求の疑い損保各社調査求める",
+      "publishedAt": "2026-11-11T04:56:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de73843"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-06",
+      "title": "視聴室",
+      "publishedAt": "2026-11-11T02:01:27+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261111/ddm/018/200/012000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-06",
+      "title": "ソフト99クレカ情報含む最大約13万人の個人情報漏えいか",
+      "publishedAt": "2026-11-10T20:41:28+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261110de73798"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-06",
+      "title": "ソフトバンクgマスク氏の債務不履行投稿に全くの事実無根79月期決算は1兆円超の赤字",
+      "publishedAt": "2026-11-10T20:01:53+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/10/2000003079"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-06",
+      "title": "スキマバイトシェアフルに不正アクセス最大750万アカウント漏えいか給与振込用の口座情報なども",
+      "publishedAt": "2026-11-10T18:50:02+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/10/2000003072"
+      ]
     }
   ],
-  "updatedAt": "2026-11-11T01:45:45.651318+09:00"
+  "updatedAt": "2026-11-11T09:56:05.180905+09:00"
 }
