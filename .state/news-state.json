@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-11T12:00:00+09:00",
-  "lastCompletedEdition": "2026-11-11-12",
+  "lastCompletedEnd": "2026-11-11T18:00:00+09:00",
+  "lastCompletedEdition": "2026-11-11-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -25795,7 +25795,127 @@
       "urls": [
         "https://www.asahi.com/articles/ASVCC064MVCCUHBI006M.html"
       ]
+    },
+    {
+      "editionId": "2026-11-11-18",
+      "title": "令和8年度病害虫発生予報第9号の発表について",
+      "publishedAt": "2026-11-11T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/syokubo/261111.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-18",
+      "title": "令和7事務年度の関税等の申告に係る輸入事後調査の結果",
+      "publishedAt": "2026-11-11T14:00:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/policy/customs_tariff/trade/collection/ka20261111.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-18",
+      "title": "第12回ロボット大賞の受賞ロボットを決定しました",
+      "publishedAt": "2026-11-11T13:17:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/kanbo/kihyo03/261111.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-18",
+      "title": "mlb最優秀監督賞にホワイトソックスのベナブル監督",
+      "publishedAt": "2026-11-11T17:53:28+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de74317"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-18",
+      "title": "自民森山前幹事長石破氏ら4人国民の気持ち反映した行動",
+      "publishedAt": "2026-11-11T17:47:39+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de74306"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-18",
+      "title": "太平洋クロマグロ漁獲枠の配分韓国・台湾と合意に至らず",
+      "publishedAt": "2026-11-11T17:45:50+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de74300"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-18",
+      "title": "メール配信のユミルリンク不正アクセスで約4786万件漏えいjr東海やアイスタイルに影響",
+      "publishedAt": "2026-11-11T17:35:52+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/11/2000003114"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-18",
+      "title": "世界の化石燃料由来co2排出6年ぶり減少へエネルギー危機影響",
+      "publishedAt": "2026-11-11T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCB4V1SVCBUTFL01QM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-18",
+      "title": "メモリ8gbでも快適windows11最新アプデとaiカスタムした日本語入力環境で旧型pcを蘇らせる",
+      "publishedAt": "2026-11-11T16:12:21+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/11/2000003112"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-18",
+      "title": "まるで自宅警備員室内を自律飛行する防犯ドローンamazon傘下が発表約4万円から",
+      "publishedAt": "2026-11-11T15:43:42+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/11/2000003111"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-18",
+      "title": "観測船しらせ南極へ向けて横須賀出港観測70周年の節目",
+      "publishedAt": "2026-11-11T15:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCC1Q01VCCOXIE013M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-18",
+      "title": "汚職で有罪のマレーシア元首相刑務所自宅軟禁に罰金19億円",
+      "publishedAt": "2026-11-11T14:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCC14XBVCCUHBI01XM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-18",
+      "title": "笑福亭松喬とくりゅうもネタに独演会",
+      "publishedAt": "2026-11-11T13:43:23+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261111/dde/012/200/004000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-18",
+      "title": "平原綾香念願オケ共演アルバムmyorchestra音に泣けちゃったり生で聞いて",
+      "publishedAt": "2026-11-11T13:42:26+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261111/dde/012/200/005000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-18",
+      "title": "第39回東京国際映画祭多様化進む出品著名監督の発表顔に",
+      "publishedAt": "2026-11-11T13:40:46+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261111/dde/012/200/006000c"
+      ]
     }
   ],
-  "updatedAt": "2026-11-11T19:05:23.874600+09:00"
+  "updatedAt": "2026-11-12T01:51:48.389736+09:00"
 }
