@@ -1,0 +1,605 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-11-11T19:05:23.874600+09:00",
+  "summary": "対象時間帯の4配信元のニュースを8本に整理しました。うち重要ニュースは1本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-11-11-12",
+    "date": "2026-11-11",
+    "slot": "12:00",
+    "label": "昼12時版"
+  },
+  "coverage": {
+    "from": "2026-11-11T06:00:00+09:00",
+    "to": "2026-11-11T12:00:00+09:00",
+    "start": "2026-11-11T06:00:00+09:00",
+    "end": "2026-11-11T12:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "11月11日 06:00〜11月11日 12:00"
+  },
+  "stats": {
+    "articleCount": 8,
+    "categoryCounts": {
+      "経済": 1,
+      "テクノロジー": 3,
+      "スポーツ": 1,
+      "海外": 3
+    },
+    "sourceCount": 8,
+    "publisherCount": 4,
+    "publisherCounts": {
+      "asahi": 1,
+      "itmedia": 3,
+      "maff": 1,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 1,
+      "brief": 7
+    },
+    "feedFailureCount": 1
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース"
+  ],
+  "articles": [
+    {
+      "id": "c595480040d83ce7",
+      "slug": "2026-11-11-12-c5954800",
+      "publishedAt": "2026-11-11T10:30:00+09:00",
+      "updatedAt": "2026-11-11T19:05:23.874600+09:00",
+      "title": "12月8日は「有機農業の日（オーガニックデイ）」！",
+      "dek": "11月11日 10:30更新。プレスリリース 〇令和8年11月14日(土曜日)から12月13日(日曜日)までを「有機農業の日(オーガニックデイ)」特別期間とし、特設ウェブサイトを開設し、全国各地の取り組みを紹介。",
+      "summary": "プレスリリース 〇令和8年11月14日(土曜日)から12月13日(日曜日)までを「有機農業の日(オーガニックデイ)」特別期間とし、特設ウェブサイトを開設し、全国各地の取り組みを紹介。から12月4日(金曜日)には農林水産省内食堂等で有機農産物等を使ったメニューを提供します。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "12月8日は有機農業の日オーガニックデイ"
+      ],
+      "facts": [
+        "プレスリリース 〇令和8年11月14日(土曜日)から12月13日(日曜日)までを「有機農業の日(オーガニックデイ)」特別期間とし、特設ウェブサイトを開設し、全国各地の取り組みを紹介。",
+        "から12月4日(金曜日)には農林水産省内食堂等で有機農産物等を使ったメニューを提供します。",
+        "有機農業は、化学肥料や化学農薬を原則使わず、可能な限り環境に配慮した栽培方法であり、土壌環境や生物の多様性など農業生態系を守ることにつながります。",
+        "農林水産省は、「有機農業の推進に関する法律」に基づく基本方針(令和2年4月農林水産大臣決定)において、令和12(2030)年までに有機農業の取組面積を6万3千ヘクタールに拡大する等の目標を定めています。",
+        "目標の達成には、有機農業の生産拡大に加え、消費の拡大も重要です。",
+        "地方公共団体等による学校給食での有機農産物等の活用や、事業者等による有機食品の需要拡大の取組は、有機農業に触れる機会を増やす観点から重要な取組です。",
+        "「有機農業の日(オーガニックデイ)」は、「有機農業の推進に関する法律」の成立10周年を記念し、有機農業に取り組む関係団体の自主的な呼び掛けを契機として、平成28年12月8日に制定され、今年で10周年を迎えます。",
+        "農林水産省では、全国の関連イベントの情報発信、学校給食における有機農産物等の活用事例の紹介、省内食堂での有機農産物等を用いたメニューの提供等を通じて、有機農業の消費者理解醸成や有機食品の消費拡大に取り組みます。",
+        "12月8日の「有機農業の日(オーガニックデイ)」を中心に、11月14日(土曜日)から12月13日(日曜日)までを、「有機農業の日(オーガニックデイ)」特別期間とし、全国の関連イベントについて情報発信するとともに、学校給食における有機農産物等の活用事例を紹介します。",
+        "各種取組は、以下の特設ウェブサイトからご覧いただけます。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "プレスリリース 〇令和8年11月14日(土曜日)から12月13日(日曜日)までを「有機農業の日(オーガニックデイ)」特別期間とし、特設ウェブサイトを開設し、全国各地の取り組みを紹介。から12月4日(金曜日)には農林水産省内食堂等で有機農産物等を使ったメニューを提供します。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "プレスリリース 〇令和8年11月14日(土曜日)から12月13日(日曜日)までを「有機農業の日(オーガニックデイ)」特別期間とし、特設ウェブサイトを開設し、全国各地の取り組みを紹介。",
+            "から12月4日(金曜日)には農林水産省内食堂等で有機農産物等を使ったメニューを提供します。",
+            "有機農業は、化学肥料や化学農薬を原則使わず、可能な限り環境に配慮した栽培方法であり、土壌環境や生物の多様性など農業生態系を守ることにつながります。",
+            "農林水産省は、「有機農業の推進に関する法律」に基づく基本方針(令和2年4月農林水産大臣決定)において、令和12(2030)年までに有機農業の取組面積を6万3千ヘクタールに拡大する等の目標を定めています。",
+            "目標の達成には、有機農業の生産拡大に加え、消費の拡大も重要です。",
+            "地方公共団体等による学校給食での有機農産物等の活用や、事業者等による有機食品の需要拡大の取組は、有機農業に触れる機会を増やす観点から重要な取組です。",
+            "「有機農業の日(オーガニックデイ)」は、「有機農業の推進に関する法律」の成立10周年を記念し、有機農業に取り組む関係団体の自主的な呼び掛けを契機として、平成28年12月8日に制定され、今年で10周年を迎えます。",
+            "農林水産省では、全国の関連イベントの情報発信、学校給食における有機農産物等の活用事例の紹介、省内食堂での有機農産物等を用いたメニューの提供等を通じて、有機農業の消費者理解醸成や有機食品の消費拡大に取り組みます。",
+            "12月8日の「有機農業の日(オーガニックデイ)」を中心に、11月14日(土曜日)から12月13日(日曜日)までを、「有機農業の日(オーガニックデイ)」特別期間とし、全国の関連イベントについて情報発信するとともに、学校給食における有機農産物等の活用事例を紹介します。",
+            "各種取組は、以下の特設ウェブサイトからご覧いただけます。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-11T10:30:00+09:00",
+          "text": "農林水産省 報道発表資料の公開情報を確認",
+          "source": "農林水産省 報道発表資料"
+        },
+        {
+          "at": "2026-11-11T19:05:23.874600+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "農林水産省 報道発表資料",
+          "publisherId": "maff",
+          "links": [
+            {
+              "title": "12月8日は「有機農業の日（オーガニックデイ）」！",
+              "url": "https://www.maff.go.jp/j/press/nousan/kankyo/261111.html",
+              "publishedAt": "2026-11-11T10:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-11T10:30:00+09:00",
+          "keyPoints": [
+            "農林水産省 報道発表資料の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "d000565dd5a4c657",
+      "slug": "2026-11-11-12-d000565d",
+      "publishedAt": "2026-11-11T11:52:53+09:00",
+      "updatedAt": "2026-11-11T19:05:23.874600+09:00",
+      "title": "ドコモまた障害、全国で通話・データ利用しづらく Xでは「5G SAがつながらない」の声【更新】",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-11T11:52:53+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-11T19:05:23.874600+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "ドコモまた障害、全国で通話・データ利用しづらく Xでは「5G SAがつながらない」の声【更新】",
+              "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003095",
+              "publishedAt": "2026-11-11T11:52:53+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-11T11:52:53+09:00",
+          "keyPoints": [
+            "ドコモまた障害、全国で通話・データ利用しづらく Xでは「5G SAがつながらない」の声【更新】"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "e30314a84cf3942b",
+      "slug": "2026-11-11-12-e30314a8",
+      "publishedAt": "2026-11-11T11:20:00+09:00",
+      "updatedAt": "2026-11-11T19:05:23.874600+09:00",
+      "title": "ラグビー イングランド戦へ調整 齋藤「勝ちにいく戦術を取る」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-11T11:20:00+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-11-11T19:05:23.874600+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "ラグビー イングランド戦へ調整 齋藤「勝ちにいく戦術を取る」",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261111de73889",
+              "publishedAt": "2026-11-11T11:20:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-11T11:20:00+09:00",
+          "keyPoints": [
+            "ラグビー イングランド戦へ調整 齋藤「勝ちにいく戦術を取る」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "be392ce171ed98aa",
+      "slug": "2026-11-11-12-be392ce1",
+      "publishedAt": "2026-11-11T11:10:00+09:00",
+      "updatedAt": "2026-11-11T19:05:23.874600+09:00",
+      "title": "英警察が米軍兵士逮捕「関係国はロシア」 スパイ活動の疑い",
+      "dek": "イギリスの警察は、アメリカ陸軍の兵士を外国の情報機関を支援した疑いなどで逮捕したと発表しました。",
+      "summary": "イギリスの警察は、アメリカ陸軍の兵士を外国の情報機関を支援した疑いなどで逮捕したと発表しました。 ロシアが関係し、スパイ活動が行われた疑いがあり、警察は関係先を捜索するなどして捜査を進めています。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "イギリスの警察は、アメリカ陸軍の兵士を外国の情報機関を支援した疑いなどで逮捕したと発表しました。",
+        "ロシアが関係し、スパイ活動が行われた疑いがあり、警察は関係先を捜索するなどして捜査を進めています。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "イギリスの警察は、アメリカ陸軍の兵士を外国の情報機関を支援した疑いなどで逮捕したと発表しました。 ロシアが関係し、スパイ活動が行われた疑いがあり、警察は関係先を捜索するなどして捜査を進めています。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "イギリスの警察は、アメリカ陸軍の兵士を外国の情報機関を支援した疑いなどで逮捕したと発表しました。",
+            "ロシアが関係し、スパイ活動が行われた疑いがあり、警察は関係先を捜索するなどして捜査を進めています。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-11T11:10:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-11T19:05:23.874600+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "英警察が米軍兵士逮捕「関係国はロシア」 スパイ活動の疑い",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261111de73900",
+              "publishedAt": "2026-11-11T11:10:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-11T11:10:00+09:00",
+          "keyPoints": [
+            "イギリスの警察は、アメリカ陸軍の兵士を外国の情報機関を支援した疑いなどで逮捕したと発表しました。ロシアが関係し、スパイ活動が行われた疑いがあり、警察は関係先を捜索するなどして捜査を進めています。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "b74e3d4623762695",
+      "slug": "2026-11-11-12-b74e3d46",
+      "publishedAt": "2026-11-11T11:03:17+09:00",
+      "updatedAt": "2026-11-11T19:05:23.874600+09:00",
+      "title": "「ブロッキング」実施検討へ向けた作業部会設置 総務省 法的整理など加速へ",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-11T11:03:17+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-11T19:05:23.874600+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "「ブロッキング」実施検討へ向けた作業部会設置 総務省 法的整理など加速へ",
+              "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003094",
+              "publishedAt": "2026-11-11T11:03:17+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-11T11:03:17+09:00",
+          "keyPoints": [
+            "「ブロッキング」実施検討へ向けた作業部会設置 総務省 法的整理など加速へ"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "6f618336e002e34a",
+      "slug": "2026-11-11-12-6f618336",
+      "publishedAt": "2026-11-11T11:00:15+09:00",
+      "updatedAt": "2026-11-11T19:05:23.874600+09:00",
+      "title": "【きょうのおはBiz 11月11日(水)】中国就職難 若者が日本へ",
+      "dek": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。",
+      "summary": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。 最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けし…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。",
+        "最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けし…。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。 最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けし…。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。",
+            "最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けし…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-11T11:00:15+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-11T19:05:23.874600+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "【きょうのおはBiz 11月11日(水)】中国就職難 若者が日本へ",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261111de73893",
+              "publishedAt": "2026-11-11T11:00:15+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-11T11:00:15+09:00",
+          "keyPoints": [
+            "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けし…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "21ca9b16800bad04",
+      "slug": "2026-11-11-12-21ca9b16",
+      "publishedAt": "2026-11-11T10:52:11+09:00",
+      "updatedAt": "2026-11-11T19:05:23.874600+09:00",
+      "title": "【復旧】「iCloud」で朝から障害 「ログインできない」ユーザー混乱、メールやカレンダーも",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-11T10:52:11+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-11T19:05:23.874600+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "【復旧】「iCloud」で朝から障害 「ログインできない」ユーザー混乱、メールやカレンダーも",
+              "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003090",
+              "publishedAt": "2026-11-11T10:52:11+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-11T10:52:11+09:00",
+          "keyPoints": [
+            "【復旧】「iCloud」で朝から障害 「ログインできない」ユーザー混乱、メールやカレンダーも"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "f43ac69e9530346a",
+      "slug": "2026-11-11-12-f43ac69e",
+      "publishedAt": "2026-11-11T10:15:54+09:00",
+      "updatedAt": "2026-11-11T19:05:23.874600+09:00",
+      "title": "ヘグセス国防長官の弾劾決議案、下院共和党が阻止 トランプ氏は歓迎",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-11T10:15:54+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-11T19:05:23.874600+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "ヘグセス国防長官の弾劾決議案、下院共和党が阻止 トランプ氏は歓迎",
+              "url": "https://www.asahi.com/articles/ASVCC064MVCCUHBI006M.html",
+              "publishedAt": "2026-11-11T10:15:54+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-11T10:15:54+09:00",
+          "keyPoints": [
+            "ヘグセス国防長官の弾劾決議案、下院共和党が阻止 トランプ氏は歓迎"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    }
+  ]
+}

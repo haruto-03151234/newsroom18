@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-11T06:00:00+09:00",
-  "lastCompletedEdition": "2026-11-11-06",
+  "lastCompletedEnd": "2026-11-11T12:00:00+09:00",
+  "lastCompletedEdition": "2026-11-11-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -25731,7 +25731,71 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2611/10/2000003072"
       ]
+    },
+    {
+      "editionId": "2026-11-11-12",
+      "title": "12月8日は有機農業の日オーガニックデイ",
+      "publishedAt": "2026-11-11T10:30:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousan/kankyo/261111.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-12",
+      "title": "ドコモまた障害全国で通話・データ利用しづらくxでは5gsaがつながらないの声更新",
+      "publishedAt": "2026-11-11T11:52:53+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/11/2000003095"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-12",
+      "title": "ラグビーイングランド戦へ調整齋藤勝ちにいく戦術を取る",
+      "publishedAt": "2026-11-11T11:20:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de73889"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-12",
+      "title": "英警察が米軍兵士逮捕関係国はロシアスパイ活動の疑い",
+      "publishedAt": "2026-11-11T11:10:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de73900"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-12",
+      "title": "ブロッキング実施検討へ向けた作業部会設置総務省法的整理など加速へ",
+      "publishedAt": "2026-11-11T11:03:17+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/11/2000003094"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-12",
+      "title": "きょうのおはbiz11月11日水中国就職難若者が日本へ",
+      "publishedAt": "2026-11-11T11:00:15+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de73893"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-12",
+      "title": "復旧icloudで朝から障害ログインできないユーザー混乱メールやカレンダーも",
+      "publishedAt": "2026-11-11T10:52:11+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/11/2000003090"
+      ]
+    },
+    {
+      "editionId": "2026-11-11-12",
+      "title": "ヘグセス国防長官の弾劾決議案下院共和党が阻止トランプ氏は歓迎",
+      "publishedAt": "2026-11-11T10:15:54+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCC064MVCCUHBI006M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-11-11T09:56:05.180905+09:00"
+  "updatedAt": "2026-11-11T19:05:23.874600+09:00"
 }
