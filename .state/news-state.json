@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-11T18:00:00+09:00",
-  "lastCompletedEdition": "2026-11-11-18",
+  "lastCompletedEnd": "2026-11-12T06:00:00+09:00",
+  "lastCompletedEdition": "2026-11-12-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -25915,7 +25915,95 @@
       "urls": [
         "https://mainichi.jp/articles/20261111/dde/012/200/006000c"
       ]
+    },
+    {
+      "editionId": "2026-11-12-06",
+      "title": "和歌山県気象解説情報落雷・突風",
+      "publishedAt": "2026-11-12T05:32:36+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261111203236_0_VPFJ50_300000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-12-06",
+      "title": "アフガニスタンの危険情報危険レベル継続内容の更新",
+      "publishedAt": "2026-11-11T18:20:29+09:00",
+      "urls": [
+        "https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T098.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-12-06",
+      "title": "米・ロ・ウクライナの高官協議終了大規模な捕虜交換で合意",
+      "publishedAt": "2026-11-12T05:36:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de74517"
+      ]
+    },
+    {
+      "editionId": "2026-11-12-06",
+      "title": "中野ブロードウェイ時計窃盗事件偽名でコンビニから返送か",
+      "publishedAt": "2026-11-12T05:12:02+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de74478"
+      ]
+    },
+    {
+      "editionId": "2026-11-12-06",
+      "title": "フィギュア三原舞依さん神戸マラソンに挑む全力でパワー送る",
+      "publishedAt": "2026-11-12T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC812XVVC8OXIE007M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-12-06",
+      "title": "神戸マラソン足が止まったら競歩日本記録保持者が語る攻略法",
+      "publishedAt": "2026-11-12T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC811HJVC8OXIE01HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-12-06",
+      "title": "巨額の庁舎建設揺れる熊本市現職防災に必要新顔は全員反対",
+      "publishedAt": "2026-11-12T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCC42RCVCCTLVB006M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-12-06",
+      "title": "視聴室ダウト15年目の復讐",
+      "publishedAt": "2026-11-12T02:01:08+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261112/ddm/018/200/013000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-12-06",
+      "title": "日本近海で水温上昇雑種フグ・アニサキス食の安全に影響も",
+      "publishedAt": "2026-11-11T20:25:41+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261111de73954"
+      ]
+    },
+    {
+      "editionId": "2026-11-12-06",
+      "title": "靖国神社に不正アクセス約1万4500件の個人情報漏えいパスワードが特定されるおそれも",
+      "publishedAt": "2026-11-11T19:11:24+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/11/2000003119"
+      ]
+    },
+    {
+      "editionId": "2026-11-12-06",
+      "title": "続くドコモ通信障害一部除き復旧も完全解消には至らず原因は調査中",
+      "publishedAt": "2026-11-11T18:36:04+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/11/2000003116"
+      ]
     }
   ],
-  "updatedAt": "2026-11-12T01:51:48.389736+09:00"
+  "updatedAt": "2026-11-12T11:02:03.063143+09:00"
 }
