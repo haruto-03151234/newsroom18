@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-12T06:00:00+09:00",
-  "lastCompletedEdition": "2026-11-12-06",
+  "lastCompletedEnd": "2026-11-12T12:00:00+09:00",
+  "lastCompletedEdition": "2026-11-12-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -26003,7 +26003,106 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2611/11/2000003116"
       ]
+    },
+    {
+      "editionId": "2026-11-12-12",
+      "title": "石川県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-12T10:46:26+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261112014627_0_VPCJ50_150000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261112015511_0_VPFJ50_150000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261112015732_0_VPFJ50_170000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-12-12",
+      "title": "関税・外国為替等審議会関税分科会特殊関税部会令和8年10月19日議事録",
+      "publishedAt": "2026-11-12T10:45:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_customs/proceedings/kana20261006.html",
+        "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_tokusyu/proceedings/kanb20261019.html.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-12-12",
+      "title": "京都府における高病原性鳥インフルエンザの疑似患畜の確認及び農林水産省鳥インフルエンザ防疫対策本部の開催について",
+      "publishedAt": "2026-11-12T08:30:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/douei/261111.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-12-12",
+      "title": "サイ・ヤング賞ナショナルリーグミザロウスキーが満票で受賞",
+      "publishedAt": "2026-11-12T11:44:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de74625"
+      ]
+    },
+    {
+      "editionId": "2026-11-12-12",
+      "title": "大谷翔平の二刀流30本塁打8勝でも5度目のmvpが厳しいわけ",
+      "publishedAt": "2026-11-12T11:35:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCC0PKCVCCSFVU0XNM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-12-12",
+      "title": "googledeepmindalphagenome2発表細胞の種類ごとにdna変異の影響を予測するai",
+      "publishedAt": "2026-11-12T11:29:43+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/12/2000003132"
+      ]
+    },
+    {
+      "editionId": "2026-11-12-12",
+      "title": "異例の接戦ミシシッピ州でも民主新人が当確アメリカ中間選挙",
+      "publishedAt": "2026-11-12T11:03:22+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de74547"
+      ]
+    },
+    {
+      "editionId": "2026-11-12-12",
+      "title": "24歳右腕ミジオロウスキー満票でサイ・ヤング賞山本由伸は4位",
+      "publishedAt": "2026-11-12T11:02:57+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCD0GHWVCDUTQP02BM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-12-12",
+      "title": "ユナイテッド航空外部のaiアシスタントによる航空券の予約などを禁止へチェックインには人間の確認が必要",
+      "publishedAt": "2026-11-12T10:49:56+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/12/2000003127"
+      ]
+    },
+    {
+      "editionId": "2026-11-12-12",
+      "title": "円相場1ドル159円台後半frbの追加利上げ観測で",
+      "publishedAt": "2026-11-12T10:39:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de74514"
+      ]
+    },
+    {
+      "editionId": "2026-11-12-12",
+      "title": "amazonawsのapiを手元で再現するawsemulatorを無償公開コードはすべてaiエージェントが記述",
+      "publishedAt": "2026-11-12T09:56:17+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/12/2000003126"
+      ]
+    },
+    {
+      "editionId": "2026-11-12-12",
+      "title": "マドリードで12万人デモ14年ぶりゼネスト総選挙前に不満爆発",
+      "publishedAt": "2026-11-12T08:52:26+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCC7KWMVCCUHBI005M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-11-12T11:02:03.063143+09:00"
+  "updatedAt": "2026-11-12T19:29:38.596703+09:00"
 }
