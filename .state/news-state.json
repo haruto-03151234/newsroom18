@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-13T12:00:00+09:00",
-  "lastCompletedEdition": "2026-11-13-12",
+  "lastCompletedEnd": "2026-11-13T18:00:00+09:00",
+  "lastCompletedEdition": "2026-11-13-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -26422,7 +26422,124 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2611/13/2000003163"
       ]
+    },
+    {
+      "editionId": "2026-11-13-18",
+      "title": "沖縄地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-13T16:20:29+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261113072030_0_VPFJ50_474000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261113072512_0_VPFJ50_473000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261113074143_0_VPCJ50_471000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-18",
+      "title": "火山名口永良部島火山の状況に関する解説情報",
+      "publishedAt": "2026-11-13T16:03:10+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261113070310_0_VFVO51_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261113070400_0_VFVO51_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261113070500_0_VFVO51_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-18",
+      "title": "株式会社アップルサンショウにおける牛の個体識別番号の不適正表示に対する措置について",
+      "publishedAt": "2026-11-13T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/kansa/261113.html",
+        "https://www.maff.go.jp/j/press/syouan/kansa/261113_1.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-18",
+      "title": "特定農林水産物等の名称の保護に関する法律に基づく措置命令について",
+      "publishedAt": "2026-11-13T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/yusyutu_kokusai/chizai/261113.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-18",
+      "title": "マイクロソフト障害でラジオ局リスナーのお便り届かず",
+      "publishedAt": "2026-11-13T17:56:27+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75511"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-18",
+      "title": "松井新監督選手の見極めに徹した秋季キャンプ巨人再建へ第一歩",
+      "publishedAt": "2026-11-13T17:52:05+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCF2TGDVCFUTQP00SM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-18",
+      "title": "江崎玲於奈賞に齊藤英治・東大教授スピン流物性科学分野を開拓",
+      "publishedAt": "2026-11-13T17:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCF2J53VCFUTFL012M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-18",
+      "title": "秋田・由利本荘市災害死と判断河川敷で発見の男性先月の大雨",
+      "publishedAt": "2026-11-13T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCF2GJDVCFUNHB010M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-18",
+      "title": "詳細ロシアウクライナに軍事侵攻11月13日の動き",
+      "publishedAt": "2026-11-13T16:13:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de67087"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-18",
+      "title": "巨人松井監督非常に充実秋のキャンプ打ち上げ",
+      "publishedAt": "2026-11-13T15:47:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75370"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-18",
+      "title": "復旧ana予約システムの一部に障害予約できない場合も国内線タイムセール初日に",
+      "publishedAt": "2026-11-13T14:58:17+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/13/2000003178"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-18",
+      "title": "かっけえ自分でいたいこの春高校入学ぱーてぃーちゃん信子さん",
+      "publishedAt": "2026-11-13T14:27:22+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261113/dde/041/040/025000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-18",
+      "title": "シネマの週末・この1本",
+      "publishedAt": "2026-11-13T13:41:14+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261113/dde/012/070/006000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-18",
+      "title": "qoo10不正アクセス個人情報漏えい住所の地理座標や身体的特徴も対象の可能性",
+      "publishedAt": "2026-11-13T13:31:03+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/13/2000003186"
+      ]
     }
   ],
-  "updatedAt": "2026-11-13T19:22:39.541352+09:00"
+  "updatedAt": "2026-11-14T01:55:35.121128+09:00"
 }
