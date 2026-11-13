@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-13T06:00:00+09:00",
-  "lastCompletedEdition": "2026-11-13-06",
+  "lastCompletedEnd": "2026-11-13T12:00:00+09:00",
+  "lastCompletedEdition": "2026-11-13-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -26315,7 +26315,114 @@
       "urls": [
         "https://www.asahi.com/articles/ASVCD24MQVCDTLVB005M.html"
       ]
+    },
+    {
+      "editionId": "2026-11-13-12",
+      "title": "熊本県熊本地方で地震m40最大震度3",
+      "publishedAt": "2026-11-13T10:56:09+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261113015609_0_VXSE53_270000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-12",
+      "title": "秋田県気象防災速報竜巻注意",
+      "publishedAt": "2026-11-13T08:02:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261112230259_0_VPHW50_060000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261112232258_0_VPHW50_050000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-12",
+      "title": "千葉県における高病原性鳥インフルエンザの疑似患畜の確認国内2例目及び農林水産省鳥インフルエンザ防疫対策本部の持ち回り開催について",
+      "publishedAt": "2026-11-13T08:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/douei/261113.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-12",
+      "title": "山形県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-13T04:49:10+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261112194911_0_VPCJ50_150000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261112200245_0_VPFJ50_060000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261113010724_0_VPFJ50_300000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-12",
+      "title": "ゼレンスキー大統領米特使らと会談次回以降は欧州も参加",
+      "publishedAt": "2026-11-13T11:19:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75174"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-12",
+      "title": "独メルセデスドイツ国内の工場閉鎖を検討コスト削減が急務",
+      "publishedAt": "2026-11-13T11:16:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75168"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-12",
+      "title": "独防衛企業にサイバー攻撃独軍が無人機を運用停止と報道",
+      "publishedAt": "2026-11-13T11:07:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75142"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-12",
+      "title": "熊本地震の復興基金に520億円高市首相が表明防災相に指示も",
+      "publishedAt": "2026-11-13T10:46:34+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCF0C96VCFULFA00BM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-12",
+      "title": "大谷翔平が壊した成功の基準30本塁打8勝でmvpを逃した背景",
+      "publishedAt": "2026-11-13T10:41:08+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCF0D93VCFUTQP00VM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-12",
+      "title": "緊急情報の音声放送システムにランサムウェア攻撃滋賀県甲賀市屋外拡声器など使えず",
+      "publishedAt": "2026-11-13T09:44:12+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/13/2000003167"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-12",
+      "title": "googlegemini搭載のメガネを米韓で予約開始395ドルからで12月10日発売へ",
+      "publishedAt": "2026-11-13T09:30:33+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/13/2000003166"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-12",
+      "title": "そのゴールドはどこから先住民が問うあなたとアマゾンの未来",
+      "publishedAt": "2026-11-13T09:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC66RDTVC6TPJB002M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-12",
+      "title": "サイバーセキュリティクラウドgithubから顧客情報流出かセキュリティ企業として重く受け止め",
+      "publishedAt": "2026-11-13T08:15:50+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/13/2000003163"
+      ]
     }
   ],
-  "updatedAt": "2026-11-13T10:33:19.454370+09:00"
+  "updatedAt": "2026-11-13T19:22:39.541352+09:00"
 }
