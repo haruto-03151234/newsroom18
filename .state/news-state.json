@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-12T18:00:00+09:00",
-  "lastCompletedEdition": "2026-11-12-18",
+  "lastCompletedEnd": "2026-11-13T06:00:00+09:00",
+  "lastCompletedEdition": "2026-11-13-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -26216,7 +26216,106 @@
       "urls": [
         "https://mainichi.jp/articles/20261112/dde/018/200/007000c"
       ]
+    },
+    {
+      "editionId": "2026-11-13-06",
+      "title": "和歌山県気象解説情報落雷・突風",
+      "publishedAt": "2026-11-13T05:31:33+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261112203133_0_VPFJ50_300000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-06",
+      "title": "秋田県気象防災速報竜巻注意",
+      "publishedAt": "2026-11-13T05:26:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261112202652_0_VPHW50_060000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261112203306_0_VPHW50_050000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-06",
+      "title": "石川県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-13T05:02:46+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261112200247_0_VPFJ50_050000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261112203214_0_VPFJ50_150000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261112203314_0_VPFJ50_170000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-06",
+      "title": "大相撲九州場所6日目の見どころ藤凌駕が大関霧島に挑む",
+      "publishedAt": "2026-11-13T05:28:13+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de75063"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-06",
+      "title": "ロシアによる北海道新聞記者拘束1か月即時解放求め続ける",
+      "publishedAt": "2026-11-13T05:22:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75109"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-06",
+      "title": "植物と動物の特徴あわせもつ新細胞の作製に成功光合成目指す",
+      "publishedAt": "2026-11-13T05:16:53+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261112de75067"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-06",
+      "title": "妻奪われた27年遺族の明日前向くために課題どう乗り越える",
+      "publishedAt": "2026-11-13T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC64GNHVC6OIPE007M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-06",
+      "title": "中国の南シナ海進出三位一体で影響圏拡大防衛研究所レポート",
+      "publishedAt": "2026-11-13T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCD4Q6QVCDUTFK001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-06",
+      "title": "日本レコード大賞",
+      "publishedAt": "2026-11-13T02:00:37+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261113/ddm/041/200/047000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-06",
+      "title": "nvidia革ジャンceoことフアン氏が辞任クレスcfoが暫定ceoに",
+      "publishedAt": "2026-11-12T23:53:52+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/12/2000003160"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-06",
+      "title": "宝くじ公式サイト会員の当落情報まで第三者が閲覧の可能性リスト型攻撃か",
+      "publishedAt": "2026-11-12T18:54:27+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/12/2000003158"
+      ]
+    },
+    {
+      "editionId": "2026-11-13-06",
+      "title": "熊本地震による文化財被害410億円熊本城分を除けば前回以上",
+      "publishedAt": "2026-11-12T18:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCD24MQVCDTLVB005M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-11-13T02:20:00.884800+09:00"
+  "updatedAt": "2026-11-13T10:33:19.454370+09:00"
 }
