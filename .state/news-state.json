@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-14T06:00:00+09:00",
-  "lastCompletedEdition": "2026-11-14-06",
+  "lastCompletedEnd": "2026-11-14T12:00:00+09:00",
+  "lastCompletedEdition": "2026-11-14-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -26647,7 +26647,79 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2611/13/2000003197"
       ]
+    },
+    {
+      "editionId": "2026-11-14-12",
+      "title": "鹿児島県奄美地方を除く気象解説情報落雷・突風",
+      "publishedAt": "2026-11-14T04:44:24+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261113194424_0_VPFJ50_460100.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-12",
+      "title": "九州南部・奄美地方気象解説情報落雷・突風",
+      "publishedAt": "2026-11-14T04:37:01+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261113193702_0_VPCJ50_460100.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-12",
+      "title": "ウクライナ和平協議にヨーロッパ代表も英仏独など5か国",
+      "publishedAt": "2026-11-14T11:24:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261114de75776"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-12",
+      "title": "小栗虫太郎の未発表原稿や創作メモが見つかる",
+      "publishedAt": "2026-11-14T11:06:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261114de75792"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-12",
+      "title": "営業最長10年管理政策で守った福岡の屋台文化観光地化で岐路に",
+      "publishedAt": "2026-11-14T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCD22BTVCDTIPE02RM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-12",
+      "title": "お笑いの審査はaiにはできない面白さを点数化する難しさ",
+      "publishedAt": "2026-11-14T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCC029TVCCUHMC003M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-12",
+      "title": "ニデック半期報告書の提出延期を検討会計処理の作業に遅れ",
+      "publishedAt": "2026-11-14T10:37:07+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCG0F4FVCGPLFA001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-12",
+      "title": "相次ぐ情報漏えいでアナログ回帰ダイソーパスワード管理ノートが品薄に一方でリスクもipaに聞いた",
+      "publishedAt": "2026-11-14T07:30:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/14/2000003193"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-12",
+      "title": "大相撲九州場所7日目の見どころ熱海富士と藤凌駕が対戦",
+      "publishedAt": "2026-11-14T04:57:51+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75734"
+      ]
     }
   ],
-  "updatedAt": "2026-11-14T10:06:01.566705+09:00"
+  "updatedAt": "2026-11-14T18:39:36.539209+09:00"
 }
