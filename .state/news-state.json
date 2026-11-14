@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-13T18:00:00+09:00",
-  "lastCompletedEdition": "2026-11-13-18",
+  "lastCompletedEnd": "2026-11-14T06:00:00+09:00",
+  "lastCompletedEdition": "2026-11-14-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -26539,7 +26539,115 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2611/13/2000003186"
       ]
+    },
+    {
+      "editionId": "2026-11-14-06",
+      "title": "沖縄地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-14T04:46:23+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261113194624_0_VPCJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261113194918_0_VPFJ50_473000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261113195032_0_VPFJ50_474000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261113195607_0_VPFJ50_472000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261113195954_0_VPFJ50_471000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-06",
+      "title": "奄美地方鹿児島県気象解説情報落雷・突風",
+      "publishedAt": "2026-11-14T04:44:24+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261113194424_0_VPFJ50_460040.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-06",
+      "title": "マイクロソフト接続障害広範囲にわたる復旧がみられる",
+      "publishedAt": "2026-11-14T05:48:54+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261114de75755"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-06",
+      "title": "高市首相支援金対象5割以上野党さらなる具体像を",
+      "publishedAt": "2026-11-14T05:32:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261114de75743"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-06",
+      "title": "神奈川の2人死亡ひき逃げ事故49歳の会社員の男を逮捕容疑否認",
+      "publishedAt": "2026-11-14T05:21:18+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCF6RX8VCFULOB00PM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-06",
+      "title": "nhk紅白歌合戦",
+      "publishedAt": "2026-11-14T02:30:24+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261114/ddm/041/200/092000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-06",
+      "title": "視聴室",
+      "publishedAt": "2026-11-14T02:00:18+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261114/ddm/018/200/025000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-06",
+      "title": "ヤマダデンキ不正アクセスで最大350万件が影響受けた可能性",
+      "publishedAt": "2026-11-13T23:39:16+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261113de75739"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-06",
+      "title": "ai裸眼3dディスプレイ2d映像をその場で3d化し見る人の目も追う現地で確かめた",
+      "publishedAt": "2026-11-13T23:34:56+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/13/2000003195"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-06",
+      "title": "ワタミがmboへ渡辺美樹氏の会社がtob米国展開や宅食を強化",
+      "publishedAt": "2026-11-13T21:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCF0JC8VCFULFA00RM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-06",
+      "title": "3歳女児虐待死対応会議の予定調整のさなかに市に疑い通告複数回",
+      "publishedAt": "2026-11-13T21:07:17+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCF3SXFVCFOXIE020M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-06",
+      "title": "データセンターの排熱でエビ養殖ntt系が実験育ったら食べられる担当者に聞いてみた",
+      "publishedAt": "2026-11-13T19:45:49+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/13/2000003200"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-06",
+      "title": "お名前com不正アクセス補償申請約30億円にgmoインターネットが決算説明会で謝罪",
+      "publishedAt": "2026-11-13T18:17:23+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/13/2000003197"
+      ]
     }
   ],
-  "updatedAt": "2026-11-14T01:55:35.121128+09:00"
+  "updatedAt": "2026-11-14T10:06:01.566705+09:00"
 }
