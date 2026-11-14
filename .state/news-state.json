@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-14T12:00:00+09:00",
-  "lastCompletedEdition": "2026-11-14-12",
+  "lastCompletedEnd": "2026-11-14T18:00:00+09:00",
+  "lastCompletedEdition": "2026-11-14-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -26719,7 +26719,82 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261113de75734"
       ]
+    },
+    {
+      "editionId": "2026-11-14-18",
+      "title": "東京都気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-14T16:30:20+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261114073021_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-18",
+      "title": "奄美地方鹿児島県気象解説情報落雷・突風",
+      "publishedAt": "2026-11-14T16:25:12+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261114072512_0_VPFJ50_460040.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-18",
+      "title": "沖縄本島地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-14T16:12:17+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261114071218_0_VPFJ50_472000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261114071434_0_VPFJ50_473000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261114071631_0_VPFJ50_474000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261114074042_0_VPFJ50_471000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-18",
+      "title": "ヤクルトと東京六大学の記念試合で大リーグの村上が始球式",
+      "publishedAt": "2026-11-14T17:48:27+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261114de75935"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-18",
+      "title": "自閉症の日本人画家の個展がニューヨークで開催",
+      "publishedAt": "2026-11-14T17:32:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261114de75906"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-18",
+      "title": "大阪市西淀川区で平屋建て倉庫火災50代女性1人搬送意識あり",
+      "publishedAt": "2026-11-14T17:24:04+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCG2QK1VCGPTIL00BM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-18",
+      "title": "警察に共有されなかったあざの情報判断基準は大阪3歳女児虐待死",
+      "publishedAt": "2026-11-14T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCG1HJ3VCGPTIL00TM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-18",
+      "title": "全米の空港で全便が一時離陸停止7千便以上欠航日本にも一部影響",
+      "publishedAt": "2026-11-14T16:15:27+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCF771GVCFUHBI008M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-14-18",
+      "title": "小児がん経験の高校生が治療での外見変化の影響調査学会発表",
+      "publishedAt": "2026-11-14T13:24:54+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261114de75823"
+      ]
     }
   ],
-  "updatedAt": "2026-11-14T18:39:36.539209+09:00"
+  "updatedAt": "2026-11-15T00:31:12.191935+09:00"
 }

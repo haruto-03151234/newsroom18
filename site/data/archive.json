@@ -1,7 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-14T18:39:36.539209+09:00",
+  "updatedAt": "2026-11-15T00:31:12.191935+09:00",
   "editions": [
+    {
+      "id": "2026-11-14-18",
+      "path": "data/editions/2026-11-14-18.json",
+      "dataUrl": "data/editions/2026-11-14-18.json",
+      "generatedAt": "2026-11-15T00:31:12.191935+09:00",
+      "date": "2026-11-14",
+      "time": "18:00",
+      "label": "夕方6時版",
+      "coverageLabel": "11月14日 12:00〜11月14日 18:00",
+      "headline": "東京都気象解説情報（落雷・突風・降ひょう）",
+      "articleCount": 9,
+      "categories": {
+        "国内": 3,
+        "スポーツ": 1,
+        "海外": 2,
+        "社会": 2,
+        "科学": 1
+      }
+    },
     {
       "id": "2026-11-14-12",
       "path": "data/editions/2026-11-14-12.json",
