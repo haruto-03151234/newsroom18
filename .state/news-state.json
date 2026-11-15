@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-14T18:00:00+09:00",
-  "lastCompletedEdition": "2026-11-14-18",
+  "lastCompletedEnd": "2026-11-15T06:00:00+09:00",
+  "lastCompletedEdition": "2026-11-15-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -26794,7 +26794,112 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261114de75823"
       ]
+    },
+    {
+      "editionId": "2026-11-15-06",
+      "title": "和歌山県気象解説情報落雷・突風",
+      "publishedAt": "2026-11-15T05:50:07+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261114205007_0_VPFJ50_300000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-06",
+      "title": "東京都気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-15T05:31:50+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261114203151_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-06",
+      "title": "鹿児島県奄美地方を除く気象解説情報落雷・突風",
+      "publishedAt": "2026-11-15T05:02:18+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261114200218_0_VPFJ50_460040.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261114200307_0_VPFJ50_460100.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-06",
+      "title": "宮古島地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-15T04:42:06+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261114194206_0_VPFJ50_473000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-06",
+      "title": "米中関税引き下げのための貿易委員会初会合開く",
+      "publishedAt": "2026-11-15T05:45:34+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261114de75960"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-06",
+      "title": "ラグビー日本代表イングランドに13トライ奪われ大敗詳報",
+      "publishedAt": "2026-11-15T05:29:22+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261114de75976"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-06",
+      "title": "asean首脳会議開幕へトランプ大統領のアジアへの姿勢にも注目",
+      "publishedAt": "2026-11-15T05:12:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261114de75995"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-06",
+      "title": "81年後に明らかになった硫黄島からの手紙奪われた家族の日常",
+      "publishedAt": "2026-11-15T05:01:11+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261112/k00/00m/040/137000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-06",
+      "title": "松尾貴史のちょっと違和感",
+      "publishedAt": "2026-11-15T02:23:18+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261115/ddm/012/070/007000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-06",
+      "title": "今週のnhk連続テレビ小説",
+      "publishedAt": "2026-11-15T02:00:39+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261115/ddm/018/200/018000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-06",
+      "title": "尺玉の三冠王ら11社が競い咲かせた晩秋の華徳島・にし阿波の花火",
+      "publishedAt": "2026-11-14T21:37:28+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCF34M7VCFPIHB011M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-06",
+      "title": "森保ジャパンがブラジルに雪辱w杯以来の対戦坂元が決勝ゴール",
+      "publishedAt": "2026-11-14T21:33:57+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCG42RFVCGUTQP01NM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-06",
+      "title": "桑木志帆年間女王へガンガン攻めたい自己ベストで首位に浮上",
+      "publishedAt": "2026-11-14T21:18:19+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCG40ZGVCGUTQP00NM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-11-15T00:31:12.191935+09:00"
+  "updatedAt": "2026-11-15T09:27:44.556488+09:00"
 }
