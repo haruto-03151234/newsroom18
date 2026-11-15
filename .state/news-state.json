@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-15T06:00:00+09:00",
-  "lastCompletedEdition": "2026-11-15-06",
+  "lastCompletedEnd": "2026-11-15T12:00:00+09:00",
+  "lastCompletedEdition": "2026-11-15-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -26899,7 +26899,89 @@
       "urls": [
         "https://www.asahi.com/articles/ASVCG40ZGVCGUTQP00NM.html"
       ]
+    },
+    {
+      "editionId": "2026-11-15-12",
+      "title": "八重山地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-15T10:25:11+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261115012512_0_VPFJ50_474000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261115023133_0_VPFJ50_473000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-12",
+      "title": "鹿児島県奄美地方を除く気象解説情報落雷・突風",
+      "publishedAt": "2026-11-15T10:18:45+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261115011846_0_VPFJ50_460100.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261115012034_0_VPFJ50_460040.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-12",
+      "title": "熊本県天草・芦北地方で地震m38最大震度3",
+      "publishedAt": "2026-11-15T06:20:50+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261114212050_0_VXSE53_270000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-12",
+      "title": "大阪枚方女児死亡虐待情報も市がことしは母親と面会せず",
+      "publishedAt": "2026-11-15T11:53:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261115de76074"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-12",
+      "title": "アメリカ空港で欠航や遅延トラブル当局15日中に正常化へ",
+      "publishedAt": "2026-11-15T11:48:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261115de76032"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-12",
+      "title": "3歳児のあざ50カ所以上娘を殴るの見た虐待長期間続いたか",
+      "publishedAt": "2026-11-15T11:35:02+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCH0RFLVCHPTIL001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-12",
+      "title": "バングラデシュ高官copで域内協力提唱災害は国境を問わない",
+      "publishedAt": "2026-11-15T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCF4QZFVCFUHBI01FM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-12",
+      "title": "遺産相続の主導権狙うきょうだい間の親の囲い込み使い込みも",
+      "publishedAt": "2026-11-15T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC411ZXVC4ULLI005M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-12",
+      "title": "大相撲九州場所中日8日目の見どころ早くも大関どうしの対決",
+      "publishedAt": "2026-11-15T07:42:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261114de75994"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-12",
+      "title": "nvidiaフアン前ceoの復帰求める署名が11万人超マスク氏らも賛同米議会は追及継続",
+      "publishedAt": "2026-11-15T07:15:24+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/15/2000003207"
+      ]
     }
   ],
-  "updatedAt": "2026-11-15T09:27:44.556488+09:00"
+  "updatedAt": "2026-11-15T19:12:44.178119+09:00"
 }
