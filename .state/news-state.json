@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-15T12:00:00+09:00",
-  "lastCompletedEdition": "2026-11-15-12",
+  "lastCompletedEnd": "2026-11-15T18:00:00+09:00",
+  "lastCompletedEdition": "2026-11-15-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -26981,7 +26981,73 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2611/15/2000003207"
       ]
+    },
+    {
+      "editionId": "2026-11-15-18",
+      "title": "東京都気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-15T16:30:28+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261115073029_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-18",
+      "title": "沖縄地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-15T12:47:33+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261115034734_0_VPFJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261115070648_0_VPCJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261115070822_0_VPFJ50_472000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-18",
+      "title": "福岡市のホームページ閲覧不能に市長選の投開票日原因は不明",
+      "publishedAt": "2026-11-15T17:00:06+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCH2HMVVCHTIPE009M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-18",
+      "title": "スペースxの大型宇宙船地球周回後の発射台キャッチに初成功",
+      "publishedAt": "2026-11-15T16:48:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261115de76047"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-18",
+      "title": "堀越と帝京が全国選手権出場を決める高校サッカー東京大会決勝",
+      "publishedAt": "2026-11-15T16:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCH24FKVCHOXIE00HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-18",
+      "title": "フィギュアgpアメリカ中井亜美が今季世界最高得点で首位発進",
+      "publishedAt": "2026-11-15T15:12:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261115de76124"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-18",
+      "title": "男子ゴルフ国内ツアー最終ラウンド中止で今平周吾が優勝",
+      "publishedAt": "2026-11-15T14:49:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261115de76129"
+      ]
+    },
+    {
+      "editionId": "2026-11-15-18",
+      "title": "ボイジャー1号地球から1光日に到達へ人工物で最遠今も交信中",
+      "publishedAt": "2026-11-15T12:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCD2FL5VCDDIFI008M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-11-15T19:12:44.178119+09:00"
+  "updatedAt": "2026-11-16T01:02:57.486657+09:00"
 }
