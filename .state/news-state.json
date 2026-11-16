@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-16T06:00:00+09:00",
-  "lastCompletedEdition": "2026-11-16-06",
+  "lastCompletedEnd": "2026-11-16T12:00:00+09:00",
+  "lastCompletedEdition": "2026-11-16-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -27127,7 +27127,104 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261115de76267"
       ]
+    },
+    {
+      "editionId": "2026-11-16-12",
+      "title": "鹿児島県奄美地方を除く気象解説情報落雷・突風",
+      "publishedAt": "2026-11-16T10:57:26+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261116015726_0_VPFJ50_460100.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261116015728_0_VPFJ50_460040.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-12",
+      "title": "九州南部・奄美地方気象解説情報落雷・突風",
+      "publishedAt": "2026-11-16T10:50:14+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261116015015_0_VPCJ50_460100.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-12",
+      "title": "八重山地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-16T09:57:31+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261116005732_0_VPFJ50_474000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-12",
+      "title": "マネックス証券免許証画像やマイナカード表面など1592件漏えいか口座開設システムに不正アクセス",
+      "publishedAt": "2026-11-16T11:46:01+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/16/2000003222"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-12",
+      "title": "nba八村塁4得点にとどまるもチームは今季初の連勝",
+      "publishedAt": "2026-11-16T11:28:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76392"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-12",
+      "title": "艦これアーケードオンゲキなど一部再開不正アクセスで停止のセガ系システムが試験復旧",
+      "publishedAt": "2026-11-16T11:26:04+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/16/2000003220"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-12",
+      "title": "女子ゴルフ米ツアー最終r吉田優利13アンダー3位岩井明愛8位",
+      "publishedAt": "2026-11-16T11:18:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76357"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-12",
+      "title": "占領下のウクライナで続く住民のロシア化政策その実態とは",
+      "publishedAt": "2026-11-16T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCD2R3XVCDUHBI00VM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-12",
+      "title": "世界のお巡りさんコンサート",
+      "publishedAt": "2026-11-16T10:51:18+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261116/ddm/041/040/074000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-12",
+      "title": "高市首相東南アジアなどと先端技術分野で共同研究提案へ",
+      "publishedAt": "2026-11-16T10:47:34+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261115de76245"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-12",
+      "title": "エンジニア転職のpaiza最大90万件の個人情報漏えいのおそれ退職者などアクセス可能な状態約13年続く",
+      "publishedAt": "2026-11-16T10:14:23+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/16/2000003215"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-12",
+      "title": "被災地の住宅ホテルにもアジア大会のコンテナ宿泊施設を再利用へ",
+      "publishedAt": "2026-11-16T05:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCF1SWYVCFOIPE003M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-11-16T09:29:29.119785+09:00"
+  "updatedAt": "2026-11-16T19:24:14.829745+09:00"
 }
