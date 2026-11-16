@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-16T12:00:00+09:00",
-  "lastCompletedEdition": "2026-11-16-12",
+  "lastCompletedEnd": "2026-11-16T18:00:00+09:00",
+  "lastCompletedEdition": "2026-11-16-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -27224,7 +27224,137 @@
       "urls": [
         "https://www.asahi.com/articles/ASVCF1SWYVCFOIPE003M.html"
       ]
+    },
+    {
+      "editionId": "2026-11-16-18",
+      "title": "インドの危険情報一部地域の危険レベル引下げ",
+      "publishedAt": "2026-11-16T17:00:39+09:00",
+      "urls": [
+        "https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2026T099.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-18",
+      "title": "欧米等でのテロ等に関する注意喚起",
+      "publishedAt": "2026-11-16T16:53:24+09:00",
+      "urls": [
+        "https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2026C053.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-18",
+      "title": "沖縄地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-16T16:17:48+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261116071749_0_VPFJ50_474000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261116072225_0_VPFJ50_473000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261116074608_0_VPCJ50_471000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-18",
+      "title": "火山名桜島火山の状況に関する解説情報",
+      "publishedAt": "2026-11-16T16:00:30+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261116070030_0_VFVO51_400000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-18",
+      "title": "どこからが危険運転改正された法律と運転のルール",
+      "publishedAt": "2026-11-16T11:00:00+09:00",
+      "urls": [
+        "https://www.gov-online.go.jp/article/202611/radio-3833.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-18",
+      "title": "上智大元学長石澤良昭さん死去アンコール遺跡群研究の第一人者",
+      "publishedAt": "2026-11-16T17:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCJ2QDHVCJUCVL01HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-18",
+      "title": "中日工藤監督選手の思い聞けた秋のキャンプ打ち上げ",
+      "publishedAt": "2026-11-16T17:20:26+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76591"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-18",
+      "title": "理研のスパコン富岳に不正アクセス稼働停止して状況確認",
+      "publishedAt": "2026-11-16T17:17:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76603"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-18",
+      "title": "中国・asean首脳会議中国は経済・貿易分野の協力推進呼びかけ",
+      "publishedAt": "2026-11-16T17:13:32+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76642"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-18",
+      "title": "ドコモまた5gsaで通信障害今月3回目復旧",
+      "publishedAt": "2026-11-16T16:52:17+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/16/2000003218"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-18",
+      "title": "ドコモ5gsa今月3度目の障害約6時間で復旧原因は同じ交換機への通信集中",
+      "publishedAt": "2026-11-16T16:46:10+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/16/2000003233"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-18",
+      "title": "大阪府の行政オンラインシステム利用者メルアド10万8千件流出",
+      "publishedAt": "2026-11-16T16:36:14+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCJ2DB3VCJOXIE02GM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-18",
+      "title": "公共放送の独立性に懸念受信料廃止の政府方針でチェコで抗議デモ",
+      "publishedAt": "2026-11-16T16:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCJ05G1VCJSFVU2DJM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-18",
+      "title": "マッチングアプリタップル緊急メンテで停止待ち合わせしてるのに連絡取れないユーザー困惑",
+      "publishedAt": "2026-11-16T15:55:27+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/16/2000003230"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-18",
+      "title": "トーク良い曲だって信じてるqueserser新アルバム城田優はaの上に点",
+      "publishedAt": "2026-11-16T14:28:26+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261116/dde/012/200/009000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-18",
+      "title": "バラライカ奏者北川翔さんデビュー20周年哀愁の音色に平和を込めて",
+      "publishedAt": "2026-11-16T14:04:56+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261116/dde/018/200/008000c"
+      ]
     }
   ],
-  "updatedAt": "2026-11-16T19:24:14.829745+09:00"
+  "updatedAt": "2026-11-17T04:14:21.752510+09:00"
 }
