@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-15T18:00:00+09:00",
-  "lastCompletedEdition": "2026-11-15-18",
+  "lastCompletedEnd": "2026-11-16T06:00:00+09:00",
+  "lastCompletedEdition": "2026-11-16-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -27047,7 +27047,87 @@
       "urls": [
         "https://www.asahi.com/articles/ASVCD2FL5VCDDIFI008M.html"
       ]
+    },
+    {
+      "editionId": "2026-11-16-06",
+      "title": "東京都気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-15T22:50:27+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261115135028_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-06",
+      "title": "大相撲九州場所9日目見どころ熱海富士が横綱豊昇龍に挑む",
+      "publishedAt": "2026-11-16T05:57:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261115de76287"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-06",
+      "title": "脳男で江戸川乱歩賞・首藤瓜於さん28日にお別れ会栃木",
+      "publishedAt": "2026-11-16T05:45:10+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261114/k00/00m/310/020000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-06",
+      "title": "エストニアロシアとの国境を封鎖へドローン施設への爆破未遂受け",
+      "publishedAt": "2026-11-16T05:38:55+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCH6TC0VCHUHBI026M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-06",
+      "title": "物価考教科書はメルカリでシンママなげく物価高家計の耐久力限界",
+      "publishedAt": "2026-11-16T05:30:16+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261115/k00/00m/020/066000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-06",
+      "title": "大阪枚方3歳女児死亡父親が約1時間断続的に暴行か",
+      "publishedAt": "2026-11-16T05:26:58+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261115de76282"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-06",
+      "title": "忘れ得ぬひげの市長とホームドクター雲仙・普賢岳追悼展",
+      "publishedAt": "2026-11-16T05:15:10+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261115/k00/00m/310/069000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-06",
+      "title": "完成した首里城正殿内部を公開最新研究でよみがえった首里城の色彩",
+      "publishedAt": "2026-11-16T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCC2PCSVCCTPOB001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-06",
+      "title": "元ジャンポケ斉藤被告判決へ性行為同意あると思ったどう判断",
+      "publishedAt": "2026-11-16T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCD2H8BVCDUTIL005M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-16-06",
+      "title": "高専ロボコン全国大会雑巾投げでロボット技術など競う",
+      "publishedAt": "2026-11-15T21:23:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261115de76267"
+      ]
     }
   ],
-  "updatedAt": "2026-11-16T01:02:57.486657+09:00"
+  "updatedAt": "2026-11-16T09:29:29.119785+09:00"
 }

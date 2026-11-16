@@ -1,0 +1,756 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-11-16T09:29:29.119785+09:00",
+  "summary": "対象時間帯の4配信元のニュースを10本に整理しました。うち重要ニュースは1本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-11-16-06",
+    "date": "2026-11-16",
+    "slot": "06:00",
+    "label": "朝6時版"
+  },
+  "coverage": {
+    "from": "2026-11-15T18:00:00+09:00",
+    "to": "2026-11-16T06:00:00+09:00",
+    "start": "2026-11-15T18:00:00+09:00",
+    "end": "2026-11-16T06:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "11月15日 18:00〜11月16日 06:00"
+  },
+  "stats": {
+    "articleCount": 10,
+    "categoryCounts": {
+      "国内": 3,
+      "スポーツ": 1,
+      "海外": 1,
+      "経済": 1,
+      "社会": 2,
+      "エンタメ": 1,
+      "テクノロジー": 1
+    },
+    "sourceCount": 10,
+    "publisherCount": 4,
+    "publisherCounts": {
+      "asahi": 3,
+      "jma": 1,
+      "mainichi": 3,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 1,
+      "brief": 9
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories"
+  ],
+  "articles": [
+    {
+      "id": "6da238b244454226",
+      "slug": "2026-11-16-06-6da238b2",
+      "publishedAt": "2026-11-15T22:50:27+09:00",
+      "updatedAt": "2026-11-16T09:29:29.119785+09:00",
+      "title": "東京都気象解説情報（落雷・突風・降ひょう）",
+      "dek": "11月15日 22:50更新。伊豆諸島南部では16日未明にかけて、大気の状態が非常に不安定となるでしょう。",
+      "summary": "伊豆諸島南部では16日未明にかけて、大気の状態が非常に不安定となるでしょう。落雷や竜巻などの激しい突風、急な強い雨、降ひょうに注意してください。[気象概況] 伊豆諸島を前線が通過しています。伊豆諸島南部では、前線に流れ込む暖かく湿った空気の影響で、16日未明にかけて大気の状態が非常に不安定となるでしょう。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "東京都気象解説情報落雷突風降ひょう"
+      ],
+      "facts": [
+        "伊豆諸島南部では16日未明にかけて、大気の状態が非常に不安定となるでしょう。",
+        "[気象概況] 伊豆諸島を前線が通過しています。",
+        "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど安全確保に努めてください。"
+      ],
+      "impactPoints": [
+        "落雷や竜巻などの激しい突風、急な強い雨、降ひょうに注意してください。",
+        "伊豆諸島南部では、前線に流れ込む暖かく湿った空気の影響で、16日未明にかけて大気の状態が非常に不安定となるでしょう。",
+        "[防災事項] 伊豆諸島南部では16日未明にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "これで、「東京都気象解説情報(落雷・突風・降ひょう)」は終了します。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "また、降ひょうのおそれもありますので、農作物や農業施設の管理にも注意してください。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。"
+      ],
+      "body": [
+        "伊豆諸島南部では16日未明にかけて、大気の状態が非常に不安定となるでしょう。落雷や竜巻などの激しい突風、急な強い雨、降ひょうに注意してください。[気象概況] 伊豆諸島を前線が通過しています。伊豆諸島南部では、前線に流れ込む暖かく湿った空気の影響で、16日未明にかけて大気の状態が非常に不安定となるでしょう。",
+        "[防災事項] 伊豆諸島南部では16日未明にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "これで、「東京都気象解説情報(落雷・突風・降ひょう)」は終了します。",
+        "また、降ひょうのおそれもありますので、農作物や農業施設の管理にも注意してください。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "伊豆諸島南部では16日未明にかけて、大気の状態が非常に不安定となるでしょう。",
+            "[気象概況] 伊豆諸島を前線が通過しています。",
+            "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど安全確保に努めてください。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "落雷や竜巻などの激しい突風、急な強い雨、降ひょうに注意してください。",
+            "伊豆諸島南部では、前線に流れ込む暖かく湿った空気の影響で、16日未明にかけて大気の状態が非常に不安定となるでしょう。",
+            "[防災事項] 伊豆諸島南部では16日未明にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+            "これで、「東京都気象解説情報(落雷・突風・降ひょう)」は終了します。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "また、降ひょうのおそれもありますので、農作物や農業施設の管理にも注意してください。",
+            "[補足事項] 今後発表する防災気象情報に留意してください。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-15T22:50:27+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-11-16T09:29:29.119785+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "東京都気象解説情報（落雷・突風・降ひょう）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261115135028_0_VPFJ50_130000.xml",
+              "publishedAt": "2026-11-15T22:50:27+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-15T22:50:27+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "448abd36af52b3e5",
+      "slug": "2026-11-16-06-448abd36",
+      "publishedAt": "2026-11-16T05:57:00+09:00",
+      "updatedAt": "2026-11-16T09:29:29.119785+09:00",
+      "title": "大相撲九州場所9日目見どころ 熱海富士が横綱 豊昇龍に挑む",
+      "dek": "大相撲九州場所は9日目、後半戦に入ります。",
+      "summary": "大相撲九州場所は9日目、後半戦に入ります。 1敗でトップに並ぶ関脇・熱海富士は、横綱・豊昇龍に挑みます。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "大相撲九州場所は9日目、後半戦に入ります。",
+        "1敗でトップに並ぶ関脇・熱海富士は、横綱・豊昇龍に挑みます。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "大相撲九州場所は9日目、後半戦に入ります。 1敗でトップに並ぶ関脇・熱海富士は、横綱・豊昇龍に挑みます。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "大相撲九州場所は9日目、後半戦に入ります。",
+            "1敗でトップに並ぶ関脇・熱海富士は、横綱・豊昇龍に挑みます。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-16T05:57:00+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-11-16T09:29:29.119785+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "大相撲九州場所9日目見どころ 熱海富士が横綱 豊昇龍に挑む",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261115de76287",
+              "publishedAt": "2026-11-16T05:57:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-16T05:57:00+09:00",
+          "keyPoints": [
+            "大相撲九州場所は9日目、後半戦に入ります。1敗でトップに並ぶ関脇・熱海富士は、横綱・豊昇龍に挑みます。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "ba096a69bcae4b64",
+      "slug": "2026-11-16-06-ba096a69",
+      "publishedAt": "2026-11-16T05:45:10+09:00",
+      "updatedAt": "2026-11-16T09:29:29.119785+09:00",
+      "title": "「脳男」で江戸川乱歩賞・首藤瓜於さん、28日にお別れ会 栃木",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-16T05:45:10+09:00",
+          "text": "毎日新聞 ニュース速報の公開情報を確認",
+          "source": "毎日新聞 ニュース速報"
+        },
+        {
+          "at": "2026-11-16T09:29:29.119785+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 ニュース速報",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "「脳男」で江戸川乱歩賞・首藤瓜於さん、28日にお別れ会 栃木",
+              "url": "https://mainichi.jp/articles/20261114/k00/00m/310/020000c",
+              "publishedAt": "2026-11-16T05:45:10+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-16T05:45:10+09:00",
+          "keyPoints": [
+            "「脳男」で江戸川乱歩賞・首藤瓜於さん、28日にお別れ会 栃木"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "0c86b9c282a39f0b",
+      "slug": "2026-11-16-06-0c86b9c2",
+      "publishedAt": "2026-11-16T05:38:55+09:00",
+      "updatedAt": "2026-11-16T09:29:29.119785+09:00",
+      "title": "エストニア、ロシアとの国境を封鎖へ ドローン施設への爆破未遂受け",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-16T05:38:55+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-16T09:29:29.119785+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "エストニア、ロシアとの国境を封鎖へ ドローン施設への爆破未遂受け",
+              "url": "https://www.asahi.com/articles/ASVCH6TC0VCHUHBI026M.html",
+              "publishedAt": "2026-11-16T05:38:55+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-16T05:38:55+09:00",
+          "keyPoints": [
+            "エストニア、ロシアとの国境を封鎖へ ドローン施設への爆破未遂受け"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "32e6cf54f56be522",
+      "slug": "2026-11-16-06-32e6cf54",
+      "publishedAt": "2026-11-16T05:30:16+09:00",
+      "updatedAt": "2026-11-16T09:29:29.119785+09:00",
+      "title": "物価考:「教科書はメルカリで」シンママなげく物価高 家計の耐久力限界",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-16T05:30:16+09:00",
+          "text": "毎日新聞 ニュース速報の公開情報を確認",
+          "source": "毎日新聞 ニュース速報"
+        },
+        {
+          "at": "2026-11-16T09:29:29.119785+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 ニュース速報",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "物価考:「教科書はメルカリで」シンママなげく物価高 家計の耐久力限界",
+              "url": "https://mainichi.jp/articles/20261115/k00/00m/020/066000c",
+              "publishedAt": "2026-11-16T05:30:16+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-16T05:30:16+09:00",
+          "keyPoints": [
+            "物価考:「教科書はメルカリで」シンママなげく物価高 家計の耐久力限界"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "f10b723d09d5b65a",
+      "slug": "2026-11-16-06-f10b723d",
+      "publishedAt": "2026-11-16T05:26:58+09:00",
+      "updatedAt": "2026-11-16T09:29:29.119785+09:00",
+      "title": "大阪 枚方 3歳女児死亡 父親が約1時間断続的に暴行か",
+      "dek": "大阪・枚方市で3歳の女の子が死亡し両親が逮捕された事件で、父親がおよそ1時間、断続的に暴行を加えたとみられることが警察への取材で分かりました。",
+      "summary": "大阪・枚方市で3歳の女の子が死亡し両親が逮捕された事件で、父親がおよそ1時間、断続的に暴行を加えたとみられることが警察への取材で分かりました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "大阪・枚方市で3歳の女の子が死亡し両親が逮捕された事件で、父親がおよそ1時間、断続的に暴行を加えたとみられることが警察への取材で分かりました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "大阪・枚方市で3歳の女の子が死亡し両親が逮捕された事件で、父親がおよそ1時間、断続的に暴行を加えたとみられることが警察への取材で分かりました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "大阪・枚方市で3歳の女の子が死亡し両親が逮捕された事件で、父親がおよそ1時間、断続的に暴行を加えたとみられることが警察への取材で分かりました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-16T05:26:58+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
+        },
+        {
+          "at": "2026-11-16T09:29:29.119785+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "大阪 枚方 3歳女児死亡 父親が約1時間断続的に暴行か",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261115de76282",
+              "publishedAt": "2026-11-16T05:26:58+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-16T05:26:58+09:00",
+          "keyPoints": [
+            "大阪・枚方市で3歳の女の子が死亡し両親が逮捕された事件で、父親がおよそ1時間、断続的に暴行を加えたとみられることが警察への取材で分かりました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "16ed76dac09b7d07",
+      "slug": "2026-11-16-06-16ed76da",
+      "publishedAt": "2026-11-16T05:15:10+09:00",
+      "updatedAt": "2026-11-16T09:29:29.119785+09:00",
+      "title": "忘れ得ぬひげの市長と「ホームドクター」 雲仙・普賢岳追悼展",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-16T05:15:10+09:00",
+          "text": "毎日新聞 ニュース速報の公開情報を確認",
+          "source": "毎日新聞 ニュース速報"
+        },
+        {
+          "at": "2026-11-16T09:29:29.119785+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 ニュース速報",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "忘れ得ぬひげの市長と「ホームドクター」 雲仙・普賢岳追悼展",
+              "url": "https://mainichi.jp/articles/20261115/k00/00m/310/069000c",
+              "publishedAt": "2026-11-16T05:15:10+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-16T05:15:10+09:00",
+          "keyPoints": [
+            "忘れ得ぬひげの市長と「ホームドクター」 雲仙・普賢岳追悼展"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "f1f04edff2757673",
+      "slug": "2026-11-16-06-f1f04edf",
+      "publishedAt": "2026-11-16T05:00:00+09:00",
+      "updatedAt": "2026-11-16T09:29:29.119785+09:00",
+      "title": "完成した首里城正殿内部を公開 最新研究でよみがえった首里城の色彩",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-16T05:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-16T09:29:29.119785+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "完成した首里城正殿内部を公開 最新研究でよみがえった首里城の色彩",
+              "url": "https://www.asahi.com/articles/ASVCC2PCSVCCTPOB001M.html",
+              "publishedAt": "2026-11-16T05:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-16T05:00:00+09:00",
+          "keyPoints": [
+            "完成した首里城正殿内部を公開 最新研究でよみがえった首里城の色彩"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "c714b659deefcd64",
+      "slug": "2026-11-16-06-c714b659",
+      "publishedAt": "2026-11-16T05:00:00+09:00",
+      "updatedAt": "2026-11-16T09:29:29.119785+09:00",
+      "title": "元ジャンポケ斉藤被告、判決へ 性行為「同意あると思った」どう判断",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-16T05:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-16T09:29:29.119785+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "元ジャンポケ斉藤被告、判決へ 性行為「同意あると思った」どう判断",
+              "url": "https://www.asahi.com/articles/ASVCD2H8BVCDUTIL005M.html",
+              "publishedAt": "2026-11-16T05:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-16T05:00:00+09:00",
+          "keyPoints": [
+            "元ジャンポケ斉藤被告、判決へ 性行為「同意あると思った」どう判断"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "85c47a7ec5c8257c",
+      "slug": "2026-11-16-06-85c47a7e",
+      "publishedAt": "2026-11-15T21:23:00+09:00",
+      "updatedAt": "2026-11-16T09:29:29.119785+09:00",
+      "title": "「高専ロボコン」全国大会“雑巾投げ”でロボット技術など競う",
+      "dek": "「全国高等専門学校ロボットコンテスト」が15日、都内で開かれ、学生たちが自作したロボットを操作して雑巾を投げ合い、アイデアや技術力を競いました。",
+      "summary": "「全国高等専門学校ロボットコンテスト」が15日、都内で開かれ、学生たちが自作したロボットを操作して雑巾を投げ合い、アイデアや技術力を競いました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "「全国高等専門学校ロボットコンテスト」が15日、都内で開かれ、学生たちが自作したロボットを操作して雑巾を投げ合い、アイデアや技術力を競いました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "「全国高等専門学校ロボットコンテスト」が15日、都内で開かれ、学生たちが自作したロボットを操作して雑巾を投げ合い、アイデアや技術力を競いました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "「全国高等専門学校ロボットコンテスト」が15日、都内で開かれ、学生たちが自作したロボットを操作して雑巾を投げ合い、アイデアや技術力を競いました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-15T21:23:00+09:00",
+          "text": "NHK ONE 科学・文化の公開情報を確認",
+          "source": "NHK ONE 科学・文化"
+        },
+        {
+          "at": "2026-11-16T09:29:29.119785+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 科学・文化",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "「高専ロボコン」全国大会“雑巾投げ”でロボット技術など競う",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261115de76267",
+              "publishedAt": "2026-11-15T21:23:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-15T21:23:00+09:00",
+          "keyPoints": [
+            "「全国高等専門学校ロボットコンテスト」が15日、都内で開かれ、学生たちが自作したロボットを操作して雑巾を投げ合い、アイデアや技術力を競いました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    }
+  ]
+}
