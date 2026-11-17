@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-16T18:00:00+09:00",
-  "lastCompletedEdition": "2026-11-16-18",
+  "lastCompletedEnd": "2026-11-17T06:00:00+09:00",
+  "lastCompletedEdition": "2026-11-17-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -27354,7 +27354,114 @@
       "urls": [
         "https://mainichi.jp/articles/20261116/dde/018/200/008000c"
       ]
+    },
+    {
+      "editionId": "2026-11-17-06",
+      "title": "鹿児島県奄美地方を除く気象解説情報落雷・突風",
+      "publishedAt": "2026-11-17T05:07:09+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261116200710_0_VPFJ50_460040.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261116200910_0_VPFJ50_460100.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-06",
+      "title": "千葉県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-17T05:04:19+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261116200419_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261116200525_0_VPFJ50_450000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261116202016_0_VPFJ50_120000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-06",
+      "title": "和文化シンポジウムを開催",
+      "publishedAt": "2026-11-16T18:30:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousan/tokusan/261116.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-06",
+      "title": "理研のスパコン富岳不正アクセス研究データなど漏えいか",
+      "publishedAt": "2026-11-17T05:44:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de76883"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-06",
+      "title": "クアッド首脳中国動向念頭経済的威圧に深刻懸念表明で調整",
+      "publishedAt": "2026-11-17T05:35:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de76878"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-06",
+      "title": "トランプ氏エヌビディアceoの復帰容認女性のスパイ疑惑認めず",
+      "publishedAt": "2026-11-17T05:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCJ6D8PVCJSFVU370M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-06",
+      "title": "社会全体で備え国民理解促す広報も識者総力戦体制の現代版か",
+      "publishedAt": "2026-11-17T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCJ3TV4VCJUTFK001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-06",
+      "title": "性的暴行元ジャンポケ被告実刑立場の差利用し性加害東京地裁判決",
+      "publishedAt": "2026-11-17T03:37:30+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261117/ddm/041/040/046000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-06",
+      "title": "続・リモコンの片隅から",
+      "publishedAt": "2026-11-17T02:00:43+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261117/ddm/018/200/011000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-06",
+      "title": "aed持って走る警察官東京・中野で女性刺され死亡住民らに不安",
+      "publishedAt": "2026-11-16T23:40:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCJ4RNXVCJUTIL01LM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-06",
+      "title": "google人間の関与なしに脆弱性を見つけて悪用するaiフレームワークを初めて観測gtigのai脅威レポート",
+      "publishedAt": "2026-11-16T23:00:56+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/16/2000003244"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-06",
+      "title": "大相撲九州場所9日目トップ並ぶ熱海富士が横綱豊昇龍を破る",
+      "publishedAt": "2026-11-16T21:20:51+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261116de76589"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-06",
+      "title": "ジェンスン・フアン氏退任はnvidiaバブル崩壊の序章かどうなる今後の半導体業界",
+      "publishedAt": "2026-11-16T18:05:36+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/16/2000003226"
+      ]
     }
   ],
-  "updatedAt": "2026-11-17T04:14:21.752510+09:00"
+  "updatedAt": "2026-11-17T12:15:23.413162+09:00"
 }
