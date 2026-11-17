@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-17T06:00:00+09:00",
-  "lastCompletedEdition": "2026-11-17-06",
+  "lastCompletedEnd": "2026-11-17T12:00:00+09:00",
+  "lastCompletedEdition": "2026-11-17-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -27461,7 +27461,75 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2611/16/2000003226"
       ]
+    },
+    {
+      "editionId": "2026-11-17-12",
+      "title": "九州南部・奄美地方気象解説情報落雷・突風",
+      "publishedAt": "2026-11-17T05:00:59+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261116200100_0_VPCJ50_460100.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261117011111_0_VPCJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261117011129_0_VPFJ50_473000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261117013714_0_VPFJ50_460040.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261117015819_0_VPFJ50_220000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-12",
+      "title": "新ロシア大使に宇山秀樹氏元外務省欧州局長政府が閣議決定",
+      "publishedAt": "2026-11-17T10:49:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de76929"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-12",
+      "title": "openai児童性的虐待コンテンツcsam検出ツールを公開chatgptで探すと24時間アカウント停止の警告も",
+      "publishedAt": "2026-11-17T10:45:02+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/17/2000003254"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-12",
+      "title": "スパコン富岳不正アクセスで運用停止研究データや外部接続用ssh鍵など流出の可能性他システムへの接続試行も確認",
+      "publishedAt": "2026-11-17T10:44:12+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/17/2000003253"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-12",
+      "title": "nttの島田明社長宇宙光通信構想を発表月面インフラや宇宙データセンターの整備も",
+      "publishedAt": "2026-11-17T10:30:57+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/17/2000003252"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-12",
+      "title": "007新ボンド役に英俳優ロバート・パティンソンさん",
+      "publishedAt": "2026-11-17T08:30:45+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de76903"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-12",
+      "title": "aiは諸刃の剣cop31で持続可能な電力利用約束日本見送り",
+      "publishedAt": "2026-11-17T06:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCJ471ZVCJUTFL00KM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-12",
+      "title": "九州場所10日目見どころトップの大の里と熱海富士が直接対決",
+      "publishedAt": "2026-11-17T06:03:16+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de76892"
+      ]
     }
   ],
-  "updatedAt": "2026-11-17T12:15:23.413162+09:00"
+  "updatedAt": "2026-11-17T20:22:23.689744+09:00"
 }

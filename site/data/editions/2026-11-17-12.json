@@ -1,0 +1,688 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-11-17T20:22:23.689744+09:00",
+  "summary": "対象時間帯の4配信元のニュースを8本に整理しました。うち重要ニュースは1本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-11-17-12",
+    "date": "2026-11-17",
+    "slot": "12:00",
+    "label": "昼12時版"
+  },
+  "coverage": {
+    "from": "2026-11-17T06:00:00+09:00",
+    "to": "2026-11-17T12:00:00+09:00",
+    "start": "2026-11-17T06:00:00+09:00",
+    "end": "2026-11-17T12:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "11月17日 06:00〜11月17日 12:00"
+  },
+  "stats": {
+    "articleCount": 8,
+    "categoryCounts": {
+      "国内": 1,
+      "海外": 2,
+      "テクノロジー": 1,
+      "科学": 3,
+      "スポーツ": 1
+    },
+    "sourceCount": 12,
+    "publisherCount": 4,
+    "publisherCounts": {
+      "asahi": 1,
+      "itmedia": 3,
+      "jma": 1,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 1,
+      "brief": 7
+    },
+    "feedFailureCount": 3
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "CISA Cybersecurity Advisories",
+    "農林水産省 報道発表資料"
+  ],
+  "articles": [
+    {
+      "id": "7882c869f2db1255",
+      "slug": "2026-11-17-12-7882c869",
+      "publishedAt": "2026-11-17T05:00:59+09:00",
+      "updatedAt": "2026-11-17T20:22:23.689744+09:00",
+      "title": "九州南部・奄美地方気象解説情報（落雷・突風）",
+      "dek": "11月17日 05:00〜11月17日 10:58更新。奄美地方では17日昼前にかけて、九州南部では17日夕方にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+      "summary": "奄美地方では17日昼前にかけて、九州南部では17日夕方にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。[気象概況] 17日夕方にかけて低気圧が九州南部付近を通過する見込みです。この低気圧に向かって暖かく湿った空気が流れ込み、九州南部・奄美地方では大気の状態が非常に不安定となるでしょう。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "九州南部奄美地方気象解説情報落雷突風"
+      ],
+      "facts": [
+        "この低気圧に向かって暖かく湿った空気が流れ込み、九州南部・奄美地方では大気の状態が非常に不安定となるでしょう。",
+        "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど安全確保に努めてください。",
+        "[気象概況] 東海道沖は気圧の谷となっています。",
+        "静岡県では、気圧の谷や低気圧に向かって南から暖かく湿った空気が流れ込むため、17日夕方から18日明け方にかけて大気の状態が非常に不安定となり、雷を伴った激しい雨の降る所があるでしょう。",
+        "[補足事項] これで、「奄美地方(鹿児島県)気象解説情報」は終了します。",
+        "[気象概況] 発達した雨雲は、宮古島地方の東海上に遠ざかっています。"
+      ],
+      "impactPoints": [
+        "奄美地方では17日昼前にかけて、九州南部では17日夕方にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "[防災事項] 注意事項:落雷、竜巻などの激しい突風、急な強い雨 発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど、安全確保に努めてください。",
+        "大東島地方では、17日は落雷や竜巻などの激しい突風に十分注意してください。",
+        "沖縄本島地方では、17日は発達した積乱雲の下での落雷や突風、急な強い雨に注意してください。",
+        "[防災事項] 大東島地方では、17日は落雷や竜巻などの激しい突風に十分注意してください。",
+        "これで、「沖縄地方気象解説情報(落雷・突風)」は終了します。",
+        "静岡県では、17日夕方から18日明け方にかけて、竜巻などの激しい突風、落雷、急な強い雨に注意してください。",
+        "[防災事項] 竜巻などの激しい突風、落雷、降ひょう、急な強い雨に注意してください。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "[気象概況] 17日夕方にかけて低気圧が九州南部付近を通過する見込みです。",
+        "このため、奄美地方では17日昼前にかけて、九州南部では17日夕方にかけて、局地的に積乱雲が発達し、落雷や竜巻などの激しい突風のおそれがあります。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "次の「九州南部・奄美地方気象解説情報」は、17日16時頃に発表する予定です。",
+        "[気象概況] 大東島地方では、気圧の谷の影響で17日は、大気の状態が非常に不安定となる見込みです。",
+        "今後は、「大東島地方気象解説情報」を参照してください。"
+      ],
+      "body": [
+        "奄美地方では17日昼前にかけて、九州南部では17日夕方にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。[気象概況] 17日夕方にかけて低気圧が九州南部付近を通過する見込みです。この低気圧に向かって暖かく湿った空気が流れ込み、九州南部・奄美地方では大気の状態が非常に不安定となるでしょう。",
+        "[防災事項] 注意事項:落雷、竜巻などの激しい突風、急な強い雨 発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど、安全確保に努めてください。",
+        "大東島地方では、17日は落雷や竜巻などの激しい突風に十分注意してください。",
+        "沖縄本島地方では、17日は発達した積乱雲の下での落雷や突風、急な強い雨に注意してください。",
+        "これで、「沖縄地方気象解説情報(落雷・突風)」は終了します。",
+        "静岡県では、17日夕方から18日明け方にかけて、竜巻などの激しい突風、落雷、急な強い雨に注意してください。",
+        "[防災事項] 竜巻などの激しい突風、落雷、降ひょう、急な強い雨に注意してください。",
+        "このため、奄美地方では17日昼前にかけて、九州南部では17日夕方にかけて、局地的に積乱雲が発達し、落雷や竜巻などの激しい突風のおそれがあります。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "次の「九州南部・奄美地方気象解説情報」は、17日16時頃に発表する予定です。",
+        "[気象概況] 大東島地方では、気圧の谷の影響で17日は、大気の状態が非常に不安定となる見込みです。",
+        "今後は、「大東島地方気象解説情報」を参照してください。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "この低気圧に向かって暖かく湿った空気が流れ込み、九州南部・奄美地方では大気の状態が非常に不安定となるでしょう。",
+            "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど安全確保に努めてください。",
+            "[気象概況] 東海道沖は気圧の谷となっています。",
+            "静岡県では、気圧の谷や低気圧に向かって南から暖かく湿った空気が流れ込むため、17日夕方から18日明け方にかけて大気の状態が非常に不安定となり、雷を伴った激しい雨の降る所があるでしょう。",
+            "[補足事項] これで、「奄美地方(鹿児島県)気象解説情報」は終了します。",
+            "[気象概況] 発達した雨雲は、宮古島地方の東海上に遠ざかっています。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "奄美地方では17日昼前にかけて、九州南部では17日夕方にかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+            "[防災事項] 注意事項:落雷、竜巻などの激しい突風、急な強い雨 発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど、安全確保に努めてください。",
+            "大東島地方では、17日は落雷や竜巻などの激しい突風に十分注意してください。",
+            "沖縄本島地方では、17日は発達した積乱雲の下での落雷や突風、急な強い雨に注意してください。",
+            "[防災事項] 大東島地方では、17日は落雷や竜巻などの激しい突風に十分注意してください。",
+            "これで、「沖縄地方気象解説情報(落雷・突風)」は終了します。",
+            "静岡県では、17日夕方から18日明け方にかけて、竜巻などの激しい突風、落雷、急な強い雨に注意してください。",
+            "[防災事項] 竜巻などの激しい突風、落雷、降ひょう、急な強い雨に注意してください。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "[気象概況] 17日夕方にかけて低気圧が九州南部付近を通過する見込みです。",
+            "このため、奄美地方では17日昼前にかけて、九州南部では17日夕方にかけて、局地的に積乱雲が発達し、落雷や竜巻などの激しい突風のおそれがあります。",
+            "[補足事項] 今後発表する防災気象情報に留意してください。",
+            "次の「九州南部・奄美地方気象解説情報」は、17日16時頃に発表する予定です。",
+            "[気象概況] 大東島地方では、気圧の谷の影響で17日は、大気の状態が非常に不安定となる見込みです。",
+            "今後は、「大東島地方気象解説情報」を参照してください。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-17T10:58:19+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-11-17T20:22:23.689744+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "九州南部・奄美地方気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261116200100_0_VPCJ50_460100.xml",
+              "publishedAt": "2026-11-17T05:00:59+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "沖縄地方気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261117011111_0_VPCJ50_471000.xml",
+              "publishedAt": "2026-11-17T10:11:11+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "宮古島地方気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261117011129_0_VPFJ50_473000.xml",
+              "publishedAt": "2026-11-17T10:11:28+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "奄美地方（鹿児島県）気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261117013714_0_VPFJ50_460040.xml",
+              "publishedAt": "2026-11-17T10:37:13+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "静岡県気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261117015819_0_VPFJ50_220000.xml",
+              "publishedAt": "2026-11-17T10:58:19+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-17T10:58:19+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 5,
+      "freshSourceCount": 5,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "dbafafed1c53fcaf",
+      "slug": "2026-11-17-12-dbafafed",
+      "publishedAt": "2026-11-17T10:49:00+09:00",
+      "updatedAt": "2026-11-17T20:22:23.689744+09:00",
+      "title": "新ロシア大使に宇山秀樹氏 元外務省欧州局長 政府が閣議決定",
+      "dek": "政府は、新しいロシア大使に外務省の欧州局長などを務めた宇山秀樹氏を起用する人事を決定しました。",
+      "summary": "政府は、新しいロシア大使に外務省の欧州局長などを務めた宇山秀樹氏を起用する人事を決定しました。 日ロ間の課題が山積する中、対応にあたることになります。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "政府は、新しいロシア大使に外務省の欧州局長などを務めた宇山秀樹氏を起用する人事を決定しました。",
+        "日ロ間の課題が山積する中、対応にあたることになります。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "政府は、新しいロシア大使に外務省の欧州局長などを務めた宇山秀樹氏を起用する人事を決定しました。 日ロ間の課題が山積する中、対応にあたることになります。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "政府は、新しいロシア大使に外務省の欧州局長などを務めた宇山秀樹氏を起用する人事を決定しました。",
+            "日ロ間の課題が山積する中、対応にあたることになります。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-17T10:49:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-17T20:22:23.689744+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "新ロシア大使に宇山秀樹氏 元外務省欧州局長 政府が閣議決定",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261117de76929",
+              "publishedAt": "2026-11-17T10:49:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-17T10:49:00+09:00",
+          "keyPoints": [
+            "政府は、新しいロシア大使に外務省の欧州局長などを務めた宇山秀樹氏を起用する人事を決定しました。日ロ間の課題が山積する中、対応にあたることになります。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "110a079dd0b22731",
+      "slug": "2026-11-17-12-110a079d",
+      "publishedAt": "2026-11-17T10:45:02+09:00",
+      "updatedAt": "2026-11-17T20:22:23.689744+09:00",
+      "title": "OpenAI、児童性的虐待コンテンツ（CSAM）検出ツールを公開 ChatGPTで探すと24時間アカウント停止の警告も",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-17T10:45:02+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-17T20:22:23.689744+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "OpenAI、児童性的虐待コンテンツ（CSAM）検出ツールを公開 ChatGPTで探すと24時間アカウント停止の警告も",
+              "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003254",
+              "publishedAt": "2026-11-17T10:45:02+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-17T10:45:02+09:00",
+          "keyPoints": [
+            "OpenAI、児童性的虐待コンテンツ（CSAM）検出ツールを公開 ChatGPTで探すと24時間アカウント停止の警告も"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "948d057d729a52ec",
+      "slug": "2026-11-17-12-948d057d",
+      "publishedAt": "2026-11-17T10:44:12+09:00",
+      "updatedAt": "2026-11-17T20:22:23.689744+09:00",
+      "title": "スパコン「富岳」不正アクセスで運用停止 研究データや外部接続用SSH鍵など流出の可能性 他システムへの接続試行も確認",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-17T10:44:12+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-17T20:22:23.689744+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "スパコン「富岳」不正アクセスで運用停止 研究データや外部接続用SSH鍵など流出の可能性 他システムへの接続試行も確認",
+              "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003253",
+              "publishedAt": "2026-11-17T10:44:12+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-17T10:44:12+09:00",
+          "keyPoints": [
+            "スパコン「富岳」不正アクセスで運用停止 研究データや外部接続用SSH鍵など流出の可能性 他システムへの接続試行も確認"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    },
+    {
+      "id": "ff4b50d32f0ae456",
+      "slug": "2026-11-17-12-ff4b50d3",
+      "publishedAt": "2026-11-17T10:30:57+09:00",
+      "updatedAt": "2026-11-17T20:22:23.689744+09:00",
+      "title": "NTTの島田明社長、宇宙光通信構想を発表 月面インフラや宇宙データセンターの整備も",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-17T10:30:57+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-17T20:22:23.689744+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "NTTの島田明社長、宇宙光通信構想を発表 月面インフラや宇宙データセンターの整備も",
+              "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003252",
+              "publishedAt": "2026-11-17T10:30:57+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-17T10:30:57+09:00",
+          "keyPoints": [
+            "NTTの島田明社長、宇宙光通信構想を発表 月面インフラや宇宙データセンターの整備も"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    },
+    {
+      "id": "f7e856e3d66a8356",
+      "slug": "2026-11-17-12-f7e856e3",
+      "publishedAt": "2026-11-17T08:30:45+09:00",
+      "updatedAt": "2026-11-17T20:22:23.689744+09:00",
+      "title": "007新ボンド役に英俳優ロバート・パティンソンさん",
+      "dek": "世界的に人気のスパイ映画「007」シリーズの7代目ジェームズ・ボンド役に、映画「ハリー・ポッターと炎のゴブレット」や「トワイライト」シリーズなどに出演したイギリスの俳優、ロバート・パティンソンさんが選…。",
+      "summary": "世界的に人気のスパイ映画「007」シリーズの7代目ジェームズ・ボンド役に、映画「ハリー・ポッターと炎のゴブレット」や「トワイライト」シリーズなどに出演したイギリスの俳優、ロバート・パティンソンさんが選…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "世界的に人気のスパイ映画「007」シリーズの7代目ジェームズ・ボンド役に、映画「ハリー・ポッターと炎のゴブレット」や「トワイライト」シリーズなどに出演したイギリスの俳優、ロバート・パティンソンさんが選…。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "世界的に人気のスパイ映画「007」シリーズの7代目ジェームズ・ボンド役に、映画「ハリー・ポッターと炎のゴブレット」や「トワイライト」シリーズなどに出演したイギリスの俳優、ロバート・パティンソンさんが選…。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "世界的に人気のスパイ映画「007」シリーズの7代目ジェームズ・ボンド役に、映画「ハリー・ポッターと炎のゴブレット」や「トワイライト」シリーズなどに出演したイギリスの俳優、ロバート・パティンソンさんが選…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-17T08:30:45+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-17T20:22:23.689744+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "007新ボンド役に英俳優ロバート・パティンソンさん",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261117de76903",
+              "publishedAt": "2026-11-17T08:30:45+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-17T08:30:45+09:00",
+          "keyPoints": [
+            "世界的に人気のスパイ映画「007」シリーズの7代目ジェームズ・ボンド役に、映画「ハリー・ポッターと炎のゴブレット」や「トワイライト」シリーズなどに出演したイギリスの俳優、ロバート・パティンソンさんが選…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "8feea0aa2ac7285a",
+      "slug": "2026-11-17-12-8feea0aa",
+      "publishedAt": "2026-11-17T06:30:00+09:00",
+      "updatedAt": "2026-11-17T20:22:23.689744+09:00",
+      "title": "AIは「諸刃の剣」COP31で持続可能な電力利用約束、日本見送り",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-17T06:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-17T20:22:23.689744+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "AIは「諸刃の剣」COP31で持続可能な電力利用約束、日本見送り",
+              "url": "https://www.asahi.com/articles/ASVCJ471ZVCJUTFL00KM.html",
+              "publishedAt": "2026-11-17T06:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-17T06:30:00+09:00",
+          "keyPoints": [
+            "AIは「諸刃の剣」COP31で持続可能な電力利用約束、日本見送り"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    },
+    {
+      "id": "46641dbe6586dece",
+      "slug": "2026-11-17-12-46641dbe",
+      "publishedAt": "2026-11-17T06:03:16+09:00",
+      "updatedAt": "2026-11-17T20:22:23.689744+09:00",
+      "title": "九州場所10日目見どころ トップの大の里と熱海富士が直接対決",
+      "dek": "大相撲九州場所は10日目、ともに1敗でトップに並ぶ横綱・大の里と関脇・熱海富士が直接対決、優勝争いを左右する一番です。",
+      "summary": "大相撲九州場所は10日目、ともに1敗でトップに並ぶ横綱・大の里と関脇・熱海富士が直接対決、優勝争いを左右する一番です。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "大相撲九州場所は10日目、ともに1敗でトップに並ぶ横綱・大の里と関脇・熱海富士が直接対決、優勝争いを左右する一番です。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "大相撲九州場所は10日目、ともに1敗でトップに並ぶ横綱・大の里と関脇・熱海富士が直接対決、優勝争いを左右する一番です。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "大相撲九州場所は10日目、ともに1敗でトップに並ぶ横綱・大の里と関脇・熱海富士が直接対決、優勝争いを左右する一番です。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-17T06:03:16+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-11-17T20:22:23.689744+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "九州場所10日目見どころ トップの大の里と熱海富士が直接対決",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261117de76892",
+              "publishedAt": "2026-11-17T06:03:16+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-17T06:03:16+09:00",
+          "keyPoints": [
+            "大相撲九州場所は10日目、ともに1敗でトップに並ぶ横綱・大の里と関脇・熱海富士が直接対決、優勝争いを左右する一番です。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    }
+  ]
+}
