@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-17T12:00:00+09:00",
-  "lastCompletedEdition": "2026-11-17-12",
+  "lastCompletedEnd": "2026-11-17T18:00:00+09:00",
+  "lastCompletedEdition": "2026-11-17-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -27529,7 +27529,122 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261117de76892"
       ]
+    },
+    {
+      "editionId": "2026-11-17-18",
+      "title": "福井県気象解説情報高波・落雷・突風",
+      "publishedAt": "2026-11-17T16:50:10+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261117075011_0_VPFJ50_160000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261117075422_0_VPFJ50_120000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261117081019_0_VPFJ50_180000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-18",
+      "title": "東京都気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-17T16:26:20+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261117072620_0_VPFJ50_472000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261117073220_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-18",
+      "title": "岐阜のケーキ店火災死亡の会社役員を殺人・放火容疑などで書類送検",
+      "publishedAt": "2026-11-17T17:50:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCK2G5FVCKOIPE004M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-18",
+      "title": "高市首相apecにあわせてプーチン大統領と接触する見通し",
+      "publishedAt": "2026-11-17T17:33:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de77251"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-18",
+      "title": "はやぶさ2の新目標は目隠しで矢を射る難易度jaxaが会見",
+      "publishedAt": "2026-11-17T17:31:57+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCK2RJPVCKUTFL00SM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-18",
+      "title": "米商務省アリス・フアン氏に去年事情聴取関連企業も調査",
+      "publishedAt": "2026-11-17T17:23:04+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de77205"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-18",
+      "title": "東京都水道利用者個人情報871件含むhdd紛失一部に口座番号も10月に同様事案",
+      "publishedAt": "2026-11-17T17:18:24+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/17/2000003270"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-18",
+      "title": "江夏豊さん死去広島カープ初の日本一導く市民は本当のスター",
+      "publishedAt": "2026-11-17T17:10:43+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCK2C03VCKPITB00DM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-18",
+      "title": "メルカリと駿河屋米国で合弁実店舗運営ai活用した査定・価格設定も",
+      "publishedAt": "2026-11-17T16:22:56+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/17/2000003266"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-18",
+      "title": "欧州5か国滞在資格ない移民をルワンダに移送計画反発も",
+      "publishedAt": "2026-11-17T16:04:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de77141"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-18",
+      "title": "ドコモ3度の通信障害大変遺憾と総務相構造的な課題洗い出し求める",
+      "publishedAt": "2026-11-17T15:06:05+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/17/2000003261"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-18",
+      "title": "特集ワイド銀幕でサヨウナラ石川文洋さん生涯青春描いた映画監督が追想",
+      "publishedAt": "2026-11-17T14:16:59+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261117/dde/018/200/011000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-18",
+      "title": "ジェラードン5年耐え優勝キングオブコント",
+      "publishedAt": "2026-11-17T13:55:58+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261117/dde/012/200/002000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-17-18",
+      "title": "フォーカス吉田羊ドラマ会社員宮木英理子役弱さ迷いも人間だから",
+      "publishedAt": "2026-11-17T13:39:16+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261117/dde/012/200/004000c"
+      ]
     }
   ],
-  "updatedAt": "2026-11-17T20:22:23.689744+09:00"
+  "updatedAt": "2026-11-18T03:07:20.694011+09:00"
 }
