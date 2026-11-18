@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-18T06:00:00+09:00",
-  "lastCompletedEdition": "2026-11-18-06",
+  "lastCompletedEnd": "2026-11-18T12:00:00+09:00",
+  "lastCompletedEdition": "2026-11-18-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -27774,7 +27774,72 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261117de77308"
       ]
+    },
+    {
+      "editionId": "2026-11-18-12",
+      "title": "青森県気象解説情報高波・落雷・突風",
+      "publishedAt": "2026-11-18T06:52:50+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261117215250_0_VPFJ50_020000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261117222328_0_VPFJ50_120000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-12",
+      "title": "jins最大約1829万件漏えいの可能性rizapやしまむらもkarte不正アクセスの影響広がる",
+      "publishedAt": "2026-11-18T11:52:31+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/18/2000003287"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-12",
+      "title": "who地域機関アメリカのはしか排除認定を取り消し",
+      "publishedAt": "2026-11-18T11:27:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77539"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-12",
+      "title": "大谷翔平シルバースラッガー賞ならず今季は無冠",
+      "publishedAt": "2026-11-18T11:25:38+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77544"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-12",
+      "title": "ny株式市場ダウ一時1000ドル超値下がりitや金融に売り注文",
+      "publishedAt": "2026-11-18T10:52:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77527"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-12",
+      "title": "口座情報漏えいの楽天証券ワンタイムキー発行に時間がかかっている出金やログインパス変更に必要",
+      "publishedAt": "2026-11-18T10:39:12+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/18/2000003284"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-12",
+      "title": "nvidiaフアン氏退任後初の決算取締役会正式なceoは急がず適任者を選ぶ",
+      "publishedAt": "2026-11-18T09:38:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/18/2000003280"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-12",
+      "title": "先発で抑えで多くの伝説を残した江夏豊さん球界から悼む声",
+      "publishedAt": "2026-11-18T06:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCK4DZ8VCKUTQP01CM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-11-18T11:38:34.770053+09:00"
+  "updatedAt": "2026-11-18T19:55:02.100928+09:00"
 }
