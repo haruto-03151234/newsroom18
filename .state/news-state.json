@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-17T18:00:00+09:00",
-  "lastCompletedEdition": "2026-11-17-18",
+  "lastCompletedEnd": "2026-11-18T06:00:00+09:00",
+  "lastCompletedEdition": "2026-11-18-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -27644,7 +27644,137 @@
       "urls": [
         "https://mainichi.jp/articles/20261117/dde/012/200/004000c"
       ]
+    },
+    {
+      "editionId": "2026-11-18-06",
+      "title": "千葉県レベル4土砂災害危険警報",
+      "publishedAt": "2026-11-18T05:41:50+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261117204152_0_VXWW50_120000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-06",
+      "title": "東京都気象解説情報落雷・突風",
+      "publishedAt": "2026-11-18T05:34:12+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261117203412_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-06",
+      "title": "福井県気象解説情報高波・落雷・突風",
+      "publishedAt": "2026-11-18T02:18:11+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261117171811_0_VPFJ50_120000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261117204644_0_VPFJ50_160000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261117205721_0_VPFJ50_180000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-06",
+      "title": "1歳未満のこどもを育てているかたの国民年金保険料が免除されます手続きはオンラインが便利",
+      "publishedAt": "2026-11-18T00:00:00+09:00",
+      "urls": [
+        "https://www.gov-online.go.jp/article/202611/entry-11750.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-06",
+      "title": "付加保険料月400円で将来の年金額を増やせます",
+      "publishedAt": "2026-11-18T00:00:00+09:00",
+      "urls": [
+        "https://www.gov-online.go.jp/article/202611/entry-11752.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-06",
+      "title": "ロシア米中ロ首脳会談を孤立していないと示す場として重視",
+      "publishedAt": "2026-11-18T05:54:11+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77479"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-06",
+      "title": "住宅密集地の焼け跡は更地に大分・佐賀関火災から1年復興道半ば",
+      "publishedAt": "2026-11-18T04:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCJ3JH8VCJTIPE00GM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-06",
+      "title": "映画007",
+      "publishedAt": "2026-11-18T02:52:54+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261118/ddm/041/200/027000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-06",
+      "title": "nhk連続テレビ小説",
+      "publishedAt": "2026-11-18T02:52:09+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261118/ddm/041/200/042000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-06",
+      "title": "視聴室",
+      "publishedAt": "2026-11-18T02:01:13+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261118/ddm/018/200/010000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-06",
+      "title": "兵庫ポーカー連盟4人逮捕大会無許可開催容疑神戸牛など賞品",
+      "publishedAt": "2026-11-18T01:39:55+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCK56VZVCKPIHB016M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-06",
+      "title": "森保ジャパン有終の美飾れず福田師王が初gもパラグアイに敗戦",
+      "publishedAt": "2026-11-18T00:23:32+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCK52H1VCKUTQP028M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-06",
+      "title": "集客や広告宣伝支援karteに不正アクセス利用企業に影響",
+      "publishedAt": "2026-11-17T23:34:45+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de77106"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-06",
+      "title": "楽天証券に不正アクセス最大1125万口座のidなど漏えいかテスト環境の一部情報が流出のおそれ",
+      "publishedAt": "2026-11-17T19:57:46+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/17/2000003275"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-06",
+      "title": "メルカリgoogleplayストアでアプリが検索・ダウンロードできない状態に",
+      "publishedAt": "2026-11-17T19:31:33+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/17/2000003274"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-06",
+      "title": "はやぶさ2設計寿命超えたエンジン故障で最終目的地を変更",
+      "publishedAt": "2026-11-17T18:52:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261117de77308"
+      ]
     }
   ],
-  "updatedAt": "2026-11-18T03:07:20.694011+09:00"
+  "updatedAt": "2026-11-18T11:38:34.770053+09:00"
 }
