@@ -1,0 +1,1002 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-11-19T02:45:42.363047+09:00",
+  "summary": "対象時間帯の6配信元のニュースを13本に整理しました。うち重要ニュースは2本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-11-18-18",
+    "date": "2026-11-18",
+    "slot": "18:00",
+    "label": "夕方6時版"
+  },
+  "coverage": {
+    "from": "2026-11-18T12:00:00+09:00",
+    "to": "2026-11-18T18:00:00+09:00",
+    "start": "2026-11-18T12:00:00+09:00",
+    "end": "2026-11-18T18:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "11月18日 12:00〜11月18日 18:00"
+  },
+  "stats": {
+    "articleCount": 13,
+    "categoryCounts": {
+      "経済": 1,
+      "国内": 1,
+      "スポーツ": 2,
+      "テクノロジー": 2,
+      "海外": 2,
+      "科学": 2,
+      "エンタメ": 2,
+      "社会": 1
+    },
+    "sourceCount": 14,
+    "publisherCount": 6,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 3,
+      "jma": 1,
+      "maff": 1,
+      "mainichi": 2,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 2,
+      "brief": 11
+    },
+    "feedFailureCount": 2
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース",
+    "農林水産省 報道発表資料"
+  ],
+  "articles": [
+    {
+      "id": "c503b35a759c2700",
+      "slug": "2026-11-18-18-c503b35a",
+      "publishedAt": "2026-11-18T17:00:00+09:00",
+      "updatedAt": "2026-11-19T02:45:42.363047+09:00",
+      "title": "令和8年産米の相対取引価格・数量について（令和8年10月）",
+      "dek": "11月18日 17:00更新。プレスリリース 〇 令和8年産米の令和8年10月の相対取引価格は、対前月+141円(+1%)、対前年同月▲15,624円(▲42%)、対前々年同月▲2,386円(▲10%)の全銘柄平均21,434円/玄米60kg。",
+      "summary": "プレスリリース 〇 令和8年産米の令和8年10月の相対取引価格は、対前月+141円(+1%)、対前年同月▲15,624円(▲42%)、対前々年同月▲2,386円(▲10%)の全銘柄平均21,434円/玄米60kg。令和8年10月の相対取引価格は、全銘柄平均価格で21,434円/玄米60kg、相対取引契約数量は、全銘柄合計で10.4万トンとなっています。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "令和8年産米の相対取引価格数量について令和8年10月"
+      ],
+      "facts": [
+        "プレスリリース 〇 令和8年産米の令和8年10月の相対取引価格は、対前月+141円(+1%)、対前年同月▲15,624円(▲42%)、対前々年同月▲2,386円(▲10%)の全銘柄平均21,434円/玄米60kg。",
+        "令和8年10月の相対取引価格は、全銘柄平均価格で21,434円/玄米60kg、相対取引契約数量は、全銘柄合計で10.4万トンとなっています。",
+        "産地銘柄別の相対取引価格・数量については、添付資料を御参照ください。",
+        "なお、産地品種銘柄ごとの価格は、相対取引契約の価格(運賃、包装代、消費税を含む1等米の価格)を加重平均したものであり、数量は、同契約の数量の合計です。",
+        "また、調査対象業者、取りまとめの区分等については、添付資料の脚注を御参照ください。",
+        "今回、令和8年10月の相対取引価格・数量について、米の出荷販売業者、団体等から報告のあった内容を取りまとめましたので公表します。",
+        "農産局農産政策部企画課 担当者:米流通調査班 代表:03-3502-8111(内線5050) ダイヤルイン:03-3502-8560。"
+      ],
+      "impactPoints": [],
+      "background": "本資料及び過去の調査結果は、当省ホームページから御覧になれます。",
+      "watchPoints": [],
+      "body": [
+        "プレスリリース 〇 令和8年産米の令和8年10月の相対取引価格は、対前月+141円(+1%)、対前年同月▲15,624円(▲42%)、対前々年同月▲2,386円(▲10%)の全銘柄平均21,434円/玄米60kg。令和8年10月の相対取引価格は、全銘柄平均価格で21,434円/玄米60kg、相対取引契約数量は、全銘柄合計で10.4万トンとなっています。",
+        "本資料及び過去の調査結果は、当省ホームページから御覧になれます。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "プレスリリース 〇 令和8年産米の令和8年10月の相対取引価格は、対前月+141円(+1%)、対前年同月▲15,624円(▲42%)、対前々年同月▲2,386円(▲10%)の全銘柄平均21,434円/玄米60kg。",
+            "令和8年10月の相対取引価格は、全銘柄平均価格で21,434円/玄米60kg、相対取引契約数量は、全銘柄合計で10.4万トンとなっています。",
+            "産地銘柄別の相対取引価格・数量については、添付資料を御参照ください。",
+            "なお、産地品種銘柄ごとの価格は、相対取引契約の価格(運賃、包装代、消費税を含む1等米の価格)を加重平均したものであり、数量は、同契約の数量の合計です。",
+            "また、調査対象業者、取りまとめの区分等については、添付資料の脚注を御参照ください。",
+            "今回、令和8年10月の相対取引価格・数量について、米の出荷販売業者、団体等から報告のあった内容を取りまとめましたので公表します。",
+            "農産局農産政策部企画課 担当者:米流通調査班 代表:03-3502-8111(内線5050) ダイヤルイン:03-3502-8560。"
+          ]
+        },
+        {
+          "heading": "背景",
+          "paragraphs": [
+            "本資料及び過去の調査結果は、当省ホームページから御覧になれます。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-18T17:00:00+09:00",
+          "text": "農林水産省 報道発表資料の公開情報を確認",
+          "source": "農林水産省 報道発表資料"
+        },
+        {
+          "at": "2026-11-19T02:45:42.363047+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "農林水産省 報道発表資料",
+          "publisherId": "maff",
+          "links": [
+            {
+              "title": "令和8年産米の相対取引価格・数量について（令和8年10月）",
+              "url": "https://www.maff.go.jp/j/press/nousan/kikaku/261118.html",
+              "publishedAt": "2026-11-18T17:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-18T17:00:00+09:00",
+          "keyPoints": [
+            "農林水産省 報道発表資料の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "b7e94bf488103f4a",
+      "slug": "2026-11-18-18-b7e94bf4",
+      "publishedAt": "2026-11-18T16:45:18+09:00",
+      "updatedAt": "2026-11-19T02:45:42.363047+09:00",
+      "title": "福井県気象解説情報（高波・落雷・突風）",
+      "dek": "11月18日 16:45〜11月18日 17:27更新。嶺北では、19日昼前から夜遅くにかけて高波に警戒してください。",
+      "summary": "嶺北では、19日昼前から夜遅くにかけて高波に警戒してください。福井県では、19日朝から20日にかけて高波に注意・警戒してください。また、落雷や竜巻などの激しい突風、降ひょう、急な強い雨に注意してください。[気象概況] 日本海と太平洋沿岸を進む2つの低気圧が、共に急速に発達しながら北東に進み、19日は、日本付近は冬型の気圧配置が次第に強まり、21日にかけて続く見込みです。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "福井県気象解説情報高波落雷突風"
+      ],
+      "facts": [
+        "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど、安全確保に努めてください。",
+        "このため、津軽の外海では、しけるでしょう。"
+      ],
+      "impactPoints": [
+        "嶺北では、19日昼前から夜遅くにかけて高波に警戒してください。",
+        "福井県では、19日朝から20日にかけて高波に注意・警戒してください。",
+        "また、落雷や竜巻などの激しい突風、降ひょう、急な強い雨に注意してください。",
+        "[波の予想] 19日に予想される波の高さ 嶺北 6メートル 嶺南 5メートル 20日に予想される波の高さ 嶺北 5メートル 嶺南 5メートル [防災事項] 嶺北では、19日昼前から夜遅くにかけて高波に警戒してください。",
+        "また、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "19日夜のはじめ頃から20日にかけて高波に十分注意してください。",
+        "また、青森県では竜巻などの激しい突風や落雷、降ひょうに注意してください。",
+        "また、東北地方は、気圧の谷や上空の寒気の影響により、18日夜から19日にかけて、大気の状態が非常に不安定となるでしょう。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "[気象概況] 日本海と太平洋沿岸を進む2つの低気圧が、共に急速に発達しながら北東に進み、19日は、日本付近は冬型の気圧配置が次第に強まり、21日にかけて続く見込みです。",
+        "北陸地方の上空約5500メートルには氷点下30度以下の寒気が流れ込む見込みです。",
+        "福井県では、20日にかけて海上で強い風が吹き、波が次第に高くなり、19日は大しけとなる所がある見込みです。",
+        "予想より低気圧が発達した場合には警報級の高波となる地域が拡大する可能性があります。",
+        "また、大気の状態が非常に不安定となり、局地的に積乱雲が発達する見込みです。",
+        "ひょうの降るおそれもありますので、農作物や農。"
+      ],
+      "body": [
+        "嶺北では、19日昼前から夜遅くにかけて高波に警戒してください。福井県では、19日朝から20日にかけて高波に注意・警戒してください。また、落雷や竜巻などの激しい突風、降ひょう、急な強い雨に注意してください。[気象概況] 日本海と太平洋沿岸を進む2つの低気圧が、共に急速に発達しながら北東に進み、19日は、日本付近は冬型の気圧配置が次第に強まり、21日にかけて続く見込みです。",
+        "[波の予想] 19日に予想される波の高さ 嶺北 6メートル 嶺南 5メートル 20日に予想される波の高さ 嶺北 5メートル 嶺南 5メートル [防災事項] 嶺北では、19日昼前から夜遅くにかけて高波に警戒してください。",
+        "また、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "19日夜のはじめ頃から20日にかけて高波に十分注意してください。",
+        "また、青森県では竜巻などの激しい突風や落雷、降ひょうに注意してください。",
+        "また、東北地方は、気圧の谷や上空の寒気の影響により、18日夜から19日にかけて、大気の状態が非常に不安定となるでしょう。",
+        "北陸地方の上空約5500メートルには氷点下30度以下の寒気が流れ込む見込みです。",
+        "福井県では、20日にかけて海上で強い風が吹き、波が次第に高くなり、19日は大しけとなる所がある見込みです。",
+        "予想より低気圧が発達した場合には警報級の高波となる地域が拡大する可能性があります。",
+        "また、大気の状態が非常に不安定となり、局地的に積乱雲が発達する見込みです。",
+        "ひょうの降るおそれもありますので、農作物や農。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど、安全確保に努めてください。",
+            "このため、津軽の外海では、しけるでしょう。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "嶺北では、19日昼前から夜遅くにかけて高波に警戒してください。",
+            "福井県では、19日朝から20日にかけて高波に注意・警戒してください。",
+            "また、落雷や竜巻などの激しい突風、降ひょう、急な強い雨に注意してください。",
+            "[波の予想] 19日に予想される波の高さ 嶺北 6メートル 嶺南 5メートル 20日に予想される波の高さ 嶺北 5メートル 嶺南 5メートル [防災事項] 嶺北では、19日昼前から夜遅くにかけて高波に警戒してください。",
+            "また、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+            "19日夜のはじめ頃から20日にかけて高波に十分注意してください。",
+            "また、青森県では竜巻などの激しい突風や落雷、降ひょうに注意してください。",
+            "また、東北地方は、気圧の谷や上空の寒気の影響により、18日夜から19日にかけて、大気の状態が非常に不安定となるでしょう。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "[気象概況] 日本海と太平洋沿岸を進む2つの低気圧が、共に急速に発達しながら北東に進み、19日は、日本付近は冬型の気圧配置が次第に強まり、21日にかけて続く見込みです。",
+            "北陸地方の上空約5500メートルには氷点下30度以下の寒気が流れ込む見込みです。",
+            "福井県では、20日にかけて海上で強い風が吹き、波が次第に高くなり、19日は大しけとなる所がある見込みです。",
+            "予想より低気圧が発達した場合には警報級の高波となる地域が拡大する可能性があります。",
+            "また、大気の状態が非常に不安定となり、局地的に積乱雲が発達する見込みです。",
+            "ひょうの降るおそれもありますので、農作物や農。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-18T17:27:10+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-11-19T02:45:42.363047+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "青森県気象解説情報（高波・落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261118074518_0_VPFJ50_020000.xml",
+              "publishedAt": "2026-11-18T16:45:18+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "福井県気象解説情報（高波・落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261118082711_0_VPFJ50_180000.xml",
+              "publishedAt": "2026-11-18T17:27:10+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-18T17:27:10+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 2,
+      "freshSourceCount": 2,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "1c1a363800c553f0",
+      "slug": "2026-11-18-18-1c1a3638",
+      "publishedAt": "2026-11-18T17:52:00+09:00",
+      "updatedAt": "2026-11-19T02:45:42.363047+09:00",
+      "title": "プロ野球 ピッチクロックを来季から“トライアル”で導入",
+      "dek": "プロ野球のオーナー会議が開かれ、将来的な導入が決まっている投球間の時間制限＝ピッチクロックについて、来シーズンから1軍の試合で、罰則を設けないトライアルという形で導入することになりました。",
+      "summary": "プロ野球のオーナー会議が開かれ、将来的な導入が決まっている投球間の時間制限＝ピッチクロックについて、来シーズンから1軍の試合で、罰則を設けないトライアルという形で導入することになりました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "プロ野球のオーナー会議が開かれ、将来的な導入が決まっている投球間の時間制限＝ピッチクロックについて、来シーズンから1軍の試合で、罰則を設けないトライアルという形で導入することになりました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "プロ野球のオーナー会議が開かれ、将来的な導入が決まっている投球間の時間制限＝ピッチクロックについて、来シーズンから1軍の試合で、罰則を設けないトライアルという形で導入することになりました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "プロ野球のオーナー会議が開かれ、将来的な導入が決まっている投球間の時間制限＝ピッチクロックについて、来シーズンから1軍の試合で、罰則を設けないトライアルという形で導入することになりました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-18T17:52:00+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-11-19T02:45:42.363047+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "プロ野球 ピッチクロックを来季から“トライアル”で導入",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261118de77785",
+              "publishedAt": "2026-11-18T17:52:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-18T17:52:00+09:00",
+          "keyPoints": [
+            "プロ野球のオーナー会議が開かれ、将来的な導入が決まっている投球間の時間制限＝ピッチクロックについて、来シーズンから1軍の試合で、罰則を設けないトライアルという形で導入することになりました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "f0f6e4869e3649d3",
+      "slug": "2026-11-18-18-f0f6e486",
+      "publishedAt": "2026-11-18T17:45:00+09:00",
+      "updatedAt": "2026-11-19T02:45:42.363047+09:00",
+      "title": "阪神優勝パレード、米移籍めざす佐藤選手は不参加 35人が参加へ",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-18T17:45:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-19T02:45:42.363047+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "阪神優勝パレード、米移籍めざす佐藤選手は不参加 35人が参加へ",
+              "url": "https://www.asahi.com/articles/ASVCL2RL6VCLOXIE01WM.html",
+              "publishedAt": "2026-11-18T17:45:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-18T17:45:00+09:00",
+          "keyPoints": [
+            "阪神優勝パレード、米移籍めざす佐藤選手は不参加 35人が参加へ"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "9aac024e7995f3a7",
+      "slug": "2026-11-18-18-9aac024e",
+      "publishedAt": "2026-11-18T17:42:23+09:00",
+      "updatedAt": "2026-11-19T02:45:42.363047+09:00",
+      "title": "日本で最も使われているパスワードは「pass1111」 NordPass調査",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-18T17:42:23+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-19T02:45:42.363047+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "日本で最も使われているパスワードは「pass1111」 NordPass調査",
+              "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003304",
+              "publishedAt": "2026-11-18T17:42:23+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-18T17:42:23+09:00",
+          "keyPoints": [
+            "日本で最も使われているパスワードは「pass1111」 NordPass調査"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "12c78dd1e06f6595",
+      "slug": "2026-11-18-18-12c78dd1",
+      "publishedAt": "2026-11-18T17:36:20+09:00",
+      "updatedAt": "2026-11-19T02:45:42.363047+09:00",
+      "title": "EUの域内生産EV優遇措置を検討 日本の鉄鋼業界から懸念の声",
+      "dek": "EU＝ヨーロッパ連合が域内で生産されたEVへの優遇措置を検討していることについて、日本の鉄鋼業の業界団体からも、EU向けの鉄鋼製品の輸出が大幅に減少するとして影響を懸念する声が上がっています。",
+      "summary": "EU＝ヨーロッパ連合が域内で生産されたEVへの優遇措置を検討していることについて、日本の鉄鋼業の業界団体からも、EU向けの鉄鋼製品の輸出が大幅に減少するとして影響を懸念する声が上がっています。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [
+        "EU＝ヨーロッパ連合が域内で生産されたEVへの優遇措置を検討していることについて、日本の鉄鋼業の業界団体からも、EU向けの鉄鋼製品の輸出が大幅に減少するとして影響を懸念する声が上がっています。"
+      ],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "EU＝ヨーロッパ連合が域内で生産されたEVへの優遇措置を検討していることについて、日本の鉄鋼業の業界団体からも、EU向けの鉄鋼製品の輸出が大幅に減少するとして影響を懸念する声が上がっています。"
+      ],
+      "sections": [
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "EU＝ヨーロッパ連合が域内で生産されたEVへの優遇措置を検討していることについて、日本の鉄鋼業の業界団体からも、EU向けの鉄鋼製品の輸出が大幅に減少するとして影響を懸念する声が上がっています。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-18T17:36:20+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-19T02:45:42.363047+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "EUの域内生産EV優遇措置を検討 日本の鉄鋼業界から懸念の声",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261118de77689",
+              "publishedAt": "2026-11-18T17:36:20+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-18T17:36:20+09:00",
+          "keyPoints": [
+            "EU＝ヨーロッパ連合が域内で生産されたEVへの優遇措置を検討していることについて、日本の鉄鋼業の業界団体からも、EU向けの鉄鋼製品の輸出が大幅に減少するとして影響を懸念する声が上がっています。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "b22a0feb938ddf84",
+      "slug": "2026-11-18-18-b22a0feb",
+      "publishedAt": "2026-11-18T17:00:00+09:00",
+      "updatedAt": "2026-11-19T02:45:42.363047+09:00",
+      "title": "「裾野広げると論文増える」 硤合さん、研究費と人材の充実訴える",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-18T17:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-19T02:45:42.363047+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "「裾野広げると論文増える」 硤合さん、研究費と人材の充実訴える",
+              "url": "https://www.asahi.com/articles/ASVCL1VSDVCLUTFL00JM.html",
+              "publishedAt": "2026-11-18T17:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-18T17:00:00+09:00",
+          "keyPoints": [
+            "「裾野広げると論文増える」 硤合さん、研究費と人材の充実訴える"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    },
+    {
+      "id": "dab1f2797bf1f2c1",
+      "slug": "2026-11-18-18-dab1f279",
+      "publishedAt": "2026-11-18T16:23:00+09:00",
+      "updatedAt": "2026-11-19T02:45:42.363047+09:00",
+      "title": "アメリカ中間選挙 アラスカ州も民主当確 上院で56議席に",
+      "dek": "11月3日に行われたアメリカの中間選挙で、連邦議会上院の最後の1議席をめぐって集計が続いていたアラスカ州の選挙について、AP通信は、野党・民主党で元下院議員のメアリー・ペルトラ氏の当選が確実になったと…。",
+      "summary": "11月3日に行われたアメリカの中間選挙で、連邦議会上院の最後の1議席をめぐって集計が続いていたアラスカ州の選挙について、AP通信は、野党・民主党で元下院議員のメアリー・ペルトラ氏の当選が確実になったと…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "11月3日に行われたアメリカの中間選挙で、連邦議会上院の最後の1議席をめぐって集計が続いていたアラスカ州の選挙について、AP通信は、野党・民主党で元下院議員のメアリー・ペルトラ氏の当選が確実になったと…。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "11月3日に行われたアメリカの中間選挙で、連邦議会上院の最後の1議席をめぐって集計が続いていたアラスカ州の選挙について、AP通信は、野党・民主党で元下院議員のメアリー・ペルトラ氏の当選が確実になったと…。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "11月3日に行われたアメリカの中間選挙で、連邦議会上院の最後の1議席をめぐって集計が続いていたアラスカ州の選挙について、AP通信は、野党・民主党で元下院議員のメアリー・ペルトラ氏の当選が確実になったと…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-18T16:23:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-19T02:45:42.363047+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "アメリカ中間選挙 アラスカ州も民主当確 上院で56議席に",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261118de77720",
+              "publishedAt": "2026-11-18T16:23:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-18T16:23:00+09:00",
+          "keyPoints": [
+            "11月3日に行われたアメリカの中間選挙で、連邦議会上院の最後の1議席をめぐって集計が続いていたアラスカ州の選挙について、AP通信は、野党・民主党で元下院議員のメアリー・ペルトラ氏の当選が確実になったと…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "56f12a14febabbd2",
+      "slug": "2026-11-18-18-56f12a14",
+      "publishedAt": "2026-11-18T15:10:28+09:00",
+      "updatedAt": "2026-11-19T02:45:42.363047+09:00",
+      "title": "AI脅威対処へ新枠組み 重要鉱物やエネルギーで連携 首相、ASEANとの首脳会議出席",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-18T15:10:28+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-19T02:45:42.363047+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "AI脅威対処へ新枠組み 重要鉱物やエネルギーで連携 首相、ASEANとの首脳会議出席",
+              "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003294",
+              "publishedAt": "2026-11-18T15:10:28+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-18T15:10:28+09:00",
+          "keyPoints": [
+            "AI脅威対処へ新枠組み 重要鉱物やエネルギーで連携 首相、ASEANとの首脳会議出席"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "0919335aac7ff6b1",
+      "slug": "2026-11-18-18-0919335a",
+      "publishedAt": "2026-11-18T15:00:00+09:00",
+      "updatedAt": "2026-11-19T02:45:42.363047+09:00",
+      "title": "PTSD、脳調べ無意識に改善 新治療法開発めざし国際研究 ATR",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-18T15:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-19T02:45:42.363047+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "PTSD、脳調べ無意識に改善 新治療法開発めざし国際研究 ATR",
+              "url": "https://www.asahi.com/articles/ASVCK33GQVCKUTFL005M.html",
+              "publishedAt": "2026-11-18T15:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-18T15:00:00+09:00",
+          "keyPoints": [
+            "PTSD、脳調べ無意識に改善 新治療法開発めざし国際研究 ATR"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    },
+    {
+      "id": "10239d821a89fa04",
+      "slug": "2026-11-18-18-10239d82",
+      "publishedAt": "2026-11-18T13:55:47+09:00",
+      "updatedAt": "2026-11-19T02:45:42.363047+09:00",
+      "title": "特薦盤:歌謡曲・ポップス 川崎浩・選",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-18T13:55:47+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-11-19T02:45:42.363047+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "特薦盤:歌謡曲・ポップス 川崎浩・選",
+              "url": "https://mainichi.jp/articles/20261118/dde/012/070/003000c",
+              "publishedAt": "2026-11-18T13:55:47+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-18T13:55:47+09:00",
+          "keyPoints": [
+            "特薦盤:歌謡曲・ポップス 川崎浩・選"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "8e4f338391837110",
+      "slug": "2026-11-18-18-8e4f3383",
+      "publishedAt": "2026-11-18T13:53:46+09:00",
+      "updatedAt": "2026-11-19T02:45:42.363047+09:00",
+      "title": "麻倉未稀が45周年記念アルバム",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-18T13:53:46+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-11-19T02:45:42.363047+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "麻倉未稀が45周年記念アルバム",
+              "url": "https://mainichi.jp/articles/20261118/dde/012/200/005000c",
+              "publishedAt": "2026-11-18T13:53:46+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-18T13:53:46+09:00",
+          "keyPoints": [
+            "麻倉未稀が45周年記念アルバム"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "d3d5b1ac53e3badb",
+      "slug": "2026-11-18-18-d3d5b1ac",
+      "publishedAt": "2026-11-18T12:00:00+09:00",
+      "updatedAt": "2026-11-19T02:45:42.363047+09:00",
+      "title": "未成年の電動モビリティー事故、3カ月ごとに15? 33％増 脳損傷は普通の自転車の2倍 米スタンフォード大が1.3万人分析",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-18T12:00:00+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-19T02:45:42.363047+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "未成年の電動モビリティー事故、3カ月ごとに15?33％増 脳損傷は普通の自転車の2倍 米スタンフォード大が1.3万人分析",
+              "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003265",
+              "publishedAt": "2026-11-18T12:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-18T12:00:00+09:00",
+          "keyPoints": [
+            "未成年の電動モビリティー事故、3カ月ごとに15? 33％増 脳損傷は普通の自転車の2倍 米スタンフォード大が1.3万人分析"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    }
+  ]
+}

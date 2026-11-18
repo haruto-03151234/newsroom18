@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-18T12:00:00+09:00",
-  "lastCompletedEdition": "2026-11-18-12",
+  "lastCompletedEnd": "2026-11-18T18:00:00+09:00",
+  "lastCompletedEdition": "2026-11-18-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -27839,7 +27839,112 @@
       "urls": [
         "https://www.asahi.com/articles/ASVCK4DZ8VCKUTQP01CM.html"
       ]
+    },
+    {
+      "editionId": "2026-11-18-18",
+      "title": "令和8年産米の相対取引価格・数量について令和8年10月",
+      "publishedAt": "2026-11-18T17:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousan/kikaku/261118.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-18",
+      "title": "福井県気象解説情報高波・落雷・突風",
+      "publishedAt": "2026-11-18T16:45:18+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261118074518_0_VPFJ50_020000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261118082711_0_VPFJ50_180000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-18",
+      "title": "プロ野球ピッチクロックを来季からトライアルで導入",
+      "publishedAt": "2026-11-18T17:52:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77785"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-18",
+      "title": "阪神優勝パレード米移籍めざす佐藤選手は不参加35人が参加へ",
+      "publishedAt": "2026-11-18T17:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCL2RL6VCLOXIE01WM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-18",
+      "title": "日本で最も使われているパスワードはpass1111nordpass調査",
+      "publishedAt": "2026-11-18T17:42:23+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/18/2000003304"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-18",
+      "title": "euの域内生産ev優遇措置を検討日本の鉄鋼業界から懸念の声",
+      "publishedAt": "2026-11-18T17:36:20+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77689"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-18",
+      "title": "裾野広げると論文増える硤合さん研究費と人材の充実訴える",
+      "publishedAt": "2026-11-18T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCL1VSDVCLUTFL00JM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-18",
+      "title": "アメリカ中間選挙アラスカ州も民主当確上院で56議席に",
+      "publishedAt": "2026-11-18T16:23:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77720"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-18",
+      "title": "ai脅威対処へ新枠組み重要鉱物やエネルギーで連携首相aseanとの首脳会議出席",
+      "publishedAt": "2026-11-18T15:10:28+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/18/2000003294"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-18",
+      "title": "ptsd脳調べ無意識に改善新治療法開発めざし国際研究atr",
+      "publishedAt": "2026-11-18T15:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCK33GQVCKUTFL005M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-18",
+      "title": "特薦盤",
+      "publishedAt": "2026-11-18T13:55:47+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261118/dde/012/070/003000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-18",
+      "title": "麻倉未稀が45周年記念アルバム",
+      "publishedAt": "2026-11-18T13:53:46+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261118/dde/012/200/005000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-18-18",
+      "title": "未成年の電動モビリティー事故3カ月ごとに1533増脳損傷は普通の自転車の2倍米スタンフォード大が13万人分析",
+      "publishedAt": "2026-11-18T12:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/18/2000003265"
+      ]
     }
   ],
-  "updatedAt": "2026-11-18T19:55:02.100928+09:00"
+  "updatedAt": "2026-11-19T02:45:42.363047+09:00"
 }
