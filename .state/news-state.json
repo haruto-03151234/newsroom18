@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-19T06:00:00+09:00",
-  "lastCompletedEdition": "2026-11-19-06",
+  "lastCompletedEnd": "2026-11-19T12:00:00+09:00",
+  "lastCompletedEdition": "2026-11-19-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -28037,7 +28037,99 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2611/18/2000003300"
       ]
+    },
+    {
+      "editionId": "2026-11-19-12",
+      "title": "石川県気象防災速報竜巻注意",
+      "publishedAt": "2026-11-19T11:33:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261119023314_0_VPHW50_170000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261119023316_0_VPHW50_160000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-12",
+      "title": "京都府気象解説情報落雷・突風",
+      "publishedAt": "2026-11-19T11:00:19+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261119020020_0_VPCJ50_270000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261119020529_0_VPFJ50_250000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261119021031_0_VPFJ50_280000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261119021424_0_VPFJ50_260000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-12",
+      "title": "体操強化にai導入スポーツ振興センターと富士通が共同研究開始無限の可能性ある",
+      "publishedAt": "2026-11-19T11:56:47+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/19/2000003323"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-12",
+      "title": "浮かぶ秋色3千本京都もみじの永観堂で夜間特別拝観",
+      "publishedAt": "2026-11-19T11:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCL4QGJVCLPQIP02RM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-12",
+      "title": "openaiのaiモデルamdのgpu回路設計を最大14改善独自チップハラペーニョでも成果",
+      "publishedAt": "2026-11-19T11:09:22+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/19/2000003321"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-12",
+      "title": "今はハマチだけどブリに鮮ど市場の菅原選手がオリックスと仮契約",
+      "publishedAt": "2026-11-19T10:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCL3PSDVCLTLVB007M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-12",
+      "title": "googleaiエージェント機能tasksingeminiを日本を含む6カ国で無料提供旧geminispark",
+      "publishedAt": "2026-11-19T09:59:11+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/19/2000003319"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-12",
+      "title": "米下院議長に民主党のジェフリーズ氏選出へ初のアフリカ系",
+      "publishedAt": "2026-11-19T09:52:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78146"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-12",
+      "title": "国枝慎吾さんが日本人初の国際テニス殿堂健常者との垣根がない",
+      "publishedAt": "2026-11-19T09:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCL77CVVCLUTQP001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-12",
+      "title": "frbが10月会合の議事録公表ほぼ全員が追加利上げ適切",
+      "publishedAt": "2026-11-19T08:36:40+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78144"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-12",
+      "title": "大相撲九州場所12日目単独トップの若元春は義ノ富士との一番",
+      "publishedAt": "2026-11-19T04:37:03+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de78071"
+      ]
     }
   ],
-  "updatedAt": "2026-11-19T11:05:28.741441+09:00"
+  "updatedAt": "2026-11-19T19:57:42.227796+09:00"
 }
