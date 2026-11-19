@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-19T12:00:00+09:00",
-  "lastCompletedEdition": "2026-11-19-12",
+  "lastCompletedEnd": "2026-11-19T18:00:00+09:00",
+  "lastCompletedEdition": "2026-11-19-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -28129,7 +28129,123 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261118de78071"
       ]
+    },
+    {
+      "editionId": "2026-11-19-18",
+      "title": "福島県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-19T16:33:25+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261119073326_0_VPFJ50_070000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-18",
+      "title": "岐阜県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-19T16:13:20+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261119071321_0_VPFJ50_420000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261119071737_0_VPFJ50_410000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261119071813_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261119071943_0_VPFJ50_430000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261119074922_0_VPFJ50_210000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-18",
+      "title": "翌朝に泣きながら検事正に襲われた飲み会同席の警察官が証言",
+      "publishedAt": "2026-11-19T17:55:05+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCM2SHNVCMPTIL00LM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-18",
+      "title": "都道府県警の幹部集め臨時サイバー会議警察庁相次ぐ情報漏洩受け",
+      "publishedAt": "2026-11-19T17:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCM2P7RVCMUTIL00JM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-18",
+      "title": "nasa長官が来日大国間競争あるアポロ方式で月探査加速へ",
+      "publishedAt": "2026-11-19T17:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCM2HG5VCMUTFL00SM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-18",
+      "title": "車いすテニス国枝慎吾さんのテニス殿堂入り決定日本勢では初",
+      "publishedAt": "2026-11-19T17:26:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78535"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-18",
+      "title": "米ロ首脳が中国で会談ウクライナ情勢など議論",
+      "publishedAt": "2026-11-19T16:09:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78346"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-18",
+      "title": "動画解説米中首脳会談注目は",
+      "publishedAt": "2026-11-19T15:44:35+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78412"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-18",
+      "title": "nginx緊急脆弱性官房長官が必要な措置呼び掛け",
+      "publishedAt": "2026-11-19T15:30:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/19/2000003334"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-18",
+      "title": "microsoftのagentframeworkが侵害され認証情報を盗む不正版がpypiで公開",
+      "publishedAt": "2026-11-19T14:58:26+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/19/2000003332"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-18",
+      "title": "デビュー45年名盤ラズベリー・キック再現ライブ白井貴子もっとすてきにもっと楽しく",
+      "publishedAt": "2026-11-19T14:17:48+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261119/dde/018/200/010000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-18",
+      "title": "評演劇シス・カンパニー果てない甦る母篇家族の22年ひねり利かせて評・濱田元子",
+      "publishedAt": "2026-11-19T14:17:37+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261119/dde/018/200/009000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-18",
+      "title": "上原ひろみ熊谷和徳デュオ20年ツアー",
+      "publishedAt": "2026-11-19T14:17:25+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261119/dde/018/200/008000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-18",
+      "title": "webサーバソフトnginxにリモートコード実行の緊急脆弱性日本政府も更新呼び掛け",
+      "publishedAt": "2026-11-19T14:11:07+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/19/2000003325"
+      ]
     }
   ],
-  "updatedAt": "2026-11-19T19:57:42.227796+09:00"
+  "updatedAt": "2026-11-20T02:56:57.188686+09:00"
 }
