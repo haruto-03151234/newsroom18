@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-18T18:00:00+09:00",
-  "lastCompletedEdition": "2026-11-18-18",
+  "lastCompletedEnd": "2026-11-19T06:00:00+09:00",
+  "lastCompletedEdition": "2026-11-19-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -27944,7 +27944,100 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2611/18/2000003265"
       ]
+    },
+    {
+      "editionId": "2026-11-19-06",
+      "title": "福井県気象解説情報高波・落雷・突風",
+      "publishedAt": "2026-11-19T05:31:07+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261118203108_0_VPFJ50_020000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261118205350_0_VPFJ50_180000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-06",
+      "title": "大分県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-19T05:20:45+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261118202046_0_VPFJ50_350000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261118202241_0_VPFJ50_420000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261118202732_0_VPFJ50_430000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261118202734_0_VPFJ50_440000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-06",
+      "title": "歌手の太田裕美さん死去71歳木綿のハンカチーフ大ヒット",
+      "publishedAt": "2026-11-18T21:09:33+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77513",
+        "https://www.asahi.com/articles/ASVCL3TWQVCLUCVL02VM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-06",
+      "title": "千葉県で確認された高病原性鳥インフルエンザ国内2例目の遺伝子解析結果並びに患畜及びna亜型の確定について",
+      "publishedAt": "2026-11-18T18:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/douei/261118_1.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-06",
+      "title": "国連北朝鮮人権決議採択もアメリカが異例の投票求め棄権",
+      "publishedAt": "2026-11-19T05:36:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78130"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-06",
+      "title": "予算15億円陰謀論ユーチューバー起用理解できない声も",
+      "publishedAt": "2026-11-18T22:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCL363PVCLUTFK008M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-06",
+      "title": "スキー場のエスカレーター事故に注意呼びかけ消費者事故調",
+      "publishedAt": "2026-11-18T21:26:52+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261118de77875"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-06",
+      "title": "楽天証券の大規模漏えいなぜテスト環境に顧客情報が本番データでの確認が必要だった",
+      "publishedAt": "2026-11-18T20:16:22+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/18/2000003302"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-06",
+      "title": "福岡市長選の再選挙得票トップの前衆院議員・稲富修二氏再出馬へ",
+      "publishedAt": "2026-11-18T19:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCL3D74VCLTIPE00XM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-06",
+      "title": "jr東の新キャラはb案紫うさぎにsuica券面に登場などip展開の可能性は",
+      "publishedAt": "2026-11-18T18:20:45+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/18/2000003307"
+      ]
+    },
+    {
+      "editionId": "2026-11-19-06",
+      "title": "newspicks漏えいmetabase脆弱性が原因パッチ適用前日にデータ窃取jpcertcc公表不審ipアドレスで攻撃発覚",
+      "publishedAt": "2026-11-18T16:59:01+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/18/2000003300"
+      ]
     }
   ],
-  "updatedAt": "2026-11-19T02:45:42.363047+09:00"
+  "updatedAt": "2026-11-19T11:05:28.741441+09:00"
 }
