@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-19T18:00:00+09:00",
-  "lastCompletedEdition": "2026-11-19-18",
+  "lastCompletedEnd": "2026-11-20T06:00:00+09:00",
+  "lastCompletedEdition": "2026-11-20-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -28245,7 +28245,137 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2611/19/2000003325"
       ]
+    },
+    {
+      "editionId": "2026-11-20-06",
+      "title": "新潟県気象防災速報竜巻注意",
+      "publishedAt": "2026-11-20T05:56:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261119205658_0_VPHW50_150000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-06",
+      "title": "京都府気象防災速報竜巻注意",
+      "publishedAt": "2026-11-20T05:56:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261119205700_0_VPHW50_260000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-06",
+      "title": "福島県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-20T05:47:40+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261119204741_0_VPFJ50_070000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261119205018_0_VPFJ50_280000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-06",
+      "title": "大阪府気象解説情報落雷・突風",
+      "publishedAt": "2026-11-20T05:46:20+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261119204620_0_VPFJ50_250000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261119205021_0_VPFJ50_270000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-06",
+      "title": "命をつなぐ骨髄バンクあなたのドナー登録を待っている人がいます",
+      "publishedAt": "2026-11-20T00:00:00+09:00",
+      "urls": [
+        "https://www.gov-online.go.jp/article/201309/entry-10709.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-06",
+      "title": "海外旅行を安全・健康に楽しむために必要な準備と知識",
+      "publishedAt": "2026-11-20T00:00:00+09:00",
+      "urls": [
+        "https://www.gov-online.go.jp/article/202412/entry-6907.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-06",
+      "title": "マネロン・テロ資金供与・拡散金融対策に関する行動計画2027",
+      "publishedAt": "2026-11-19T19:00:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/policy/international_policy/councils/aml_cft_policy/20261119_1.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-06",
+      "title": "予算書・決算書データベースのシステムメンテナンスのお知らせ",
+      "publishedAt": "2026-11-19T18:00:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/policy/budget/maintenance.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-06",
+      "title": "プーチン大統領米中ロ首脳会談意義強調継続開催に前向き",
+      "publishedAt": "2026-11-20T05:51:56+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de78758"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-06",
+      "title": "ラグビースコットランド戦大敗の前戦から先発9人を入れ替え",
+      "publishedAt": "2026-11-20T05:27:46+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78719"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-06",
+      "title": "大相撲九州場所13日目見どころ若元春と大の里が対戦",
+      "publishedAt": "2026-11-20T05:22:40+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261119de78718"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-06",
+      "title": "岐阜の陸自発砲事件きょう初公判当時18歳被告の責任能力が争点",
+      "publishedAt": "2026-11-20T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCM148RVCMOHGB00GM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-06",
+      "title": "高市首相台湾めぐり日中共同声明の立場に変更なし会見で表明",
+      "publishedAt": "2026-11-19T23:43:38+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCM4TFDVCMUTFK00WM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-06",
+      "title": "euに大規模サイバー攻撃個人情報流出かポリティコ報道",
+      "publishedAt": "2026-11-19T22:24:17+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCM4DWLVCMUHBI02YM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-06",
+      "title": "美少女ゲームnikke経由でマルウェア感染北海道2自治体委託先が認める",
+      "publishedAt": "2026-11-19T20:04:47+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/19/2000003351"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-06",
+      "title": "焼肉きんぐゆず庵など11アプリ会員の氏名・電話番号の項目を廃止予定を前倒し",
+      "publishedAt": "2026-11-19T18:53:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/19/2000003344"
+      ]
     }
   ],
-  "updatedAt": "2026-11-20T02:56:57.188686+09:00"
+  "updatedAt": "2026-11-20T10:55:38.226452+09:00"
 }
