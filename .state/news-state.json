@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-20T12:00:00+09:00",
-  "lastCompletedEdition": "2026-11-20-12",
+  "lastCompletedEnd": "2026-11-20T18:00:00+09:00",
+  "lastCompletedEdition": "2026-11-20-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -28489,7 +28489,147 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2611/20/2000003330"
       ]
+    },
+    {
+      "editionId": "2026-11-20-18",
+      "title": "農林水産省とペルー共和国農業開発灌漑省との協力覚書の締結について",
+      "publishedAt": "2026-11-20T17:41:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/y_kokusai/kokkyo/261120.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-18",
+      "title": "米に関するマンスリーレポート令和8年11月号の公表について",
+      "publishedAt": "2026-11-20T17:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousan/kikaku/261120.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-18",
+      "title": "富山県気象防災速報竜巻注意",
+      "publishedAt": "2026-11-20T16:53:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261120075310_0_VPHW50_170000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261120075312_0_VPHW50_160000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-18",
+      "title": "石川県気象解説情報高波・落雷・突風",
+      "publishedAt": "2026-11-20T16:42:25+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261120074226_0_VPFJ50_170000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-18",
+      "title": "株式会社ヤマセによる無登録肥料の生産・販売について",
+      "publishedAt": "2026-11-20T16:30:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/nouan/261120_1.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-18",
+      "title": "福島県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-20T16:08:11+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261120070811_0_VPFJ50_440000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261120071106_0_VPFJ50_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261120071435_0_VPFJ50_070000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-18",
+      "title": "令和7年度決算の説明",
+      "publishedAt": "2026-11-20T16:00:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/policy/budget/budger_workflow/account/fy2025/ke0811.html",
+        "https://www.mof.go.jp/policy/budget/budger_workflow/account/fy2025/ke_setsumei07.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-18",
+      "title": "nba八村塁17得点もチームは2連敗",
+      "publishedAt": "2026-11-20T17:51:04+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de79161"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-18",
+      "title": "演劇評論家の和角仁さん死去93歳予備校講師グリデン古文も",
+      "publishedAt": "2026-11-20T17:50:24+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCN2SQ9VCNUCVL040M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-18",
+      "title": "韓国大学入試で電子機器不正111件摘発ai受験疑惑巡り死者も発生",
+      "publishedAt": "2026-11-20T17:48:50+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/20/2000003376"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-18",
+      "title": "シンガポール訪問の愛子さま実り多い滞在",
+      "publishedAt": "2026-11-20T17:43:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de78827"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-18",
+      "title": "片山財務相楽天証券は顧客の不安解消にできること全部していただきたい",
+      "publishedAt": "2026-11-20T17:13:16+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/20/2000003371"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-18",
+      "title": "インフルエンザ患者数1医療機関あたり1194人ほぼ横ばい続く",
+      "publishedAt": "2026-11-20T16:32:49+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de79038"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-18",
+      "title": "ピアニストの平尾はるなさん死去84歳日本人作曲家の作品を普及",
+      "publishedAt": "2026-11-20T15:51:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCN23L0VCNUCVL026M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-18",
+      "title": "fifa会長選出馬の田嶋氏が会見三つどもえの争い撤退しない",
+      "publishedAt": "2026-11-20T14:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCN1GX3VCNUTQP00ZM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-18",
+      "title": "シネマの週末・特選掘り出し",
+      "publishedAt": "2026-11-20T13:53:13+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261120/dde/012/070/005000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-20-18",
+      "title": "シネマの週末・トピックス",
+      "publishedAt": "2026-11-20T13:52:56+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261120/dde/012/070/004000c"
+      ]
     }
   ],
-  "updatedAt": "2026-11-20T19:46:00.685403+09:00"
+  "updatedAt": "2026-11-21T02:31:08.257461+09:00"
 }
