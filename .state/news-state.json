@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-21T06:00:00+09:00",
-  "lastCompletedEdition": "2026-11-21-06",
+  "lastCompletedEnd": "2026-11-21T12:00:00+09:00",
+  "lastCompletedEdition": "2026-11-21-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -28729,7 +28729,68 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2611/20/2000003374"
       ]
+    },
+    {
+      "editionId": "2026-11-21-12",
+      "title": "大分県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-21T05:06:20+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261120200621_0_VPFJ50_430000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261120200630_0_VPFJ50_440000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261120200740_0_VPFJ50_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261120200743_0_VPFJ50_350000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261120201240_0_VPFJ50_420000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261120201246_0_VPFJ50_410000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-21-12",
+      "title": "女子ゴルフ米ツアー2日目吉田優利が3位浮上",
+      "publishedAt": "2026-11-21T11:59:36+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261121de79585"
+      ]
+    },
+    {
+      "editionId": "2026-11-21-12",
+      "title": "東武線特急が栃木市の踏切で車と衝突68本運休最大約4時間遅れ",
+      "publishedAt": "2026-11-21T11:59:01+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCP0H98VCPUTIL002M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-21-12",
+      "title": "プロの政治家だった福田元首相日本・世界の行く末を案じた晩年",
+      "publishedAt": "2026-11-21T11:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCN3F80VCNUTFK015M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-21-12",
+      "title": "仏大統領選元首相立候補表明極右ルペン氏支持トップ",
+      "publishedAt": "2026-11-21T11:18:47+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261121de79545"
+      ]
+    },
+    {
+      "editionId": "2026-11-21-12",
+      "title": "有事の円買いは消えた企業に残る強烈な記憶識者の注目点は",
+      "publishedAt": "2026-11-21T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCM3D7MVCMULFA001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-21-12",
+      "title": "トランプ大統領米国外のデータセンター建設認めず罰則も",
+      "publishedAt": "2026-11-21T10:16:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261121de79543"
+      ]
     }
   ],
-  "updatedAt": "2026-11-21T10:50:43.062536+09:00"
+  "updatedAt": "2026-11-21T19:28:54.506678+09:00"
 }
