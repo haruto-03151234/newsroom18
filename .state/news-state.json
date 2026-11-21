@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-20T18:00:00+09:00",
-  "lastCompletedEdition": "2026-11-20-18",
+  "lastCompletedEnd": "2026-11-21T06:00:00+09:00",
+  "lastCompletedEdition": "2026-11-21-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -28629,7 +28629,107 @@
       "urls": [
         "https://mainichi.jp/articles/20261120/dde/012/070/004000c"
       ]
+    },
+    {
+      "editionId": "2026-11-21-06",
+      "title": "福島県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-21T05:34:46+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261120203446_0_VPFJ50_070000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-21-06",
+      "title": "新潟県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-21T05:30:10+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261120203011_0_VPFJ50_150000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261120203015_0_VPFJ50_200000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261120203030_0_VPFJ50_160000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261120203417_0_VPFJ50_180000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261120203622_0_VPFJ50_170000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-21-06",
+      "title": "栃木県における豚熱の患畜の確認国内109例目及び農林水産省豚熱・アフリカ豚熱防疫対策本部の持ち回り開催について",
+      "publishedAt": "2026-11-20T21:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/douei/261120.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-21-06",
+      "title": "関税・外国為替等審議会第70回外国為替等分科会議事録",
+      "publishedAt": "2026-11-20T18:00:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-foreign_exchange/proceedings/proceedings/20261118185608.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-21-06",
+      "title": "日本企業などから高額収入の海外居住者課税強化へ",
+      "publishedAt": "2026-11-21T05:33:28+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de79460"
+      ]
+    },
+    {
+      "editionId": "2026-11-21-06",
+      "title": "九州場所14日目見どころ大の里は金峰山若元春は安青錦と",
+      "publishedAt": "2026-11-21T05:17:58+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de79456"
+      ]
+    },
+    {
+      "editionId": "2026-11-21-06",
+      "title": "車検切れドライバーの運転を見逃した疑い警察官を書類送検・神奈川",
+      "publishedAt": "2026-11-21T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCN3QVTVCNULOB01CM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-21-06",
+      "title": "未着工の原発計画で交付金165億円2県3市町40年続く事例も",
+      "publishedAt": "2026-11-21T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCM3GB9VCMPLFA005M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-21-06",
+      "title": "湘南美容クリニックなど展開のグループ顧客情報など流出",
+      "publishedAt": "2026-11-20T22:50:49+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261120de79453"
+      ]
+    },
+    {
+      "editionId": "2026-11-21-06",
+      "title": "デジ庁政府機関向けファイル共有サービスで漏えいか7月末から第三者がアクセス",
+      "publishedAt": "2026-11-20T21:18:07+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/20/2000003381"
+      ]
+    },
+    {
+      "editionId": "2026-11-21-06",
+      "title": "雪ミク電車ラストシーズン雪降る中のお披露目札幌市電",
+      "publishedAt": "2026-11-20T21:15:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCN3Q7PVCNUEFT00FM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-21-06",
+      "title": "h3ロケット打ち上げjaxaから三菱重工に移管来年1月の11号機から",
+      "publishedAt": "2026-11-20T17:09:25+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/20/2000003374"
+      ]
     }
   ],
-  "updatedAt": "2026-11-21T02:31:08.257461+09:00"
+  "updatedAt": "2026-11-21T10:50:43.062536+09:00"
 }
