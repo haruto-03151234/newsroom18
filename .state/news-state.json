@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-21T12:00:00+09:00",
-  "lastCompletedEdition": "2026-11-21-12",
+  "lastCompletedEnd": "2026-11-21T18:00:00+09:00",
+  "lastCompletedEdition": "2026-11-21-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -28790,7 +28790,83 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261121de79543"
       ]
+    },
+    {
+      "editionId": "2026-11-21-18",
+      "title": "新潟県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-21T16:24:06+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261121072406_0_VPFJ50_150000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261121075210_0_VPFJ50_170000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261121075927_0_VPFJ50_180000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-21-18",
+      "title": "山口県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-21T16:22:01+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261121072201_0_VPFJ50_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261121072308_0_VPFJ50_350000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261121072421_0_VPFJ50_420000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-21-18",
+      "title": "ラグビースコットランド戦へディアンズ強み出したい",
+      "publishedAt": "2026-11-21T17:05:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261121de79663"
+      ]
+    },
+    {
+      "editionId": "2026-11-21-18",
+      "title": "韓国はアンモニア混焼に決別環境相炭素削減に向けた道ではない",
+      "publishedAt": "2026-11-21T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCN51TNVCNUTFL027M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-21-18",
+      "title": "カード情報流出の六花亭不正利用を1件確認再発行を呼びかけ",
+      "publishedAt": "2026-11-21T15:40:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCP20H0VCPUTIL005M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-21-18",
+      "title": "aiは人並みに動画編集できるバズる切り抜きからガジェット開封動画まで2つのツールを試す",
+      "publishedAt": "2026-11-21T15:38:29+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/21/2000003387"
+      ]
+    },
+    {
+      "editionId": "2026-11-21-18",
+      "title": "mlb労使交渉が難航横浜高校織田翔希投手の交渉も不透明に",
+      "publishedAt": "2026-11-21T14:46:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261121de79627"
+      ]
+    },
+    {
+      "editionId": "2026-11-21-18",
+      "title": "ナスダック株価指数急落今週4兆ドル時価総額が消失",
+      "publishedAt": "2026-11-21T13:33:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261121de79604"
+      ]
+    },
+    {
+      "editionId": "2026-11-21-18",
+      "title": "超難問リーマン予想aiと証明か米アンソロピックの数学者発表",
+      "publishedAt": "2026-11-21T12:23:02+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCP10Z2VCPUHBI00GM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-11-21T19:28:54.506678+09:00"
+  "updatedAt": "2026-11-22T01:35:12.631981+09:00"
 }
