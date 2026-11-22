@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-22T12:00:00+09:00",
-  "lastCompletedEdition": "2026-11-22-12",
+  "lastCompletedEnd": "2026-11-22T18:00:00+09:00",
+  "lastCompletedEdition": "2026-11-22-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -29033,7 +29033,81 @@
       "urls": [
         "https://www.asahi.com/articles/ASVCN3K7QVCNUTIL01FM.html"
       ]
+    },
+    {
+      "editionId": "2026-11-22-18",
+      "title": "石川県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-22T16:06:34+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261122070634_0_VPFJ50_170000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-18",
+      "title": "北陸地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-22T15:55:06+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261122065506_0_VPCJ50_150000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261122075128_0_VPFJ50_160000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261122075554_0_VPFJ50_180000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-18",
+      "title": "nbaクリッパーズ八村塁19得点も3連敗",
+      "publishedAt": "2026-11-22T17:52:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261122de79978"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-18",
+      "title": "沖縄知事匠の技の結晶首里城正殿23日から一般公開",
+      "publishedAt": "2026-11-22T17:43:41+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261122/k00/00m/040/133000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-18",
+      "title": "横綱大の里が2場所連続優勝大相撲九州場所",
+      "publishedAt": "2026-11-22T17:42:06+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCP3SV0VCPUTQP024M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-18",
+      "title": "黄金に染まるイチョウ並木変わりゆく神宮外苑上空から見る再開発",
+      "publishedAt": "2026-11-22T17:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCQ1RKNVCQUQIP015M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-18",
+      "title": "タワーレコード不正アクセスで約1100万件の個人情報流出",
+      "publishedAt": "2026-11-22T15:11:18+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261122de79936"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-18",
+      "title": "aiで未解決難問リーマン予想証明主張専門家の受けとめは",
+      "publishedAt": "2026-11-22T14:24:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261122de79817"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-18",
+      "title": "親の判断力が相続の争点に家族信託無効の大どんでん返しも",
+      "publishedAt": "2026-11-22T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVC515KRVC5ULLI00FM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-11-22T19:33:14.015792+09:00"
+  "updatedAt": "2026-11-23T01:52:32.358087+09:00"
 }

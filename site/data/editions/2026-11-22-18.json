@@ -1,0 +1,738 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-11-23T01:52:32.358087+09:00",
+  "summary": "対象時間帯の4配信元のニュースを9本に整理しました。うち重要ニュースは2本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-11-22-18",
+    "date": "2026-11-22",
+    "slot": "18:00",
+    "label": "夕方6時版"
+  },
+  "coverage": {
+    "from": "2026-11-22T12:00:00+09:00",
+    "to": "2026-11-22T18:00:00+09:00",
+    "start": "2026-11-22T12:00:00+09:00",
+    "end": "2026-11-22T18:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "11月22日 12:00〜11月22日 18:00"
+  },
+  "stats": {
+    "articleCount": 9,
+    "categoryCounts": {
+      "国内": 3,
+      "スポーツ": 2,
+      "社会": 1,
+      "エンタメ": 1,
+      "海外": 1,
+      "経済": 1
+    },
+    "sourceCount": 11,
+    "publisherCount": 4,
+    "publisherCounts": {
+      "asahi": 3,
+      "jma": 2,
+      "mainichi": 1,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 2,
+      "brief": 7
+    },
+    "feedFailureCount": 1
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース"
+  ],
+  "articles": [
+    {
+      "id": "a2a847eb40723629",
+      "slug": "2026-11-22-18-a2a847eb",
+      "publishedAt": "2026-11-22T16:06:34+09:00",
+      "updatedAt": "2026-11-23T01:52:32.358087+09:00",
+      "title": "石川県気象解説情報（落雷・突風・降ひょう）",
+      "dek": "11月22日 16:06更新。石川県では、22日夜遅くにかけて、落雷、突風や急な強い雨に注意してください。",
+      "summary": "石川県では、22日夜遅くにかけて、落雷、突風や急な強い雨に注意してください。[気象概況] 北陸地方は、気圧の谷や寒気の影響を受け、大気の状態が不安定となっています。[防災事項] 石川県では、22日夜遅くにかけて、落雷、突風や急な強い雨に注意してください。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "石川県気象解説情報落雷突風降ひょう"
+      ],
+      "facts": [],
+      "impactPoints": [
+        "石川県では、22日夜遅くにかけて、落雷、突風や急な強い雨に注意してください。",
+        "[気象概況] 北陸地方は、気圧の谷や寒気の影響を受け、大気の状態が不安定となっています。",
+        "[防災事項] 石川県では、22日夜遅くにかけて、落雷、突風や急な強い雨に注意してください。",
+        "これで「石川県気象解説情報(落雷・突風・降ひょう)」は、終了します。",
+        "[お知らせ] 令和6年能登半島地震で揺れの大きかった珠洲市は土砂災害の警報等を、令和8年8月27日からの大雨での河川の堤防損傷等を鑑み、羽咋市では大雨警報等を通常より引き下げた暫定基準で運用しています。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "[補足事項] 今後発表する防災気象情報に留意してください。"
+      ],
+      "body": [
+        "石川県では、22日夜遅くにかけて、落雷、突風や急な強い雨に注意してください。[気象概況] 北陸地方は、気圧の谷や寒気の影響を受け、大気の状態が不安定となっています。[防災事項] 石川県では、22日夜遅くにかけて、落雷、突風や急な強い雨に注意してください。",
+        "これで「石川県気象解説情報(落雷・突風・降ひょう)」は、終了します。",
+        "[お知らせ] 令和6年能登半島地震で揺れの大きかった珠洲市は土砂災害の警報等を、令和8年8月27日からの大雨での河川の堤防損傷等を鑑み、羽咋市では大雨警報等を通常より引き下げた暫定基準で運用しています。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。"
+      ],
+      "sections": [
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "石川県では、22日夜遅くにかけて、落雷、突風や急な強い雨に注意してください。",
+            "[気象概況] 北陸地方は、気圧の谷や寒気の影響を受け、大気の状態が不安定となっています。",
+            "[防災事項] 石川県では、22日夜遅くにかけて、落雷、突風や急な強い雨に注意してください。",
+            "これで「石川県気象解説情報(落雷・突風・降ひょう)」は、終了します。",
+            "[お知らせ] 令和6年能登半島地震で揺れの大きかった珠洲市は土砂災害の警報等を、令和8年8月27日からの大雨での河川の堤防損傷等を鑑み、羽咋市では大雨警報等を通常より引き下げた暫定基準で運用しています。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "[補足事項] 今後発表する防災気象情報に留意してください。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-22T16:06:34+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-11-23T01:52:32.358087+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "石川県気象解説情報（落雷・突風・降ひょう）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261122070634_0_VPFJ50_170000.xml",
+              "publishedAt": "2026-11-22T16:06:34+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-22T16:06:34+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "cc236dc30ebbeeb1",
+      "slug": "2026-11-22-18-cc236dc3",
+      "publishedAt": "2026-11-22T15:55:06+09:00",
+      "updatedAt": "2026-11-23T01:52:32.358087+09:00",
+      "title": "北陸地方気象解説情報（大雨・落雷・突風）",
+      "dek": "11月22日 15:55〜11月22日 16:55更新。新潟県では、22日夜遅くにかけて土砂災害に厳重に警戒してください。",
+      "summary": "新潟県では、22日夜遅くにかけて土砂災害に厳重に警戒してください。北陸地方では、23日明け方にかけて土砂災害に注意・警戒してください。また、22日夜遅くにかけて、落雷、突風、急な強い雨に注意してください。[気象概況] 北陸地方では、寒気や気圧の谷の影響で雨の降っている所があります。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "北陸地方気象解説情報大雨落雷突風"
+      ],
+      "facts": [],
+      "impactPoints": [
+        "新潟県では、22日夜遅くにかけて土砂災害に厳重に警戒してください。",
+        "北陸地方では、23日明け方にかけて土砂災害に注意・警戒してください。",
+        "また、22日夜遅くにかけて、落雷、突風、急な強い雨に注意してください。",
+        "[気象概況] 北陸地方では、寒気や気圧の谷の影響で雨の降っている所があります。",
+        "これで、「北陸地方気象解説情報(大雨・落雷・突風)」は終了します。",
+        "富山県では、22日夜遅くにかけて土砂災害、落雷や突風、急な強い雨に注意してください。",
+        "富山県では、これまでに降った雨の影響で地盤の緩んでいる所があります。",
+        "[雨の実況] 降り始め(18日16時)から22日16時までの降水量(アメダスによる速報値) 五箇山 191.5ミリ 南砺高宮 190.5ミリ 宇奈月 163.0ミリ 富山市猪谷 146.0ミリ 朝日 144.0ミリ [防災事項] 富山県では、22日夜遅くにかけて土砂災害、落雷や突風、急な強い雨に注意してください。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "また、これまでに降った雨の影響で地盤の緩んでいる所があるため、少ない雨量でも土砂災害の危険度が高まるおそれがあります。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "また、大気の不安定な状態が続く見込みです。"
+      ],
+      "body": [
+        "新潟県では、22日夜遅くにかけて土砂災害に厳重に警戒してください。北陸地方では、23日明け方にかけて土砂災害に注意・警戒してください。また、22日夜遅くにかけて、落雷、突風、急な強い雨に注意してください。[気象概況] 北陸地方では、寒気や気圧の谷の影響で雨の降っている所があります。",
+        "これで、「北陸地方気象解説情報(大雨・落雷・突風)」は終了します。",
+        "富山県では、22日夜遅くにかけて土砂災害、落雷や突風、急な強い雨に注意してください。",
+        "富山県では、これまでに降った雨の影響で地盤の緩んでいる所があります。",
+        "また、これまでに降った雨の影響で地盤の緩んでいる所があるため、少ない雨量でも土砂災害の危険度が高まるおそれがあります。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "また、大気の不安定な状態が続く見込みです。"
+      ],
+      "sections": [
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "新潟県では、22日夜遅くにかけて土砂災害に厳重に警戒してください。",
+            "北陸地方では、23日明け方にかけて土砂災害に注意・警戒してください。",
+            "また、22日夜遅くにかけて、落雷、突風、急な強い雨に注意してください。",
+            "[気象概況] 北陸地方では、寒気や気圧の谷の影響で雨の降っている所があります。",
+            "これで、「北陸地方気象解説情報(大雨・落雷・突風)」は終了します。",
+            "富山県では、22日夜遅くにかけて土砂災害、落雷や突風、急な強い雨に注意してください。",
+            "富山県では、これまでに降った雨の影響で地盤の緩んでいる所があります。",
+            "[雨の実況] 降り始め(18日16時)から22日16時までの降水量(アメダスによる速報値) 五箇山 191.5ミリ 南砺高宮 190.5ミリ 宇奈月 163.0ミリ 富山市猪谷 146.0ミリ 朝日 144.0ミリ [防災事項] 富山県では、22日夜遅くにかけて土砂災害、落雷や突風、急な強い雨に注意してください。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "また、これまでに降った雨の影響で地盤の緩んでいる所があるため、少ない雨量でも土砂災害の危険度が高まるおそれがあります。",
+            "[補足事項] 今後発表する防災気象情報に留意してください。",
+            "また、大気の不安定な状態が続く見込みです。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-22T16:55:53+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-11-23T01:52:32.358087+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "北陸地方気象解説情報（大雨・落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261122065506_0_VPCJ50_150000.xml",
+              "publishedAt": "2026-11-22T15:55:06+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "富山県気象解説情報（大雨・落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261122075128_0_VPFJ50_160000.xml",
+              "publishedAt": "2026-11-22T16:51:28+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "福井県気象解説情報（大雨・落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261122075554_0_VPFJ50_180000.xml",
+              "publishedAt": "2026-11-22T16:55:53+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-22T16:55:53+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 3,
+      "freshSourceCount": 3,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "94bcf77c67506cd7",
+      "slug": "2026-11-22-18-94bcf77c",
+      "publishedAt": "2026-11-22T17:52:00+09:00",
+      "updatedAt": "2026-11-23T01:52:32.358087+09:00",
+      "title": "NBA クリッパーズ 八村塁19得点も 3連敗",
+      "dek": "NBA＝アメリカプロバスケットボール、クリッパーズの八村塁選手は、マーベリックス戦で19得点をあげましたが、チームは敗れ、3連敗です。",
+      "summary": "NBA＝アメリカプロバスケットボール、クリッパーズの八村塁選手は、マーベリックス戦で19得点をあげましたが、チームは敗れ、3連敗です。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "NBA＝アメリカプロバスケットボール、クリッパーズの八村塁選手は、マーベリックス戦で19得点をあげましたが、チームは敗れ、3連敗です。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "NBA＝アメリカプロバスケットボール、クリッパーズの八村塁選手は、マーベリックス戦で19得点をあげましたが、チームは敗れ、3連敗です。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "NBA＝アメリカプロバスケットボール、クリッパーズの八村塁選手は、マーベリックス戦で19得点をあげましたが、チームは敗れ、3連敗です。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-22T17:52:00+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-11-23T01:52:32.358087+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "NBA クリッパーズ 八村塁19得点も 3連敗",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261122de79978",
+              "publishedAt": "2026-11-22T17:52:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-22T17:52:00+09:00",
+          "keyPoints": [
+            "NBA＝アメリカプロバスケットボール、クリッパーズの八村塁選手は、マーベリックス戦で19得点をあげましたが、チームは敗れ、3連敗です。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "930ab55b9fab4922",
+      "slug": "2026-11-22-18-930ab55b",
+      "publishedAt": "2026-11-22T17:43:41+09:00",
+      "updatedAt": "2026-11-23T01:52:32.358087+09:00",
+      "title": "沖縄知事「匠の技の結晶」 首里城正殿、23日から一般公開",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-22T17:43:41+09:00",
+          "text": "毎日新聞 ニュース速報の公開情報を確認",
+          "source": "毎日新聞 ニュース速報"
+        },
+        {
+          "at": "2026-11-23T01:52:32.358087+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 ニュース速報",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "沖縄知事「匠の技の結晶」 首里城正殿、23日から一般公開",
+              "url": "https://mainichi.jp/articles/20261122/k00/00m/040/133000c",
+              "publishedAt": "2026-11-22T17:43:41+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-22T17:43:41+09:00",
+          "keyPoints": [
+            "沖縄知事「匠の技の結晶」 首里城正殿、23日から一般公開"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "043c543bcf998e7f",
+      "slug": "2026-11-22-18-043c543b",
+      "publishedAt": "2026-11-22T17:42:06+09:00",
+      "updatedAt": "2026-11-23T01:52:32.358087+09:00",
+      "title": "横綱大の里が2場所連続優勝 大相撲九州場所",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-22T17:42:06+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-23T01:52:32.358087+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "横綱大の里が2場所連続優勝 大相撲九州場所",
+              "url": "https://www.asahi.com/articles/ASVCP3SV0VCPUTQP024M.html",
+              "publishedAt": "2026-11-22T17:42:06+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-22T17:42:06+09:00",
+          "keyPoints": [
+            "横綱大の里が2場所連続優勝 大相撲九州場所"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "f841aebe6e347575",
+      "slug": "2026-11-22-18-f841aebe",
+      "publishedAt": "2026-11-22T17:30:00+09:00",
+      "updatedAt": "2026-11-23T01:52:32.358087+09:00",
+      "title": "黄金に染まるイチョウ並木、変わりゆく神宮外苑 上空から見る再開発",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-22T17:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-23T01:52:32.358087+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "黄金に染まるイチョウ並木、変わりゆく神宮外苑 上空から見る再開発",
+              "url": "https://www.asahi.com/articles/ASVCQ1RKNVCQUQIP015M.html",
+              "publishedAt": "2026-11-22T17:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-22T17:30:00+09:00",
+          "keyPoints": [
+            "黄金に染まるイチョウ並木、変わりゆく神宮外苑 上空から見る再開発"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "5554c3dad3d290a3",
+      "slug": "2026-11-22-18-5554c3da",
+      "publishedAt": "2026-11-22T15:11:18+09:00",
+      "updatedAt": "2026-11-23T01:52:32.358087+09:00",
+      "title": "タワーレコード 不正アクセスで約1100万件の個人情報流出",
+      "dek": "音楽コンテンツなどを販売する「タワーレコード」は、運営する通販サイトが不正アクセスを受け、顧客のメールアドレスや氏名などあわせておよそ1100万件の個人情報が流出したと発表しました。",
+      "summary": "音楽コンテンツなどを販売する「タワーレコード」は、運営する通販サイトが不正アクセスを受け、顧客のメールアドレスや氏名などあわせておよそ1100万件の個人情報が流出したと発表しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "音楽コンテンツなどを販売する「タワーレコード」は、運営する通販サイトが不正アクセスを受け、顧客のメールアドレスや氏名などあわせておよそ1100万件の個人情報が流出したと発表しました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "音楽コンテンツなどを販売する「タワーレコード」は、運営する通販サイトが不正アクセスを受け、顧客のメールアドレスや氏名などあわせておよそ1100万件の個人情報が流出したと発表しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "音楽コンテンツなどを販売する「タワーレコード」は、運営する通販サイトが不正アクセスを受け、顧客のメールアドレスや氏名などあわせておよそ1100万件の個人情報が流出したと発表しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-22T15:11:18+09:00",
+          "text": "NHK ONE 主要ニュースの公開情報を確認",
+          "source": "NHK ONE 主要ニュース"
+        },
+        {
+          "at": "2026-11-23T01:52:32.358087+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 主要ニュース",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "タワーレコード 不正アクセスで約1100万件の個人情報流出",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261122de79936",
+              "publishedAt": "2026-11-22T15:11:18+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-22T15:11:18+09:00",
+          "keyPoints": [
+            "音楽コンテンツなどを販売する「タワーレコード」は、運営する通販サイトが不正アクセスを受け、顧客のメールアドレスや氏名などあわせておよそ1100万件の個人情報が流出したと発表しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "d25e6c36ecd623ed",
+      "slug": "2026-11-22-18-d25e6c36",
+      "publishedAt": "2026-11-22T14:24:00+09:00",
+      "updatedAt": "2026-11-23T01:52:32.358087+09:00",
+      "title": "AIで未解決難問“リーマン予想”証明主張 専門家の受けとめは?",
+      "dek": "アメリカの新興AI企業、アンソロピックに所属する数学者が、数学の難問とされる「リーマン予想」をAIを使って証明したと主張しました。",
+      "summary": "アメリカの新興AI企業、アンソロピックに所属する数学者が、数学の難問とされる「リーマン予想」をAIを使って証明したと主張しました。 専門家による検証で認められれば歴史的な成果となります。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "アメリカの新興AI企業、アンソロピックに所属する数学者が、数学の難問とされる「リーマン予想」をAIを使って証明したと主張しました。",
+        "専門家による検証で認められれば歴史的な成果となります。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "アメリカの新興AI企業、アンソロピックに所属する数学者が、数学の難問とされる「リーマン予想」をAIを使って証明したと主張しました。 専門家による検証で認められれば歴史的な成果となります。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "アメリカの新興AI企業、アンソロピックに所属する数学者が、数学の難問とされる「リーマン予想」をAIを使って証明したと主張しました。",
+            "専門家による検証で認められれば歴史的な成果となります。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-22T14:24:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-23T01:52:32.358087+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "AIで未解決難問“リーマン予想”証明主張 専門家の受けとめは?",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261122de79817",
+              "publishedAt": "2026-11-22T14:24:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-22T14:24:00+09:00",
+          "keyPoints": [
+            "アメリカの新興AI企業、アンソロピックに所属する数学者が、数学の難問とされる「リーマン予想」をAIを使って証明したと主張しました。専門家による検証で認められれば歴史的な成果となります。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "7fdd633b746291bd",
+      "slug": "2026-11-22-18-7fdd633b",
+      "publishedAt": "2026-11-22T11:00:00+09:00",
+      "updatedAt": "2026-11-23T01:52:32.358087+09:00",
+      "title": "「親の判断力」が相続の争点に 家族信託「無効」の大どんでん返しも",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-22T11:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-23T01:52:32.358087+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "「親の判断力」が相続の争点に 家族信託「無効」の大どんでん返しも",
+              "url": "https://www.asahi.com/articles/ASVC515KRVC5ULLI00FM.html",
+              "publishedAt": "2026-11-22T11:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-22T11:00:00+09:00",
+          "keyPoints": [
+            "「親の判断力」が相続の争点に 家族信託「無効」の大どんでん返しも"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    }
+  ]
+}
