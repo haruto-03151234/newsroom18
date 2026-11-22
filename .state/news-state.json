@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-22T06:00:00+09:00",
-  "lastCompletedEdition": "2026-11-22-06",
+  "lastCompletedEnd": "2026-11-22T12:00:00+09:00",
+  "lastCompletedEdition": "2026-11-22-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -28958,7 +28958,82 @@
       "urls": [
         "https://www.asahi.com/articles/ASVCP2WB0VCPDIFI008M.html"
       ]
+    },
+    {
+      "editionId": "2026-11-22-12",
+      "title": "新潟県レベル4土砂災害危険警報",
+      "publishedAt": "2026-11-22T11:49:48+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261122024950_0_VXWW50_150000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-12",
+      "title": "熊本県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-22T04:53:16+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261121195316_0_VPFJ50_350000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261121195318_0_VPFJ50_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261121195439_0_VPFJ50_420000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261121195440_0_VPFJ50_430000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-12",
+      "title": "ポテサラにコロッケにジャガイモ新品種食品メーカーの採用広がる",
+      "publishedAt": "2026-11-22T11:01:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCM420HVCMUTFL007M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-12",
+      "title": "女子ゴルフ米ツアー第3r吉田優利が首位と1打差の2位に浮上",
+      "publishedAt": "2026-11-22T10:05:47+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261122de79831"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-12",
+      "title": "水星探査機8年かけ周回軌道入り火星は1年で着くのになぜ",
+      "publishedAt": "2026-11-22T10:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCM13NSVCMUTFL00HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-12",
+      "title": "デンマークロシア主導の暗殺計画阻止と発表首相制裁強化",
+      "publishedAt": "2026-11-22T08:38:38+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261122de79796"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-12",
+      "title": "anthropicの数学者claudeと共同でリーマン予想を証明したと主張leanコミュニティが正しいと認定",
+      "publishedAt": "2026-11-22T08:21:31+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/22/2000003388"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-12",
+      "title": "ゼレンスキー大統領3か国首脳会談はロシアにとっては失敗",
+      "publishedAt": "2026-11-22T08:07:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261122de79819"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-12",
+      "title": "入校初日に胸ぐらつかむ東京消防庁助教を処分メンタル強く",
+      "publishedAt": "2026-11-22T07:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCN3K7QVCNUTIL01FM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-11-22T09:45:01.773040+09:00"
+  "updatedAt": "2026-11-22T19:33:14.015792+09:00"
 }
