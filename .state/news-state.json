@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-21T18:00:00+09:00",
-  "lastCompletedEdition": "2026-11-21-18",
+  "lastCompletedEnd": "2026-11-22T06:00:00+09:00",
+  "lastCompletedEdition": "2026-11-22-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -28866,7 +28866,99 @@
       "urls": [
         "https://www.asahi.com/articles/ASVCP10Z2VCPUHBI00GM.html"
       ]
+    },
+    {
+      "editionId": "2026-11-22-06",
+      "title": "新潟県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-22T05:09:29+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261121200930_0_VPCJ50_150000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261121203118_0_VPFJ50_180000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261121203211_0_VPFJ50_160000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261121204806_0_VPFJ50_150000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-06",
+      "title": "石川県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-22T04:54:41+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261121195441_0_VPCJ50_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261121203626_0_VPFJ50_170000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-06",
+      "title": "ラグビー日本代表2戦続けて大敗きつい状況と自覚している",
+      "publishedAt": "2026-11-22T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCP5FF5VCPUTQP027M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-06",
+      "title": "大相撲千秋楽見どころ大の里は豊昇龍若元春は熱海富士と",
+      "publishedAt": "2026-11-22T04:40:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261121de79769"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-06",
+      "title": "松尾貴史のちょっと違和感",
+      "publishedAt": "2026-11-22T02:46:56+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261122/ddm/012/070/008000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-06",
+      "title": "今週のnhk連続テレビ小説",
+      "publishedAt": "2026-11-22T02:02:01+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261122/ddm/018/200/022000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-06",
+      "title": "視聴室",
+      "publishedAt": "2026-11-22T02:00:35+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261122/ddm/018/200/019000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-06",
+      "title": "住宅から現金2500万円と金塊20キロ盗まれる警察が捜査兵庫",
+      "publishedAt": "2026-11-22T00:16:51+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCP51T9VCPPLZB00BM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-06",
+      "title": "金塊4億円相当や現金約2500万円など盗まれる兵庫西宮の住宅",
+      "publishedAt": "2026-11-22T00:03:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261121de79776"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-06",
+      "title": "詳細ロシアウクライナに軍事侵攻11月21日の動き",
+      "publishedAt": "2026-11-21T22:00:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261028de67165"
+      ]
+    },
+    {
+      "editionId": "2026-11-22-06",
+      "title": "aiが私を追い越したリーマン予想証明の数学者自身も驚き",
+      "publishedAt": "2026-11-21T18:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCP2WB0VCPDIFI008M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-11-22T01:35:12.631981+09:00"
+  "updatedAt": "2026-11-22T09:45:01.773040+09:00"
 }
