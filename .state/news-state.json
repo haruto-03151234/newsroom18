@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-23T12:00:00+09:00",
-  "lastCompletedEdition": "2026-11-23-12",
+  "lastCompletedEnd": "2026-11-23T18:00:00+09:00",
+  "lastCompletedEdition": "2026-11-23-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -29298,7 +29298,90 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2611/23/2000003394"
       ]
+    },
+    {
+      "editionId": "2026-11-23-18",
+      "title": "全般気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-23T16:55:07+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261123075508_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-23-18",
+      "title": "青森県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-23T16:00:25+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261123070026_0_VPFJ50_420000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261123070029_0_VPFJ50_430000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261123074708_0_VPFJ50_060000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261123074936_0_VPFJ50_020000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-23-18",
+      "title": "得意を生かしてみんな笑顔に農福連携",
+      "publishedAt": "2026-11-23T11:00:00+09:00",
+      "urls": [
+        "https://www.gov-online.go.jp/article/202611/radio-3835.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-23-18",
+      "title": "ドジャース佐木投手が野球大会で子どもと交流",
+      "publishedAt": "2026-11-23T17:56:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261123de80238"
+      ]
+    },
+    {
+      "editionId": "2026-11-23-18",
+      "title": "プロ野球オリックスが藤浪晋太郎を獲得",
+      "publishedAt": "2026-11-23T17:07:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261123de80226"
+      ]
+    },
+    {
+      "editionId": "2026-11-23-18",
+      "title": "北朝鮮キム総書記友好的な国との関係は強化と強調",
+      "publishedAt": "2026-11-23T13:09:21+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261123de80168"
+      ]
+    },
+    {
+      "editionId": "2026-11-23-18",
+      "title": "悠仁さまが新嘗祭に重要な宮中祭祀23日からの皇室の予定",
+      "publishedAt": "2026-11-23T13:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCN262JVCNUTIL005M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-23-18",
+      "title": "首里城正殿の内部が7年ぶりに一般公開沖縄の文化を継承したい",
+      "publishedAt": "2026-11-23T12:38:18+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCR12MKVCRUTIL01DM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-23-18",
+      "title": "microsofttodo2027年6月にアプリ提供終了法人向けはplannerへ移行個人向けは代替なし",
+      "publishedAt": "2026-11-23T12:12:33+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/23/2000003395"
+      ]
+    },
+    {
+      "editionId": "2026-11-23-18",
+      "title": "弱そうな相手を狙った高1少年を逮捕66歳を襲い強盗致傷容疑",
+      "publishedAt": "2026-11-23T12:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCR0RYDVCRTIPE006M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-11-23T20:33:10.192442+09:00"
+  "updatedAt": "2026-11-24T05:50:51.441414+09:00"
 }
