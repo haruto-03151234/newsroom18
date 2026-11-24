@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-24T12:00:00+09:00",
-  "lastCompletedEdition": "2026-11-24-12",
+  "lastCompletedEnd": "2026-11-24T18:00:00+09:00",
+  "lastCompletedEdition": "2026-11-24-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -29564,7 +29564,145 @@
       "urls": [
         "https://www.asahi.com/articles/ASVCM77KKVCMUHBI00HM.html"
       ]
+    },
+    {
+      "editionId": "2026-11-24-18",
+      "title": "千葉県気象防災速報竜巻注意",
+      "publishedAt": "2026-11-24T17:22:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261124082258_0_VPHW50_120000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-18",
+      "title": "武部農林水産大臣が第179回bie総会においてgreenexpo2027の開催に向けたビデオメッセージを発信しました",
+      "publishedAt": "2026-11-24T17:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousan/kaki/261124.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-18",
+      "title": "石川県気象解説情報高波・落雷・突風",
+      "publishedAt": "2026-11-24T16:51:08+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261124075108_0_VPFJ50_170000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-18",
+      "title": "沖縄地方気象解説情報落雷・突風",
+      "publishedAt": "2026-11-24T16:26:45+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261124072645_0_VPCJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261124072907_0_VPFJ50_472000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-18",
+      "title": "千葉県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-24T16:08:28+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261124070828_0_VPZJ50_010000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261124083519_0_VPFJ50_120000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-18",
+      "title": "農業参入フェア2026の開催について",
+      "publishedAt": "2026-11-24T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/keiei/keiei/261124.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-18",
+      "title": "京王電鉄不動産賃貸顧客や採用応募者ら12万人分の情報流出",
+      "publishedAt": "2026-11-24T17:49:05+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCS2SXMVCSUTIL01DM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-18",
+      "title": "詳しくエヌビディアceoフアン氏が復帰へ水面下の動きは",
+      "publishedAt": "2026-11-24T17:45:40+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261123de80304"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-18",
+      "title": "川崎官製談合歴代市幹部から価格聞いた業界団体事務局長が供述",
+      "publishedAt": "2026-11-24T17:40:53+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCS1RZ2VCSULOB001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-18",
+      "title": "jaxaのシステムに不正アクセス一部アカウント名など漏えい",
+      "publishedAt": "2026-11-24T17:40:44+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261124de80645"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-18",
+      "title": "インドネシアでラジオ体操に日本の標識増える日本式教習所の背景",
+      "publishedAt": "2026-11-24T17:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCS1R1QVCSUHBI00HM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-18",
+      "title": "東京都内自治体の中小企業向けサイバーセキュリティー支援相次ぐ専門家訪問や窓口開設",
+      "publishedAt": "2026-11-24T15:24:19+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/24/2000003409"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-18",
+      "title": "爆増するサイバー攻撃魔の手はitだけでなくotにも元米軍のセキュリティ専門家が警鐘",
+      "publishedAt": "2026-11-24T15:06:51+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/24/2000003408"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-18",
+      "title": "nba八村塁19得点もチームは4連敗",
+      "publishedAt": "2026-11-24T14:18:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261124de80523"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-18",
+      "title": "フォーカス佐藤大樹ドラマダウト15年目の復讐",
+      "publishedAt": "2026-11-24T14:09:36+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261124/dde/012/200/005000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-18",
+      "title": "井上樹彦・nhk会長インタビューインフレでも受信料額は維持",
+      "publishedAt": "2026-11-24T14:08:55+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261124/dde/012/200/004000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-18",
+      "title": "特集ワイド戦争への反省なき高市首相この映画を見てほしいインドネシア残留旧日本兵に迫るロンガの海",
+      "publishedAt": "2026-11-24T13:32:23+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261124/dde/012/040/014000c"
+      ]
     }
   ],
-  "updatedAt": "2026-11-24T22:07:18.029400+09:00"
+  "updatedAt": "2026-11-25T04:55:14.160980+09:00"
 }
