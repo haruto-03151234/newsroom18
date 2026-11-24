@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-23T18:00:00+09:00",
-  "lastCompletedEdition": "2026-11-23-18",
+  "lastCompletedEnd": "2026-11-24T06:00:00+09:00",
+  "lastCompletedEdition": "2026-11-24-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -29381,7 +29381,91 @@
       "urls": [
         "https://www.asahi.com/articles/ASVCR0RYDVCRTIPE006M.html"
       ]
+    },
+    {
+      "editionId": "2026-11-24-06",
+      "title": "青森県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-24T05:32:34+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261123203234_0_VPFJ50_300000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261123203842_0_VPFJ50_280000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261123204629_0_VPFJ50_020000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-06",
+      "title": "東京都気象解説情報落雷・突風",
+      "publishedAt": "2026-11-24T05:18:44+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261123201845_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261123203023_0_VPCJ50_270000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261123203844_0_VPFJ50_270000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-06",
+      "title": "サッカー女子ワールドカップ2031年と2035年の開催地決定",
+      "publishedAt": "2026-11-24T05:29:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261123de80288"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-06",
+      "title": "ゴダイゴゴダイゴネパール帰還野外コンサート46年ぶりに開催",
+      "publishedAt": "2026-11-24T02:40:23+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261124/ddm/041/200/041000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-06",
+      "title": "耳寄りな話・tbsラジオ",
+      "publishedAt": "2026-11-24T02:01:24+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261124/ddm/018/200/011000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-06",
+      "title": "ロシア同盟国がicc脱退を通告プーチン大統領の訪問と同じ日に",
+      "publishedAt": "2026-11-24T01:24:05+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCR56YHVCRUHBI00TM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-06",
+      "title": "リーグ連覇の阪神がパレードファンと喜び分かち合う",
+      "publishedAt": "2026-11-23T22:06:43+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261123de80286"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-06",
+      "title": "交番内で頭から出血男性巡査死亡そばに使われた形跡の拳銃熊本",
+      "publishedAt": "2026-11-23T21:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCR3T6YVCRTLVB001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-06",
+      "title": "核のごみ文献調査茨城常陸大宮で初の市民説明会",
+      "publishedAt": "2026-11-23T18:49:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261123de80257"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-06",
+      "title": "関文科相の進退与野党攻防が山場首相官邸の危機感が足りない",
+      "publishedAt": "2026-11-23T18:15:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCR2VHPVCRUTFK003M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-11-24T05:50:51.441414+09:00"
+  "updatedAt": "2026-11-24T14:01:59.820636+09:00"
 }
