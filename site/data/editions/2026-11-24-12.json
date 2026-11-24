@@ -1,0 +1,1004 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-11-24T22:07:18.029400+09:00",
+  "summary": "対象時間帯の4配信元のニュースを12本に整理しました。うち重要ニュースは3本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-11-24-12",
+    "date": "2026-11-24",
+    "slot": "12:00",
+    "label": "昼12時版"
+  },
+  "coverage": {
+    "from": "2026-11-24T06:00:00+09:00",
+    "to": "2026-11-24T12:00:00+09:00",
+    "start": "2026-11-24T06:00:00+09:00",
+    "end": "2026-11-24T12:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "11月24日 06:00〜11月24日 12:00"
+  },
+  "stats": {
+    "articleCount": 12,
+    "categoryCounts": {
+      "国内": 3,
+      "海外": 4,
+      "スポーツ": 2,
+      "テクノロジー": 3
+    },
+    "sourceCount": 15,
+    "publisherCount": 4,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 3,
+      "jma": 3,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 3,
+      "brief": 9
+    },
+    "feedFailureCount": 1
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース"
+  ],
+  "articles": [
+    {
+      "id": "7457e6b261b3c214",
+      "slug": "2026-11-24-12-7457e6b2",
+      "publishedAt": "2026-11-24T10:47:00+09:00",
+      "updatedAt": "2026-11-24T22:07:18.029400+09:00",
+      "title": "石川県気象防災速報（竜巻注意）",
+      "dek": "11月24日 10:47更新。加賀は、竜巻などの激しい突風が発生しやすい気象状況になっています。",
+      "summary": "加賀は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。落雷、ひょう、急な強い雨にも注意してください。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "石川県気象防災速報竜巻注意"
+      ],
+      "facts": [
+        "雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。",
+        "竜巻注意情報: 石川県。",
+        "竜巻注意情報: 加賀。",
+        "竜巻注意情報: 加賀北部。",
+        "竜巻注意情報: 加賀南部。",
+        "竜巻注意情報: 金沢市。",
+        "竜巻注意情報: 小松市。",
+        "竜巻注意情報: 加賀市。",
+        "竜巻注意情報: かほく市。"
+      ],
+      "impactPoints": [
+        "加賀は、竜巻などの激しい突風が発生しやすい気象状況になっています。",
+        "空の様子に注意してください。",
+        "落雷、ひょう、急な強い雨にも注意してください。"
+      ],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "加賀は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。落雷、ひょう、急な強い雨にも注意してください。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。",
+            "竜巻注意情報: 石川県。",
+            "竜巻注意情報: 加賀。",
+            "竜巻注意情報: 加賀北部。",
+            "竜巻注意情報: 加賀南部。",
+            "竜巻注意情報: 金沢市。",
+            "竜巻注意情報: 小松市。",
+            "竜巻注意情報: 加賀市。",
+            "竜巻注意情報: かほく市。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "加賀は、竜巻などの激しい突風が発生しやすい気象状況になっています。",
+            "空の様子に注意してください。",
+            "落雷、ひょう、急な強い雨にも注意してください。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-24T10:47:00+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-11-24T22:07:18.029400+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "石川県気象防災速報（竜巻注意）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261124014707_0_VPHW50_170000.xml",
+              "publishedAt": "2026-11-24T10:47:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-24T10:47:00+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "bce55fc23729b1ec",
+      "slug": "2026-11-24-12-bce55fc2",
+      "publishedAt": "2026-11-24T09:50:51+09:00",
+      "updatedAt": "2026-11-24T22:07:18.029400+09:00",
+      "title": "渡島・檜山地方気象解説情報（大雨・落雷・突風）",
+      "dek": "11月24日 09:50〜11月24日 11:42更新。渡島・檜山地方では、24日夕方まで大雨による低い土地の浸水や河川の増水、土砂災害に注意してください。",
+      "summary": "渡島・檜山地方では、24日夕方まで大雨による低い土地の浸水や河川の増水、土砂災害に注意してください。[気象概況] 24日は、低気圧が日本海北部からオホーツク海へ発達しながら進み、低気圧からのびる前線が北海道付近を通過中です。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "渡島檜山地方気象解説情報大雨落雷突風"
+      ],
+      "facts": [
+        "[気象概況] 24日は、低気圧が日本海北部からオホーツク海へ発達しながら進み、低気圧からのびる前線が北海道付近を通過中です。",
+        "このため気圧の傾きが大きく、低気圧や前線に向かって、暖かく湿った空気が流入するため、大気の状態が不安定となるでしょう。",
+        "これで、渡島・檜山地方気象解説情報を終了します。",
+        "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど安全確保に努めてください。"
+      ],
+      "impactPoints": [
+        "渡島・檜山地方では、24日夕方まで大雨による低い土地の浸水や河川の増水、土砂災害に注意してください。",
+        "[お知らせ] 令和7年12月8日の地震で揺れの大きかった函館市では、土砂災害に関する警報等の発表基準につ。",
+        "沖縄本島地方と大東島地方では、24日は落雷や竜巻などの激しい突風に十分注意してください。",
+        "[気象概況] 沖縄地方は、近海にある前線の影響で大気の状態が非常に不安定となっています。",
+        "[防災事項] 沖縄本島地方と大東島地方では、24日は落雷や竜巻などの激しい突風に十分注意してください。",
+        "また、先島諸島でも24日は発達した積乱雲の下での落雷や突風、急な強い雨に注意してください。",
+        "本島中南部、本島北部では、24日夕方にかけて落雷や竜巻などの激しい突風に十分注意してください。",
+        "[気象概況] 沖縄本島地方では、近海にある前線の影響で大気の状態が非常に不安定となっています。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "次の「沖縄地方気象解説情報(落雷・突風)」は、24日17時頃に発表する予定です。",
+        "次の「沖縄本島地方気象解説情報(落雷・突風)」は、24日17時頃に発表する予定です。",
+        "[気象概況] 大東島地方では、前線の影響で大気の状態が非常に不安定となる見込みです。",
+        "次の「大東島地方気象解説情報(落雷・突風)」は、24日17時頃に発表する予定です。"
+      ],
+      "body": [
+        "渡島・檜山地方では、24日夕方まで大雨による低い土地の浸水や河川の増水、土砂災害に注意してください。[気象概況] 24日は、低気圧が日本海北部からオホーツク海へ発達しながら進み、低気圧からのびる前線が北海道付近を通過中です。",
+        "[お知らせ] 令和7年12月8日の地震で揺れの大きかった函館市では、土砂災害に関する警報等の発表基準につ。",
+        "沖縄本島地方と大東島地方では、24日は落雷や竜巻などの激しい突風に十分注意してください。",
+        "[気象概況] 沖縄地方は、近海にある前線の影響で大気の状態が非常に不安定となっています。",
+        "また、先島諸島でも24日は発達した積乱雲の下での落雷や突風、急な強い雨に注意してください。",
+        "本島中南部、本島北部では、24日夕方にかけて落雷や竜巻などの激しい突風に十分注意してください。",
+        "[気象概況] 沖縄本島地方では、近海にある前線の影響で大気の状態が非常に不安定となっています。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "次の「沖縄地方気象解説情報(落雷・突風)」は、24日17時頃に発表する予定です。",
+        "次の「沖縄本島地方気象解説情報(落雷・突風)」は、24日17時頃に発表する予定です。",
+        "[気象概況] 大東島地方では、前線の影響で大気の状態が非常に不安定となる見込みです。",
+        "次の「大東島地方気象解説情報(落雷・突風)」は、24日17時頃に発表する予定です。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "[気象概況] 24日は、低気圧が日本海北部からオホーツク海へ発達しながら進み、低気圧からのびる前線が北海道付近を通過中です。",
+            "このため気圧の傾きが大きく、低気圧や前線に向かって、暖かく湿った空気が流入するため、大気の状態が不安定となるでしょう。",
+            "これで、渡島・檜山地方気象解説情報を終了します。",
+            "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど安全確保に努めてください。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "渡島・檜山地方では、24日夕方まで大雨による低い土地の浸水や河川の増水、土砂災害に注意してください。",
+            "[お知らせ] 令和7年12月8日の地震で揺れの大きかった函館市では、土砂災害に関する警報等の発表基準につ。",
+            "沖縄本島地方と大東島地方では、24日は落雷や竜巻などの激しい突風に十分注意してください。",
+            "[気象概況] 沖縄地方は、近海にある前線の影響で大気の状態が非常に不安定となっています。",
+            "[防災事項] 沖縄本島地方と大東島地方では、24日は落雷や竜巻などの激しい突風に十分注意してください。",
+            "また、先島諸島でも24日は発達した積乱雲の下での落雷や突風、急な強い雨に注意してください。",
+            "本島中南部、本島北部では、24日夕方にかけて落雷や竜巻などの激しい突風に十分注意してください。",
+            "[気象概況] 沖縄本島地方では、近海にある前線の影響で大気の状態が非常に不安定となっています。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "[補足事項] 今後発表する防災気象情報に留意してください。",
+            "次の「沖縄地方気象解説情報(落雷・突風)」は、24日17時頃に発表する予定です。",
+            "次の「沖縄本島地方気象解説情報(落雷・突風)」は、24日17時頃に発表する予定です。",
+            "[気象概況] 大東島地方では、前線の影響で大気の状態が非常に不安定となる見込みです。",
+            "次の「大東島地方気象解説情報(落雷・突風)」は、24日17時頃に発表する予定です。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-24T11:42:37+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-11-24T22:07:18.029400+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "沖縄本島地方気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261124005051_0_VPFJ50_471000.xml",
+              "publishedAt": "2026-11-24T09:50:51+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "沖縄地方気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261124011940_0_VPCJ50_471000.xml",
+              "publishedAt": "2026-11-24T10:19:39+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "大東島地方気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261124012608_0_VPFJ50_472000.xml",
+              "publishedAt": "2026-11-24T10:26:08+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            },
+            {
+              "title": "渡島・檜山地方気象解説情報（大雨・落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261124024237_0_VPFJ50_017000.xml",
+              "publishedAt": "2026-11-24T11:42:37+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-24T11:42:37+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 4,
+      "freshSourceCount": 4,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "f8c581ae63d3289d",
+      "slug": "2026-11-24-12-f8c581ae",
+      "publishedAt": "2026-11-24T05:00:15+09:00",
+      "updatedAt": "2026-11-24T22:07:18.029400+09:00",
+      "title": "全般気象解説情報（落雷・突風・降ひょう）",
+      "dek": "11月24日 05:00更新。北日本から西日本では24日は、落雷や竜巻などの激しい突風、降ひょう、局地的な激しい雨に注意してください。",
+      "summary": "北日本から西日本では24日は、落雷や竜巻などの激しい突風、降ひょう、局地的な激しい雨に注意してください。[気象概況] 前線を伴う低気圧が日本海を北東へ進み、24日夜にかけて前線が本州を通り、日本の東へ進む見込みです。低気圧や前線に向かう暖かく湿った空気の影響で、大気の状態が非常に不安定となり、雷を伴う激しい雨の降る所があるでしょう。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "全般気象解説情報落雷突風降ひょう"
+      ],
+      "facts": [
+        "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど、安全確保に努めてください。"
+      ],
+      "impactPoints": [
+        "北日本から西日本では24日は、落雷や竜巻などの激しい突風、降ひょう、局地的な激しい雨に注意してください。",
+        "低気圧や前線に向かう暖かく湿った空気の影響で、大気の状態が非常に不安定となり、雷を伴う激しい雨の降る所があるでしょう。",
+        "[防災事項] 北日本から西日本では24日は、落雷や竜巻などの激しい突風、局地的な激しい雨に注意してください。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "[気象概況] 前線を伴う低気圧が日本海を北東へ進み、24日夜にかけて前線が本州を通り、日本の東へ進む見込みです。",
+        "降ひょうのおそれもありますので、農作物や農業施設の管理にも注意してください。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "次の「全般気象解説情報(落雷・突風・降ひょう)」は、24日17時頃に発表する予定です。"
+      ],
+      "body": [
+        "北日本から西日本では24日は、落雷や竜巻などの激しい突風、降ひょう、局地的な激しい雨に注意してください。[気象概況] 前線を伴う低気圧が日本海を北東へ進み、24日夜にかけて前線が本州を通り、日本の東へ進む見込みです。低気圧や前線に向かう暖かく湿った空気の影響で、大気の状態が非常に不安定となり、雷を伴う激しい雨の降る所があるでしょう。",
+        "[防災事項] 北日本から西日本では24日は、落雷や竜巻などの激しい突風、局地的な激しい雨に注意してください。",
+        "降ひょうのおそれもありますので、農作物や農業施設の管理にも注意してください。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。",
+        "次の「全般気象解説情報(落雷・突風・降ひょう)」は、24日17時頃に発表する予定です。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど、安全確保に努めてください。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "北日本から西日本では24日は、落雷や竜巻などの激しい突風、降ひょう、局地的な激しい雨に注意してください。",
+            "低気圧や前線に向かう暖かく湿った空気の影響で、大気の状態が非常に不安定となり、雷を伴う激しい雨の降る所があるでしょう。",
+            "[防災事項] 北日本から西日本では24日は、落雷や竜巻などの激しい突風、局地的な激しい雨に注意してください。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "[気象概況] 前線を伴う低気圧が日本海を北東へ進み、24日夜にかけて前線が本州を通り、日本の東へ進む見込みです。",
+            "降ひょうのおそれもありますので、農作物や農業施設の管理にも注意してください。",
+            "[補足事項] 今後発表する防災気象情報に留意してください。",
+            "次の「全般気象解説情報(落雷・突風・降ひょう)」は、24日17時頃に発表する予定です。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-24T05:00:15+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-11-24T22:07:18.029400+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "全般気象解説情報（落雷・突風・降ひょう）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261123200017_0_VPZJ50_010000.xml",
+              "publishedAt": "2026-11-24T05:00:15+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-24T05:00:15+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "c98dbd570a063db1",
+      "slug": "2026-11-24-12-c98dbd57",
+      "publishedAt": "2026-11-24T11:55:00+09:00",
+      "updatedAt": "2026-11-24T22:07:18.029400+09:00",
+      "title": "木原長官 高市首相の中国到着時に段差“日本側で把握し対応”",
+      "dek": "APEC首脳会議に出席するため、総理大臣が中国の空港に到着した際、政府専用機とタラップとの間に段差があったことについて、木原官房長官は、日本側が現場で把握し、専用機内に情報を伝えて対応したと説明しまし…。",
+      "summary": "APEC首脳会議に出席するため、総理大臣が中国の空港に到着した際、政府専用機とタラップとの間に段差があったことについて、木原官房長官は、日本側が現場で把握し、専用機内に情報を伝えて対応したと説明しまし…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "APEC首脳会議に出席するため、総理大臣が中国の空港に到着した際、政府専用機とタラップとの間に段差があったことについて、木原官房長官は、日本側が現場で把握し、専用機内に情報を伝えて対応したと説明しまし…。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "APEC首脳会議に出席するため、総理大臣が中国の空港に到着した際、政府専用機とタラップとの間に段差があったことについて、木原官房長官は、日本側が現場で把握し、専用機内に情報を伝えて対応したと説明しまし…。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "APEC首脳会議に出席するため、総理大臣が中国の空港に到着した際、政府専用機とタラップとの間に段差があったことについて、木原官房長官は、日本側が現場で把握し、専用機内に情報を伝えて対応したと説明しまし…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-24T11:55:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-24T22:07:18.029400+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "木原長官 高市首相の中国到着時に段差“日本側で把握し対応”",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261124de80412",
+              "publishedAt": "2026-11-24T11:55:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-24T11:55:00+09:00",
+          "keyPoints": [
+            "APEC首脳会議に出席するため、総理大臣が中国の空港に到着した際、政府専用機とタラップとの間に段差があったことについて、木原官房長官は、日本側が現場で把握し、専用機内に情報を伝えて対応したと説明しまし…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "16be06ef80202f9d",
+      "slug": "2026-11-24-12-16be06ef",
+      "publishedAt": "2026-11-24T11:50:00+09:00",
+      "updatedAt": "2026-11-24T22:07:18.029400+09:00",
+      "title": "男子ゴルフ アメリカツアー 秋季シリーズ最終戦 久常涼は40位",
+      "dek": "男子ゴルフのアメリカツアーの大会は23日、ジョージア州で最終ラウンドが行われ、久常涼選手が通算6アンダーで40位でした。",
+      "summary": "男子ゴルフのアメリカツアーの大会は23日、ジョージア州で最終ラウンドが行われ、久常涼選手が通算6アンダーで40位でした。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "男子ゴルフのアメリカツアーの大会は23日、ジョージア州で最終ラウンドが行われ、久常涼選手が通算6アンダーで40位でした。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "男子ゴルフのアメリカツアーの大会は23日、ジョージア州で最終ラウンドが行われ、久常涼選手が通算6アンダーで40位でした。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "男子ゴルフのアメリカツアーの大会は23日、ジョージア州で最終ラウンドが行われ、久常涼選手が通算6アンダーで40位でした。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-24T11:50:00+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-11-24T22:07:18.029400+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "男子ゴルフ アメリカツアー 秋季シリーズ最終戦 久常涼は40位",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261124de80431",
+              "publishedAt": "2026-11-24T11:50:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-24T11:50:00+09:00",
+          "keyPoints": [
+            "男子ゴルフのアメリカツアーの大会は23日、ジョージア州で最終ラウンドが行われ、久常涼選手が通算6アンダーで40位でした。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "d26a7fbda70f9b4c",
+      "slug": "2026-11-24-12-d26a7fbd",
+      "publishedAt": "2026-11-24T11:39:44+09:00",
+      "updatedAt": "2026-11-24T22:07:18.029400+09:00",
+      "title": "【きょうのおはBiz 11月24日(火)】AIで急増する“1人会社”",
+      "dek": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。",
+      "summary": "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。 最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けし…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。",
+        "最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けし…。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。 最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けし…。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。",
+            "最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けし…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-24T11:39:44+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-24T22:07:18.029400+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "【きょうのおはBiz 11月24日(火)】AIで急増する“1人会社”",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261124de80375",
+              "publishedAt": "2026-11-24T11:39:44+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-24T11:39:44+09:00",
+          "keyPoints": [
+            "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けし…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "095d6314d78d504c",
+      "slug": "2026-11-24-12-095d6314",
+      "publishedAt": "2026-11-24T11:00:00+09:00",
+      "updatedAt": "2026-11-24T22:07:18.029400+09:00",
+      "title": "「自然界は戦争の声なき犠牲者」 紛争や軍事活動が加速する気候変動",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-24T11:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-24T22:07:18.029400+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "「自然界は戦争の声なき犠牲者」 紛争や軍事活動が加速する気候変動",
+              "url": "https://www.asahi.com/articles/ASVCL40VZVCLUHBI013M.html",
+              "publishedAt": "2026-11-24T11:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-24T11:00:00+09:00",
+          "keyPoints": [
+            "「自然界は戦争の声なき犠牲者」 紛争や軍事活動が加速する気候変動"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "e373eefd61eecde2",
+      "slug": "2026-11-24-12-e373eefd",
+      "publishedAt": "2026-11-24T08:39:38+09:00",
+      "updatedAt": "2026-11-24T22:07:18.029400+09:00",
+      "title": "SpaceXをオレゴン州とバージニア州が提訴 Grokの性的画像生成で",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-24T08:39:38+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-24T22:07:18.029400+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "SpaceXをオレゴン州とバージニア州が提訴 Grokの性的画像生成で",
+              "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003399",
+              "publishedAt": "2026-11-24T08:39:38+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-24T08:39:38+09:00",
+          "keyPoints": [
+            "SpaceXをオレゴン州とバージニア州が提訴 Grokの性的画像生成で"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "329cff24c5385384",
+      "slug": "2026-11-24-12-329cff24",
+      "publishedAt": "2026-11-24T07:20:30+09:00",
+      "updatedAt": "2026-11-24T22:07:18.029400+09:00",
+      "title": "CrowdStrike、Zscalerを約439億ドルで買収へ 狙いはAIエージェントの安全確保",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-24T07:20:30+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-24T22:07:18.029400+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "CrowdStrike、Zscalerを約439億ドルで買収へ 狙いはAIエージェントの安全確保",
+              "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003398",
+              "publishedAt": "2026-11-24T07:20:30+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-24T07:20:30+09:00",
+          "keyPoints": [
+            "CrowdStrike、Zscalerを約439億ドルで買収へ 狙いはAIエージェントの安全確保"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "92ddf4eb3d04f480",
+      "slug": "2026-11-24-12-92ddf4eb",
+      "publishedAt": "2026-11-24T06:45:00+09:00",
+      "updatedAt": "2026-11-24T22:07:18.029400+09:00",
+      "title": "「帰りたくなーい」笑顔支える大人たち 視覚障害のある子の運動教室",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-24T06:45:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-24T22:07:18.029400+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "「帰りたくなーい」笑顔支える大人たち 視覚障害のある子の運動教室",
+              "url": "https://www.asahi.com/articles/ASVCR2VSCVCRPTQP001M.html",
+              "publishedAt": "2026-11-24T06:45:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-24T06:45:00+09:00",
+          "keyPoints": [
+            "「帰りたくなーい」笑顔支える大人たち 視覚障害のある子の運動教室"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "ee4b19e555ffd053",
+      "slug": "2026-11-24-12-ee4b19e5",
+      "publishedAt": "2026-11-24T06:32:46+09:00",
+      "updatedAt": "2026-11-24T22:07:18.029400+09:00",
+      "title": "NVIDIA、フアン氏のCEO復帰を発表 トランプ大統領「私がまとめた」と取締役会への働きかけ認める",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-24T06:32:46+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-24T22:07:18.029400+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "NVIDIA、フアン氏のCEO復帰を発表 トランプ大統領「私がまとめた」と取締役会への働きかけ認める",
+              "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003397",
+              "publishedAt": "2026-11-24T06:32:46+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-24T06:32:46+09:00",
+          "keyPoints": [
+            "NVIDIA、フアン氏のCEO復帰を発表 トランプ大統領「私がまとめた」と取締役会への働きかけ認める"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "382647dc5f9d38d4",
+      "slug": "2026-11-24-12-382647dc",
+      "publishedAt": "2026-11-24T06:00:00+09:00",
+      "updatedAt": "2026-11-24T22:07:18.029400+09:00",
+      "title": "「いずれ大統領候補に」存在感増すヒスパニック、中間選挙でみた将来",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-24T06:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-24T22:07:18.029400+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "「いずれ大統領候補に」存在感増すヒスパニック、中間選挙でみた将来",
+              "url": "https://www.asahi.com/articles/ASVCM77KKVCMUHBI00HM.html",
+              "publishedAt": "2026-11-24T06:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-24T06:00:00+09:00",
+          "keyPoints": [
+            "「いずれ大統領候補に」存在感増すヒスパニック、中間選挙でみた将来"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    }
+  ]
+}

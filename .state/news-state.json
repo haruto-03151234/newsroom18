@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-24T06:00:00+09:00",
-  "lastCompletedEdition": "2026-11-24-06",
+  "lastCompletedEnd": "2026-11-24T12:00:00+09:00",
+  "lastCompletedEdition": "2026-11-24-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -29465,7 +29465,106 @@
       "urls": [
         "https://www.asahi.com/articles/ASVCR2VHPVCRUTFK003M.html"
       ]
+    },
+    {
+      "editionId": "2026-11-24-12",
+      "title": "石川県気象防災速報竜巻注意",
+      "publishedAt": "2026-11-24T10:47:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261124014707_0_VPHW50_170000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-12",
+      "title": "渡島・檜山地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-24T09:50:51+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261124005051_0_VPFJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261124011940_0_VPCJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261124012608_0_VPFJ50_472000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261124024237_0_VPFJ50_017000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-12",
+      "title": "全般気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-24T05:00:15+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261123200017_0_VPZJ50_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-12",
+      "title": "木原長官高市首相の中国到着時に段差日本側で把握し対応",
+      "publishedAt": "2026-11-24T11:55:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261124de80412"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-12",
+      "title": "男子ゴルフアメリカツアー秋季シリーズ最終戦久常涼は40位",
+      "publishedAt": "2026-11-24T11:50:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261124de80431"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-12",
+      "title": "きょうのおはbiz11月24日火aiで急増する1人会社",
+      "publishedAt": "2026-11-24T11:39:44+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261124de80375"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-12",
+      "title": "自然界は戦争の声なき犠牲者紛争や軍事活動が加速する気候変動",
+      "publishedAt": "2026-11-24T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCL40VZVCLUHBI013M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-12",
+      "title": "spacexをオレゴン州とバージニア州が提訴grokの性的画像生成で",
+      "publishedAt": "2026-11-24T08:39:38+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/24/2000003399"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-12",
+      "title": "crowdstrikezscalerを約439億ドルで買収へ狙いはaiエージェントの安全確保",
+      "publishedAt": "2026-11-24T07:20:30+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/24/2000003398"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-12",
+      "title": "帰りたくなーい笑顔支える大人たち視覚障害のある子の運動教室",
+      "publishedAt": "2026-11-24T06:45:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCR2VSCVCRPTQP001M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-12",
+      "title": "nvidiaフアン氏のceo復帰を発表トランプ大統領私がまとめたと取締役会への働きかけ認める",
+      "publishedAt": "2026-11-24T06:32:46+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/24/2000003397"
+      ]
+    },
+    {
+      "editionId": "2026-11-24-12",
+      "title": "いずれ大統領候補に存在感増すヒスパニック中間選挙でみた将来",
+      "publishedAt": "2026-11-24T06:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCM77KKVCMUHBI00HM.html"
+      ]
     }
   ],
-  "updatedAt": "2026-11-24T14:01:59.820636+09:00"
+  "updatedAt": "2026-11-24T22:07:18.029400+09:00"
 }
