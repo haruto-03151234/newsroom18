@@ -1,0 +1,853 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-11-26T03:57:33.700254+09:00",
+  "summary": "対象時間帯の5配信元のニュースを12本に整理しました。うち重要ニュースは1本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-11-25-18",
+    "date": "2026-11-25",
+    "slot": "18:00",
+    "label": "夕方6時版"
+  },
+  "coverage": {
+    "from": "2026-11-25T12:00:00+09:00",
+    "to": "2026-11-25T18:00:00+09:00",
+    "start": "2026-11-25T12:00:00+09:00",
+    "end": "2026-11-25T18:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "11月25日 12:00〜11月25日 18:00"
+  },
+  "stats": {
+    "articleCount": 12,
+    "categoryCounts": {
+      "経済": 1,
+      "海外": 3,
+      "科学": 1,
+      "テクノロジー": 3,
+      "スポーツ": 2,
+      "エンタメ": 2
+    },
+    "sourceCount": 12,
+    "publisherCount": 5,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 3,
+      "maff": 1,
+      "mainichi": 2,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 1,
+      "brief": 11
+    },
+    "feedFailureCount": 1
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース"
+  ],
+  "articles": [
+    {
+      "id": "3c76f6e3541d8151",
+      "slug": "2026-11-25-18-3c76f6e3",
+      "publishedAt": "2026-11-25T14:00:00+09:00",
+      "updatedAt": "2026-11-26T03:57:33.700254+09:00",
+      "title": "獣医師法第8条第2項の規定に基づく「獣医師の業務停止処分」について",
+      "dek": "11月25日 14:00更新。プレスリリース 農林水産大臣は、罰金刑以上の刑に処された獣医師1名に対し、獣医師法に基づく業務停止の処分を行いました。",
+      "summary": "プレスリリース 農林水産大臣は、罰金刑以上の刑に処された獣医師1名に対し、獣医師法に基づく業務停止の処分を行いました。農林水産大臣は、以下の獣医師1名に対し、獣医師法に基づく業務停止の処分を行いました。(1)芦田将一(大阪府在住27歳) 行政処分の内容:令和8年11月25日から6月の業務停止処分 事件の概要:正当な理由がないのに、性的姿態等を撮影したものである。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "獣医師法第8条第2項の規定に基づく獣医師の業務停止処分について"
+      ],
+      "facts": [
+        "プレスリリース 農林水産大臣は、罰金刑以上の刑に処された獣医師1名に対し、獣医師法に基づく業務停止の処分を行いました。",
+        "農林水産大臣は、以下の獣医師1名に対し、獣医師法に基づく業務停止の処分を行いました。",
+        "(1)芦田将一(大阪府在住27歳) 行政処分の内容:令和8年11月25日から6月の業務停止処分 事件の概要:正当な理由がないのに、性的姿態等を撮影したものである。",
+        "司法処分の内容:罰金30万円(性的な姿態を撮影する行為等の処罰及び押収物に記録された性的 な姿態の影像に係る電磁的記録の消去等に関する法律2条1項1号イ) 消費・安全局畜水産安全管理課 担当者:獣医事監視班 代表:03-3502-8111(内線4530) ダイヤルイン:03-3501-4094。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "プレスリリース 農林水産大臣は、罰金刑以上の刑に処された獣医師1名に対し、獣医師法に基づく業務停止の処分を行いました。農林水産大臣は、以下の獣医師1名に対し、獣医師法に基づく業務停止の処分を行いました。(1)芦田将一(大阪府在住27歳) 行政処分の内容:令和8年11月25日から6月の業務停止処分 事件の概要:正当な理由がないのに、性的姿態等を撮影したものである。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "プレスリリース 農林水産大臣は、罰金刑以上の刑に処された獣医師1名に対し、獣医師法に基づく業務停止の処分を行いました。",
+            "農林水産大臣は、以下の獣医師1名に対し、獣医師法に基づく業務停止の処分を行いました。",
+            "(1)芦田将一(大阪府在住27歳) 行政処分の内容:令和8年11月25日から6月の業務停止処分 事件の概要:正当な理由がないのに、性的姿態等を撮影したものである。",
+            "司法処分の内容:罰金30万円(性的な姿態を撮影する行為等の処罰及び押収物に記録された性的 な姿態の影像に係る電磁的記録の消去等に関する法律2条1項1号イ) 消費・安全局畜水産安全管理課 担当者:獣医事監視班 代表:03-3502-8111(内線4530) ダイヤルイン:03-3501-4094。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-25T14:00:00+09:00",
+          "text": "農林水産省 報道発表資料の公開情報を確認",
+          "source": "農林水産省 報道発表資料"
+        },
+        {
+          "at": "2026-11-26T03:57:33.700254+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "農林水産省 報道発表資料",
+          "publisherId": "maff",
+          "links": [
+            {
+              "title": "獣医師法第8条第2項の規定に基づく「獣医師の業務停止処分」について",
+              "url": "https://www.maff.go.jp/j/press/syouan/tikusui/261125.html",
+              "publishedAt": "2026-11-25T14:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T14:00:00+09:00",
+          "keyPoints": [
+            "農林水産省 報道発表資料の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "3012fcf37b5c65c4",
+      "slug": "2026-11-25-18-3012fcf3",
+      "publishedAt": "2026-11-25T17:30:00+09:00",
+      "updatedAt": "2026-11-26T03:57:33.700254+09:00",
+      "title": "北朝鮮、スイス外交事務所代表を追放 金与正氏の「撤収勧告」受け",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-25T17:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-26T03:57:33.700254+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "北朝鮮、スイス外交事務所代表を追放 金与正氏の「撤収勧告」受け",
+              "url": "https://www.asahi.com/articles/ASVCT2DG7VCTUHBI00XM.html",
+              "publishedAt": "2026-11-25T17:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T17:30:00+09:00",
+          "keyPoints": [
+            "北朝鮮、スイス外交事務所代表を追放 金与正氏の「撤収勧告」受け"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "c70562e2c2a477ab",
+      "slug": "2026-11-25-18-c70562e2",
+      "publishedAt": "2026-11-25T17:00:00+09:00",
+      "updatedAt": "2026-11-26T03:57:33.700254+09:00",
+      "title": "第1回「情報教育の未来セミナー」12月6日 無料オンライン開催",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-25T17:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-26T03:57:33.700254+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "第1回「情報教育の未来セミナー」12月6日 無料オンライン開催",
+              "url": "https://www.asahi.com/articles/ASVCS6SNBVCSUTIL002M.html",
+              "publishedAt": "2026-11-25T17:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T17:00:00+09:00",
+          "keyPoints": [
+            "第1回「情報教育の未来セミナー」12月6日 無料オンライン開催"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    },
+    {
+      "id": "c9de78d6f0556277",
+      "slug": "2026-11-25-18-c9de78d6",
+      "publishedAt": "2026-11-25T16:40:00+09:00",
+      "updatedAt": "2026-11-26T03:57:33.700254+09:00",
+      "title": "北朝鮮 スイスの制裁受け外交事務所代表に国外退去を要求",
+      "dek": "スイス政府が北朝鮮の団体を制裁の対象としたのに対し、北朝鮮は「敵対行為だ」として首都ピョンヤンにあるスイスの外交事務所の閉鎖と代表の国外退去を求めました。",
+      "summary": "スイス政府が北朝鮮の団体を制裁の対象としたのに対し、北朝鮮は「敵対行為だ」として首都ピョンヤンにあるスイスの外交事務所の閉鎖と代表の国外退去を求めました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "スイス政府が北朝鮮の団体を制裁の対象としたのに対し、北朝鮮は「敵対行為だ」として首都ピョンヤンにあるスイスの外交事務所の閉鎖と代表の国外退去を求めました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "スイス政府が北朝鮮の団体を制裁の対象としたのに対し、北朝鮮は「敵対行為だ」として首都ピョンヤンにあるスイスの外交事務所の閉鎖と代表の国外退去を求めました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "スイス政府が北朝鮮の団体を制裁の対象としたのに対し、北朝鮮は「敵対行為だ」として首都ピョンヤンにあるスイスの外交事務所の閉鎖と代表の国外退去を求めました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-25T16:40:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-26T03:57:33.700254+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "北朝鮮 スイスの制裁受け外交事務所代表に国外退去を要求",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261125de81219",
+              "publishedAt": "2026-11-25T16:40:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T16:40:00+09:00",
+          "keyPoints": [
+            "スイス政府が北朝鮮の団体を制裁の対象としたのに対し、北朝鮮は「敵対行為だ」として首都ピョンヤンにあるスイスの外交事務所の閉鎖と代表の国外退去を求めました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "a1a715193c192339",
+      "slug": "2026-11-25-18-a1a71519",
+      "publishedAt": "2026-11-25T15:12:33+09:00",
+      "updatedAt": "2026-11-26T03:57:33.700254+09:00",
+      "title": "突然「未来の約定通知」届く……三菱UFJ eスマート証券、メンテ中のミス謝罪",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-25T15:12:33+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-26T03:57:33.700254+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "突然「未来の約定通知」届く……三菱UFJ eスマート証券、メンテ中のミス謝罪",
+              "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003445",
+              "publishedAt": "2026-11-25T15:12:33+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T15:12:33+09:00",
+          "keyPoints": [
+            "突然「未来の約定通知」届く……三菱UFJ eスマート証券、メンテ中のミス謝罪"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "4187cedec6309783",
+      "slug": "2026-11-25-18-4187cede",
+      "publishedAt": "2026-11-25T14:51:07+09:00",
+      "updatedAt": "2026-11-26T03:57:33.700254+09:00",
+      "title": "タイムズカー免許画像漏えいの見舞金、「現金かカーシェアeチケット3000円分」 12月1日から案内",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-25T14:51:07+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-26T03:57:33.700254+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "タイムズカー免許画像漏えいの見舞金、「現金かカーシェアeチケット3000円分」 12月1日から案内",
+              "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003443",
+              "publishedAt": "2026-11-25T14:51:07+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T14:51:07+09:00",
+          "keyPoints": [
+            "タイムズカー免許画像漏えいの見舞金、「現金かカーシェアeチケット3000円分」 12月1日から案内"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "9da786da8721290e",
+      "slug": "2026-11-25-18-9da786da",
+      "publishedAt": "2026-11-25T14:47:32+09:00",
+      "updatedAt": "2026-11-26T03:57:33.700254+09:00",
+      "title": "元卓球選手の石川佳純さんが結婚を発表 五輪3大会連続メダリスト",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-25T14:47:32+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-26T03:57:33.700254+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "元卓球選手の石川佳純さんが結婚を発表 五輪3大会連続メダリスト",
+              "url": "https://www.asahi.com/articles/ASVCT1R79VCTUTQP00SM.html",
+              "publishedAt": "2026-11-25T14:47:32+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T14:47:32+09:00",
+          "keyPoints": [
+            "元卓球選手の石川佳純さんが結婚を発表 五輪3大会連続メダリスト"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "66c22d0167530fc6",
+      "slug": "2026-11-25-18-66c22d01",
+      "publishedAt": "2026-11-25T14:47:00+09:00",
+      "updatedAt": "2026-11-26T03:57:33.700254+09:00",
+      "title": "フィギュアNHK杯 27日開幕 男女シングルなど【注目選手 紹介】",
+      "dek": "フィギュアスケートのグランプリシリーズ最終第6戦、NHK杯が今月27日から3日間の日程で東京・調布市で行われます。",
+      "summary": "フィギュアスケートのグランプリシリーズ最終第6戦、NHK杯が今月27日から3日間の日程で東京・調布市で行われます。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "フィギュアスケートのグランプリシリーズ最終第6戦、NHK杯が今月27日から3日間の日程で東京・調布市で行われます。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "フィギュアスケートのグランプリシリーズ最終第6戦、NHK杯が今月27日から3日間の日程で東京・調布市で行われます。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "フィギュアスケートのグランプリシリーズ最終第6戦、NHK杯が今月27日から3日間の日程で東京・調布市で行われます。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-25T14:47:00+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-11-26T03:57:33.700254+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "フィギュアNHK杯 27日開幕 男女シングルなど【注目選手 紹介】",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261125de81066",
+              "publishedAt": "2026-11-25T14:47:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T14:47:00+09:00",
+          "keyPoints": [
+            "フィギュアスケートのグランプリシリーズ最終第6戦、NHK杯が今月27日から3日間の日程で東京・調布市で行われます。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "c23c98ea18897310",
+      "slug": "2026-11-25-18-c23c98ea",
+      "publishedAt": "2026-11-25T14:21:43+09:00",
+      "updatedAt": "2026-11-26T03:57:33.700254+09:00",
+      "title": "六花亭のカード情報流出、対応が「誠実」と評判 再発行時の「伝え方」まで明記",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-25T14:21:43+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-26T03:57:33.700254+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "六花亭のカード情報流出、対応が「誠実」と評判 再発行時の「伝え方」まで明記",
+              "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003437",
+              "publishedAt": "2026-11-25T14:21:43+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T14:21:43+09:00",
+          "keyPoints": [
+            "六花亭のカード情報流出、対応が「誠実」と評判 再発行時の「伝え方」まで明記"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "d1a51250ce0d8da5",
+      "slug": "2026-11-25-18-d1a51250",
+      "publishedAt": "2026-11-25T14:05:00+09:00",
+      "updatedAt": "2026-11-26T03:57:33.700254+09:00",
+      "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月25日の動き）",
+      "dek": "ロシアによるウクライナに対する軍事侵攻が続いています。",
+      "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。 ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けています。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "ロシアによるウクライナに対する軍事侵攻が続いています。",
+        "ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けています。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "ロシアによるウクライナに対する軍事侵攻が続いています。 ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けています。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "ロシアによるウクライナに対する軍事侵攻が続いています。",
+            "ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けています。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-25T14:05:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-26T03:57:33.700254+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月25日の動き）",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261028de67169",
+              "publishedAt": "2026-11-25T14:05:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T14:05:00+09:00",
+          "keyPoints": [
+            "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けています。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "7d8ad3281127f897",
+      "slug": "2026-11-25-18-7d8ad328",
+      "publishedAt": "2026-11-25T13:28:25+09:00",
+      "updatedAt": "2026-11-26T03:57:33.700254+09:00",
+      "title": "作曲家・権代敦彦が演奏会「ZENを聴く BACHとともに」 洋と和が融合 建物も音色も",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-25T13:28:25+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-11-26T03:57:33.700254+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "作曲家・権代敦彦が演奏会「ZENを聴く BACHとともに」 洋と和が融合 建物も音色も",
+              "url": "https://mainichi.jp/articles/20261125/dde/012/200/005000c",
+              "publishedAt": "2026-11-25T13:28:25+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T13:28:25+09:00",
+          "keyPoints": [
+            "作曲家・権代敦彦が演奏会「ZENを聴く BACHとともに」 洋と和が融合 建物も音色も"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "436aa7f500cc22aa",
+      "slug": "2026-11-25-18-436aa7f5",
+      "publishedAt": "2026-11-25T13:09:28+09:00",
+      "updatedAt": "2026-11-26T03:57:33.700254+09:00",
+      "title": "復活！ 幻の台湾語映画 誕生70年、かつての大衆娯楽 来月、東京で上映会",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-25T13:09:28+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-11-26T03:57:33.700254+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "復活！ 幻の台湾語映画 誕生70年、かつての大衆娯楽 来月、東京で上映会",
+              "url": "https://mainichi.jp/articles/20261125/dde/001/200/029000c",
+              "publishedAt": "2026-11-25T13:09:28+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T13:09:28+09:00",
+          "keyPoints": [
+            "復活！ 幻の台湾語映画 誕生70年、かつての大衆娯楽 来月、東京で上映会"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    }
+  ]
+}

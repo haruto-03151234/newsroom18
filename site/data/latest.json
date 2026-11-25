@@ -5,43 +5,45 @@
     "tagline": "事実をつなぎ、背景まで伝える。",
     "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
   },
-  "generatedAt": "2026-11-25T20:54:42.561627+09:00",
-  "summary": "対象時間帯の3配信元の主なニュースを9本に整理しました。",
+  "generatedAt": "2026-11-26T03:57:33.700254+09:00",
+  "summary": "対象時間帯の5配信元のニュースを12本に整理しました。うち重要ニュースは1本です。",
   "generationMode": "structured",
   "edition": {
-    "id": "2026-11-25-12",
+    "id": "2026-11-25-18",
     "date": "2026-11-25",
-    "slot": "12:00",
-    "label": "昼12時版"
+    "slot": "18:00",
+    "label": "夕方6時版"
   },
   "coverage": {
-    "from": "2026-11-25T06:00:00+09:00",
-    "to": "2026-11-25T12:00:00+09:00",
-    "start": "2026-11-25T06:00:00+09:00",
-    "end": "2026-11-25T12:00:00+09:00",
+    "from": "2026-11-25T12:00:00+09:00",
+    "to": "2026-11-25T18:00:00+09:00",
+    "start": "2026-11-25T12:00:00+09:00",
+    "end": "2026-11-25T18:00:00+09:00",
     "timezone": "Asia/Tokyo",
-    "label": "11月25日 06:00〜11月25日 12:00"
+    "label": "11月25日 12:00〜11月25日 18:00"
   },
   "stats": {
-    "articleCount": 9,
+    "articleCount": 12,
     "categoryCounts": {
-      "社会": 1,
       "経済": 1,
-      "テクノロジー": 1,
-      "エンタメ": 1,
       "海外": 3,
-      "スポーツ": 1,
-      "科学": 1
+      "科学": 1,
+      "テクノロジー": 3,
+      "スポーツ": 2,
+      "エンタメ": 2
     },
-    "sourceCount": 9,
-    "publisherCount": 3,
+    "sourceCount": 12,
+    "publisherCount": 5,
     "publisherCounts": {
       "asahi": 3,
       "itmedia": 3,
+      "maff": 1,
+      "mainichi": 2,
       "nhk": 3
     },
     "articleTypeCounts": {
-      "brief": 9
+      "feature": 1,
+      "brief": 11
     },
     "feedFailureCount": 1
   },
@@ -50,118 +52,75 @@
   ],
   "articles": [
     {
-      "id": "20855d2a23371bae",
-      "slug": "2026-11-25-12-20855d2a",
-      "publishedAt": "2026-11-25T11:30:00+09:00",
-      "updatedAt": "2026-11-25T20:54:42.561627+09:00",
-      "title": "村上春樹さん講演きっかけにも 「近未来」な新図書館完成 同志社大",
-      "dek": "",
-      "summary": "",
+      "id": "3c76f6e3541d8151",
+      "slug": "2026-11-25-18-3c76f6e3",
+      "publishedAt": "2026-11-25T14:00:00+09:00",
+      "updatedAt": "2026-11-26T03:57:33.700254+09:00",
+      "title": "獣医師法第8条第2項の規定に基づく「獣医師の業務停止処分」について",
+      "dek": "11月25日 14:00更新。プレスリリース 農林水産大臣は、罰金刑以上の刑に処された獣医師1名に対し、獣医師法に基づく業務停止の処分を行いました。",
+      "summary": "プレスリリース 農林水産大臣は、罰金刑以上の刑に処された獣医師1名に対し、獣医師法に基づく業務停止の処分を行いました。農林水産大臣は、以下の獣医師1名に対し、獣医師法に基づく業務停止の処分を行いました。(1)芦田将一(大阪府在住27歳) 行政処分の内容:令和8年11月25日から6月の業務停止処分 事件の概要:正当な理由がないのに、性的姿態等を撮影したものである。",
       "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [],
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "獣医師法第8条第2項の規定に基づく獣医師の業務停止処分について"
+      ],
+      "facts": [
+        "プレスリリース 農林水産大臣は、罰金刑以上の刑に処された獣医師1名に対し、獣医師法に基づく業務停止の処分を行いました。",
+        "農林水産大臣は、以下の獣医師1名に対し、獣医師法に基づく業務停止の処分を行いました。",
+        "(1)芦田将一(大阪府在住27歳) 行政処分の内容:令和8年11月25日から6月の業務停止処分 事件の概要:正当な理由がないのに、性的姿態等を撮影したものである。",
+        "司法処分の内容:罰金30万円(性的な姿態を撮影する行為等の処罰及び押収物に記録された性的 な姿態の影像に係る電磁的記録の消去等に関する法律2条1項1号イ) 消費・安全局畜水産安全管理課 担当者:獣医事監視班 代表:03-3502-8111(内線4530) ダイヤルイン:03-3501-4094。"
+      ],
       "impactPoints": [],
       "background": "",
       "watchPoints": [],
-      "body": [],
-      "sections": [],
-      "updates": [
+      "body": [
+        "プレスリリース 農林水産大臣は、罰金刑以上の刑に処された獣医師1名に対し、獣医師法に基づく業務停止の処分を行いました。農林水産大臣は、以下の獣医師1名に対し、獣医師法に基づく業務停止の処分を行いました。(1)芦田将一(大阪府在住27歳) 行政処分の内容:令和8年11月25日から6月の業務停止処分 事件の概要:正当な理由がないのに、性的姿態等を撮影したものである。"
+      ],
+      "sections": [
         {
-          "at": "2026-11-25T11:30:00+09:00",
-          "text": "朝日新聞 最新ニュースの公開情報を確認",
-          "source": "朝日新聞 最新ニュース"
-        },
-        {
-          "at": "2026-11-25T20:54:42.561627+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "プレスリリース 農林水産大臣は、罰金刑以上の刑に処された獣医師1名に対し、獣医師法に基づく業務停止の処分を行いました。",
+            "農林水産大臣は、以下の獣医師1名に対し、獣医師法に基づく業務停止の処分を行いました。",
+            "(1)芦田将一(大阪府在住27歳) 行政処分の内容:令和8年11月25日から6月の業務停止処分 事件の概要:正当な理由がないのに、性的姿態等を撮影したものである。",
+            "司法処分の内容:罰金30万円(性的な姿態を撮影する行為等の処罰及び押収物に記録された性的 な姿態の影像に係る電磁的記録の消去等に関する法律2条1項1号イ) 消費・安全局畜水産安全管理課 担当者:獣医事監視班 代表:03-3502-8111(内線4530) ダイヤルイン:03-3501-4094。"
+          ]
         }
       ],
-      "category": "社会",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "朝日新聞 最新ニュース",
-          "publisherId": "asahi",
-          "links": [
-            {
-              "title": "村上春樹さん講演きっかけにも 「近未来」な新図書館完成 同志社大",
-              "url": "https://www.asahi.com/articles/ASVCS4JH5VCSPLZB001M.html",
-              "publishedAt": "2026-11-25T11:30:00+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-11-25T11:30:00+09:00",
-          "keyPoints": [
-            "村上春樹さん講演きっかけにも 「近未来」な新図書館完成 同志社大"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "社会"
-      ]
-    },
-    {
-      "id": "f10f6ce015a59d27",
-      "slug": "2026-11-25-12-f10f6ce0",
-      "publishedAt": "2026-11-25T11:25:59+09:00",
-      "updatedAt": "2026-11-25T20:54:42.561627+09:00",
-      "title": "楽天証券、金融資産情報など約441万件の漏えい確認 ログインIDなど約1198万口座分も",
-      "dek": "",
-      "summary": "",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [],
-      "sections": [],
       "updates": [
         {
-          "at": "2026-11-25T11:25:59+09:00",
-          "text": "ITmedia NEWSの公開情報を確認",
-          "source": "ITmedia NEWS"
+          "at": "2026-11-25T14:00:00+09:00",
+          "text": "農林水産省 報道発表資料の公開情報を確認",
+          "source": "農林水産省 報道発表資料"
         },
         {
-          "at": "2026-11-25T20:54:42.561627+09:00",
+          "at": "2026-11-26T03:57:33.700254+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
       ],
       "category": "経済",
-      "importance": 3,
+      "importance": 5,
       "sources": [
         {
-          "name": "ITmedia NEWS",
-          "publisherId": "itmedia",
+          "name": "農林水産省 報道発表資料",
+          "publisherId": "maff",
           "links": [
             {
-              "title": "楽天証券、金融資産情報など約441万件の漏えい確認 ログインIDなど約1198万口座分も",
-              "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003435",
-              "publishedAt": "2026-11-25T11:25:59+09:00",
+              "title": "獣医師法第8条第2項の規定に基づく「獣医師の業務停止処分」について",
+              "url": "https://www.maff.go.jp/j/press/syouan/tikusui/261125.html",
+              "publishedAt": "2026-11-25T14:00:00+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-11-25T11:25:59+09:00",
+          "publishedAt": "2026-11-25T14:00:00+09:00",
           "keyPoints": [
-            "楽天証券、金融資産情報など約441万件の漏えい確認 ログインIDなど約1198万口座分も"
+            "農林水産省 報道発表資料の公開情報をもとにNEWSROOM 18が要約・加工"
           ],
-          "type": "報道",
-          "isPrimary": false
+          "type": "一次情報",
+          "isPrimary": true
         }
       ],
       "sourceCount": 1,
@@ -174,11 +133,11 @@
       ]
     },
     {
-      "id": "e3f00f67c60b0837",
-      "slug": "2026-11-25-12-e3f00f67",
-      "publishedAt": "2026-11-25T11:22:20+09:00",
-      "updatedAt": "2026-11-25T20:54:42.561627+09:00",
-      "title": "復旧費用1000万円超が6割 被害相次ぐサイバー攻撃、保険広がるも中小企業に死角",
+      "id": "3012fcf37b5c65c4",
+      "slug": "2026-11-25-18-3012fcf3",
+      "publishedAt": "2026-11-25T17:30:00+09:00",
+      "updatedAt": "2026-11-26T03:57:33.700254+09:00",
+      "title": "北朝鮮、スイス外交事務所代表を追放 金与正氏の「撤収勧告」受け",
       "dek": "",
       "summary": "",
       "whyItMatters": "",
@@ -193,12 +152,209 @@
       "sections": [],
       "updates": [
         {
-          "at": "2026-11-25T11:22:20+09:00",
+          "at": "2026-11-25T17:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-26T03:57:33.700254+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "北朝鮮、スイス外交事務所代表を追放 金与正氏の「撤収勧告」受け",
+              "url": "https://www.asahi.com/articles/ASVCT2DG7VCTUHBI00XM.html",
+              "publishedAt": "2026-11-25T17:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T17:30:00+09:00",
+          "keyPoints": [
+            "北朝鮮、スイス外交事務所代表を追放 金与正氏の「撤収勧告」受け"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "c70562e2c2a477ab",
+      "slug": "2026-11-25-18-c70562e2",
+      "publishedAt": "2026-11-25T17:00:00+09:00",
+      "updatedAt": "2026-11-26T03:57:33.700254+09:00",
+      "title": "第1回「情報教育の未来セミナー」12月6日 無料オンライン開催",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-25T17:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-26T03:57:33.700254+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "第1回「情報教育の未来セミナー」12月6日 無料オンライン開催",
+              "url": "https://www.asahi.com/articles/ASVCS6SNBVCSUTIL002M.html",
+              "publishedAt": "2026-11-25T17:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T17:00:00+09:00",
+          "keyPoints": [
+            "第1回「情報教育の未来セミナー」12月6日 無料オンライン開催"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    },
+    {
+      "id": "c9de78d6f0556277",
+      "slug": "2026-11-25-18-c9de78d6",
+      "publishedAt": "2026-11-25T16:40:00+09:00",
+      "updatedAt": "2026-11-26T03:57:33.700254+09:00",
+      "title": "北朝鮮 スイスの制裁受け外交事務所代表に国外退去を要求",
+      "dek": "スイス政府が北朝鮮の団体を制裁の対象としたのに対し、北朝鮮は「敵対行為だ」として首都ピョンヤンにあるスイスの外交事務所の閉鎖と代表の国外退去を求めました。",
+      "summary": "スイス政府が北朝鮮の団体を制裁の対象としたのに対し、北朝鮮は「敵対行為だ」として首都ピョンヤンにあるスイスの外交事務所の閉鎖と代表の国外退去を求めました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "スイス政府が北朝鮮の団体を制裁の対象としたのに対し、北朝鮮は「敵対行為だ」として首都ピョンヤンにあるスイスの外交事務所の閉鎖と代表の国外退去を求めました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "スイス政府が北朝鮮の団体を制裁の対象としたのに対し、北朝鮮は「敵対行為だ」として首都ピョンヤンにあるスイスの外交事務所の閉鎖と代表の国外退去を求めました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "スイス政府が北朝鮮の団体を制裁の対象としたのに対し、北朝鮮は「敵対行為だ」として首都ピョンヤンにあるスイスの外交事務所の閉鎖と代表の国外退去を求めました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-25T16:40:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-26T03:57:33.700254+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "北朝鮮 スイスの制裁受け外交事務所代表に国外退去を要求",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261125de81219",
+              "publishedAt": "2026-11-25T16:40:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T16:40:00+09:00",
+          "keyPoints": [
+            "スイス政府が北朝鮮の団体を制裁の対象としたのに対し、北朝鮮は「敵対行為だ」として首都ピョンヤンにあるスイスの外交事務所の閉鎖と代表の国外退去を求めました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "a1a715193c192339",
+      "slug": "2026-11-25-18-a1a71519",
+      "publishedAt": "2026-11-25T15:12:33+09:00",
+      "updatedAt": "2026-11-26T03:57:33.700254+09:00",
+      "title": "突然「未来の約定通知」届く……三菱UFJ eスマート証券、メンテ中のミス謝罪",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-25T15:12:33+09:00",
           "text": "ITmedia NEWSの公開情報を確認",
           "source": "ITmedia NEWS"
         },
         {
-          "at": "2026-11-25T20:54:42.561627+09:00",
+          "at": "2026-11-26T03:57:33.700254+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
@@ -211,16 +367,16 @@
           "publisherId": "itmedia",
           "links": [
             {
-              "title": "復旧費用1000万円超が6割 被害相次ぐサイバー攻撃、保険広がるも中小企業に死角",
-              "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003436",
-              "publishedAt": "2026-11-25T11:22:20+09:00",
+              "title": "突然「未来の約定通知」届く……三菱UFJ eスマート証券、メンテ中のミス謝罪",
+              "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003445",
+              "publishedAt": "2026-11-25T15:12:33+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-11-25T11:22:20+09:00",
+          "publishedAt": "2026-11-25T15:12:33+09:00",
           "keyPoints": [
-            "復旧費用1000万円超が6割 被害相次ぐサイバー攻撃、保険広がるも中小企業に死角"
+            "突然「未来の約定通知」届く……三菱UFJ eスマート証券、メンテ中のミス謝罪"
           ],
           "type": "報道",
           "isPrimary": false
@@ -236,11 +392,11 @@
       ]
     },
     {
-      "id": "45b891bb3137cf49",
-      "slug": "2026-11-25-12-45b891bb",
-      "publishedAt": "2026-11-25T10:57:02+09:00",
-      "updatedAt": "2026-11-25T20:54:42.561627+09:00",
-      "title": "音楽サービスのTIDAL、AI生成楽曲を削除・受付停止へ 直近90日の配信楽曲の43％がAI生成",
+      "id": "4187cedec6309783",
+      "slug": "2026-11-25-18-4187cede",
+      "publishedAt": "2026-11-25T14:51:07+09:00",
+      "updatedAt": "2026-11-26T03:57:33.700254+09:00",
+      "title": "タイムズカー免許画像漏えいの見舞金、「現金かカーシェアeチケット3000円分」 12月1日から案内",
       "dek": "",
       "summary": "",
       "whyItMatters": "",
@@ -255,17 +411,17 @@
       "sections": [],
       "updates": [
         {
-          "at": "2026-11-25T10:57:02+09:00",
+          "at": "2026-11-25T14:51:07+09:00",
           "text": "ITmedia NEWSの公開情報を確認",
           "source": "ITmedia NEWS"
         },
         {
-          "at": "2026-11-25T20:54:42.561627+09:00",
+          "at": "2026-11-26T03:57:33.700254+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
       ],
-      "category": "エンタメ",
+      "category": "テクノロジー",
       "importance": 3,
       "sources": [
         {
@@ -273,16 +429,16 @@
           "publisherId": "itmedia",
           "links": [
             {
-              "title": "音楽サービスのTIDAL、AI生成楽曲を削除・受付停止へ 直近90日の配信楽曲の43％がAI生成",
-              "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003433",
-              "publishedAt": "2026-11-25T10:57:02+09:00",
+              "title": "タイムズカー免許画像漏えいの見舞金、「現金かカーシェアeチケット3000円分」 12月1日から案内",
+              "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003443",
+              "publishedAt": "2026-11-25T14:51:07+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-11-25T10:57:02+09:00",
+          "publishedAt": "2026-11-25T14:51:07+09:00",
           "keyPoints": [
-            "音楽サービスのTIDAL、AI生成楽曲を削除・受付停止へ 直近90日の配信楽曲の43％がAI生成"
+            "タイムズカー免許画像漏えいの見舞金、「現金かカーシェアeチケット3000円分」 12月1日から案内"
           ],
           "type": "報道",
           "isPrimary": false
@@ -294,161 +450,15 @@
       "continuationOrigins": [],
       "publisherCount": 1,
       "tags": [
-        "エンタメ"
+        "テクノロジー"
       ]
     },
     {
-      "id": "4fbef7eeeca09fc2",
-      "slug": "2026-11-25-12-4fbef7ee",
-      "publishedAt": "2026-11-25T10:41:00+09:00",
-      "updatedAt": "2026-11-25T20:54:42.561627+09:00",
-      "title": "国連事務総長 「AIと核は破滅のレシピ」 リスク管理体制を",
-      "dek": "国連で、AIなどの新たな技術と安全保障との関係について話し合う会合が開かれ、グテーレス事務総長は、AIと核兵器の組み合わせについて「破滅のレシピだ」と述べて強い危機感を示し、AIのリスクを管理するため…。",
-      "summary": "国連で、AIなどの新たな技術と安全保障との関係について話し合う会合が開かれ、グテーレス事務総長は、AIと核兵器の組み合わせについて「破滅のレシピだ」と述べて強い危機感を示し、AIのリスクを管理するため…。",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [
-        "国連で、AIなどの新たな技術と安全保障との関係について話し合う会合が開かれ、グテーレス事務総長は、AIと核兵器の組み合わせについて「破滅のレシピだ」と述べて強い危機感を示し、AIのリスクを管理するため…。"
-      ],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [
-        "国連で、AIなどの新たな技術と安全保障との関係について話し合う会合が開かれ、グテーレス事務総長は、AIと核兵器の組み合わせについて「破滅のレシピだ」と述べて強い危機感を示し、AIのリスクを管理するため…。"
-      ],
-      "sections": [
-        {
-          "heading": "確認できた事実",
-          "paragraphs": [
-            "国連で、AIなどの新たな技術と安全保障との関係について話し合う会合が開かれ、グテーレス事務総長は、AIと核兵器の組み合わせについて「破滅のレシピだ」と述べて強い危機感を示し、AIのリスクを管理するため…。"
-          ]
-        }
-      ],
-      "updates": [
-        {
-          "at": "2026-11-25T10:41:00+09:00",
-          "text": "NHK ONE 国際の公開情報を確認",
-          "source": "NHK ONE 国際"
-        },
-        {
-          "at": "2026-11-25T20:54:42.561627+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "海外",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "NHK ONE 国際",
-          "publisherId": "nhk",
-          "links": [
-            {
-              "title": "国連事務総長 「AIと核は破滅のレシピ」 リスク管理体制を",
-              "url": "https://news.web.nhk/newsweb/na/nd-20261125de80970",
-              "publishedAt": "2026-11-25T10:41:00+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-11-25T10:41:00+09:00",
-          "keyPoints": [
-            "国連で、AIなどの新たな技術と安全保障との関係について話し合う会合が開かれ、グテーレス事務総長は、AIと核兵器の組み合わせについて「破滅のレシピだ」と述べて強い危機感を示し、AIのリスクを管理するため…。"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "海外"
-      ]
-    },
-    {
-      "id": "89fee318c07e778a",
-      "slug": "2026-11-25-12-89fee318",
-      "publishedAt": "2026-11-25T10:23:06+09:00",
-      "updatedAt": "2026-11-25T20:54:42.561627+09:00",
-      "title": "平良海馬がブルージェイズと契約合意 5年約127億円 米報道",
-      "dek": "プロ野球・西武からポスティングシステムを使って大リーグへの移籍を目指していた平良海馬投手が、ブルージェイズとの契約に合意したとアメリカの複数のメディアが伝えました。",
-      "summary": "プロ野球・西武からポスティングシステムを使って大リーグへの移籍を目指していた平良海馬投手が、ブルージェイズとの契約に合意したとアメリカの複数のメディアが伝えました。",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [
-        "プロ野球・西武からポスティングシステムを使って大リーグへの移籍を目指していた平良海馬投手が、ブルージェイズとの契約に合意したとアメリカの複数のメディアが伝えました。"
-      ],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [
-        "プロ野球・西武からポスティングシステムを使って大リーグへの移籍を目指していた平良海馬投手が、ブルージェイズとの契約に合意したとアメリカの複数のメディアが伝えました。"
-      ],
-      "sections": [
-        {
-          "heading": "確認できた事実",
-          "paragraphs": [
-            "プロ野球・西武からポスティングシステムを使って大リーグへの移籍を目指していた平良海馬投手が、ブルージェイズとの契約に合意したとアメリカの複数のメディアが伝えました。"
-          ]
-        }
-      ],
-      "updates": [
-        {
-          "at": "2026-11-25T10:23:06+09:00",
-          "text": "NHK ONE 国際の公開情報を確認",
-          "source": "NHK ONE 国際"
-        },
-        {
-          "at": "2026-11-25T20:54:42.561627+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "海外",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "NHK ONE 国際",
-          "publisherId": "nhk",
-          "links": [
-            {
-              "title": "平良海馬がブルージェイズと契約合意 5年約127億円 米報道",
-              "url": "https://news.web.nhk/newsweb/na/nd-20261125de80922",
-              "publishedAt": "2026-11-25T10:23:06+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-11-25T10:23:06+09:00",
-          "keyPoints": [
-            "プロ野球・西武からポスティングシステムを使って大リーグへの移籍を目指していた平良海馬投手が、ブルージェイズとの契約に合意したとアメリカの複数のメディアが伝えました。"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "海外"
-      ]
-    },
-    {
-      "id": "10cb4292d0da470d",
-      "slug": "2026-11-25-12-10cb4292",
-      "publishedAt": "2026-11-25T07:30:00+09:00",
-      "updatedAt": "2026-11-25T20:54:42.561627+09:00",
-      "title": "ロシア軍死者、49万人超か ハッキングデータもとにBBCなど報道",
+      "id": "9da786da8721290e",
+      "slug": "2026-11-25-18-9da786da",
+      "publishedAt": "2026-11-25T14:47:32+09:00",
+      "updatedAt": "2026-11-26T03:57:33.700254+09:00",
+      "title": "元卓球選手の石川佳純さんが結婚を発表 五輪3大会連続メダリスト",
       "dek": "",
       "summary": "",
       "whyItMatters": "",
@@ -463,85 +473,12 @@
       "sections": [],
       "updates": [
         {
-          "at": "2026-11-25T07:30:00+09:00",
+          "at": "2026-11-25T14:47:32+09:00",
           "text": "朝日新聞 最新ニュースの公開情報を確認",
           "source": "朝日新聞 最新ニュース"
         },
         {
-          "at": "2026-11-25T20:54:42.561627+09:00",
-          "text": "要約・出典情報を更新",
-          "source": "NEWSROOM 18"
-        }
-      ],
-      "category": "海外",
-      "importance": 3,
-      "sources": [
-        {
-          "name": "朝日新聞 最新ニュース",
-          "publisherId": "asahi",
-          "links": [
-            {
-              "title": "ロシア軍死者、49万人超か ハッキングデータもとにBBCなど報道",
-              "url": "https://www.asahi.com/articles/ASVCS7DPMVCSUHBI005M.html",
-              "publishedAt": "2026-11-25T07:30:00+09:00",
-              "isContinuation": false,
-              "originEditionId": ""
-            }
-          ],
-          "publishedAt": "2026-11-25T07:30:00+09:00",
-          "keyPoints": [
-            "ロシア軍死者、49万人超か ハッキングデータもとにBBCなど報道"
-          ],
-          "type": "報道",
-          "isPrimary": false
-        }
-      ],
-      "sourceCount": 1,
-      "freshSourceCount": 1,
-      "continuationSourceCount": 0,
-      "continuationOrigins": [],
-      "publisherCount": 1,
-      "tags": [
-        "海外"
-      ]
-    },
-    {
-      "id": "ef9d24a78a4697e6",
-      "slug": "2026-11-25-12-ef9d24a7",
-      "publishedAt": "2026-11-25T06:37:50+09:00",
-      "updatedAt": "2026-11-25T20:54:42.561627+09:00",
-      "title": "プロ野球 西武の西口監督「来シーズン開幕投手に隅田投手」",
-      "dek": "プロ野球、西武の西口文也監督は来シーズンの開幕投手について、今シーズンリーグ2位の防御率をマークした隅田知一郎投手を指名しました。",
-      "summary": "プロ野球、西武の西口文也監督は来シーズンの開幕投手について、今シーズンリーグ2位の防御率をマークした隅田知一郎投手を指名しました。",
-      "whyItMatters": "",
-      "articleType": "brief",
-      "deskLens": "",
-      "eventKeys": [],
-      "facts": [
-        "プロ野球、西武の西口文也監督は来シーズンの開幕投手について、今シーズンリーグ2位の防御率をマークした隅田知一郎投手を指名しました。"
-      ],
-      "impactPoints": [],
-      "background": "",
-      "watchPoints": [],
-      "body": [
-        "プロ野球、西武の西口文也監督は来シーズンの開幕投手について、今シーズンリーグ2位の防御率をマークした隅田知一郎投手を指名しました。"
-      ],
-      "sections": [
-        {
-          "heading": "確認できた事実",
-          "paragraphs": [
-            "プロ野球、西武の西口文也監督は来シーズンの開幕投手について、今シーズンリーグ2位の防御率をマークした隅田知一郎投手を指名しました。"
-          ]
-        }
-      ],
-      "updates": [
-        {
-          "at": "2026-11-25T06:37:50+09:00",
-          "text": "NHK ONE スポーツの公開情報を確認",
-          "source": "NHK ONE スポーツ"
-        },
-        {
-          "at": "2026-11-25T20:54:42.561627+09:00",
+          "at": "2026-11-26T03:57:33.700254+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
@@ -550,20 +487,20 @@
       "importance": 3,
       "sources": [
         {
-          "name": "NHK ONE スポーツ",
-          "publisherId": "nhk",
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
           "links": [
             {
-              "title": "プロ野球 西武の西口監督「来シーズン開幕投手に隅田投手」",
-              "url": "https://news.web.nhk/newsweb/na/nd-20261124de80874",
-              "publishedAt": "2026-11-25T06:37:50+09:00",
+              "title": "元卓球選手の石川佳純さんが結婚を発表 五輪3大会連続メダリスト",
+              "url": "https://www.asahi.com/articles/ASVCT1R79VCTUTQP00SM.html",
+              "publishedAt": "2026-11-25T14:47:32+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-11-25T06:37:50+09:00",
+          "publishedAt": "2026-11-25T14:47:32+09:00",
           "keyPoints": [
-            "プロ野球、西武の西口文也監督は来シーズンの開幕投手について、今シーズンリーグ2位の防御率をマークした隅田知一郎投手を指名しました。"
+            "元卓球選手の石川佳純さんが結婚を発表 五輪3大会連続メダリスト"
           ],
           "type": "報道",
           "isPrimary": false
@@ -579,11 +516,84 @@
       ]
     },
     {
-      "id": "e6769e1f71168056",
-      "slug": "2026-11-25-12-e6769e1f",
-      "publishedAt": "2026-11-25T06:00:00+09:00",
-      "updatedAt": "2026-11-25T20:54:42.561627+09:00",
-      "title": "流出した免許証や自撮り写真はどうなる ダークウェブで見た情報悪用",
+      "id": "66c22d0167530fc6",
+      "slug": "2026-11-25-18-66c22d01",
+      "publishedAt": "2026-11-25T14:47:00+09:00",
+      "updatedAt": "2026-11-26T03:57:33.700254+09:00",
+      "title": "フィギュアNHK杯 27日開幕 男女シングルなど【注目選手 紹介】",
+      "dek": "フィギュアスケートのグランプリシリーズ最終第6戦、NHK杯が今月27日から3日間の日程で東京・調布市で行われます。",
+      "summary": "フィギュアスケートのグランプリシリーズ最終第6戦、NHK杯が今月27日から3日間の日程で東京・調布市で行われます。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "フィギュアスケートのグランプリシリーズ最終第6戦、NHK杯が今月27日から3日間の日程で東京・調布市で行われます。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "フィギュアスケートのグランプリシリーズ最終第6戦、NHK杯が今月27日から3日間の日程で東京・調布市で行われます。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "フィギュアスケートのグランプリシリーズ最終第6戦、NHK杯が今月27日から3日間の日程で東京・調布市で行われます。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-25T14:47:00+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-11-26T03:57:33.700254+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "フィギュアNHK杯 27日開幕 男女シングルなど【注目選手 紹介】",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261125de81066",
+              "publishedAt": "2026-11-25T14:47:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T14:47:00+09:00",
+          "keyPoints": [
+            "フィギュアスケートのグランプリシリーズ最終第6戦、NHK杯が今月27日から3日間の日程で東京・調布市で行われます。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "c23c98ea18897310",
+      "slug": "2026-11-25-18-c23c98ea",
+      "publishedAt": "2026-11-25T14:21:43+09:00",
+      "updatedAt": "2026-11-26T03:57:33.700254+09:00",
+      "title": "六花亭のカード情報流出、対応が「誠実」と評判 再発行時の「伝え方」まで明記",
       "dek": "",
       "summary": "",
       "whyItMatters": "",
@@ -598,34 +608,34 @@
       "sections": [],
       "updates": [
         {
-          "at": "2026-11-25T06:00:00+09:00",
-          "text": "朝日新聞 最新ニュースの公開情報を確認",
-          "source": "朝日新聞 最新ニュース"
+          "at": "2026-11-25T14:21:43+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
         },
         {
-          "at": "2026-11-25T20:54:42.561627+09:00",
+          "at": "2026-11-26T03:57:33.700254+09:00",
           "text": "要約・出典情報を更新",
           "source": "NEWSROOM 18"
         }
       ],
-      "category": "科学",
+      "category": "テクノロジー",
       "importance": 3,
       "sources": [
         {
-          "name": "朝日新聞 最新ニュース",
-          "publisherId": "asahi",
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
           "links": [
             {
-              "title": "流出した免許証や自撮り写真はどうなる ダークウェブで見た情報悪用",
-              "url": "https://www.asahi.com/articles/ASVCN0PYNVCNUTIL028M.html",
-              "publishedAt": "2026-11-25T06:00:00+09:00",
+              "title": "六花亭のカード情報流出、対応が「誠実」と評判 再発行時の「伝え方」まで明記",
+              "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003437",
+              "publishedAt": "2026-11-25T14:21:43+09:00",
               "isContinuation": false,
               "originEditionId": ""
             }
           ],
-          "publishedAt": "2026-11-25T06:00:00+09:00",
+          "publishedAt": "2026-11-25T14:21:43+09:00",
           "keyPoints": [
-            "流出した免許証や自撮り写真はどうなる ダークウェブで見た情報悪用"
+            "六花亭のカード情報流出、対応が「誠実」と評判 再発行時の「伝え方」まで明記"
           ],
           "type": "報道",
           "isPrimary": false
@@ -637,7 +647,206 @@
       "continuationOrigins": [],
       "publisherCount": 1,
       "tags": [
-        "科学"
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "d1a51250ce0d8da5",
+      "slug": "2026-11-25-18-d1a51250",
+      "publishedAt": "2026-11-25T14:05:00+09:00",
+      "updatedAt": "2026-11-26T03:57:33.700254+09:00",
+      "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月25日の動き）",
+      "dek": "ロシアによるウクライナに対する軍事侵攻が続いています。",
+      "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。 ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けています。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "ロシアによるウクライナに対する軍事侵攻が続いています。",
+        "ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けています。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "ロシアによるウクライナに対する軍事侵攻が続いています。 ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けています。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "ロシアによるウクライナに対する軍事侵攻が続いています。",
+            "ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けています。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-25T14:05:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-26T03:57:33.700254+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "【随時更新】ロシア ウクライナに軍事侵攻（11月25日の動き）",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261028de67169",
+              "publishedAt": "2026-11-25T14:05:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T14:05:00+09:00",
+          "keyPoints": [
+            "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けています。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "7d8ad3281127f897",
+      "slug": "2026-11-25-18-7d8ad328",
+      "publishedAt": "2026-11-25T13:28:25+09:00",
+      "updatedAt": "2026-11-26T03:57:33.700254+09:00",
+      "title": "作曲家・権代敦彦が演奏会「ZENを聴く BACHとともに」 洋と和が融合 建物も音色も",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-25T13:28:25+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-11-26T03:57:33.700254+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "作曲家・権代敦彦が演奏会「ZENを聴く BACHとともに」 洋と和が融合 建物も音色も",
+              "url": "https://mainichi.jp/articles/20261125/dde/012/200/005000c",
+              "publishedAt": "2026-11-25T13:28:25+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T13:28:25+09:00",
+          "keyPoints": [
+            "作曲家・権代敦彦が演奏会「ZENを聴く BACHとともに」 洋と和が融合 建物も音色も"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "436aa7f500cc22aa",
+      "slug": "2026-11-25-18-436aa7f5",
+      "publishedAt": "2026-11-25T13:09:28+09:00",
+      "updatedAt": "2026-11-26T03:57:33.700254+09:00",
+      "title": "復活！ 幻の台湾語映画 誕生70年、かつての大衆娯楽 来月、東京で上映会",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-25T13:09:28+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-11-26T03:57:33.700254+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "復活！ 幻の台湾語映画 誕生70年、かつての大衆娯楽 来月、東京で上映会",
+              "url": "https://mainichi.jp/articles/20261125/dde/001/200/029000c",
+              "publishedAt": "2026-11-25T13:09:28+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T13:09:28+09:00",
+          "keyPoints": [
+            "復活！ 幻の台湾語映画 誕生70年、かつての大衆娯楽 来月、東京で上映会"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
       ]
     }
   ]
