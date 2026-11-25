@@ -1,0 +1,1019 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-11-25T12:50:41.029004+09:00",
+  "summary": "対象時間帯の5配信元のニュースを13本に整理しました。うち重要ニュースは3本です。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-11-25-06",
+    "date": "2026-11-25",
+    "slot": "06:00",
+    "label": "朝6時版"
+  },
+  "coverage": {
+    "from": "2026-11-24T18:00:00+09:00",
+    "to": "2026-11-25T06:00:00+09:00",
+    "start": "2026-11-24T18:00:00+09:00",
+    "end": "2026-11-25T06:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "11月24日 18:00〜11月25日 06:00"
+  },
+  "stats": {
+    "articleCount": 13,
+    "categoryCounts": {
+      "国内": 4,
+      "社会": 1,
+      "海外": 1,
+      "エンタメ": 1,
+      "スポーツ": 1,
+      "科学": 1,
+      "経済": 1,
+      "テクノロジー": 3
+    },
+    "sourceCount": 13,
+    "publisherCount": 5,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 3,
+      "jma": 3,
+      "mainichi": 1,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "feature": 2,
+      "brief": 11
+    },
+    "feedFailureCount": 1
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース"
+  ],
+  "articles": [
+    {
+      "id": "9fcbe3e7ca5465a0",
+      "slug": "2026-11-25-06-9fcbe3e7",
+      "publishedAt": "2026-11-25T05:38:26+09:00",
+      "updatedAt": "2026-11-25T12:50:41.029004+09:00",
+      "title": "石川県気象解説情報（高波・落雷・突風）",
+      "dek": "11月25日 05:38更新。石川県では、25日朝にかけて高波に警戒し、25日昼前にかけて落雷や竜巻などの激しい突風、降ひょう、急な強い雨に注意してください。",
+      "summary": "石川県では、25日朝にかけて高波に警戒し、25日昼前にかけて落雷や竜巻などの激しい突風、降ひょう、急な強い雨に注意してください。[気象概況] 日本付近は西高東低の気圧配置となり、北陸地方の上空約5500メートルには氷点下30度以下のこの時期としては強い寒気が流れ込む見込みです。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "石川県気象解説情報高波落雷突風"
+      ],
+      "facts": [
+        "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど、安全確保に努めてください。"
+      ],
+      "impactPoints": [
+        "石川県では、25日朝にかけて高波に警戒し、25日昼前にかけて落雷や竜巻などの激しい突風、降ひょう、急な強い雨に注意してください。",
+        "石川県では上空の寒気の影響で大気の状態が非常に不安定となり、局地的に積乱雲が発達するでしょう。",
+        "[波の予想] 25日に予想される波の高さ 加賀 5メートル うねりを伴う 能登 5メートル うねりを伴う [防災事項] 石川県では、25日朝にかけて高波に警戒し、25日昼前にかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "これで、「石川県気象解説情報(高波・落雷・突風)」は終了します。",
+        "[お知らせ] 令和6年能登半島地震で揺れの大きかった珠洲市は土砂災害の警報等を、令和8年8月27日からの大雨での河川の堤防損傷等を鑑み、羽咋市では大雨警報。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "[気象概況] 日本付近は西高東低の気圧配置となり、北陸地方の上空約5500メートルには氷点下30度以下のこの時期としては強い寒気が流れ込む見込みです。",
+        "気圧の傾きが急となり、海はうねりを伴ってしける所がある見込みです。",
+        "ひょうの降るおそれもありますので、農作物や農業施設の管理にも注意してください。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。"
+      ],
+      "body": [
+        "石川県では、25日朝にかけて高波に警戒し、25日昼前にかけて落雷や竜巻などの激しい突風、降ひょう、急な強い雨に注意してください。[気象概況] 日本付近は西高東低の気圧配置となり、北陸地方の上空約5500メートルには氷点下30度以下のこの時期としては強い寒気が流れ込む見込みです。",
+        "石川県では上空の寒気の影響で大気の状態が非常に不安定となり、局地的に積乱雲が発達するでしょう。",
+        "[波の予想] 25日に予想される波の高さ 加賀 5メートル うねりを伴う 能登 5メートル うねりを伴う [防災事項] 石川県では、25日朝にかけて高波に警戒し、25日昼前にかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+        "これで、「石川県気象解説情報(高波・落雷・突風)」は終了します。",
+        "[お知らせ] 令和6年能登半島地震で揺れの大きかった珠洲市は土砂災害の警報等を、令和8年8月27日からの大雨での河川の堤防損傷等を鑑み、羽咋市では大雨警報。",
+        "気圧の傾きが急となり、海はうねりを伴ってしける所がある見込みです。",
+        "ひょうの降るおそれもありますので、農作物や農業施設の管理にも注意してください。",
+        "[補足事項] 今後発表する防災気象情報に留意してください。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "発達した積乱雲の近づく兆しがある場合には、建物内に移動するなど、安全確保に努めてください。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "石川県では、25日朝にかけて高波に警戒し、25日昼前にかけて落雷や竜巻などの激しい突風、降ひょう、急な強い雨に注意してください。",
+            "石川県では上空の寒気の影響で大気の状態が非常に不安定となり、局地的に積乱雲が発達するでしょう。",
+            "[波の予想] 25日に予想される波の高さ 加賀 5メートル うねりを伴う 能登 5メートル うねりを伴う [防災事項] 石川県では、25日朝にかけて高波に警戒し、25日昼前にかけて落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
+            "これで、「石川県気象解説情報(高波・落雷・突風)」は終了します。",
+            "[お知らせ] 令和6年能登半島地震で揺れの大きかった珠洲市は土砂災害の警報等を、令和8年8月27日からの大雨での河川の堤防損傷等を鑑み、羽咋市では大雨警報。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "[気象概況] 日本付近は西高東低の気圧配置となり、北陸地方の上空約5500メートルには氷点下30度以下のこの時期としては強い寒気が流れ込む見込みです。",
+            "気圧の傾きが急となり、海はうねりを伴ってしける所がある見込みです。",
+            "ひょうの降るおそれもありますので、農作物や農業施設の管理にも注意してください。",
+            "[補足事項] 今後発表する防災気象情報に留意してください。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-25T05:38:26+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-11-25T12:50:41.029004+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "石川県気象解説情報（高波・落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261124203826_0_VPFJ50_170000.xml",
+              "publishedAt": "2026-11-25T05:38:26+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T05:38:26+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "f2e629ec20f5afd6",
+      "slug": "2026-11-25-06-f2e629ec",
+      "publishedAt": "2026-11-24T19:22:20+09:00",
+      "updatedAt": "2026-11-25T12:50:41.029004+09:00",
+      "title": "大東島地方気象解説情報（落雷・突風）",
+      "dek": "［補足事項］ これで、「大東島地方気象解説情報（落雷・突風）」は終了します。",
+      "summary": "大東島地方では、落雷や竜巻などの激しい突風のおそれはなくなりました。 ［気象概況］ 大東島地方では、大気の非常に不安定な状態は解消し、発達した雨雲は大東島地方の東の海上へ遠ざかりました。 ［防災事項］ 大東島地方では、落雷や竜巻などの激しい突風のおそれはなくなりました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "［気象概況］ 大東島地方では、大気の非常に不安定な状態は解消し、発達した雨雲は大東島地方の東の海上へ遠ざかりました。"
+      ],
+      "impactPoints": [
+        "［補足事項］ これで、「大東島地方気象解説情報（落雷・突風）」は終了します。"
+      ],
+      "background": "",
+      "watchPoints": [
+        "大東島地方では、落雷や竜巻などの激しい突風のおそれはなくなりました。",
+        "［防災事項］ 大東島地方では、落雷や竜巻などの激しい突風のおそれはなくなりました。"
+      ],
+      "body": [
+        "大東島地方では、落雷や竜巻などの激しい突風のおそれはなくなりました。 ［気象概況］ 大東島地方では、大気の非常に不安定な状態は解消し、発達した雨雲は大東島地方の東の海上へ遠ざかりました。 ［防災事項］ 大東島地方では、落雷や竜巻などの激しい突風のおそれはなくなりました。",
+        "［補足事項］ これで、「大東島地方気象解説情報（落雷・突風）」は終了します。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "［気象概況］ 大東島地方では、大気の非常に不安定な状態は解消し、発達した雨雲は大東島地方の東の海上へ遠ざかりました。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "［補足事項］ これで、「大東島地方気象解説情報（落雷・突風）」は終了します。"
+          ]
+        },
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "大東島地方では、落雷や竜巻などの激しい突風のおそれはなくなりました。",
+            "［防災事項］ 大東島地方では、落雷や竜巻などの激しい突風のおそれはなくなりました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-24T19:22:20+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-11-25T12:50:41.029004+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "大東島地方気象解説情報（落雷・突風）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261124102220_0_VPFJ50_472000.xml",
+              "publishedAt": "2026-11-24T19:22:20+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-24T19:22:20+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "78edfdcae4a2f424",
+      "slug": "2026-11-25-06-78edfdca",
+      "publishedAt": "2026-11-24T18:03:00+09:00",
+      "updatedAt": "2026-11-25T12:50:41.029004+09:00",
+      "title": "東京都気象防災速報（竜巻注意）",
+      "dek": "11月24日 18:03更新。伊豆諸島南部は、竜巻などの激しい突風が発生しやすい気象状況になっています。",
+      "summary": "伊豆諸島南部は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。落雷、ひょう、急な強い雨にも注意してください。",
+      "whyItMatters": "",
+      "articleType": "feature",
+      "deskLens": "event",
+      "eventKeys": [
+        "東京都気象防災速報竜巻注意"
+      ],
+      "facts": [
+        "雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。",
+        "竜巻注意情報: 伊豆諸島南部。",
+        "竜巻注意情報: 八丈島。",
+        "竜巻注意情報: 三宅島。",
+        "竜巻注意情報: 三宅村。",
+        "竜巻注意情報: 御蔵島村。",
+        "竜巻注意情報: 八丈町。",
+        "竜巻注意情報: 青ヶ島村。",
+        "なし: 東京地方。"
+      ],
+      "impactPoints": [
+        "伊豆諸島南部は、竜巻などの激しい突風が発生しやすい気象状況になっています。",
+        "空の様子に注意してください。",
+        "落雷、ひょう、急な強い雨にも注意してください。"
+      ],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "伊豆諸島南部は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。落雷、ひょう、急な強い雨にも注意してください。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。",
+            "竜巻注意情報: 伊豆諸島南部。",
+            "竜巻注意情報: 八丈島。",
+            "竜巻注意情報: 三宅島。",
+            "竜巻注意情報: 三宅村。",
+            "竜巻注意情報: 御蔵島村。",
+            "竜巻注意情報: 八丈町。",
+            "竜巻注意情報: 青ヶ島村。",
+            "なし: 東京地方。"
+          ]
+        },
+        {
+          "heading": "影響・対象地域",
+          "paragraphs": [
+            "伊豆諸島南部は、竜巻などの激しい突風が発生しやすい気象状況になっています。",
+            "空の様子に注意してください。",
+            "落雷、ひょう、急な強い雨にも注意してください。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-24T18:03:00+09:00",
+          "text": "気象庁 防災情報（気象）の公開情報を確認",
+          "source": "気象庁 防災情報（気象）"
+        },
+        {
+          "at": "2026-11-25T12:50:41.029004+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 5,
+      "sources": [
+        {
+          "name": "気象庁 防災情報（気象）",
+          "publisherId": "jma",
+          "links": [
+            {
+              "title": "東京都気象防災速報（竜巻注意）",
+              "url": "https://www.data.jma.go.jp/developer/xml/data/20261124090308_0_VPHW50_130000.xml",
+              "publishedAt": "2026-11-24T18:03:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-24T18:03:00+09:00",
+          "keyPoints": [
+            "気象庁 防災情報（気象）の公開情報をもとにNEWSROOM 18が要約・加工"
+          ],
+          "type": "一次情報",
+          "isPrimary": true
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "4dca576dd17e38fe",
+      "slug": "2026-11-25-06-4dca576d",
+      "publishedAt": "2026-11-25T05:30:00+09:00",
+      "updatedAt": "2026-11-25T12:50:41.029004+09:00",
+      "title": "4年前は545票差 自民県連幹事長と新顔、再び激突へ 茨城県議選",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-25T05:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-25T12:50:41.029004+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "国内",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "4年前は545票差 自民県連幹事長と新顔、再び激突へ 茨城県議選",
+              "url": "https://www.asahi.com/articles/ASVCS3CDLVCSUJHB001M.html",
+              "publishedAt": "2026-11-25T05:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T05:30:00+09:00",
+          "keyPoints": [
+            "4年前は545票差 自民県連幹事長と新顔、再び激突へ 茨城県議選"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "国内"
+      ]
+    },
+    {
+      "id": "ac00b39aab0c0c2f",
+      "slug": "2026-11-25-06-ac00b39a",
+      "publishedAt": "2026-11-25T05:00:00+09:00",
+      "updatedAt": "2026-11-25T12:50:41.029004+09:00",
+      "title": "事件後は銃持てず吐き気も、候補生ら退職 陸自殺傷で元教育隊長証言",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-25T05:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-25T12:50:41.029004+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "事件後は銃持てず吐き気も、候補生ら退職 陸自殺傷で元教育隊長証言",
+              "url": "https://www.asahi.com/articles/ASVCS36HGVCSOHGB005M.html",
+              "publishedAt": "2026-11-25T05:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T05:00:00+09:00",
+          "keyPoints": [
+            "事件後は銃持てず吐き気も、候補生ら退職 陸自殺傷で元教育隊長証言"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "e36b4150abc99845",
+      "slug": "2026-11-25-06-e36b4150",
+      "publishedAt": "2026-11-25T02:59:00+09:00",
+      "updatedAt": "2026-11-25T12:50:41.029004+09:00",
+      "title": "中国上海市トップ 規律違反疑いで調査 中国国営メディア",
+      "dek": "中国の国営メディアは、中国共産党の最高指導部に次ぐ地位の政治局委員の1人で、上海市トップを務める陳吉寧書記が「重大な規律違反の疑いがある」などとして調査を受けていると伝えました。",
+      "summary": "中国の国営メディアは、中国共産党の最高指導部に次ぐ地位の政治局委員の1人で、上海市トップを務める陳吉寧書記が「重大な規律違反の疑いがある」などとして調査を受けていると伝えました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "中国の国営メディアは、中国共産党の最高指導部に次ぐ地位の政治局委員の1人で、上海市トップを務める陳吉寧書記が「重大な規律違反の疑いがある」などとして調査を受けていると伝えました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "中国の国営メディアは、中国共産党の最高指導部に次ぐ地位の政治局委員の1人で、上海市トップを務める陳吉寧書記が「重大な規律違反の疑いがある」などとして調査を受けていると伝えました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "中国の国営メディアは、中国共産党の最高指導部に次ぐ地位の政治局委員の1人で、上海市トップを務める陳吉寧書記が「重大な規律違反の疑いがある」などとして調査を受けていると伝えました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-25T02:59:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-25T12:50:41.029004+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "中国上海市トップ 規律違反疑いで調査 中国国営メディア",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261124de80879",
+              "publishedAt": "2026-11-25T02:59:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T02:59:00+09:00",
+          "keyPoints": [
+            "中国の国営メディアは、中国共産党の最高指導部に次ぐ地位の政治局委員の1人で、上海市トップを務める陳吉寧書記が「重大な規律違反の疑いがある」などとして調査を受けていると伝えました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "fb7a686676157c07",
+      "slug": "2026-11-25-06-fb7a6866",
+      "publishedAt": "2026-11-25T02:00:50+09:00",
+      "updatedAt": "2026-11-25T12:50:41.029004+09:00",
+      "title": "視聴室:冨永愛の伝統to未来 第二章",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-25T02:00:50+09:00",
+          "text": "毎日新聞 エンタメの公開情報を確認",
+          "source": "毎日新聞 エンタメ"
+        },
+        {
+          "at": "2026-11-25T12:50:41.029004+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "毎日新聞 エンタメ",
+          "publisherId": "mainichi",
+          "links": [
+            {
+              "title": "視聴室:冨永愛の伝統to未来 第二章",
+              "url": "https://mainichi.jp/articles/20261125/ddm/018/200/008000c",
+              "publishedAt": "2026-11-25T02:00:50+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T02:00:50+09:00",
+          "keyPoints": [
+            "視聴室:冨永愛の伝統to未来 第二章"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "904f5e238a448e20",
+      "slug": "2026-11-25-06-904f5e23",
+      "publishedAt": "2026-11-25T01:02:27+09:00",
+      "updatedAt": "2026-11-25T12:50:41.029004+09:00",
+      "title": "阪神の佐藤輝明がカブスへ、6年総額191億円の大型契約 米報道",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-25T01:02:27+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-25T12:50:41.029004+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "阪神の佐藤輝明がカブスへ、6年総額191億円の大型契約 米報道",
+              "url": "https://www.asahi.com/articles/ASVCS5637VCSUTQP00PM.html",
+              "publishedAt": "2026-11-25T01:02:27+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T01:02:27+09:00",
+          "keyPoints": [
+            "阪神の佐藤輝明がカブスへ、6年総額191億円の大型契約 米報道"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "99acc4ee7db0e566",
+      "slug": "2026-11-25-06-99acc4ee",
+      "publishedAt": "2026-11-24T21:36:00+09:00",
+      "updatedAt": "2026-11-25T12:50:41.029004+09:00",
+      "title": "「あ・じゃ・ぱん！ 」「ららら科學の子」矢作俊彦さん死去",
+      "dek": "や「ららら科學の子」などの作品で知られる作家の矢作俊彦さんが今月21日、心不全のため亡くなりました。",
+      "summary": "や「ららら科學の子」などの作品で知られる作家の矢作俊彦さんが今月21日、心不全のため亡くなりました。 76歳でした。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "や「ららら科學の子」などの作品で知られる作家の矢作俊彦さんが今月21日、心不全のため亡くなりました。",
+        "76歳でした。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "や「ららら科學の子」などの作品で知られる作家の矢作俊彦さんが今月21日、心不全のため亡くなりました。 76歳でした。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "や「ららら科學の子」などの作品で知られる作家の矢作俊彦さんが今月21日、心不全のため亡くなりました。",
+            "76歳でした。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-24T21:36:00+09:00",
+          "text": "NHK ONE 科学・文化の公開情報を確認",
+          "source": "NHK ONE 科学・文化"
+        },
+        {
+          "at": "2026-11-25T12:50:41.029004+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 科学・文化",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "「あ・じゃ・ぱん！」「ららら科學の子」矢作俊彦さん死去",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261124de80832",
+              "publishedAt": "2026-11-24T21:36:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-24T21:36:00+09:00",
+          "keyPoints": [
+            "「あ・じゃ・ぱん！」や「ららら科學の子」などの作品で知られる作家の矢作俊彦さんが今月21日、心不全のため亡くなりました。76歳でした。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    },
+    {
+      "id": "e3bceda3e4a5b809",
+      "slug": "2026-11-25-06-e3bceda3",
+      "publishedAt": "2026-11-24T21:02:48+09:00",
+      "updatedAt": "2026-11-25T12:50:41.029004+09:00",
+      "title": "ソフトバンク、アイティメディアの売却検討か 2社「コメント控える」「決定した事実ない」",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-24T21:02:48+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-25T12:50:41.029004+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "ソフトバンク、アイティメディアの売却検討か 2社「コメント控える」「決定した事実ない」",
+              "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003427",
+              "publishedAt": "2026-11-24T21:02:48+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-24T21:02:48+09:00",
+          "keyPoints": [
+            "ソフトバンク、アイティメディアの売却検討か 2社「コメント控える」「決定した事実ない」"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "591326adbaa8db40",
+      "slug": "2026-11-25-06-591326ad",
+      "publishedAt": "2026-11-24T18:51:00+09:00",
+      "updatedAt": "2026-11-25T12:50:41.029004+09:00",
+      "title": "京王電鉄 1100万人超の情報漏えいか 本人確認書類クレカ番号も",
+      "dek": "京王電鉄は、2026年9月に確認されたサイバー攻撃で、グループ会社の顧客の本人確認書類やクレジットカード番号などを含む1100万人分以上の個人情報が漏えいした可能性があると発表しました。",
+      "summary": "京王電鉄は、2026年9月に確認されたサイバー攻撃で、グループ会社の顧客の本人確認書類やクレジットカード番号などを含む1100万人分以上の個人情報が漏えいした可能性があると発表しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [
+        "京王電鉄は、2026年9月に確認されたサイバー攻撃で、グループ会社の顧客の本人確認書類やクレジットカード番号などを含む1100万人分以上の個人情報が漏えいした可能性があると発表しました。"
+      ],
+      "body": [
+        "京王電鉄は、2026年9月に確認されたサイバー攻撃で、グループ会社の顧客の本人確認書類やクレジットカード番号などを含む1100万人分以上の個人情報が漏えいした可能性があると発表しました。"
+      ],
+      "sections": [
+        {
+          "heading": "次に注目",
+          "paragraphs": [
+            "京王電鉄は、2026年9月に確認されたサイバー攻撃で、グループ会社の顧客の本人確認書類やクレジットカード番号などを含む1100万人分以上の個人情報が漏えいした可能性があると発表しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-24T18:51:00+09:00",
+          "text": "NHK ONE 科学・文化の公開情報を確認",
+          "source": "NHK ONE 科学・文化"
+        },
+        {
+          "at": "2026-11-25T12:50:41.029004+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 科学・文化",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "京王電鉄 1100万人超の情報漏えいか 本人確認書類クレカ番号も",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261124de80663",
+              "publishedAt": "2026-11-24T18:51:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-24T18:51:00+09:00",
+          "keyPoints": [
+            "京王電鉄は、2026年9月に確認されたサイバー攻撃で、グループ会社の顧客の本人確認書類やクレジットカード番号などを含む1100万人分以上の個人情報が漏えいした可能性があると発表しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "6b9b5ced44a6f8ae",
+      "slug": "2026-11-25-06-6b9b5ced",
+      "publishedAt": "2026-11-24T18:25:45+09:00",
+      "updatedAt": "2026-11-25T12:50:41.029004+09:00",
+      "title": "無印良品、不正アクセスで株主優待が“紙に逆戻り” 電子クーポンにはいつ戻る？ 広報に聞いた",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-24T18:25:45+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-25T12:50:41.029004+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "無印良品、不正アクセスで株主優待が“紙に逆戻り” 電子クーポンにはいつ戻る？ 広報に聞いた",
+              "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003419",
+              "publishedAt": "2026-11-24T18:25:45+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-24T18:25:45+09:00",
+          "keyPoints": [
+            "無印良品、不正アクセスで株主優待が“紙に逆戻り” 電子クーポンにはいつ戻る？ 広報に聞いた"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "5085f288cefca014",
+      "slug": "2026-11-25-06-5085f288",
+      "publishedAt": "2026-11-24T18:20:17+09:00",
+      "updatedAt": "2026-11-25T12:50:41.029004+09:00",
+      "title": "月に3度の障害……揺らぐドコモの信頼 通信品質が安定しない理由は？",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-24T18:20:17+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-25T12:50:41.029004+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "月に3度の障害……揺らぐドコモの信頼 通信品質が安定しない理由は？",
+              "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003405",
+              "publishedAt": "2026-11-24T18:20:17+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-24T18:20:17+09:00",
+          "keyPoints": [
+            "月に3度の障害……揺らぐドコモの信頼 通信品質が安定しない理由は？"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    }
+  ]
+}
