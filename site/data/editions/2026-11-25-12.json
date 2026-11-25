@@ -1,0 +1,644 @@
+{
+  "schemaVersion": 3,
+  "site": {
+    "name": "NEWSROOM 18",
+    "tagline": "事実をつなぎ、背景まで伝える。",
+    "baseUrl": "https://haruto-03151234.github.io/newsroom18/"
+  },
+  "generatedAt": "2026-11-25T20:54:42.561627+09:00",
+  "summary": "対象時間帯の3配信元の主なニュースを9本に整理しました。",
+  "generationMode": "structured",
+  "edition": {
+    "id": "2026-11-25-12",
+    "date": "2026-11-25",
+    "slot": "12:00",
+    "label": "昼12時版"
+  },
+  "coverage": {
+    "from": "2026-11-25T06:00:00+09:00",
+    "to": "2026-11-25T12:00:00+09:00",
+    "start": "2026-11-25T06:00:00+09:00",
+    "end": "2026-11-25T12:00:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "label": "11月25日 06:00〜11月25日 12:00"
+  },
+  "stats": {
+    "articleCount": 9,
+    "categoryCounts": {
+      "社会": 1,
+      "経済": 1,
+      "テクノロジー": 1,
+      "エンタメ": 1,
+      "海外": 3,
+      "スポーツ": 1,
+      "科学": 1
+    },
+    "sourceCount": 9,
+    "publisherCount": 3,
+    "publisherCounts": {
+      "asahi": 3,
+      "itmedia": 3,
+      "nhk": 3
+    },
+    "articleTypeCounts": {
+      "brief": 9
+    },
+    "feedFailureCount": 1
+  },
+  "feedFailures": [
+    "経済産業省 ニュースリリース"
+  ],
+  "articles": [
+    {
+      "id": "20855d2a23371bae",
+      "slug": "2026-11-25-12-20855d2a",
+      "publishedAt": "2026-11-25T11:30:00+09:00",
+      "updatedAt": "2026-11-25T20:54:42.561627+09:00",
+      "title": "村上春樹さん講演きっかけにも 「近未来」な新図書館完成 同志社大",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-25T11:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-25T20:54:42.561627+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "社会",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "村上春樹さん講演きっかけにも 「近未来」な新図書館完成 同志社大",
+              "url": "https://www.asahi.com/articles/ASVCS4JH5VCSPLZB001M.html",
+              "publishedAt": "2026-11-25T11:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T11:30:00+09:00",
+          "keyPoints": [
+            "村上春樹さん講演きっかけにも 「近未来」な新図書館完成 同志社大"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "社会"
+      ]
+    },
+    {
+      "id": "f10f6ce015a59d27",
+      "slug": "2026-11-25-12-f10f6ce0",
+      "publishedAt": "2026-11-25T11:25:59+09:00",
+      "updatedAt": "2026-11-25T20:54:42.561627+09:00",
+      "title": "楽天証券、金融資産情報など約441万件の漏えい確認 ログインIDなど約1198万口座分も",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-25T11:25:59+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-25T20:54:42.561627+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "経済",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "楽天証券、金融資産情報など約441万件の漏えい確認 ログインIDなど約1198万口座分も",
+              "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003435",
+              "publishedAt": "2026-11-25T11:25:59+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T11:25:59+09:00",
+          "keyPoints": [
+            "楽天証券、金融資産情報など約441万件の漏えい確認 ログインIDなど約1198万口座分も"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "経済"
+      ]
+    },
+    {
+      "id": "e3f00f67c60b0837",
+      "slug": "2026-11-25-12-e3f00f67",
+      "publishedAt": "2026-11-25T11:22:20+09:00",
+      "updatedAt": "2026-11-25T20:54:42.561627+09:00",
+      "title": "復旧費用1000万円超が6割 被害相次ぐサイバー攻撃、保険広がるも中小企業に死角",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-25T11:22:20+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-25T20:54:42.561627+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "テクノロジー",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "復旧費用1000万円超が6割 被害相次ぐサイバー攻撃、保険広がるも中小企業に死角",
+              "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003436",
+              "publishedAt": "2026-11-25T11:22:20+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T11:22:20+09:00",
+          "keyPoints": [
+            "復旧費用1000万円超が6割 被害相次ぐサイバー攻撃、保険広がるも中小企業に死角"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "テクノロジー"
+      ]
+    },
+    {
+      "id": "45b891bb3137cf49",
+      "slug": "2026-11-25-12-45b891bb",
+      "publishedAt": "2026-11-25T10:57:02+09:00",
+      "updatedAt": "2026-11-25T20:54:42.561627+09:00",
+      "title": "音楽サービスのTIDAL、AI生成楽曲を削除・受付停止へ 直近90日の配信楽曲の43％がAI生成",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-25T10:57:02+09:00",
+          "text": "ITmedia NEWSの公開情報を確認",
+          "source": "ITmedia NEWS"
+        },
+        {
+          "at": "2026-11-25T20:54:42.561627+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "エンタメ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "ITmedia NEWS",
+          "publisherId": "itmedia",
+          "links": [
+            {
+              "title": "音楽サービスのTIDAL、AI生成楽曲を削除・受付停止へ 直近90日の配信楽曲の43％がAI生成",
+              "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003433",
+              "publishedAt": "2026-11-25T10:57:02+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T10:57:02+09:00",
+          "keyPoints": [
+            "音楽サービスのTIDAL、AI生成楽曲を削除・受付停止へ 直近90日の配信楽曲の43％がAI生成"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "エンタメ"
+      ]
+    },
+    {
+      "id": "4fbef7eeeca09fc2",
+      "slug": "2026-11-25-12-4fbef7ee",
+      "publishedAt": "2026-11-25T10:41:00+09:00",
+      "updatedAt": "2026-11-25T20:54:42.561627+09:00",
+      "title": "国連事務総長 「AIと核は破滅のレシピ」 リスク管理体制を",
+      "dek": "国連で、AIなどの新たな技術と安全保障との関係について話し合う会合が開かれ、グテーレス事務総長は、AIと核兵器の組み合わせについて「破滅のレシピだ」と述べて強い危機感を示し、AIのリスクを管理するため…。",
+      "summary": "国連で、AIなどの新たな技術と安全保障との関係について話し合う会合が開かれ、グテーレス事務総長は、AIと核兵器の組み合わせについて「破滅のレシピだ」と述べて強い危機感を示し、AIのリスクを管理するため…。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "国連で、AIなどの新たな技術と安全保障との関係について話し合う会合が開かれ、グテーレス事務総長は、AIと核兵器の組み合わせについて「破滅のレシピだ」と述べて強い危機感を示し、AIのリスクを管理するため…。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "国連で、AIなどの新たな技術と安全保障との関係について話し合う会合が開かれ、グテーレス事務総長は、AIと核兵器の組み合わせについて「破滅のレシピだ」と述べて強い危機感を示し、AIのリスクを管理するため…。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "国連で、AIなどの新たな技術と安全保障との関係について話し合う会合が開かれ、グテーレス事務総長は、AIと核兵器の組み合わせについて「破滅のレシピだ」と述べて強い危機感を示し、AIのリスクを管理するため…。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-25T10:41:00+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-25T20:54:42.561627+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "国連事務総長 「AIと核は破滅のレシピ」 リスク管理体制を",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261125de80970",
+              "publishedAt": "2026-11-25T10:41:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T10:41:00+09:00",
+          "keyPoints": [
+            "国連で、AIなどの新たな技術と安全保障との関係について話し合う会合が開かれ、グテーレス事務総長は、AIと核兵器の組み合わせについて「破滅のレシピだ」と述べて強い危機感を示し、AIのリスクを管理するため…。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "89fee318c07e778a",
+      "slug": "2026-11-25-12-89fee318",
+      "publishedAt": "2026-11-25T10:23:06+09:00",
+      "updatedAt": "2026-11-25T20:54:42.561627+09:00",
+      "title": "平良海馬がブルージェイズと契約合意 5年約127億円 米報道",
+      "dek": "プロ野球・西武からポスティングシステムを使って大リーグへの移籍を目指していた平良海馬投手が、ブルージェイズとの契約に合意したとアメリカの複数のメディアが伝えました。",
+      "summary": "プロ野球・西武からポスティングシステムを使って大リーグへの移籍を目指していた平良海馬投手が、ブルージェイズとの契約に合意したとアメリカの複数のメディアが伝えました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "プロ野球・西武からポスティングシステムを使って大リーグへの移籍を目指していた平良海馬投手が、ブルージェイズとの契約に合意したとアメリカの複数のメディアが伝えました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "プロ野球・西武からポスティングシステムを使って大リーグへの移籍を目指していた平良海馬投手が、ブルージェイズとの契約に合意したとアメリカの複数のメディアが伝えました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "プロ野球・西武からポスティングシステムを使って大リーグへの移籍を目指していた平良海馬投手が、ブルージェイズとの契約に合意したとアメリカの複数のメディアが伝えました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-25T10:23:06+09:00",
+          "text": "NHK ONE 国際の公開情報を確認",
+          "source": "NHK ONE 国際"
+        },
+        {
+          "at": "2026-11-25T20:54:42.561627+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE 国際",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "平良海馬がブルージェイズと契約合意 5年約127億円 米報道",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261125de80922",
+              "publishedAt": "2026-11-25T10:23:06+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T10:23:06+09:00",
+          "keyPoints": [
+            "プロ野球・西武からポスティングシステムを使って大リーグへの移籍を目指していた平良海馬投手が、ブルージェイズとの契約に合意したとアメリカの複数のメディアが伝えました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "10cb4292d0da470d",
+      "slug": "2026-11-25-12-10cb4292",
+      "publishedAt": "2026-11-25T07:30:00+09:00",
+      "updatedAt": "2026-11-25T20:54:42.561627+09:00",
+      "title": "ロシア軍死者、49万人超か ハッキングデータもとにBBCなど報道",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-25T07:30:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-25T20:54:42.561627+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "海外",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "ロシア軍死者、49万人超か ハッキングデータもとにBBCなど報道",
+              "url": "https://www.asahi.com/articles/ASVCS7DPMVCSUHBI005M.html",
+              "publishedAt": "2026-11-25T07:30:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T07:30:00+09:00",
+          "keyPoints": [
+            "ロシア軍死者、49万人超か ハッキングデータもとにBBCなど報道"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "海外"
+      ]
+    },
+    {
+      "id": "ef9d24a78a4697e6",
+      "slug": "2026-11-25-12-ef9d24a7",
+      "publishedAt": "2026-11-25T06:37:50+09:00",
+      "updatedAt": "2026-11-25T20:54:42.561627+09:00",
+      "title": "プロ野球 西武の西口監督「来シーズン開幕投手に隅田投手」",
+      "dek": "プロ野球、西武の西口文也監督は来シーズンの開幕投手について、今シーズンリーグ2位の防御率をマークした隅田知一郎投手を指名しました。",
+      "summary": "プロ野球、西武の西口文也監督は来シーズンの開幕投手について、今シーズンリーグ2位の防御率をマークした隅田知一郎投手を指名しました。",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [
+        "プロ野球、西武の西口文也監督は来シーズンの開幕投手について、今シーズンリーグ2位の防御率をマークした隅田知一郎投手を指名しました。"
+      ],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [
+        "プロ野球、西武の西口文也監督は来シーズンの開幕投手について、今シーズンリーグ2位の防御率をマークした隅田知一郎投手を指名しました。"
+      ],
+      "sections": [
+        {
+          "heading": "確認できた事実",
+          "paragraphs": [
+            "プロ野球、西武の西口文也監督は来シーズンの開幕投手について、今シーズンリーグ2位の防御率をマークした隅田知一郎投手を指名しました。"
+          ]
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-25T06:37:50+09:00",
+          "text": "NHK ONE スポーツの公開情報を確認",
+          "source": "NHK ONE スポーツ"
+        },
+        {
+          "at": "2026-11-25T20:54:42.561627+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "スポーツ",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "NHK ONE スポーツ",
+          "publisherId": "nhk",
+          "links": [
+            {
+              "title": "プロ野球 西武の西口監督「来シーズン開幕投手に隅田投手」",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261124de80874",
+              "publishedAt": "2026-11-25T06:37:50+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T06:37:50+09:00",
+          "keyPoints": [
+            "プロ野球、西武の西口文也監督は来シーズンの開幕投手について、今シーズンリーグ2位の防御率をマークした隅田知一郎投手を指名しました。"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "スポーツ"
+      ]
+    },
+    {
+      "id": "e6769e1f71168056",
+      "slug": "2026-11-25-12-e6769e1f",
+      "publishedAt": "2026-11-25T06:00:00+09:00",
+      "updatedAt": "2026-11-25T20:54:42.561627+09:00",
+      "title": "流出した免許証や自撮り写真はどうなる ダークウェブで見た情報悪用",
+      "dek": "",
+      "summary": "",
+      "whyItMatters": "",
+      "articleType": "brief",
+      "deskLens": "",
+      "eventKeys": [],
+      "facts": [],
+      "impactPoints": [],
+      "background": "",
+      "watchPoints": [],
+      "body": [],
+      "sections": [],
+      "updates": [
+        {
+          "at": "2026-11-25T06:00:00+09:00",
+          "text": "朝日新聞 最新ニュースの公開情報を確認",
+          "source": "朝日新聞 最新ニュース"
+        },
+        {
+          "at": "2026-11-25T20:54:42.561627+09:00",
+          "text": "要約・出典情報を更新",
+          "source": "NEWSROOM 18"
+        }
+      ],
+      "category": "科学",
+      "importance": 3,
+      "sources": [
+        {
+          "name": "朝日新聞 最新ニュース",
+          "publisherId": "asahi",
+          "links": [
+            {
+              "title": "流出した免許証や自撮り写真はどうなる ダークウェブで見た情報悪用",
+              "url": "https://www.asahi.com/articles/ASVCN0PYNVCNUTIL028M.html",
+              "publishedAt": "2026-11-25T06:00:00+09:00",
+              "isContinuation": false,
+              "originEditionId": ""
+            }
+          ],
+          "publishedAt": "2026-11-25T06:00:00+09:00",
+          "keyPoints": [
+            "流出した免許証や自撮り写真はどうなる ダークウェブで見た情報悪用"
+          ],
+          "type": "報道",
+          "isPrimary": false
+        }
+      ],
+      "sourceCount": 1,
+      "freshSourceCount": 1,
+      "continuationSourceCount": 0,
+      "continuationOrigins": [],
+      "publisherCount": 1,
+      "tags": [
+        "科学"
+      ]
+    }
+  ]
+}
