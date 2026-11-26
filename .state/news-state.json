@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-26T06:00:00+09:00",
-  "lastCompletedEdition": "2026-11-26-06",
+  "lastCompletedEnd": "2026-11-26T12:00:00+09:00",
+  "lastCompletedEdition": "2026-11-26-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -30054,7 +30054,97 @@
       "urls": [
         "https://www.itmedia.co.jp/news/article/2611/25/2000003458"
       ]
+    },
+    {
+      "editionId": "2026-11-26-12",
+      "title": "沖縄地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-26T10:49:33+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261126014933_0_VPCJ50_471000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261126015821_0_VPFJ50_473000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261126025607_0_VPFJ50_474000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-12",
+      "title": "熊本県天草・芦北地方で地震m40最大震度3",
+      "publishedAt": "2026-11-26T07:36:07+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261125223607_0_VXSE53_010000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-12",
+      "title": "利権に関わるつもりもないfifa会長選田嶋氏が選挙活動へ",
+      "publishedAt": "2026-11-26T11:52:12+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCV0SSGVCVUTQP00CM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-12",
+      "title": "大谷翔平投手起用にいくつかのプラン二刀流継続へ強い意思",
+      "publishedAt": "2026-11-26T11:41:04+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCV0JG8VCVUTQP009M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-12",
+      "title": "paypayマネーライト現金化サービスpaypay当社は関与していない絶対に利用しないで",
+      "publishedAt": "2026-11-26T11:27:43+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/26/2000003474"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-12",
+      "title": "大谷翔平が今季振り返り来季の巻き返し誓う一問一答も掲載",
+      "publishedAt": "2026-11-26T11:25:04+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de81587"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-12",
+      "title": "anthropicのアモデイceo人間の自由意志をaiに明け渡す考えを否定ai企業間で議論",
+      "publishedAt": "2026-11-26T11:24:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/26/2000003473"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-12",
+      "title": "英デュラン・デュラン元ギタリストアンディ・テイラーさん死去",
+      "publishedAt": "2026-11-26T11:13:23+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCV0P19VCVKQIP005M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-12",
+      "title": "spacexの軌道上データセンター衛星starmind米fccが最大100万基を承認",
+      "publishedAt": "2026-11-26T09:15:54+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/26/2000003468"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-12",
+      "title": "エジプトカイロ近郊で交通事故火災が発生して31人死亡",
+      "publishedAt": "2026-11-26T08:55:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de81584"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-12",
+      "title": "ny株式市場ナスダック一時4超の下落その後は買い戻しも",
+      "publishedAt": "2026-11-26T07:46:21+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de81556"
+      ]
     }
   ],
-  "updatedAt": "2026-11-26T12:15:31.638018+09:00"
+  "updatedAt": "2026-11-26T20:43:32.067648+09:00"
 }
