@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-25T18:00:00+09:00",
-  "lastCompletedEdition": "2026-11-25-18",
+  "lastCompletedEnd": "2026-11-26T06:00:00+09:00",
+  "lastCompletedEdition": "2026-11-26-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -29974,7 +29974,87 @@
       "urls": [
         "https://mainichi.jp/articles/20261125/dde/001/200/029000c"
       ]
+    },
+    {
+      "editionId": "2026-11-26-06",
+      "title": "大東島地方気象解説情報落雷・突風",
+      "publishedAt": "2026-11-26T04:22:21+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261125192221_0_VPFJ50_472000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-06",
+      "title": "ウクライナがロシア製油所攻撃10月以降製油能力30低下か",
+      "publishedAt": "2026-11-26T05:30:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de81562"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-06",
+      "title": "デモって怖い街角で声を上げる人たちを追って見えたものは",
+      "publishedAt": "2026-11-26T05:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCT0HJZVCTOXIE007M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-06",
+      "title": "背後から左足撃たれた負傷した隊員証言陸自3人殺傷事件",
+      "publishedAt": "2026-11-26T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCT3RWSVCTOIPE002M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-06",
+      "title": "nhk大河ドラマ",
+      "publishedAt": "2026-11-26T02:38:12+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261126/ddm/041/200/079000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-06",
+      "title": "日本レコード大賞",
+      "publishedAt": "2026-11-26T02:03:15+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261126/ddm/041/200/069000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-06",
+      "title": "サッカーj1第16節首位fc東京はサンフレッチェ広島と引き分け",
+      "publishedAt": "2026-11-25T23:43:08+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261125de81524"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-06",
+      "title": "ミスターマックス約180万件の個人情報流出した可能性",
+      "publishedAt": "2026-11-25T22:30:27+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261125de81519"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-06",
+      "title": "ソロモン諸島が豪州と安保条約中国との協定破棄へ勢力図に影響か",
+      "publishedAt": "2026-11-25T22:19:27+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCT3D3GVCTBQBQ0S2M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-06",
+      "title": "海外経由の接続は見放題議論尽くせるかブロッキング法制化識者の見方は",
+      "publishedAt": "2026-11-25T18:16:02+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/25/2000003458"
+      ]
     }
   ],
-  "updatedAt": "2026-11-26T03:57:33.700254+09:00"
+  "updatedAt": "2026-11-26T12:15:31.638018+09:00"
 }
