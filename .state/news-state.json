@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-26T12:00:00+09:00",
-  "lastCompletedEdition": "2026-11-26-12",
+  "lastCompletedEnd": "2026-11-26T18:00:00+09:00",
+  "lastCompletedEdition": "2026-11-26-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -30144,7 +30144,123 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261126de81556"
       ]
+    },
+    {
+      "editionId": "2026-11-26-18",
+      "title": "福岡県気象解説情報落雷・突風",
+      "publishedAt": "2026-11-26T16:29:59+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261126073000_0_VPFJ50_410000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261126073112_0_VPFJ50_420000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261126073220_0_VPFJ50_430000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261126073341_0_VPFJ50_400000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261126073837_0_VPFJ50_472000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-18",
+      "title": "沖縄地方気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-26T16:29:33+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261126072934_0_VPCJ50_471000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-18",
+      "title": "おいしい食べきり全国共同キャンペーンを実施します",
+      "publishedAt": "2026-11-26T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/shokuhin/recycle/261126.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-18",
+      "title": "厚生労働省農林水産省経済産業省スポーツ庁が合同で日経健康経営・ロンジェビティexpo2026にブース出展します",
+      "publishedAt": "2026-11-26T14:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/hyoji/261126.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-18",
+      "title": "巨人ドラフト1位の横浜高・織田に背番号55提示初面談で",
+      "publishedAt": "2026-11-26T17:45:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de81908"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-18",
+      "title": "高市首相ノーベル化学賞そ合さんと面会研究費充実取り組む",
+      "publishedAt": "2026-11-26T17:44:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de81952"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-18",
+      "title": "2試合見ましたよね練習の強度問われたエディーhcの答え",
+      "publishedAt": "2026-11-26T17:42:07+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCV2GB7VCVUTQP012M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-18",
+      "title": "開高賞と芥川賞の2人大阪で対談へ書く営み深掘りする時間に",
+      "publishedAt": "2026-11-26T17:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCT4QQLVCTOXIE01RM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-18",
+      "title": "アディーレ法律事務所個人情報1800件漏洩問い合わせ内容も",
+      "publishedAt": "2026-11-26T17:04:01+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCV2G0KVCVUTIL01RM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-18",
+      "title": "北朝鮮キム総書記核保有絶対に誰の承認も追求しない",
+      "publishedAt": "2026-11-26T16:45:32+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de81651"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-18",
+      "title": "飲食店のai商品画像は景品表示法違反にならないの弁護士の見解",
+      "publishedAt": "2026-11-26T16:06:43+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/26/2000003447"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-18",
+      "title": "鉄道運転シミュレーターをマイクロバスに搭載ライドライブ東急テクノシステムが開発",
+      "publishedAt": "2026-11-26T15:34:12+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/26/2000003492"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-18",
+      "title": "日是・感劇",
+      "publishedAt": "2026-11-26T13:47:57+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261126/dde/018/200/010000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-26-18",
+      "title": "評演劇シーエイティプロデュース・ぴあロックンロール魂の自由を解像度高く評・濱田元子",
+      "publishedAt": "2026-11-26T13:46:29+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261126/dde/018/200/012000c"
+      ]
     }
   ],
-  "updatedAt": "2026-11-26T20:43:32.067648+09:00"
+  "updatedAt": "2026-11-27T03:48:12.033747+09:00"
 }
