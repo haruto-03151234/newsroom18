@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-27T06:00:00+09:00",
-  "lastCompletedEdition": "2026-11-27-06",
+  "lastCompletedEnd": "2026-11-27T12:00:00+09:00",
+  "lastCompletedEdition": "2026-11-27-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -30329,7 +30329,122 @@
       "urls": [
         "https://news.web.nhk/newsweb/na/nd-20261126de81815"
       ]
+    },
+    {
+      "editionId": "2026-11-27-12",
+      "title": "山形県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-27T11:53:04+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261127025305_0_VPFJ50_060000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-12",
+      "title": "青森県気象解説情報落雷・突風・高い潮位",
+      "publishedAt": "2026-11-27T11:19:48+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261127021948_0_VPFJ50_020000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-12",
+      "title": "全般気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-27T11:18:42+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261127021842_0_VPZJ50_010000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261127023114_0_VPFJ50_280000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261127023116_0_VPFJ50_270000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261127023132_0_VPFJ50_050000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-12",
+      "title": "令和8年5月23日から9月30日までの間の豪雨及び暴風雨による災害についての激甚災害及びこれに対し適用すべき措置の指定に関する政令について",
+      "publishedAt": "2026-11-27T10:30:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/kanbo/bunsyo/saigai/261127.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-12",
+      "title": "ロシア外務省日ロ首脳の中国での意見交換の事実を認める",
+      "publishedAt": "2026-11-27T11:23:52+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82181"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-12",
+      "title": "jaxa宇宙飛行士5年ぶり募集へ月面探査を担う人材育成",
+      "publishedAt": "2026-11-27T11:21:41+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/27/2000003512"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-12",
+      "title": "神崎武法・公明党元代表が死去83歳自公連立政権を築く",
+      "publishedAt": "2026-11-27T11:01:31+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCW0HV4VCWUTFK00TM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-12",
+      "title": "終わりなきアフリカのドローン戦争スーダン難民危機の現場",
+      "publishedAt": "2026-11-27T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCT71QYVCTUHBI002M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-12",
+      "title": "三井ショッピングパーク約312万会員の個人情報漏えいアプリに不正アクセス",
+      "publishedAt": "2026-11-27T10:33:52+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/27/2000003510"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-12",
+      "title": "くらしナビ・ライフスタイル",
+      "publishedAt": "2026-11-27T10:32:22+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261127/ddm/013/200/011000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-12",
+      "title": "航空会社peachkarteから最大約944万件の顧客情報漏えい契約終了後も削除されず残存",
+      "publishedAt": "2026-11-27T09:55:22+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/27/2000003509"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-12",
+      "title": "北朝鮮がロシアへの軍事支援を一時停止かウクライナが分析",
+      "publishedAt": "2026-11-27T08:42:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82198"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-12",
+      "title": "エヌビディアが東南アジア4か国への輸出を停止欧米メディア",
+      "publishedAt": "2026-11-27T08:00:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82164"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-12",
+      "title": "見ずとも合う2人の世界りくりゅうならカップル種目どこを見る",
+      "publishedAt": "2026-11-27T06:30:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCV3RWLVCVPTQP002M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-11-27T12:19:40.635103+09:00"
+  "updatedAt": "2026-11-27T20:37:36.051702+09:00"
 }
