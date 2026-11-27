@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-26T18:00:00+09:00",
-  "lastCompletedEdition": "2026-11-26-18",
+  "lastCompletedEnd": "2026-11-27T06:00:00+09:00",
+  "lastCompletedEdition": "2026-11-27-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -30260,7 +30260,76 @@
       "urls": [
         "https://mainichi.jp/articles/20261126/dde/018/200/012000c"
       ]
+    },
+    {
+      "editionId": "2026-11-27-06",
+      "title": "熊本県気象解説情報落雷・突風",
+      "publishedAt": "2026-11-27T05:07:05+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261126200705_0_VPFJ50_430000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261126201237_0_VPCJ50_370000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261126203019_0_VPFJ50_390000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261126203029_0_VPFJ50_360000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261126203037_0_VPFJ50_380000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261126203551_0_VPFJ50_300000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-06",
+      "title": "欧州中央銀行次期総裁にスペインのデコス氏指名で合意",
+      "publishedAt": "2026-11-27T05:52:34+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82180"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-06",
+      "title": "上野・アメ横で路上営業居酒屋に営業停止処分道路に机や椅子",
+      "publishedAt": "2026-11-27T05:15:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCV10WGVCVUTIL016M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-06",
+      "title": "フィギュアnhk杯きょう開幕",
+      "publishedAt": "2026-11-27T05:14:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de82128"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-06",
+      "title": "まとめてわかる文科相パーティーで国会は重要局面問責ってそもそも何が問題",
+      "publishedAt": "2026-11-27T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCV4JQ1VCVUTFK018M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-06",
+      "title": "パーティーに官僚政権側与野党問わず野党関氏のとは違う",
+      "publishedAt": "2026-11-27T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCV4H83VCVUTFK00PM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-06",
+      "title": "映画",
+      "publishedAt": "2026-11-27T02:01:27+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261127/ddm/041/200/056000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-06",
+      "title": "ニューバランス会員のメールアドレス約12万件漏えいか",
+      "publishedAt": "2026-11-26T16:31:26+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261126de81815"
+      ]
     }
   ],
-  "updatedAt": "2026-11-27T03:48:12.033747+09:00"
+  "updatedAt": "2026-11-27T12:19:40.635103+09:00"
 }
