@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-27T12:00:00+09:00",
-  "lastCompletedEdition": "2026-11-27-12",
+  "lastCompletedEnd": "2026-11-27T18:00:00+09:00",
+  "lastCompletedEdition": "2026-11-27-18",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -30444,7 +30444,145 @@
       "urls": [
         "https://www.asahi.com/articles/ASVCV3RWLVCVPTQP002M.html"
       ]
+    },
+    {
+      "editionId": "2026-11-27-18",
+      "title": "令和8年10月の米穀流通の動向集荷販売民間在庫",
+      "publishedAt": "2026-11-27T17:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/nousan/kikaku/261127.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-18",
+      "title": "全般気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-27T16:40:09+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261127074010_0_VPZJ50_010000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261127074431_0_VPFJ50_210000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-18",
+      "title": "東京都気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-27T16:37:52+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261127073753_0_VPFJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-18",
+      "title": "大東島地方気象解説情報落雷・突風",
+      "publishedAt": "2026-11-27T16:37:12+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261127073713_0_VPFJ50_472000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-18",
+      "title": "国連気候変動枠組条約第31回締約国会議cop31の結果農林水産省関係について",
+      "publishedAt": "2026-11-27T16:30:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/kanbo/b_kankyo/261127_1.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-18",
+      "title": "大韓民国産並びに台湾澎湖諸島金門及び馬祖から成る独立の関税地域産ビスフェノールaに対する不当廉売関税の課税を決定しました",
+      "publishedAt": "2026-11-27T15:01:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/policy/customs_tariff/trade/plan/futou/ka20261127-2.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-18",
+      "title": "大韓民国産及び中華人民共和国産溶融亜鉛めっき鋼帯及び鋼板に対する不当廉売関税の課税を決定しました",
+      "publishedAt": "2026-11-27T15:00:00+09:00",
+      "urls": [
+        "https://www.mof.go.jp/policy/customs_tariff/trade/plan/futou/ka20261127-1.html",
+        "https://www.mof.go.jp/policy/customs_tariff/trade/plan/futou/ka20261127-3.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-18",
+      "title": "ガバメントaiで試用する国内大規模言語モデルllmの公募結果",
+      "publishedAt": "2026-11-27T15:00:00+09:00",
+      "urls": [
+        "https://www.digital.go.jp/news/10d55c63-b3e1-42b9-9cc5-93a06943ae0e"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-18",
+      "title": "ガバメントai源内の公式ロゴをリリースしました",
+      "publishedAt": "2026-11-27T15:00:00+09:00",
+      "urls": [
+        "https://www.digital.go.jp/news/bfe6c5a3-8f12-4555-a98d-8a3502a307df"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-18",
+      "title": "塗るだけでボディを引き締める美容クリームで優良誤認表示の疑い",
+      "publishedAt": "2026-11-27T17:55:43+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCW2PCGVCWPTIL019M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-18",
+      "title": "台湾統一地方選挙28日投票へ台北市長選挙の勝敗など焦点",
+      "publishedAt": "2026-11-27T17:17:29+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82484"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-18",
+      "title": "ニュージーランド総選挙与党側が過半数に1議席届かず連立交渉へ",
+      "publishedAt": "2026-11-27T16:58:31+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCW2FCJVCWUHBI03VM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-18",
+      "title": "顧客情報を守るため売上15の自社ecを閉店ドールメーカーが明かした決断の背景",
+      "publishedAt": "2026-11-27T16:47:38+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/27/2000003518"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-18",
+      "title": "ai関連の需要強い京セラ5年で設備投資9000億円データセンター需要狙う",
+      "publishedAt": "2026-11-27T16:19:56+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/27/2000003521"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-18",
+      "title": "宇宙飛行士を2027年4月ごろ募集へ学歴や専門分野は不問",
+      "publishedAt": "2026-11-27T14:39:52+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82211"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-18",
+      "title": "フィギュアnhk杯nhkoneで配信中同時・1週間の見逃し配信",
+      "publishedAt": "2026-11-27T14:17:28+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82390"
+      ]
+    },
+    {
+      "editionId": "2026-11-27-18",
+      "title": "シネマの週末・この1本",
+      "publishedAt": "2026-11-27T13:46:40+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261127/dde/012/070/007000c"
+      ]
     }
   ],
-  "updatedAt": "2026-11-27T20:37:36.051702+09:00"
+  "updatedAt": "2026-11-28T03:40:10.983701+09:00"
 }
