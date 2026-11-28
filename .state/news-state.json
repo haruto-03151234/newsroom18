@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-27T18:00:00+09:00",
-  "lastCompletedEdition": "2026-11-27-18",
+  "lastCompletedEnd": "2026-11-28T06:00:00+09:00",
+  "lastCompletedEdition": "2026-11-28-06",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -30582,7 +30582,98 @@
       "urls": [
         "https://mainichi.jp/articles/20261127/dde/012/070/007000c"
       ]
+    },
+    {
+      "editionId": "2026-11-28-06",
+      "title": "近畿地方気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-28T05:46:43+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261127204644_0_VPFJ50_370000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261127204707_0_VPFJ50_380000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261127205510_0_VPCJ50_270000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-28-06",
+      "title": "秋田県気象防災速報竜巻注意",
+      "publishedAt": "2026-11-28T05:46:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261127204657_0_VPHW50_050000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-28-06",
+      "title": "東京都気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-28T05:42:17+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261127204218_0_VPFJ50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261127205353_0_VPFJ50_140000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-28-06",
+      "title": "愛知県で確認された高病原性鳥インフルエンザ国内3例目の遺伝子解析結果並びに患畜及びna亜型の確定について",
+      "publishedAt": "2026-11-27T18:00:00+09:00",
+      "urls": [
+        "https://www.maff.go.jp/j/press/syouan/douei/261127.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-28-06",
+      "title": "ny株式市場ナスダック2超の上昇ai関連など買い戻しの動き",
+      "publishedAt": "2026-11-28T05:41:36+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261128de82828"
+      ]
+    },
+    {
+      "editionId": "2026-11-28-06",
+      "title": "北海道新聞記者の妻の手記ロシア国営メディアも報じる",
+      "publishedAt": "2026-11-28T05:25:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261128de82827"
+      ]
+    },
+    {
+      "editionId": "2026-11-28-06",
+      "title": "サン電子300億円超の申告漏れ国税指摘会社側は不服申し立て",
+      "publishedAt": "2026-11-28T05:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCW45NGVCWOIPE00XM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-28-06",
+      "title": "宮城の山中で2人の遺体発見横浜の女子高校生誘拐容疑で男を捜査中",
+      "publishedAt": "2026-11-28T02:42:11+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCW4Q01VCWULOB00KM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-28-06",
+      "title": "フジテレビ",
+      "publishedAt": "2026-11-28T02:01:49+09:00",
+      "urls": [
+        "https://mainichi.jp/articles/20261128/ddm/041/200/066000c"
+      ]
+    },
+    {
+      "editionId": "2026-11-28-06",
+      "title": "自民麻生副総裁茂木外相らが会談消費税減税法案など成立を",
+      "publishedAt": "2026-11-27T23:43:30+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82796"
+      ]
+    },
+    {
+      "editionId": "2026-11-28-06",
+      "title": "cptppuaeなど3カ国と加入交渉へ経済的威圧にも対抗",
+      "publishedAt": "2026-11-27T21:53:45+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCW43DDVCWULFA027M.html"
+      ]
     }
   ],
-  "updatedAt": "2026-11-28T03:40:10.983701+09:00"
+  "updatedAt": "2026-11-28T11:59:03.973415+09:00"
 }
