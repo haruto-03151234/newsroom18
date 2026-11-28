@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "lastCompletedEnd": "2026-11-28T06:00:00+09:00",
-  "lastCompletedEdition": "2026-11-28-06",
+  "lastCompletedEnd": "2026-11-28T12:00:00+09:00",
+  "lastCompletedEdition": "2026-11-28-12",
   "stories": [
     {
       "editionId": "2026-08-15-12",
@@ -30673,7 +30673,90 @@
       "urls": [
         "https://www.asahi.com/articles/ASVCW43DDVCWULFA027M.html"
       ]
+    },
+    {
+      "editionId": "2026-11-28-12",
+      "title": "熊本県気象防災速報竜巻注意",
+      "publishedAt": "2026-11-28T07:02:00+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261127220259_0_VPHW50_170000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261127232703_0_VPHW50_130000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261127234258_0_VPHW50_430000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-28-12",
+      "title": "千葉県気象解説情報大雨・落雷・突風",
+      "publishedAt": "2026-11-28T07:01:24+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261127220125_0_VPFJ50_120000.xml",
+        "https://www.data.jma.go.jp/developer/xml/data/20261128013612_0_VPCJ50_130000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-28-12",
+      "title": "熊本県気象解説情報落雷・突風・降ひょう",
+      "publishedAt": "2026-11-28T06:36:54+09:00",
+      "urls": [
+        "https://www.data.jma.go.jp/developer/xml/data/20261127213655_0_VPFJ50_430000.xml"
+      ]
+    },
+    {
+      "editionId": "2026-11-28-12",
+      "title": "aiに仕事を奪われる時代人間に何が残る又吉直樹と考えるnスペ",
+      "publishedAt": "2026-11-28T11:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCV7X32VCVUCVL004M.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-28-12",
+      "title": "そばチェーンゆで太郎はなぜ個人情報を持たないと決めた8年続いたバースデークラブ終了の理由を社長に聞いた",
+      "publishedAt": "2026-11-28T10:00:00+09:00",
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2611/28/2000003529"
+      ]
+    },
+    {
+      "editionId": "2026-11-28-12",
+      "title": "ドイツ冬の風物詩クリスマスマーケットが始まる",
+      "publishedAt": "2026-11-28T08:45:32+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261128de82848"
+      ]
+    },
+    {
+      "editionId": "2026-11-28-12",
+      "title": "西武高橋光成大リーグダイヤモンドバックスと1年契約で合意",
+      "publishedAt": "2026-11-28T08:37:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261128de82839"
+      ]
+    },
+    {
+      "editionId": "2026-11-28-12",
+      "title": "ベビメタが候補bts不参加グラミー賞アジア部門に宿る矛盾",
+      "publishedAt": "2026-11-28T07:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCS1CWYVCSUCVL00TM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-28-12",
+      "title": "4カ月続く赤字クモの糸たぐるしか表面化する被災地企業の苦境",
+      "publishedAt": "2026-11-28T06:00:00+09:00",
+      "urls": [
+        "https://www.asahi.com/articles/ASVCW1GF3VCWTLVB00DM.html"
+      ]
+    },
+    {
+      "editionId": "2026-11-28-12",
+      "title": "警察icc赤根所長の安全確保最高ランク特aで警戒強化",
+      "publishedAt": "2026-11-28T05:03:00+09:00",
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20261127de82788"
+      ]
     }
   ],
-  "updatedAt": "2026-11-28T11:59:03.973415+09:00"
+  "updatedAt": "2026-11-28T20:11:28.151778+09:00"
 }
